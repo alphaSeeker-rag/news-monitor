@@ -1,0 +1,5 @@
+seen_articles.json
+report.html
+__pycache__/
+*.pyc
+.env

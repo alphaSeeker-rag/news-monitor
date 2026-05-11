@@ -1,0 +1,28 @@
+{
+  "keywords": [
+    "AI",
+    "人工知能",
+    "ChatGPT",
+    "Python"
+  ],
+  "feeds": [
+    "https://www3.nhk.or.jp/rss/news/cat0.xml",
+    "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
+    "https://www.asahi.com/rss/asahi/newsheadlines.rdf",
+    "https://gigazine.net/news/rss_2.0/",
+    "https://techcrunch.com/feed/",
+    "https://zenn.dev/feed"
+  ],
+  "interval_seconds": 300,
+  "notify_desktop": true,
+  "notify_email": false,
+  "summarize_english": true,
+  "anthropic_api_key": "",
+  "email": {
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "",
+    "password": "",
+    "to": ""
+  }
+}
