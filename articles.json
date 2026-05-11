@@ -1,5 +1,116 @@
 [
   {
+    "title": "AI時代に文学の学びを 高校国語の科目構成を見直す案 文科省",
+    "link": "http://www3.nhk.or.jp/news/html/20260512/k10015119021000.html",
+    "published": "Tue, 12 May 2026 06:59:41 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-05-11 22:08:55",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI、企業向けAI導入支援を本格展開　「Deployment Company」設立",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/12/news053.html",
+    "published": "Tue, 12 May 2026 06:31:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-11 22:08:55",
+    "ai_summary": null
+  },
+  {
+    "title": "サイバー攻撃、生成AIは自律的な「実行主体」に　米グーグル報告書",
+    "link": "http://www.asahi.com/articles/ASV5C2DYDV5CSFVU10ZM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-11 22:08:55",
+    "ai_summary": null
+  },
+  {
+    "title": "中国の主要AIラボを訪問したアメリカ人研究者が語る「中国AIエコシステム」は欧米のAI研究と何が違うのか？",
+    "link": "https://gigazine.net/news/20260512-ai-ecosystem-china/",
+    "published": "Tue, 12 May 2026 06:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-11 22:08:56",
+    "ai_summary": null
+  },
+  {
+    "title": "AI機能を何でもクラウドに任せるべきではなく「ローカルAIを標準にすべき」とエンジニアが主張",
+    "link": "https://gigazine.net/news/20260511-local-ai-norm/",
+    "published": "Mon, 11 May 2026 23:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-11 22:08:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
+    "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
+    "published": "Mon, 11 May 2026 17:38:32 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-11 22:08:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Digg tries again, this time as an AI news aggregator",
+    "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+    "published": "Mon, 11 May 2026 17:02:35 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-11 22:08:56",
+    "ai_summary": null
+  },
+  {
+    "title": "NYT’s Wordle to become a TV game show",
+    "link": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
+    "published": "Mon, 11 May 2026 14:23:25 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-11 22:08:56",
+    "ai_summary": null
+  },
+  {
+    "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+    "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "published": "Mon, 11 May 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-11 22:08:56",
+    "ai_summary": null
+  },
+  {
+    "title": "「うちのAIは喋るぞ」音声MCPを作って公開してみた【Codex・Claude Code】",
+    "link": "https://zenn.dev/rimon/articles/38a9a5bf2e114b",
+    "published": "Sun, 10 May 2026 21:06:05 GMT",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-11 22:08:56",
+    "ai_summary": null
+  },
+  {
     "title": "バクラク、契約業務の自動化を支援する新サービスを今夏提供予定　27年度以降適用の「新リース会計基準」の判定にも対応",
     "link": "https://www.itmedia.co.jp/news/articles/2605/11/news114.html",
     "published": "Mon, 11 May 2026 18:00:00 +0900",
