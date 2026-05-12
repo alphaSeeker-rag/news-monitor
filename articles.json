@@ -1,5 +1,182 @@
 [
   {
+    "title": "KDDI、子会社の不適切取引受けガバナンス体制を刷新　CFO直轄の本部新設やAI活用も",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/12/news136.html",
+    "published": "Tue, 12 May 2026 18:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-12 14:40:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Z世代の新入社員、研修の切り札はAI　パソコン相手に接客特訓、システム開発　リスクは",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/12/news111.html",
+    "published": "Tue, 12 May 2026 14:57:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-12 14:40:10",
+    "ai_summary": null
+  },
+  {
+    "title": "「DeepSeek V4 Proはアメリカの主要AIモデルに比べて約8カ月遅れているが現状最も高性能な中国製AIモデル」とアメリカ政府のAIリスク管理機関であるCAISIが報告",
+    "link": "https://gigazine.net/news/20260512-caisi-evaluation-deepseek-v4-pro/",
+    "published": "Tue, 12 May 2026 20:00:00 +0900",
+    "keywords": [
+      "AI",
+      "人工知能"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-12 14:40:11",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Mythosの「脆弱性発見能力が高い」というのは誇大宣伝だとcURL開発者が指摘",
+    "link": "https://gigazine.net/news/20260512-claude-mythos-curl-vulnerability/",
+    "published": "Tue, 12 May 2026 16:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-12 14:40:11",
+    "ai_summary": null
+  },
+  {
+    "title": "90日間の脆弱性開示ポリシーはもはや意味をなさないという指摘、AIがバグ発見とエクスプロイト開発を爆速に",
+    "link": "https://gigazine.net/news/20260512-disclosure-policy-dead/",
+    "published": "Tue, 12 May 2026 16:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-12 14:40:11",
+    "ai_summary": null
+  },
+  {
+    "title": "毎週数百万回ダウンロードされる人気JavaScriptライブラリ群「TanStack」にサプライチェーン攻撃、問題のあるバージョンをインストールした開発環境では認証情報流出の恐れ",
+    "link": "https://gigazine.net/news/20260512-tanstack-supply-chain-attack/",
+    "published": "Tue, 12 May 2026 16:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-12 14:40:11",
+    "ai_summary": null
+  },
+  {
+    "title": "OCR・音声・構造化出力などの定型タスクに特化したAIモデル「Interfaze」登場",
+    "link": "https://gigazine.net/news/20260512-interfaze-new-model-architecture/",
+    "published": "Tue, 12 May 2026 14:56:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-12 14:40:11",
+    "ai_summary": null
+  },
+  {
+    "title": "AIの入出力を既存のターン制からリアルタイムに変えるAI「Interaction Models」をOpenAIの元CTOが新設したThinking Machines Labが研究プレビューを発表",
+    "link": "https://gigazine.net/news/20260512-thinking-machines-lab-interaction-models/",
+    "published": "Tue, 12 May 2026 13:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-12 14:40:11",
+    "ai_summary": null
+  },
+  {
+    "title": "サイバー犯罪グループがAIを使って2要素認証を回避できるゼロデイ脆弱性を発見していたとGoogleが報告",
+    "link": "https://gigazine.net/news/20260512-hacker-use-ai-mass-exploitation-google/",
+    "published": "Tue, 12 May 2026 13:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-12 14:40:11",
+    "ai_summary": null
+  },
+  {
+    "title": "GitLabがAIエージェント時代へ向け大規模再編、人員削減や管理階層の削減を計画",
+    "link": "https://gigazine.net/news/20260512-gitlab-act-2/",
+    "published": "Tue, 12 May 2026 11:42:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-12 14:40:11",
+    "ai_summary": null
+  },
+  {
+    "title": "Instructure strikes deal with hackers who breached it twice",
+    "link": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
+    "published": "Tue, 12 May 2026 13:34:04 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 14:40:11",
+    "ai_summary": null
+  },
+  {
+    "title": "Dessn raises $6M for its production focused design tool",
+    "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+    "published": "Tue, 12 May 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 14:40:11",
+    "ai_summary": null
+  },
+  {
+    "title": "AI is turning connected cars into pothole-finding machines",
+    "link": "https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/",
+    "published": "Tue, 12 May 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 14:40:11",
+    "ai_summary": null
+  },
+  {
+    "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+    "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "published": "Tue, 12 May 2026 11:30:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 14:40:11",
+    "ai_summary": null
+  },
+  {
+    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+    "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+    "published": "Tue, 12 May 2026 04:52:35 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 14:40:11",
+    "ai_summary": null
+  },
+  {
+    "title": "業務で本当に使えるClaude MCPサーバー厳選10選",
+    "link": "https://zenn.dev/nocodesolutions/articles/6df07230149e08",
+    "published": "Sun, 10 May 2026 13:17:33 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-12 14:40:11",
+    "ai_summary": null
+  },
+  {
     "title": "AIの「倫理的に不適切な選択」はSF作品の暴走AIを模倣していた──Anthropicが解決手法を公開",
     "link": "https://www.itmedia.co.jp/news/articles/2605/11/news080.html",
     "published": "Mon, 11 May 2026 21:40:00 +0900",
