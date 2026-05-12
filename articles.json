@@ -1,5 +1,94 @@
 [
   {
+    "title": "AIの「倫理的に不適切な選択」はSF作品の暴走AIを模倣していた──Anthropicが解決手法を公開",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/11/news080.html",
+    "published": "Mon, 11 May 2026 21:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-12 02:42:11",
+    "ai_summary": null
+  },
+  {
+    "title": "新型AI「ミュトス」　サイバー上の懸念受け、首相が閣僚に対策指示",
+    "link": "http://www.asahi.com/articles/ASV5D0BNXV5DUTFK001M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-12 02:42:11",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが企業のAI導入を助ける新会社「OpenAI Deployment Company」を設立",
+    "link": "https://gigazine.net/news/20260512-openai-deployment-company/",
+    "published": "Tue, 12 May 2026 11:33:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-12 02:42:11",
+    "ai_summary": null
+  },
+  {
+    "title": "ソニーがゲームプレイのハイライトを取得してコラージュ画像をAI生成する特許を取得",
+    "link": "https://gigazine.net/news/20260512-game-image-ai-sony-patent/",
+    "published": "Tue, 12 May 2026 11:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-12 02:42:11",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが攻撃者より先に脆弱性を検知・修正するセキュリティAI「Daybreak」を発表",
+    "link": "https://gigazine.net/news/20260512-openai-daybreak/",
+    "published": "Tue, 12 May 2026 10:38:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-12 02:42:11",
+    "ai_summary": null
+  },
+  {
+    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+    "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "published": "Tue, 12 May 2026 00:09:01 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 02:42:11",
+    "ai_summary": null
+  },
+  {
+    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+    "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+    "published": "Mon, 11 May 2026 23:04:10 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 02:42:11",
+    "ai_summary": null
+  },
+  {
+    "title": "AI駆動PMの5原則と12の具体例 — Claude Code × Obsidian",
+    "link": "https://zenn.dev/assign/articles/4ba3d41bf59a61",
+    "published": "Mon, 11 May 2026 01:35:00 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-12 02:42:11",
+    "ai_summary": null
+  },
+  {
     "title": "AI時代に文学の学びを 高校国語の科目構成を見直す案 文科省",
     "link": "http://www3.nhk.or.jp/news/html/20260512/k10015119021000.html",
     "published": "Tue, 12 May 2026 06:59:41 +0900",
