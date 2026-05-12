@@ -1,5 +1,137 @@
 [
   {
+    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+    "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+    "published": "Tue, 12 May 2026 18:05:15 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 22:12:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+    "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+    "published": "Tue, 12 May 2026 17:36:34 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 22:12:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+    "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+    "published": "Tue, 12 May 2026 17:30:57 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 22:12:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+    "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+    "published": "Tue, 12 May 2026 17:01:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 22:12:41",
+    "ai_summary": null
+  },
+  {
+    "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+    "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+    "published": "Tue, 12 May 2026 17:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 22:12:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Android adds a feature to stop you from doomscrolling",
+    "link": "https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/",
+    "published": "Tue, 12 May 2026 17:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 22:12:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Google unveils Googlebook, a new line of AI-native laptops",
+    "link": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
+    "published": "Tue, 12 May 2026 17:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 22:12:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Google brings agentic AI and vibe-coded widgets to Android",
+    "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+    "published": "Tue, 12 May 2026 17:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 22:12:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Google launches new Android security feature to help uncover spyware attacks",
+    "link": "https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/",
+    "published": "Tue, 12 May 2026 17:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 22:12:41",
+    "ai_summary": null
+  },
+  {
+    "title": "US bank discloses security lapse after sharing customer data with AI app",
+    "link": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/",
+    "published": "Tue, 12 May 2026 16:36:44 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 22:12:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Threads tests a Meta AI integration that works similarly to Grok",
+    "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+    "published": "Tue, 12 May 2026 16:34:36 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 22:12:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
+    "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
+    "published": "Tue, 12 May 2026 15:07:37 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-12 22:12:41",
+    "ai_summary": null
+  },
+  {
     "title": "KDDI、子会社の不適切取引受けガバナンス体制を刷新　CFO直轄の本部新設やAI活用も",
     "link": "https://www.itmedia.co.jp/news/articles/2605/12/news136.html",
     "published": "Tue, 12 May 2026 18:40:00 +0900",
