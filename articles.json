@@ -1,5 +1,281 @@
 [
   {
+    "title": "Geminiがスマホを“自動操縦”　Google、Android向けAIエージェント「Gemini Intelligence」発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/13/news136.html",
+    "published": "Wed, 13 May 2026 20:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Claudeに法律業務特化の拡張機能　DocuSignなどと連携、12種の新プラグインも",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/13/news129.html",
+    "published": "Wed, 13 May 2026 18:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Google、AI特化の次世代ノートPC「Googlebook」発表　26年後半に投入へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/13/news104.html",
+    "published": "Wed, 13 May 2026 13:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "撮影時にAIがレンズやボケ表現を提案するスマホ　ソニー「Xperia 1 VIII」発売",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/13/news103.html",
+    "published": "Wed, 13 May 2026 13:06:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "自民党、生成AIを悪用したディープフェイク広告に対策案　罰則含めた法整備求める",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/13/news097.html",
+    "published": "Wed, 13 May 2026 12:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Mythosがもたらすセキュリティビジネス激変の可能性　二極化していく“業界のこれから”",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/12/news077.html",
+    "published": "Wed, 13 May 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "ココナッツの甘い香りとロースト感のあるマカデミアナッツが南国を演出する「ハワイアンサンダー」試食レビュー",
+    "link": "https://gigazine.net/news/20260513-yurakuseika-hawaiian-thunder/",
+    "published": "Wed, 13 May 2026 17:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "iOS 27の「完全に再構築されたSiri」は一体どんなものになるのか？単体アプリになって複数アプリ間でタスクを横断できるAIエージェントに進化",
+    "link": "https://gigazine.net/news/20260513-apple-ios-27-siri/",
+    "published": "Wed, 13 May 2026 16:16:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "「マウスポインタをAIの入力として活用するべき」とDeepMindが語る、「これをあれして」でAIに通じる時代が来るか",
+    "link": "https://gigazine.net/news/20260513-google-deepmind-ai-pointer/",
+    "published": "Wed, 13 May 2026 16:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "AIで法務を効率化するためのClaude連携アプリをAnthropicがリリース、取引・雇用・訴訟などあらゆる法務に対応",
+    "link": "https://gigazine.net/news/20260513-anthropic-claude-legal-solutions/",
+    "published": "Wed, 13 May 2026 15:31:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicが中国政府による最新AIモデル「Claude Mythos Preview」へのアクセス許可要求を拒否",
+    "link": "https://gigazine.net/news/20260513-anthropic-china-mythos/",
+    "published": "Wed, 13 May 2026 14:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleがAndroidの盗難対策を強化、なりすまし電話対策やスパイウェア調査支援の新機能も",
+    "link": "https://gigazine.net/news/20260513-google-android-new-security-privacy/",
+    "published": "Wed, 13 May 2026 14:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "MicrosoftがAIセキュリティシステム「MDASH」を構築、Windowsの脆弱性検知に活用",
+    "link": "https://gigazine.net/news/20260513-microsoft-mdash/",
+    "published": "Wed, 13 May 2026 12:38:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleとSpaceXが「宇宙データセンター」を協議、AI計算基盤は地球の外へ向かうのか",
+    "link": "https://gigazine.net/news/20260513-spacex-google-data-center-orbit/",
+    "published": "Wed, 13 May 2026 12:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleがAndroidでAIアシスタントのGeminiの高度な機能が利用できるようになる「Gemini Intelligence」を発表、2026年夏から段階的に展開予定でまずはGalaxy＆Pixelシリーズから",
+    "link": "https://gigazine.net/news/20260513-gemini-intelligence-ai-android/",
+    "published": "Wed, 13 May 2026 12:01:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-13 14:50:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Anduril raises $5B, doubles valuation to $61B",
+    "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
+    "published": "Wed, 13 May 2026 14:44:25 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-13 14:50:38",
+    "ai_summary": null
+  },
+  {
+    "title": "r/WallStreetBets really hates the SEC’s proposal to weaken quarterly reporting",
+    "link": "https://techcrunch.com/2026/05/13/r-wallstreetbets-really-hates-the-secs-proposal-to-weaken-quarterly-reporting/",
+    "published": "Wed, 13 May 2026 14:42:11 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-13 14:50:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+    "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+    "published": "Wed, 13 May 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-13 14:50:38",
+    "ai_summary": null
+  },
+  {
+    "title": "WhatsApp adds an incognito mode in Meta AI chats",
+    "link": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+    "published": "Wed, 13 May 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-13 14:50:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+    "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+    "published": "Wed, 13 May 2026 13:27:09 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-13 14:50:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+    "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+    "published": "Wed, 13 May 2026 12:11:33 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-13 14:50:38",
+    "ai_summary": null
+  },
+  {
+    "title": "AI と一緒に開発するときにも便利な Aspire の好きなところ",
+    "link": "https://zenn.dev/microsoft/articles/aspire-favorite-points",
+    "published": "Tue, 12 May 2026 13:47:40 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-13 14:50:38",
+    "ai_summary": null
+  },
+  {
+    "title": "コードレビューのボトルネックを\"する側\"と\"される側\"の両面から解消する",
+    "link": "https://zenn.dev/atamaplus/articles/resolve-review-bottleneck",
+    "published": "Tue, 12 May 2026 04:30:52 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-13 14:50:38",
+    "ai_summary": null
+  },
+  {
+    "title": "【RAG】「キーワード検索1回」だけで、精度を出す。",
+    "link": "https://zenn.dev/knowledgesense/articles/67370650799bc6",
+    "published": "Tue, 12 May 2026 03:46:33 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-13 14:50:38",
+    "ai_summary": null
+  },
+  {
+    "title": "【Claude Code VS Codex】同じSkillsでオセロ対戦させたら、56-8で○○が完敗した話",
+    "link": "https://zenn.dev/acntechjp/articles/cc97075e985938",
+    "published": "Mon, 11 May 2026 23:00:07 GMT",
+    "keywords": [
+      "AI",
+      "Python"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-13 14:50:38",
+    "ai_summary": null
+  },
+  {
     "title": "Threads上で「Grok」に似たAIアカウントをブロックできないことが話題に",
     "link": "https://gigazine.net/news/20260513-threads-cannot-block-ai/",
     "published": "Wed, 13 May 2026 11:29:00 +0900",
