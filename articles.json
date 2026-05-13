@@ -1,5 +1,71 @@
 [
   {
+    "title": "Threads上で「Grok」に似たAIアカウントをブロックできないことが話題に",
+    "link": "https://gigazine.net/news/20260513-threads-cannot-block-ai/",
+    "published": "Wed, 13 May 2026 11:29:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-13 02:48:04",
+    "ai_summary": null
+  },
+  {
+    "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+    "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "published": "Wed, 13 May 2026 00:26:48 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-13 02:48:04",
+    "ai_summary": null
+  },
+  {
+    "title": "ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ",
+    "link": "https://zenn.dev/todesking/articles/fba4cc93baf0a9",
+    "published": "Tue, 12 May 2026 14:08:30 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-13 02:48:05",
+    "ai_summary": null
+  },
+  {
+    "title": "コンパニオンAIの記憶を、普通のRAGじゃない設計にした話",
+    "link": "https://zenn.dev/haru0416/articles/843c6c29c04c7c",
+    "published": "Tue, 12 May 2026 02:05:57 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-13 02:48:05",
+    "ai_summary": null
+  },
+  {
+    "title": "AIのハーネスを徹底的に整えたら、レビューもシステム運用も自動化され、非エンジニアも開発に参加できるようになった話 ── 連載総論",
+    "link": "https://zenn.dev/aircloset/articles/d416342f46f16b",
+    "published": "Tue, 12 May 2026 00:31:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-13 02:48:05",
+    "ai_summary": null
+  },
+  {
+    "title": "個人GoogleアカウントをGoogle Workspace化して困ったこと",
+    "link": "https://zenn.dev/uguisu/articles/47563d4785287f",
+    "published": "Mon, 11 May 2026 09:31:02 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-13 02:48:05",
+    "ai_summary": null
+  },
+  {
     "title": "Musk mulled handing OpenAI to his children, Altman testifies",
     "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
     "published": "Tue, 12 May 2026 18:05:15 +0000",
