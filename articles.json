@@ -1,5 +1,237 @@
 [
   {
+    "title": "「Chromebookは継続」　Googleが10年間のアップデートを改めて約束　「Googlebook」発表を受け",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/14/news109.html",
+    "published": "Thu, 14 May 2026 15:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-14 14:29:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazon、ショッピングAI「Rufus」を「Alexa for Shopping」に刷新　「Alexa+」と統合し外部サイト購入にも対応",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/14/news089.html",
+    "published": "Thu, 14 May 2026 12:07:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-14 14:29:56",
+    "ai_summary": null
+  },
+  {
+    "title": "ChatGPTの医療アドバイスで薬を過剰摂取、米国で19歳大学生が死亡　遺族がOpenAI提訴",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/14/news054.html",
+    "published": "Thu, 14 May 2026 12:00:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-14 14:29:56",
+    "ai_summary": null
+  },
+  {
+    "title": "AI使ったサイバー攻撃「脅威が深刻化」自民、政府に対策強化を提言",
+    "link": "http://www.asahi.com/articles/ASV5G3V9BV5GUQIP020M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-14 14:29:56",
+    "ai_summary": null
+  },
+  {
+    "title": "朝日・日経「AI検索が記事を無断利用」と訴え　米企業は争う姿勢",
+    "link": "http://www.asahi.com/articles/ASV5G1FN6V5GUTIL02JM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-14 14:29:56",
+    "ai_summary": null
+  },
+  {
+    "title": "実はアメリカでは無料で「.city.state.us」ドメインが取得できる",
+    "link": "https://gigazine.net/news/20260514-city-state-us-domain/",
+    "published": "Thu, 14 May 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "AIを単一のスコアで評価する「AI IQ」が登場、各ベンチマーク結果をもとにスコアを算出",
+    "link": "https://gigazine.net/news/20260514-ai-iq/",
+    "published": "Thu, 14 May 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "Edgeに「開いている複数タブの内容をCopilotで比較・要約できる機能」が追加",
+    "link": "https://gigazine.net/news/20260514-edge-copilot/",
+    "published": "Thu, 14 May 2026 13:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicがビジネス分析・広告キャンペーン・簿記などの自動化ができる「Claude for Small Business」をリリース",
+    "link": "https://gigazine.net/news/20260514-claude-for-small-business/",
+    "published": "Thu, 14 May 2026 13:16:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "AnthropicがClaude Agent SDKクレジットを発表、OpenClawなどのサードパーティー自律型AIエージェントハーネスを再び稼働させることができるように",
+    "link": "https://gigazine.net/news/20260514-anthropic-claude-agent-sdk-credits/",
+    "published": "Thu, 14 May 2026 13:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "AIを使ったカンニングが蔓延したため試験中に教授が教室を離れるという規定が133年ぶりに廃止されたと学生新聞が報じる",
+    "link": "https://gigazine.net/news/20260514-ai-cheat-princeton/",
+    "published": "Thu, 14 May 2026 12:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIがシステムに侵入して自己複製する」というシナリオはもはやSFではなく現実になりつつある",
+    "link": "https://gigazine.net/news/20260514-ai-self-replication-hacks/",
+    "published": "Thu, 14 May 2026 12:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "Ciscoが約4000人を解雇、株価は19％以上急騰",
+    "link": "https://gigazine.net/news/20260514-cisco-4000-lay-off/",
+    "published": "Thu, 14 May 2026 12:09:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazonの従業員がランキング上位を目指し上司に好印象を与えるためにAIの使用量を水増ししていることが判明",
+    "link": "https://gigazine.net/news/20260514-amazon-ai-usage-inflating/",
+    "published": "Thu, 14 May 2026 11:58:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "A spyware investigator exposed Russian government hackers trying to hijack Signal accounts",
+    "link": "https://techcrunch.com/2026/05/14/a-spyware-investigator-exposed-russian-government-hackers-trying-to-hijack-signal-accounts/",
+    "published": "Thu, 14 May 2026 14:07:40 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+    "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+    "published": "Thu, 14 May 2026 14:01:14 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+    "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+    "published": "Thu, 14 May 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+    "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+    "published": "Thu, 14 May 2026 06:05:31 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "AI時代に生きる若手エンジニアが、AIを使う上で備えておくべき知識",
+    "link": "https://zenn.dev/acntechjp/articles/ed556516a84934",
+    "published": "Wed, 13 May 2026 13:43:18 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "ログイン済みの Chrome をそのまま Claude Code から操作する — playwright-cli attach",
+    "link": "https://zenn.dev/optimisuke/articles/40529cd970cbf0",
+    "published": "Wed, 13 May 2026 11:00:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェント時代にゼロ知識証明が必要な理由",
+    "link": "https://zenn.dev/komlock_lab/articles/zero-knowledge-proof-2026",
+    "published": "Wed, 13 May 2026 08:40:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-14 14:29:57",
+    "ai_summary": null
+  },
+  {
     "title": "株価 一時6万3400円超 取引時間中の最高値を更新",
     "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121141000.html",
     "published": "Thu, 14 May 2026 09:47:32 +0900",
