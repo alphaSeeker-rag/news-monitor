@@ -1,5 +1,82 @@
 [
   {
+    "title": "株価 一時6万3400円超 取引時間中の最高値を更新",
+    "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121141000.html",
+    "published": "Thu, 14 May 2026 09:47:32 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-05-14 02:49:35",
+    "ai_summary": null
+  },
+  {
+    "title": "AIブームでクラウドインフラ市場が年35％の急成長　上位3社のシェアには変動なし　2026年第1四半期、Synergy Research調査",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/14/news077.html",
+    "published": "Thu, 14 May 2026 10:41:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-14 02:49:36",
+    "ai_summary": null
+  },
+  {
+    "title": "AI防衛技術のAndurilが50億ドル調達　トランプ政権下の軍近代化加速",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/14/news070.html",
+    "published": "Thu, 14 May 2026 09:07:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-14 02:49:36",
+    "ai_summary": null
+  },
+  {
+    "title": "Meta AIとの「真のプライバシー保護」を実現した完全プライベートな会話を可能にする「Incognito Chat」が登場",
+    "link": "https://gigazine.net/news/20260514-meta-ai-incognito-chat/",
+    "published": "Thu, 14 May 2026 11:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-14 02:49:36",
+    "ai_summary": null
+  },
+  {
+    "title": "薬物でハイになっているときに変更したパスワードを忘れて40万ドル相当のビットコインを取り戻せなくなっていた男性がAIのおかげで11年越しにパスワードを回復",
+    "link": "https://gigazine.net/news/20260514-ai-recover-bitcoin/",
+    "published": "Thu, 14 May 2026 10:48:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-14 02:49:36",
+    "ai_summary": null
+  },
+  {
+    "title": "AIにQAエンジニアとして思考させるエージェントQA設計の思想",
+    "link": "https://zenn.dev/edash_tech_blog/articles/383410d9a1afba",
+    "published": "Wed, 13 May 2026 01:10:30 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-14 02:49:36",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Code Routines で Issue の自動対応をチームで回している話",
+    "link": "https://zenn.dev/notahotel/articles/claude-routine-auto-fix-issue",
+    "published": "Tue, 12 May 2026 02:30:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-14 02:49:36",
+    "ai_summary": null
+  },
+  {
     "title": "Geminiのツール呼び出し機能を蒸留してスマホでも動作する軽量モデルに仕上げた「Needle」が登場、開発者はスマホ向けAIエージェントの構築に役立つとアピール",
     "link": "https://gigazine.net/news/20260514-needle-tool-calling--distilled-gemini/",
     "published": "Thu, 14 May 2026 06:00:00 +0900",
