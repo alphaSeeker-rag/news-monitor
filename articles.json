@@ -1,5 +1,127 @@
 [
   {
+    "title": "医療AIは「健康改善に応じて報酬」の時代へ、アメリカの公的医療保険の新制度がAI活用を後押し",
+    "link": "https://gigazine.net/news/20260515-access-new-payment-model/",
+    "published": "Fri, 15 May 2026 07:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-14 22:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "published": "Thu, 14 May 2026 21:30:44 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-14 22:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI says Codex is coming to your phone",
+    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "published": "Thu, 14 May 2026 20:58:55 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-14 22:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Lovable just backed a company that’s looking to bring vibe coding to hardware",
+    "link": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
+    "published": "Thu, 14 May 2026 20:43:03 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-14 22:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "What happens when AI starts building itself?",
+    "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+    "published": "Thu, 14 May 2026 19:57:20 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-14 22:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+    "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "published": "Thu, 14 May 2026 19:12:03 +0000",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-14 22:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+    "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+    "published": "Thu, 14 May 2026 19:05:01 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-14 22:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+    "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "published": "Thu, 14 May 2026 16:30:02 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-14 22:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI says hackers stole some data after latest code security issue",
+    "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+    "published": "Thu, 14 May 2026 16:25:20 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-14 22:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+    "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+    "published": "Thu, 14 May 2026 15:20:18 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-14 22:12:44",
+    "ai_summary": null
+  },
+  {
+    "title": "AI×Unityゲーム開発スターターキット",
+    "link": "https://zenn.dev/ohbashunsuke/books/unity-ai-starter-kit",
+    "published": "Thu, 14 May 2026 12:00:20 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-14 22:12:44",
+    "ai_summary": null
+  },
+  {
     "title": "「Chromebookは継続」　Googleが10年間のアップデートを改めて約束　「Googlebook」発表を受け",
     "link": "https://www.itmedia.co.jp/news/articles/2605/14/news109.html",
     "published": "Thu, 14 May 2026 15:55:00 +0900",
