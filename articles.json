@@ -1,5 +1,203 @@
 [
   {
+    "title": "「Xperia」の新AI機能を紹介したポストが海外で「最高の反AI広告だ」と物議　ソニーの説明は？",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/15/news111.html",
+    "published": "Fri, 15 May 2026 18:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "DeepSeek V4 Flash専用に設計されたコンパクトなネイティブ推論エンジン「DwarfStar 4」",
+    "link": "https://gigazine.net/news/20260515-dwarfstar-4/",
+    "published": "Fri, 15 May 2026 21:11:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "デスクトップ用GPUの「RTX 5090」をM4搭載MacBook Airに取り付ける",
+    "link": "https://gigazine.net/news/20260515-rtx-5090-m4-macbook-air/",
+    "published": "Fri, 15 May 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "AppleのM5チップのMIEがAI支援のカーネル攻撃コードで回避される、メモリ破損防御を突破した初の公開事例",
+    "link": "https://gigazine.net/news/20260515-apple-mie-kernel-memory-corruption/",
+    "published": "Fri, 15 May 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "アニメ・イラストに強い画像生成AI「Anima」の正式版がついに登場、タグ・自然言語両対応でSDXLやIllustrious系モデルが動作するPCなら余裕でローカル実行可能",
+    "link": "https://gigazine.net/news/20260515-anima-image-generation-ai/",
+    "published": "Fri, 15 May 2026 13:07:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "動画生成AIのRunwayが日本に拠点を開設",
+    "link": "https://gigazine.net/news/20260515-runway-comes-to-japan/",
+    "published": "Fri, 15 May 2026 13:06:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "画像生成AI「FLUX.2」によるアウトペインティングに特化した「FLUX Outpainting」が登場、実際に試してみた",
+    "link": "https://gigazine.net/news/20260515-flux-outpainting/",
+    "published": "Fri, 15 May 2026 12:52:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "アメリカ人の7割は地元にAIデータセンターが建設されることに反対",
+    "link": "https://gigazine.net/news/20260515-gallup-survey-constructing-ai-data-center/",
+    "published": "Fri, 15 May 2026 12:18:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAによるAIチップ「H200」の中国企業への販売をアメリカ政府が承認、中国政府の承認待ちへ",
+    "link": "https://gigazine.net/news/20260515-nvidia-h200-chip-sales-to-china-firms/",
+    "published": "Fri, 15 May 2026 12:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+    "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "published": "Fri, 15 May 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "Meridian Ventures launched $35M fund to back MBA-deferred founders",
+    "link": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
+    "published": "Fri, 15 May 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "Osaurus brings both local and cloud AI models to your Mac",
+    "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+    "published": "Fri, 15 May 2026 12:19:48 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
+    "link": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
+    "published": "Fri, 15 May 2026 11:24:12 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "Agent Registry で動的に Harness (MCP/Skill) や A2A Agent を検索・実行する Agent の実装",
+    "link": "https://zenn.dev/aws_japan/articles/005-bedrock-agent-registry-dynamic-loading",
+    "published": "Thu, 14 May 2026 22:04:24 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "Claudeに魂を吹き込む人 —Amanda Askellという哲学者の眼差し",
+    "link": "https://zenn.dev/noah33/articles/amanda-askell-claude-soul",
+    "published": "Thu, 14 May 2026 15:15:39 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "五反田式: スティグマジーを応用した自律型マルチエージェントシステム【日本語訳】",
+    "link": "https://zenn.dev/iroha1203/articles/93ee3d4c5d5174",
+    "published": "Thu, 14 May 2026 14:10:26 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "ログラスにおけるAI時代の新卒エンジニアの研修設計",
+    "link": "https://zenn.dev/ohnoeight/articles/737f3226df1fb8",
+    "published": "Thu, 14 May 2026 10:17:57 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Codeにリポジトリを1枚のワークフロー図にしてもらうプロンプト",
+    "link": "https://zenn.dev/acntechjp/articles/b82cebfa0e4d50",
+    "published": "Wed, 13 May 2026 20:01:31 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-15 14:23:02",
+    "ai_summary": null
+  },
+  {
     "title": "OpenAI、サプライチェーン攻撃で従業員2人の端末が侵害　macOSユーザーは6月12日までにアプリ更新を",
     "link": "https://www.itmedia.co.jp/news/articles/2605/15/news075.html",
     "published": "Fri, 15 May 2026 10:56:00 +0900",
