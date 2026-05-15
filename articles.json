@@ -1,5 +1,128 @@
 [
   {
+    "title": "OpenAI、サプライチェーン攻撃で従業員2人の端末が侵害　macOSユーザーは6月12日までにアプリ更新を",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/15/news075.html",
+    "published": "Fri, 15 May 2026 10:56:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-15 02:50:40",
+    "ai_summary": null
+  },
+  {
+    "title": "AI事業者が争う姿勢　朝日、日経の記事無断使用巡り",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/15/news068.html",
+    "published": "Fri, 15 May 2026 10:17:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-15 02:50:40",
+    "ai_summary": null
+  },
+  {
+    "title": "AIデータセンター建設に米国民の7割が反対──Gallup調べ",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/15/news066.html",
+    "published": "Fri, 15 May 2026 09:44:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-15 02:50:40",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicとゲイツ財団が提携　AIによる社会貢献に2億ドル拠出",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/15/news064.html",
+    "published": "Fri, 15 May 2026 08:42:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-15 02:50:40",
+    "ai_summary": null
+  },
+  {
+    "title": "中国企業が1兆トークン規模のAIモデル「Ring-2.6-1T」をオープンモデルとして公開、一部のベンチマークテストでGPT-5.4とGemini 3.1 Proを上回る",
+    "link": "https://gigazine.net/news/20260515-ring-2-6-1t-ai-china/",
+    "published": "Fri, 15 May 2026 11:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-15 02:50:41",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIがAppleに対する法的措置も視野に法律事務所に相談中、加入者増加と知名度向上に不服",
+    "link": "https://gigazine.net/news/20260515-openai-apple-partnership-frays/",
+    "published": "Fri, 15 May 2026 10:45:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-15 02:50:41",
+    "ai_summary": null
+  },
+  {
+    "title": "AMD製AIチップで開発された拡散言語モデル「ZAYA1-8B-Diffusion-Preview」が登場、自己回帰モデルを拡散モデルに変換",
+    "link": "https://gigazine.net/news/20260515-zaya1-8b-diffusion-preview/",
+    "published": "Fri, 15 May 2026 10:33:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-15 02:50:41",
+    "ai_summary": null
+  },
+  {
+    "title": "xAIがコーディングエージェントCLIツール「Grok Build」のベータ版をリリース",
+    "link": "https://gigazine.net/news/20260515-grok-build-beta/",
+    "published": "Fri, 15 May 2026 10:13:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-15 02:50:41",
+    "ai_summary": null
+  },
+  {
+    "title": "未査読論文リポジトリのarXivが「論文にLLMによる間違いや架空の引用が含まれていたら1年間投稿禁止」の方針を示す",
+    "link": "https://gigazine.net/news/20260515-arxiv-ai-paper-banned/",
+    "published": "Fri, 15 May 2026 10:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-15 02:50:41",
+    "ai_summary": null
+  },
+  {
+    "title": "ChatGPTのスマホアプリにCodexへの指示機能が追加される、PCを開かずともCodexでエージェントコーディングやPC自動操作を実行可能",
+    "link": "https://gigazine.net/news/20260515-codex-mobile-app/",
+    "published": "Fri, 15 May 2026 09:56:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-15 02:50:41",
+    "ai_summary": null
+  },
+  {
+    "title": "普段Drawioで画面設計を作ってる非デザイナーがPencilを触ってみた",
+    "link": "https://zenn.dev/levtech/articles/e7827feac11a36",
+    "published": "Tue, 12 May 2026 08:56:20 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-15 02:50:41",
+    "ai_summary": null
+  },
+  {
     "title": "医療AIは「健康改善に応じて報酬」の時代へ、アメリカの公的医療保険の新制度がAI活用を後押し",
     "link": "https://gigazine.net/news/20260515-access-new-payment-model/",
     "published": "Fri, 15 May 2026 07:00:00 +0900",
