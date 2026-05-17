@@ -1,5 +1,38 @@
 [
   {
+    "title": "AIエージェントが試験で一生懸命「カンニング」していることが発覚",
+    "link": "https://gigazine.net/news/20260517-benchmark-hacking/",
+    "published": "Sun, 17 May 2026 09:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-17 02:47:31",
+    "ai_summary": null
+  },
+  {
+    "title": "CodexモバイルからUbuntuのCodex Appを操作する",
+    "link": "https://zenn.dev/robustonian/articles/codex_mobile_connect_to_ubuntu",
+    "published": "Sat, 16 May 2026 07:35:06 GMT",
+    "keywords": [
+      "ChatGPT"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-17 02:47:31",
+    "ai_summary": null
+  },
+  {
+    "title": "クラウドネイティブ会議にブース出展しました【Raycast Community Japan】",
+    "link": "https://zenn.dev/raycast_jp/articles/8825a543929300",
+    "published": "Sat, 16 May 2026 02:05:09 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-17 02:47:31",
+    "ai_summary": null
+  },
+  {
     "title": "ウクライナ政府高官 “デジタル技術で戦い方大きく変容”",
     "link": "http://www3.nhk.or.jp/news/html/20260517/k10015123261000.html",
     "published": "Sun, 17 May 2026 06:05:31 +0900",
