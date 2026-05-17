@@ -1,5 +1,71 @@
 [
   {
+    "title": "AIモデルでブラウザを自動操作できる「Browser-Use」、オープンソースで開発され自然言語で簡単に指示可能",
+    "link": "https://gigazine.net/news/20260517-browser-use/",
+    "published": "Sun, 17 May 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-17 13:46:18",
+    "ai_summary": null
+  },
+  {
+    "title": "DDDの理想と決済システムの現実",
+    "link": "https://zenn.dev/kotaroikeda/articles/e2276a1d45a55c",
+    "published": "Sat, 16 May 2026 10:15:33 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-17 13:46:18",
+    "ai_summary": null
+  },
+  {
+    "title": "AIに同じ質問を3経路で投げたら、入力トークンが約1,200倍違った — Claudeの「プログラム利用専用クレジット」と構造化APIの関係",
+    "link": "https://zenn.dev/edinetdb/articles/ai-cost-input-tokens-structured-db",
+    "published": "Sat, 16 May 2026 06:54:19 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-17 13:46:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Vercelがシステムプログラミング言語「Zero」を公開した！ 悔しい悔しい悔しい！",
+    "link": "https://zenn.dev/tkithrta/articles/74b35b39c2bb5e",
+    "published": "Sat, 16 May 2026 05:07:48 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-17 13:46:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Qwen3-30Bを動かし、社内LANにOpenAI互換APIとしてvLLMで公開してみた",
+    "link": "https://zenn.dev/fusic/articles/779af66b5810a9",
+    "published": "Fri, 15 May 2026 09:47:06 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-17 13:46:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Bun が 6 日で Rust に書き換わった件",
+    "link": "https://zenn.dev/ashunar0/articles/55a669c10e6a8d",
+    "published": "Fri, 15 May 2026 06:08:40 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-17 13:46:18",
+    "ai_summary": null
+  },
+  {
     "title": "AIエージェントが試験で一生懸命「カンニング」していることが発覚",
     "link": "https://gigazine.net/news/20260517-benchmark-hacking/",
     "published": "Sun, 17 May 2026 09:00:00 +0900",
