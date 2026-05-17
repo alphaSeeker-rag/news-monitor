@@ -1,5 +1,49 @@
 [
   {
+    "title": "シニア開発者はなぜ専門知識をうまく伝えられないのか？",
+    "link": "https://gigazine.net/news/20260518-senior-developers-communicate-expertise/",
+    "published": "Mon, 18 May 2026 06:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-17 21:56:24",
+    "ai_summary": null
+  },
+  {
+    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+    "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+    "published": "Sun, 17 May 2026 19:46:34 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-17 21:56:24",
+    "ai_summary": null
+  },
+  {
+    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+    "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+    "published": "Sun, 17 May 2026 16:32:04 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-17 21:56:24",
+    "ai_summary": null
+  },
+  {
+    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+    "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+    "published": "Sun, 17 May 2026 16:05:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-17 21:56:24",
+    "ai_summary": null
+  },
+  {
     "title": "AIモデルでブラウザを自動操作できる「Browser-Use」、オープンソースで開発され自然言語で簡単に指示可能",
     "link": "https://gigazine.net/news/20260517-browser-use/",
     "published": "Sun, 17 May 2026 12:00:00 +0900",
