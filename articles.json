@@ -1,5 +1,104 @@
 [
   {
+    "title": "企業の生成AI活用、大企業は46.5％に　一方で半数が情報の正確性に懸念　帝国データバンク調査",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/15/news115.html",
+    "published": "Mon, 18 May 2026 08:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-18 02:57:23",
+    "ai_summary": null
+  },
+  {
+    "title": "山手線や新幹線の速やかな復旧にAIが活躍　秋にはドローンも導入",
+    "link": "http://www.asahi.com/articles/ASV5H1RZMV5HUTIL01SM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-18 02:57:24",
+    "ai_summary": null
+  },
+  {
+    "title": "危険すぎるAIミュトスをデータで解説　実践面で強さ、開発者も驚き",
+    "link": "http://www.asahi.com/articles/ASV5H22VGV5HUHBI02CM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-18 02:57:24",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAが1分間の動画を生成できるAI「SANA-WM」を発表、カメラ移動を精密に制御可能",
+    "link": "https://gigazine.net/news/20260518-nvidia-sana-wm/",
+    "published": "Mon, 18 May 2026 11:25:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-18 02:57:24",
+    "ai_summary": null
+  },
+  {
+    "title": "アリゾナ大学の学生たちが卒業式でAIの話を始めたエリック・シュミットにブーイングを浴びせる",
+    "link": "https://gigazine.net/news/20260518-university-arizona-boo-eric-schmidt-ai/",
+    "published": "Mon, 18 May 2026 11:03:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-18 02:57:24",
+    "ai_summary": null
+  },
+  {
+    "title": "診察内容を自動でまとめる承認済み医療AIの6割が薬剤名を取り違えていたことが判明、存在しない症状の記録も",
+    "link": "https://gigazine.net/news/20260518-doctor-ai-blow-basic-fact/",
+    "published": "Mon, 18 May 2026 07:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-18 02:57:24",
+    "ai_summary": null
+  },
+  {
+    "title": "日本円ステーブルコイン4種を整理した──JPYC・JPYSC・EJPY・Progmat Coin、結局どう違うのか",
+    "link": "https://zenn.dev/komlock_lab/articles/japan-yen-stablecoin-landscape-2026",
+    "published": "Sun, 17 May 2026 12:55:13 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-18 02:57:24",
+    "ai_summary": null
+  },
+  {
+    "title": "XプレミアムプランでGrokとx_searchツールを使う",
+    "link": "https://zenn.dev/robustonian/articles/x_premium_grok_search",
+    "published": "Sun, 17 May 2026 09:26:43 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-18 02:57:24",
+    "ai_summary": null
+  },
+  {
+    "title": "中小企業のDX支援で最初に自動化すべき3つの業務",
+    "link": "https://zenn.dev/joinclass/articles/dx-3-20260515220005-2181",
+    "published": "Sat, 16 May 2026 23:00:10 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-18 02:57:24",
+    "ai_summary": null
+  },
+  {
     "title": "シニア開発者はなぜ専門知識をうまく伝えられないのか？",
     "link": "https://gigazine.net/news/20260518-senior-developers-communicate-expertise/",
     "published": "Mon, 18 May 2026 06:00:00 +0900",
