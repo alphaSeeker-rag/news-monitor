@@ -1,5 +1,259 @@
 [
   {
+    "title": "Google検索が「AI検索」に──エージェント機能やマルチモーダル入力に対応",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/20/news067.html",
+    "published": "Wed, 20 May 2026 06:08:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Appleが5年がかりで開発したセキュリティ対策を5日で突破　「Mythos」が見せつけた脆弱性攻撃の威力",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/19/news100.html",
+    "published": "Wed, 20 May 2026 06:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "現実世界を基に\"動き回れる\"仮想空間を生成　Googleの世界生成AI「Project Genie」にストリートビュー連携機能",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/20/news065.html",
+    "published": "Wed, 20 May 2026 05:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Google、AIグラス発売へ　オーディオグラスは26年秋、ディスプレイ内蔵タイプも投入予定",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/20/news064.html",
+    "published": "Wed, 20 May 2026 04:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Google、“動画版Nano Banana”こと「Gemini Omni」公開　会話で映像を生成・編集",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/20/news063.html",
+    "published": "Wed, 20 May 2026 03:38:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Google just declared itself a contender in AI design at IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+    "published": "Tue, 19 May 2026 21:33:30 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "published": "Tue, 19 May 2026 21:25:31 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "How to use Google’s new AI agents to go beyond your standard searches",
+    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "published": "Tue, 19 May 2026 21:16:25 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+    "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+    "published": "Tue, 19 May 2026 21:08:51 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
+    "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+    "published": "Tue, 19 May 2026 20:11:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+    "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+    "published": "Tue, 19 May 2026 17:51:30 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Google Search as you know it is over",
+    "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+    "published": "Tue, 19 May 2026 17:46:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+    "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+    "published": "Tue, 19 May 2026 17:45:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
+    "published": "Tue, 19 May 2026 17:45:00 +0000",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+    "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+    "published": "Tue, 19 May 2026 17:45:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
+    "link": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
+    "published": "Tue, 19 May 2026 17:45:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+    "published": "Tue, 19 May 2026 17:45:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Google adds voice-based prompting to Docs and Keep",
+    "link": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
+    "published": "Tue, 19 May 2026 17:45:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
+    "published": "Tue, 19 May 2026 17:45:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI is making it easier to check if an image was made by their models",
+    "link": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+    "published": "Tue, 19 May 2026 17:45:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "CodeRabbit が TAKT のスポンサーになりました：せっかくなので CodeRabbit と TAKT を共存させよう",
+    "link": "https://zenn.dev/nrs/articles/97969a71c1d3b6",
+    "published": "Tue, 19 May 2026 10:54:37 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "野良スキルは使うな、盗め──Claude Codeスキルの安全な作り方",
+    "link": "https://zenn.dev/emilia_lab/articles/claude-code-skill-safety",
+    "published": "Mon, 18 May 2026 17:32:40 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Pencil vs Figma — 設計と実装の往復をなくした",
+    "link": "https://zenn.dev/gakken_leap/articles/ad1c3db1025353",
+    "published": "Mon, 18 May 2026 00:25:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-19 22:17:28",
+    "ai_summary": null
+  },
+  {
     "title": "中国「米中首脳がAIの政府間対話実施で合意」と発表",
     "link": "http://www3.nhk.or.jp/news/html/20260519/k10015125861000.html",
     "published": "Tue, 19 May 2026 20:38:11 +0900",
