@@ -1,5 +1,148 @@
 [
   {
+    "title": "海外詐欺拠点で「顔変える」かけ子たち　生成AI、見破るポイントは",
+    "link": "http://www.asahi.com/articles/ASV5N1QDKV5NOIPE003M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-20 22:24:35",
+    "ai_summary": null
+  },
+  {
+    "title": "AIベンチマーク「自転車に乗ったペリカンを描く」をGemini 3.1 ProやQwen3.6-35B-A3Bにやってもらうとこうなる",
+    "link": "https://gigazine.net/news/20260521-llms-pelicans-on-bicycles-2026/",
+    "published": "Thu, 21 May 2026 06:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 22:24:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Musk’s xAI is being sued over its data center generators. Now, it’s buying $2.8B more.",
+    "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+    "published": "Wed, 20 May 2026 21:55:49 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 22:24:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic will pay xAI $1.25B per month for compute",
+    "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+    "published": "Wed, 20 May 2026 21:29:22 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 22:24:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
+    "link": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
+    "published": "Wed, 20 May 2026 21:23:02 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 22:24:35",
+    "ai_summary": null
+  },
+  {
+    "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it.",
+    "link": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
+    "published": "Wed, 20 May 2026 21:21:22 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 22:24:35",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+    "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+    "published": "Wed, 20 May 2026 20:28:27 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 22:24:35",
+    "ai_summary": null
+  },
+  {
+    "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+    "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+    "published": "Wed, 20 May 2026 19:47:20 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 22:24:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
+    "link": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
+    "published": "Wed, 20 May 2026 18:14:04 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 22:24:35",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI barrels toward IPO that may happen in September",
+    "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+    "published": "Wed, 20 May 2026 17:24:24 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 22:24:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Jeff Bezos, you were so close to making a good point",
+    "link": "https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/",
+    "published": "Wed, 20 May 2026 17:10:31 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 22:24:35",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleのModern Web Guidanceスキル登場。AIが古いCSS・JSを書く問題を解決する",
+    "link": "https://zenn.dev/ubie_dev/articles/modern-web-guidance",
+    "published": "Wed, 20 May 2026 12:51:02 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-20 22:24:35",
+    "ai_summary": null
+  },
+  {
+    "title": "tfstateに平文を残さずに秘密情報を管理する",
+    "link": "https://zenn.dev/dely_jp/articles/terraform-ephemeral-write-only-secrets",
+    "published": "Wed, 20 May 2026 09:00:00 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-20 22:24:35",
+    "ai_summary": null
+  },
+  {
     "title": "Grok、「OpenClaw」と連携　サブスク加入者なら直接利用可能　メッセージアプリ経由で操作も",
     "link": "https://www.itmedia.co.jp/news/articles/2605/20/news124.html",
     "published": "Wed, 20 May 2026 17:45:00 +0900",
