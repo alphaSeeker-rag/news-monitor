@@ -1,5 +1,71 @@
 [
   {
+    "title": "Google、パーソナルAIエージェント「Gemini Spark」発表――デバイスを閉じても自律で働く",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/20/news068.html",
+    "published": "Wed, 20 May 2026 07:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-20 02:54:07",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleのAI透かし技術「SynthID」がOpenAIに採用される",
+    "link": "https://gigazine.net/news/20260520-google-synthid-openai/",
+    "published": "Wed, 20 May 2026 11:25:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 02:54:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Google DeepMindがマルチモーダル生成モデル「Gemini Omni」を発表、自然言語による対話と推論能力による動画生成・編集が可能に",
+    "link": "https://gigazine.net/news/20260520-google-deepmind-gemini-omni/",
+    "published": "Wed, 20 May 2026 11:01:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 02:54:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Google検索がAIで大幅刷新、マルチモーダル入力に対応してエージェント機能も搭載",
+    "link": "https://gigazine.net/news/20260520-google-search-io-2026-ai/",
+    "published": "Wed, 20 May 2026 10:54:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 02:54:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが「Gemini 3.5」シリーズを発表、まずは軽量版の「Gemini 3.5 Flash」から",
+    "link": "https://gigazine.net/news/20260520-google-gemini-3-5-flash/",
+    "published": "Wed, 20 May 2026 10:31:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 02:54:08",
+    "ai_summary": null
+  },
+  {
+    "title": "シミュレーション世界で複数人が相互作用できるマルチエージェント世界モデル「Agora-1」が登場",
+    "link": "https://gigazine.net/news/20260520-agora-1-multi-agent-world-model/",
+    "published": "Wed, 20 May 2026 08:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 02:54:08",
+    "ai_summary": null
+  },
+  {
     "title": "Google検索が「AI検索」に──エージェント機能やマルチモーダル入力に対応",
     "link": "https://www.itmedia.co.jp/news/articles/2605/20/news067.html",
     "published": "Wed, 20 May 2026 06:08:00 +0900",
