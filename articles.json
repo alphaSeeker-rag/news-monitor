@@ -1,5 +1,291 @@
 [
   {
+    "title": "Grok、「OpenClaw」と連携　サブスク加入者なら直接利用可能　メッセージアプリ経由で操作も",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/20/news124.html",
+    "published": "Wed, 20 May 2026 17:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Google、AIが価格監視や決済最適化を自動で行う「Universal Cart」発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/20/news102.html",
+    "published": "Wed, 20 May 2026 14:41:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "この画像はAI製？グーグルが見破る新機能　メガネ型端末にも再参入",
+    "link": "http://www.asahi.com/articles/ASV5N1DM8V5NUHBI009M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIデリバリーシステムの導入で160億円超の損害を被った」とピザハットのフランチャイズ加盟店が提訴",
+    "link": "https://gigazine.net/news/20260520-pizza-hut-franchisee-sues-ai-delivery-system/",
+    "published": "Wed, 20 May 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが複数サービスや店舗を横断して使えるショッピングハブ「Universal Cart」発表、UCP対応でAIエージェントが人間の代わりにオンラインショッピングを完結可能に",
+    "link": "https://gigazine.net/news/20260520-google-universal-cart/",
+    "published": "Wed, 20 May 2026 19:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleのウェブベースのAI StudioでユーザーがネイティブAndroidアプリを作成できるように",
+    "link": "https://gigazine.net/news/20260520-google-ai-studio/",
+    "published": "Wed, 20 May 2026 18:25:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが映画制作ツール「Flow」と音楽制作ツール「Flow Music」を大幅アップデート、Gemini Omni提供＆AIエージェント追加＆カスタムツール作成機能＆モバイルアプリも新登場",
+    "link": "https://gigazine.net/news/20260520-flow-by-google/",
+    "published": "Wed, 20 May 2026 17:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "YouTubeに対話型検索機能「Ask YouTube」が登場、さらにマルチモーダル生成AI「Gemini Omni」がYouTubeショートのリミックスとYouTube Createアプリに導入へ",
+    "link": "https://gigazine.net/news/20260520-ask-youtube-gemini-omni/",
+    "published": "Wed, 20 May 2026 15:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが科学者のAI利用に役立つ実験機能コレクションの「Gemini for Science」を発表、30以上の主要な生命科学DBとツールの知見を統合したAIエージェントスキル集「Science Skills」や専門家レベルの実証ソフト作成支援のためのAIツール「ERA」なども登場",
+    "link": "https://gigazine.net/news/20260520-google-gemini-for-science-science-skills-era/",
+    "published": "Wed, 20 May 2026 15:29:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleがGemini APIに「マネージドエージェント」を追加、AIエージェントの実行環境を丸ごと提供へ",
+    "link": "https://gigazine.net/news/20260520-google-gemini-api-managed-agents/",
+    "published": "Wed, 20 May 2026 12:48:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleがAIエージェント「Gemini Spark」発表、Google Cloud上の仮想マシンを使用して24時間365日バックグラウンドで動作",
+    "link": "https://gigazine.net/news/20260520-google-gemini-spark/",
+    "published": "Wed, 20 May 2026 12:28:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Appleが新たなアクセシビリティ機能とApple Intelligenceを活用したアップデートを発表",
+    "link": "https://gigazine.net/news/20260520-apple-intelligence-accessibility-features/",
+    "published": "Wed, 20 May 2026 11:59:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Customers say Trump Mobile is leaking their personal information",
+    "link": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
+    "published": "Wed, 20 May 2026 15:28:55 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Intuit to lay off over 3,000 employees to refocus on AI",
+    "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+    "published": "Wed, 20 May 2026 15:14:31 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "AI search startups are blowing up",
+    "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+    "published": "Wed, 20 May 2026 15:04:45 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Stability AI releases a new audio model that can create six-minute songs",
+    "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+    "published": "Wed, 20 May 2026 15:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+    "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+    "published": "Wed, 20 May 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "GitHub says hackers stole data from thousands of internal repositories",
+    "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
+    "published": "Wed, 20 May 2026 13:25:58 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Figma adds an AI assistant to its collaborative canvas",
+    "link": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+    "published": "Wed, 20 May 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Quartermaster is building a maritime hive mind",
+    "link": "https://techcrunch.com/2026/05/20/quartermaster-is-building-a-maritime-hive-mind/",
+    "published": "Wed, 20 May 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
+    "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
+    "published": "Wed, 20 May 2026 05:45:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Local Coding Agent が身近なタスクをどれくらいこなせるのかを検証した",
+    "link": "https://zenn.dev/aishift/articles/5b048ff347fd7b",
+    "published": "Wed, 20 May 2026 00:26:49 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "🪽Hermes Agent × LINE で体験する「自律型AI」入門 in 会津若松🪽",
+    "link": "https://zenn.dev/n0bisuke/books/hermes-agent-linebot",
+    "published": "Tue, 19 May 2026 15:11:58 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "AIでコードが増えていくこの時代に、メンテナンスコスト削減にもAIを",
+    "link": "https://zenn.dev/r_kaga/articles/00f4bef5a8ac70",
+    "published": "Tue, 19 May 2026 07:33:00 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "AIハーネスの心臓部 ── AIのAIによるAIのためのナレッジグラフ（連載Part 2）",
+    "link": "https://zenn.dev/aircloset/articles/f6c990989e60d4",
+    "published": "Tue, 19 May 2026 00:19:49 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Ollamaがバージョンアップで大きく変わった模様: 人工知能深訪",
+    "link": "https://zenn.dev/dozo/articles/80393187f20a44",
+    "published": "Mon, 18 May 2026 20:39:06 GMT",
+    "keywords": [
+      "人工知能"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-20 15:40:44",
+    "ai_summary": null
+  },
+  {
     "title": "Google、パーソナルAIエージェント「Gemini Spark」発表――デバイスを閉じても自律で働く",
     "link": "https://www.itmedia.co.jp/news/articles/2605/20/news068.html",
     "published": "Wed, 20 May 2026 07:15:00 +0900",
