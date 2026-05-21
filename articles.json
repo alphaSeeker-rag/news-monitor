@@ -1,5 +1,291 @@
 [
   {
+    "title": "AI投資など成果最大化へ国・地域別戦略　自民提言案の全容判明　骨太にも反映",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/21/news126.html",
+    "published": "Thu, 21 May 2026 19:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-21 15:42:59",
+    "ai_summary": null
+  },
+  {
+    "title": "ChatGPTでYahoo!ショッピングの商品が探せるように　ECモールで初の連携",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/21/news108.html",
+    "published": "Thu, 21 May 2026 16:55:00 +0900",
+    "keywords": [
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-21 15:42:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic、SpaceXのクラウドに毎月2000億円弱を支払うと判明　「Claude」の計算リソース確保で",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/21/news083.html",
+    "published": "Thu, 21 May 2026 13:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-21 15:42:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Google Cloudが誤ってアカウント停止、Railway全体が約8時間ダウンした障害の全貌",
+    "link": "https://gigazine.net/news/20260521-railway-incident/",
+    "published": "Thu, 21 May 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Wikipediaを運営するウィキメディア財団のバーナデット・ミーハン新CEOにインタビュー、AI時代のWikipediaは何を目指しているのか根掘り葉掘り聞いてみました",
+    "link": "https://gigazine.net/news/20260521-wikimedia-foundation-ceo-interview/",
+    "published": "Thu, 21 May 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "AlibabaがAIエージェント向け新モデル「Qwen3.7-Max」を発表、35時間の自律作業と1000回超のツール呼び出しに対応",
+    "link": "https://gigazine.net/news/20260521-qwen-3-7/",
+    "published": "Thu, 21 May 2026 17:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAが拡散言語モデル「Nemotron-Labs-Diffusion」を公開、拡散モードと自己回帰モードを切り替え可能で画像を処理できるVLMもあり",
+    "link": "https://gigazine.net/news/20260521-nemotron-labs-diffusion/",
+    "published": "Thu, 21 May 2026 15:47:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Claudeを開発するAI企業のAnthropicが哲学者や宗教団体と意見交換する理由とは？",
+    "link": "https://gigazine.net/news/20260521-anthropic-ai-conversation-philosophers-clergy/",
+    "published": "Thu, 21 May 2026 14:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが80年近く未解決だった数学予想の反証に成功、人間の数学者も「AIが補助役を超えた」と驚く発見",
+    "link": "https://gigazine.net/news/20260521-openai-model-disproves-discrete-geometry-conjecture/",
+    "published": "Thu, 21 May 2026 12:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Google検索のAIモードの回答に広告が含まれることが正式発表される、AI説明文つきの製品広告を検索結果に含めることも計画",
+    "link": "https://gigazine.net/news/20260521-google-marketing-ai-search/",
+    "published": "Thu, 21 May 2026 12:13:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "GrokがOpenClawをサポート",
+    "link": "https://gigazine.net/news/20260521-openclaw-grok/",
+    "published": "Thu, 21 May 2026 12:02:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+    "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+    "published": "Thu, 21 May 2026 15:27:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Spotify will reserve tickets for top fans of an artists in a bid to drum up engagement",
+    "link": "https://techcrunch.com/2026/05/21/spotify-will-reserve-tickets-for-top-fans-of-an-artists-in-a-bid-to-drum-up-engagement/",
+    "published": "Thu, 21 May 2026 15:26:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+    "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+    "published": "Thu, 21 May 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
+    "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+    "published": "Thu, 21 May 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement",
+    "link": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/",
+    "published": "Thu, 21 May 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+    "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+    "published": "Thu, 21 May 2026 13:52:23 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+    "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+    "published": "Thu, 21 May 2026 13:38:42 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Flipper unveils a Linux-powered networking gadget built for hackers and tinkerers",
+    "link": "https://techcrunch.com/2026/05/21/flipper-unveils-a-linux-powered-networking-gadget-built-for-hackers-and-tinkerers/",
+    "published": "Thu, 21 May 2026 13:25:37 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Scammers are abusing an internal Microsoft account to send spam links",
+    "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+    "published": "Thu, 21 May 2026 11:42:57 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
+    "link": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
+    "published": "Thu, 21 May 2026 11:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Truecaller gets into the eSIM business to diversify its revenue streams",
+    "link": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
+    "published": "Thu, 21 May 2026 06:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "General Catalyst just led a $63M bet on India’s travel payments market",
+    "link": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
+    "published": "Thu, 21 May 2026 05:52:38 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+    "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+    "published": "Thu, 21 May 2026 04:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "SaaS で AI Agent を提供するあなたへ贈る、Bedrock AgentCore マルチテナント実装 - Runtime 編",
+    "link": "https://zenn.dev/aws_japan/articles/6640624910acc3",
+    "published": "Wed, 20 May 2026 23:44:25 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
+    "title": "toC プラットフォームの  AIチャット を支える技術",
+    "link": "https://zenn.dev/kawason/articles/7118acbf3b07f1",
+    "published": "Wed, 20 May 2026 11:44:26 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-21 15:43:00",
+    "ai_summary": null
+  },
+  {
     "title": "Google、Gemini活用の新広告フォーマットをGoogle検索に導入、「AI Mode」向けの会話型広告も",
     "link": "https://www.itmedia.co.jp/news/articles/2605/21/news071.html",
     "published": "Thu, 21 May 2026 10:43:00 +0900",
