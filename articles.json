@@ -1,5 +1,115 @@
 [
   {
+    "title": "Anthropicの営業責任者が業務にClaudeをどのように活用しているのかを解説",
+    "link": "https://gigazine.net/news/20260522-anthropic-sales-leader-claude-cowork/",
+    "published": "Fri, 22 May 2026 06:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-21 22:20:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+    "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+    "published": "Thu, 21 May 2026 19:45:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 22:20:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
+    "link": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
+    "published": "Thu, 21 May 2026 19:33:39 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 22:20:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+    "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+    "published": "Thu, 21 May 2026 19:19:05 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 22:20:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Convective Capital raises an $85 million fund to build disaster resilience",
+    "link": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
+    "published": "Thu, 21 May 2026 17:41:20 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 22:20:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+    "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "published": "Thu, 21 May 2026 17:30:45 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 22:20:03",
+    "ai_summary": null
+  },
+  {
+    "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
+    "link": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
+    "published": "Thu, 21 May 2026 16:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-21 22:20:03",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleのModern Web Guidanceに学ぶ、モダンCSSのDos / Don'ts大全",
+    "link": "https://zenn.dev/ubie_dev/articles/modern-css-dos-donts",
+    "published": "Thu, 21 May 2026 07:31:37 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-21 22:20:04",
+    "ai_summary": null
+  },
+  {
+    "title": "【PDF圧縮】約40年続く業界標準Ghostscriptを、Rust 自前実装で抜いた話",
+    "link": "https://zenn.dev/ikora/articles/b50ca6275eddc9",
+    "published": "Thu, 21 May 2026 05:50:24 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-21 22:20:04",
+    "ai_summary": null
+  },
+  {
+    "title": "Clojurianが出会ったsimple志向なJVM関数型言語Flix ——ファーストインプレッション",
+    "link": "https://zenn.dev/lagenorhynque/articles/fd102acdedea21",
+    "published": "Thu, 21 May 2026 04:21:40 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-21 22:20:04",
+    "ai_summary": null
+  },
+  {
     "title": "AI投資など成果最大化へ国・地域別戦略　自民提言案の全容判明　骨太にも反映",
     "link": "https://www.itmedia.co.jp/news/articles/2605/21/news126.html",
     "published": "Thu, 21 May 2026 19:10:00 +0900",
