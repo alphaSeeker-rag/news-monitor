@@ -1,5 +1,227 @@
 [
   {
+    "title": "「私も2次元しか愛せない人間」　小野田大臣がAIへの恋愛感情に見解示す　依存には懸念",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/22/news125.html",
+    "published": "Fri, 22 May 2026 16:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-22 14:52:04",
+    "ai_summary": null
+  },
+  {
+    "title": "USEN、「AI店長」開発　飲食店特化のAIプロダクト投入へ　ドリンク残量の自動検知も",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/22/news123.html",
+    "published": "Fri, 22 May 2026 16:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-22 14:52:04",
+    "ai_summary": null
+  },
+  {
+    "title": "VAIO、個人向けPCを「指定価格」に　どの店でも同じ価格",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/22/news117.html",
+    "published": "Fri, 22 May 2026 15:51:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-22 14:52:04",
+    "ai_summary": null
+  },
+  {
+    "title": "CapCut、Google Geminiと連携　動画生成から編集までGeminiアプリ内で可能に",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/22/news097.html",
+    "published": "Fri, 22 May 2026 13:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-22 14:52:04",
+    "ai_summary": null
+  },
+  {
+    "title": "「Google AI Pro」ユーザーはYouTube広告ほぼ非表示　「Premium Lite」無料付与",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/22/news107.html",
+    "published": "Fri, 22 May 2026 13:27:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-22 14:52:04",
+    "ai_summary": null
+  },
+  {
+    "title": "漏洩したGoogle APIキーは削除後も約23分間使える可能性があると研究者が確認",
+    "link": "https://gigazine.net/news/20260522-google-api-key-remain-live/",
+    "published": "Fri, 22 May 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-22 14:52:05",
+    "ai_summary": null
+  },
+  {
+    "title": "宇宙船ヘイル・メアリー号の軌跡を星図調査のオープンソースデータを基に描く『プロジェクト・ヘイル・メアリー』の恒星航行図が公開中",
+    "link": "https://gigazine.net/news/20260522-project-hail-mary-star-map/",
+    "published": "Fri, 22 May 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-22 14:52:05",
+    "ai_summary": null
+  },
+  {
+    "title": "画像生成AI「FLUX」の開発元が不要物削除ツール「Erase」を発表、無料で使えるデモアプリもあり",
+    "link": "https://gigazine.net/news/20260522-flux-erase-black-forest-labs/",
+    "published": "Fri, 22 May 2026 16:11:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-22 14:52:05",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazon創業者のジェフ・ベゾスがAIによる雇用不安を否定、「下位半分の所得税撤廃に賛成」「トランプ大統領への称賛」なども語る",
+    "link": "https://gigazine.net/news/20260522-jeff-bezos-taxes-ai-trump/",
+    "published": "Fri, 22 May 2026 16:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-22 14:52:05",
+    "ai_summary": null
+  },
+  {
+    "title": "Cohereがエージェントタスク向けに構築されたMoEマルチモーダルAI「Command A+」をリリース、自社環境に展開できる企業向けの高性能オープンソースモデル",
+    "link": "https://gigazine.net/news/20260522-cohere-command-a-plus/",
+    "published": "Fri, 22 May 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-22 14:52:05",
+    "ai_summary": null
+  },
+  {
+    "title": "AIによる雇用喪失に備える行政命令にカリフォルニア州知事が署名",
+    "link": "https://gigazine.net/news/20260522-california-ai-job-losses/",
+    "published": "Fri, 22 May 2026 14:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-22 14:52:05",
+    "ai_summary": null
+  },
+  {
+    "title": "スターバックスがAI在庫管理ツールを導入から9カ月で廃止、ミス多発のため",
+    "link": "https://gigazine.net/news/20260522-starbucks-abandons-ai-inventory-tool/",
+    "published": "Fri, 22 May 2026 13:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-22 14:52:05",
+    "ai_summary": null
+  },
+  {
+    "title": "無線通信ハックガジェット「Flipper One」の開発が進行中、Wi-Fiや5GなどあらゆるIP通信のハックに対応＆ローカルAIを実行可能でFlipper Zeroとは別カテゴリのデバイス",
+    "link": "https://gigazine.net/news/20260522-flipper-one/",
+    "published": "Fri, 22 May 2026 12:56:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-22 14:52:05",
+    "ai_summary": null
+  },
+  {
+    "title": "ChatGPTでPowerPointを自動操作してスライドを作れる「ChatGPT for PowerPoint」が登場",
+    "link": "https://gigazine.net/news/20260522-chatgpt-for-powerpoint/",
+    "published": "Fri, 22 May 2026 12:26:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-22 14:52:05",
+    "ai_summary": null
+  },
+  {
+    "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
+    "link": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+    "published": "Fri, 22 May 2026 14:30:52 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-22 14:52:06",
+    "ai_summary": null
+  },
+  {
+    "title": "Smart ring maker Oura files to go public",
+    "link": "https://techcrunch.com/2026/05/22/smart-ring-maker-oura-files-to-go-public/",
+    "published": "Fri, 22 May 2026 14:03:35 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-22 14:52:06",
+    "ai_summary": null
+  },
+  {
+    "title": "Audio generation app Huxe, founded by former NotebookLM developers, shuts down",
+    "link": "https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/",
+    "published": "Fri, 22 May 2026 13:48:03 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-22 14:52:06",
+    "ai_summary": null
+  },
+  {
+    "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+    "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+    "published": "Fri, 22 May 2026 06:41:28 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-22 14:52:06",
+    "ai_summary": null
+  },
+  {
+    "title": "既存サービスにMCPサーバーを組み込む際の設計ポイント",
+    "link": "https://zenn.dev/finatext/articles/b404032aec58c4",
+    "published": "Thu, 21 May 2026 06:32:42 GMT",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-22 14:52:06",
+    "ai_summary": null
+  },
+  {
+    "title": "電話でメールアドレスを読まされる問題を6桁で解決した話",
+    "link": "https://zenn.dev/shuhei_kanki/articles/8fa8b87924bf50",
+    "published": "Thu, 21 May 2026 03:14:39 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-22 14:52:06",
+    "ai_summary": null
+  },
+  {
     "title": "不法滞在・就労　入管がSNS分析強化へ　AIで自動巡回システム導入を検討",
     "link": "https://www.itmedia.co.jp/news/articles/2605/22/news070.html",
     "published": "Fri, 22 May 2026 10:18:00 +0900",
