@@ -1,5 +1,82 @@
 [
   {
+    "title": "不法滞在・就労　入管がSNS分析強化へ　AIで自動巡回システム導入を検討",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/22/news070.html",
+    "published": "Fri, 22 May 2026 10:18:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-22 02:57:43",
+    "ai_summary": null
+  },
+  {
+    "title": "Spotify、UMGとの提携で生成AIで楽曲リミックスが作れる有料ツール導入へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/22/news065.html",
+    "published": "Fri, 22 May 2026 07:56:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-22 02:57:43",
+    "ai_summary": null
+  },
+  {
+    "title": "SpotifyがAI活用のライセンス付きカバー＆リミックスツールを提供へ、UMGと画期的契約",
+    "link": "https://gigazine.net/news/20260522-spotify-ai-licensed-cover-remix-tool/",
+    "published": "Fri, 22 May 2026 11:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-22 02:57:44",
+    "ai_summary": null
+  },
+  {
+    "title": "音楽生成AI「Stable Audio 3.0」が登場、6分以上の音楽を生成可能な大型モデルとスマホで動作する小型モデルが公開される",
+    "link": "https://gigazine.net/news/20260522-stable-audio-3/",
+    "published": "Fri, 22 May 2026 10:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-22 02:57:44",
+    "ai_summary": null
+  },
+  {
+    "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース",
+    "link": "https://gigazine.net/news/20260522-spotify-audiobooks-elevenlabs/",
+    "published": "Fri, 22 May 2026 10:22:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-22 02:57:44",
+    "ai_summary": null
+  },
+  {
+    "title": "国際的な短編小説賞を受賞した5作品中3作品が「生成AIで書かれた可能性が高い」と指摘される事態に",
+    "link": "https://gigazine.net/news/20260522-commonwealth-short-story-winner-ai-generated/",
+    "published": "Fri, 22 May 2026 08:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-22 02:57:44",
+    "ai_summary": null
+  },
+  {
+    "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+    "link": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+    "published": "Fri, 22 May 2026 00:07:47 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-22 02:57:44",
+    "ai_summary": null
+  },
+  {
     "title": "Anthropicの営業責任者が業務にClaudeをどのように活用しているのかを解説",
     "link": "https://gigazine.net/news/20260522-anthropic-sales-leader-claude-cowork/",
     "published": "Fri, 22 May 2026 06:00:00 +0900",
