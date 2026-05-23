@@ -1,5 +1,82 @@
 [
   {
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "published": "Sat, 23 May 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-23 13:51:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
+    "link": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
+    "published": "Sat, 23 May 2026 07:01:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-23 13:51:47",
+    "ai_summary": null
+  },
+  {
+    "title": "TSKaigi 2026に行ってきた〜〜〜〜……よ！！！！Day 1",
+    "link": "https://zenn.dev/koyo_k0/articles/3b08a6f60ecb76",
+    "published": "Fri, 22 May 2026 13:05:23 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-23 13:51:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Rust + axum で画像掲示板を作る (1) プロジェクト初期化と Hello, axum!",
+    "link": "https://zenn.dev/purenium/articles/2026_05_22_rust-axum-imgbbs-01-init",
+    "published": "Fri, 22 May 2026 11:43:45 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-23 13:51:47",
+    "ai_summary": null
+  },
+  {
+    "title": "日本語PDFで「Keyword search is all you need」を試す：Agent RAGとVector RAGの精度・コスト",
+    "link": "https://zenn.dev/retrieva_tech/articles/f4386f6b246b34",
+    "published": "Fri, 22 May 2026 01:23:16 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-23 13:51:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft 公式の WinUI agent plugin で WinUI 3 アプリ開発がぐっと楽になった話",
+    "link": "https://zenn.dev/microsoft/articles/winui-agent-plugin",
+    "published": "Thu, 21 May 2026 23:33:10 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-23 13:51:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Code 用のエージェントを Codex にも対応させる",
+    "link": "https://zenn.dev/scalar_sol_blog/articles/74374b5ad77607",
+    "published": "Thu, 21 May 2026 11:45:43 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-23 13:51:47",
+    "ai_summary": null
+  },
+  {
     "title": "Google.comで「ignore」を検索すると……",
     "link": "https://www.itmedia.co.jp/news/articles/2605/23/news033.html",
     "published": "Sat, 23 May 2026 07:32:00 +0900",
