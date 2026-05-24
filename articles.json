@@ -1,5 +1,71 @@
 [
   {
+    "title": "AppleがWWDCに先立ち「Gen AI」(生成AI)用のサブドメインを準備していることが明らかに",
+    "link": "https://gigazine.net/news/20260524-apple-preparing-gen-ai-website/",
+    "published": "Sun, 24 May 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-24 13:49:36",
+    "ai_summary": null
+  },
+  {
+    "title": "DevOps を閉じる ―― オブザーバビリティとは何か",
+    "link": "https://zenn.dev/ntk221/articles/ff6f235208cfcd",
+    "published": "Sun, 24 May 2026 06:55:30 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-24 13:49:36",
+    "ai_summary": null
+  },
+  {
+    "title": "【アーキテクチャ】大量の類似 Feature を持つ Enterprise なフロントエンド設計",
+    "link": "https://zenn.dev/yuitonn/articles/f88ddcf21ce172",
+    "published": "Sat, 23 May 2026 17:17:57 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-24 13:49:36",
+    "ai_summary": null
+  },
+  {
+    "title": "AI エージェントで意思決定を加速する ─ Power Platform × Copilot Studio × DecisionFlow",
+    "link": "https://zenn.dev/minoru365/articles/decisionflow-hackathon-2026",
+    "published": "Sat, 23 May 2026 16:00:29 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-24 13:49:36",
+    "ai_summary": null
+  },
+  {
+    "title": "AIコーディングエージェントの本当の攻撃面は設定ファイルだった",
+    "link": "https://zenn.dev/ju571n/articles/ai-agent-config-attack-surface",
+    "published": "Sat, 23 May 2026 11:51:21 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-24 13:49:36",
+    "ai_summary": null
+  },
+  {
+    "title": "TSKaigi 2026 発表資料まとめ",
+    "link": "https://zenn.dev/yasse/articles/a7240304af804c",
+    "published": "Fri, 22 May 2026 10:57:23 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-24 13:49:36",
+    "ai_summary": null
+  },
+  {
     "title": "農機具メーカーのディア・アンド・カンパニーが「修理する権利」の訴訟で15億円以上の和解金を支払う",
     "link": "https://gigazine.net/news/20260524-john-deere-right-to-repair-settlement/",
     "published": "Sun, 24 May 2026 08:00:00 +0900",
