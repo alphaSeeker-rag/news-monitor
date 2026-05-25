@@ -1,5 +1,171 @@
 [
   {
+    "title": "金融庁・日銀、金融機関にAIサイバー攻撃の対策要請　対応の優先度決定など9項目",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/25/news079.html",
+    "published": "Mon, 25 May 2026 12:20:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-25 03:30:58",
+    "ai_summary": null
+  },
+  {
+    "title": "LINEヤフーグループのweb3ウォレットが「JPYC」採用　LINEアプリ上で利用可能に",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/22/news134.html",
+    "published": "Mon, 25 May 2026 10:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-25 03:30:58",
+    "ai_summary": null
+  },
+  {
+    "title": "脳卒中後、なぜ後遺症が残るのか？　脳が修復する仕組み解明　科学大などがNatureで発表　新薬をマウスに投与で改善",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/25/news024.html",
+    "published": "Mon, 25 May 2026 08:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-25 03:30:58",
+    "ai_summary": null
+  },
+  {
+    "title": "AI生成写真が「現実と虚構」の区別を不可能にしているため現実を守るには法規制やAI透かしが必要だという主張",
+    "link": "https://gigazine.net/news/20260525-ai-generated-images-truth-fiction-distinguish/",
+    "published": "Mon, 25 May 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-25 03:30:58",
+    "ai_summary": null
+  },
+  {
+    "title": "Google検索のAIによる概要で「無視する」「軽視する」「スキップする」といった単語を検索するとAIが「命令された」と受け取って適切に回答しない問題が発生",
+    "link": "https://gigazine.net/news/20260525-ai-overviews-disregard/",
+    "published": "Mon, 25 May 2026 11:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-25 03:30:58",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Mythos Previewは深刻度「高」以上と推定される脆弱性候補を6202件発見、日本の銀行でも利用に向けた動きが進む高性能AIの初期レポートが公開される",
+    "link": "https://gigazine.net/news/20260525-anthropic-project-glasswing/",
+    "published": "Mon, 25 May 2026 11:50:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-25 03:30:58",
+    "ai_summary": null
+  },
+  {
+    "title": "台湾がNVIDIA製AI半導体密輸に対する初の本格的な取り締まりで12カ所を捜索、文書偽造と虚偽申告の容疑で逃亡中の3人を逮捕",
+    "link": "https://gigazine.net/news/20260525-taiwan-detain-nvidia-chip-smuggling/",
+    "published": "Mon, 25 May 2026 11:31:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-25 03:30:58",
+    "ai_summary": null
+  },
+  {
+    "title": "Runwayが動画編集AI「Aleph 2.0」をリリース、動画の一部分を編集すると残りはAIが自動で編集してくれる",
+    "link": "https://gigazine.net/news/20260525-runway-aleph-video-edit-ai/",
+    "published": "Mon, 25 May 2026 10:53:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-25 03:30:58",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleのミラーリング機能「Google Cast」がiPhoneでも使えるようになる可能性",
+    "link": "https://gigazine.net/news/20260525-google-cast-join-iphone-airplay/",
+    "published": "Mon, 25 May 2026 10:50:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-25 03:30:58",
+    "ai_summary": null
+  },
+  {
+    "title": "AIがAmazonの偽レビューを93％の精度で検出、星評価と感情傾向のズレも分析可能に",
+    "link": "https://gigazine.net/news/20260525-ai-spot-fake-review/",
+    "published": "Mon, 25 May 2026 09:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-25 03:30:58",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントが毎回データを取りに行く設計の限界",
+    "link": "https://zenn.dev/knowledge_graph/articles/kg-agent-memory-first-design",
+    "published": "Sun, 24 May 2026 08:44:07 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-25 03:30:59",
+    "ai_summary": null
+  },
+  {
+    "title": "AIに投げても解けなかったGPSアート自動生成を、最適化問題として組み立て直した話",
+    "link": "https://zenn.dev/jiro3141/articles/9ad0cd28b076e9",
+    "published": "Sun, 24 May 2026 07:57:08 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-25 03:30:59",
+    "ai_summary": null
+  },
+  {
+    "title": "AI時代で返り咲いたtmuxの活用",
+    "link": "https://zenn.dev/nana/articles/ccf7e548f2cb4e",
+    "published": "Sun, 24 May 2026 07:47:07 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-25 03:30:59",
+    "ai_summary": null
+  },
+  {
+    "title": "なぜAnthropicはプロンプトにXMLタグを推奨するのか──Markdownとの構造的な違い",
+    "link": "https://zenn.dev/yun_bow/articles/a339e1d31a4c43",
+    "published": "Sun, 24 May 2026 04:37:14 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-25 03:30:59",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントからJPYCを送る: EIP-3009が使えなかった話とSpending Policyの実装",
+    "link": "https://zenn.dev/k0yote/articles/0998c7c7f22ba9",
+    "published": "Sun, 24 May 2026 00:25:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-25 03:30:59",
+    "ai_summary": null
+  },
+  {
     "title": "データセンターの排熱で風下の住宅地が暑くなる実例を確認",
     "link": "https://gigazine.net/news/20260525-data-center-waste-heat-downwind/",
     "published": "Mon, 25 May 2026 06:00:00 +0900",
