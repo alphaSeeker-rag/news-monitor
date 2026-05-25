@@ -1,5 +1,193 @@
 [
   {
+    "title": "日大、教職員1万人が「Google AI Pro」活用へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/25/news129.html",
+    "published": "Mon, 25 May 2026 19:38:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-25 15:21:37",
+    "ai_summary": null
+  },
+  {
+    "title": "基地局が\"クマ見張り役\"に ドコモ、AIカメラで出没検知の実証実験　北海道で",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/25/news127.html",
+    "published": "Mon, 25 May 2026 19:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-25 15:21:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Google、日本の開発者の海外展開を支援する短期集中ワークショップ",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/25/news109.html",
+    "published": "Mon, 25 May 2026 16:06:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-25 15:21:37",
+    "ai_summary": null
+  },
+  {
+    "title": "パワポにChatGPTを召喚できるアドイン、OpenAIがβ版公開　スライド作成から編集まで指示するだけ",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/25/news102.html",
+    "published": "Mon, 25 May 2026 15:45:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-25 15:21:37",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIで声を模倣された」声優の津田健次郎さんがTikTokを提訴",
+    "link": "http://www.asahi.com/articles/ASV5T2J1LV5TUTIL00FM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-25 15:21:37",
+    "ai_summary": null
+  },
+  {
+    "title": "「なぜ日本企業は多様な事業を行っているのか？」という記事が話題に、なぜ日本企業はAIやEVで世界的に通用しないのか？",
+    "link": "https://gigazine.net/news/20260525-japanese-companies-do-so-many/",
+    "published": "Mon, 25 May 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-25 15:21:38",
+    "ai_summary": null
+  },
+  {
+    "title": "動画ダウンローダー「yt-dlp」でBunが非推奨化される、BunのAIコーディング偏重にリスクありとの判断",
+    "link": "https://gigazine.net/news/20260525-yt-dlp-bun/",
+    "published": "Mon, 25 May 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-25 15:21:38",
+    "ai_summary": null
+  },
+  {
+    "title": "人間には普通の契約書に見えるのに「嘘のフォント」でAIだけ別の文章を読まされる「Noroboto」攻撃とは？",
+    "link": "https://gigazine.net/news/20260525-noroboto/",
+    "published": "Mon, 25 May 2026 18:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-25 15:21:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Appleが画像圧縮AIコーデック「PICO」を発表、同じ画質でデータ量を最大3分の1に削減",
+    "link": "https://gigazine.net/news/20260525-ml-pico/",
+    "published": "Mon, 25 May 2026 15:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-25 15:21:38",
+    "ai_summary": null
+  },
+  {
+    "title": "AIチップのコストの63％がメモリに、GPUよりメモリの方が高い時代へ",
+    "link": "https://gigazine.net/news/20260525-ai-chip-memory-cost/",
+    "published": "Mon, 25 May 2026 13:51:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-25 15:21:38",
+    "ai_summary": null
+  },
+  {
+    "title": "リアルタイム動画生成AI「LongLive-2.0」をNVIDIAが公開、FP4量子化を想定した学習により軽量かつ高品質な生成を実現",
+    "link": "https://gigazine.net/news/20260525-nvidia-video-generation-ai-longlive-2/",
+    "published": "Mon, 25 May 2026 13:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-25 15:21:38",
+    "ai_summary": null
+  },
+  {
+    "title": "The pope’s AI encyclical isn’t really about AI",
+    "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "published": "Mon, 25 May 2026 15:09:41 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-25 15:21:38",
+    "ai_summary": null
+  },
+  {
+    "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+    "link": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+    "published": "Mon, 25 May 2026 15:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-25 15:21:38",
+    "ai_summary": null
+  },
+  {
+    "title": "AI時代の競争優位は「統合」にしかない —— エンジニアと組織が、今投資すべきもの",
+    "link": "https://zenn.dev/peoplex_blog/articles/f2cfcd8b625202",
+    "published": "Mon, 25 May 2026 02:16:42 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-25 15:21:38",
+    "ai_summary": null
+  },
+  {
+    "title": "AIで加速するプロダクトの変化を、開発チームの外に届ける仕組みづくり",
+    "link": "https://zenn.dev/nstock/articles/ui-change-notifier",
+    "published": "Sun, 24 May 2026 23:58:20 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-25 15:21:38",
+    "ai_summary": null
+  },
+  {
+    "title": "いまさら聞けない CancellationToken",
+    "link": "https://zenn.dev/poipoionigiri/articles/eafa9efa99be11",
+    "published": "Sun, 24 May 2026 11:00:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-25 15:21:38",
+    "ai_summary": null
+  },
+  {
+    "title": "AWS資格の価値は「誰が取ったか」で変わる",
+    "link": "https://zenn.dev/philosophum/articles/6e5bcf90d33aed",
+    "published": "Sun, 24 May 2026 10:58:20 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-25 15:21:38",
+    "ai_summary": null
+  },
+  {
     "title": "金融庁・日銀、金融機関にAIサイバー攻撃の対策要請　対応の優先度決定など9項目",
     "link": "https://www.itmedia.co.jp/news/articles/2605/25/news079.html",
     "published": "Mon, 25 May 2026 12:20:00 +0900",
