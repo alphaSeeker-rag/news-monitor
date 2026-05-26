@@ -1,5 +1,104 @@
 [
   {
+    "title": "Googleで「結婚して」と検索したら、丁寧に断られた　検索クエリを指令と勘違い？",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/26/news067.html",
+    "published": "Tue, 26 May 2026 10:34:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-26 02:50:52",
+    "ai_summary": null
+  },
+  {
+    "title": "考えるだけでPC操作・脳内発話も　中国がAI脳インプラント開発加速、一般販売も間近か　Nature報道",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/26/news019.html",
+    "published": "Tue, 26 May 2026 08:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-26 02:50:52",
+    "ai_summary": null
+  },
+  {
+    "title": "総額は同じなのに、なぜ「送料無料」を選ぶのか？　fMRIで脳をのぞいて解明　韓国チームが学術誌で発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/25/news062.html",
+    "published": "Tue, 26 May 2026 08:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-26 02:50:52",
+    "ai_summary": null
+  },
+  {
+    "title": "古いアニメをAIで美麗に生まれ変わらせる「Aiarty Video Enhancer」使ってみたレビュー、簡単操作で低解像度の動画を4Kに高画質化",
+    "link": "https://gigazine.net/news/20260526-aiarty-video-enhancer/",
+    "published": "Tue, 26 May 2026 09:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-26 02:50:53",
+    "ai_summary": null
+  },
+  {
+    "title": "「ユーザーの携帯電話を盗聴する広告機能」を宣伝していたマーケティング企業が罰金を科される、実際に盗聴していた証拠なし",
+    "link": "https://gigazine.net/news/20260526-fined-bragging-spied-users-phones/",
+    "published": "Tue, 26 May 2026 11:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-26 02:50:53",
+    "ai_summary": null
+  },
+  {
+    "title": "Gemma 4をMacBookで実行して「大量の動画ファイルの説明文」を実行したAI開発者の記録が興味深い",
+    "link": "https://gigazine.net/news/20260526-gemma-4-video-index/",
+    "published": "Tue, 26 May 2026 08:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-26 02:50:53",
+    "ai_summary": null
+  },
+  {
+    "title": "TypeScriptの裏側を浴びた2日間 ── TSKaigi 2026参加記",
+    "link": "https://zenn.dev/0st_ts/articles/7878ffe89b8c6a",
+    "published": "Mon, 25 May 2026 10:00:07 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-26 02:50:53",
+    "ai_summary": null
+  },
+  {
+    "title": "TanStack Query × Dexie.js で「プロトタイプを全部捨てる」から卒業する境界設計",
+    "link": "https://zenn.dev/dress_code/articles/5d33f06aa14582",
+    "published": "Mon, 25 May 2026 09:30:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-26 02:50:53",
+    "ai_summary": null
+  },
+  {
+    "title": "社内の知見をAIが漏らさず拾う唯一の設計思想 ― Karpathy氏のLLM Wikiを実践して分かったこと",
+    "link": "https://zenn.dev/nori_handa/articles/llm-knowledge-base-karpathy-wiki",
+    "published": "Mon, 25 May 2026 00:44:18 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-26 02:50:53",
+    "ai_summary": null
+  },
+  {
     "title": "教皇レオ14世、AIの軍事利用や労働への影響に回勅で警鐘　Anthropicの共同創業者が同席してコメント",
     "link": "https://www.itmedia.co.jp/news/articles/2605/26/news059.html",
     "published": "Tue, 26 May 2026 06:17:00 +0900",
