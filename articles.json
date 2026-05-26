@@ -1,5 +1,192 @@
 [
   {
+    "title": "PIXTA、AI生成素材の販売終了　「購入者が求めるのは人の手による作品」",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/26/news125.html",
+    "published": "Tue, 26 May 2026 19:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "松下幸之助氏の「AI偽動画」に注意　PHP研究所が再告知　津田健次郎さんによるTikTok提訴受け",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/26/news080.html",
+    "published": "Tue, 26 May 2026 14:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "被害長女がChatGPTに相談→児相に通報か　巨人・阿部前監督の暴行事件",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/26/news081.html",
+    "published": "Tue, 26 May 2026 12:37:00 +0900",
+    "keywords": [
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "「AI検索で著作権侵害」読売新聞が訴え　パープレキシティ争う姿勢",
+    "link": "http://www.asahi.com/articles/ASV5V32WFV5VUTIL01ZM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "DeepSeekは低価格AIでどうやって稼ぐつもりなのか？",
+    "link": "https://gigazine.net/news/20260526-deepseek-strategy/",
+    "published": "Tue, 26 May 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIが捏造した参考文献」が含まれる生物医学論文が2023年から3年で12倍以上に急増、2026年には277件に1つという割合に",
+    "link": "https://gigazine.net/news/20260526-ai-hallucinations-scientific-research-fake-citations/",
+    "published": "Tue, 26 May 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "10億パラメーターの小型モデル「MiniCPM5-1B」がオープンモデルとして公開される＆ローカル動作するAIペット「MiniCPM Desk Pet」も登場",
+    "link": "https://gigazine.net/news/20260526-minicpm5-1b-openbmb-ai/",
+    "published": "Tue, 26 May 2026 17:17:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft 365 CopilotのAIエージェント機能「Cowork」が勝手にファイルを流出させる可能性があるとセキュリティ企業が指摘",
+    "link": "https://gigazine.net/news/20260526-microsoft-copilot-cowork-exfiltrates-files/",
+    "published": "Tue, 26 May 2026 14:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "中国製高性能AI「DeepSeek-V4-Pro」の75％割引が永続化される、DeepSeek専用設計のコーディングエージェント「Reasonix」にも注目が集まる",
+    "link": "https://gigazine.net/news/20260526-deepseek-v4-pro-pricing/",
+    "published": "Tue, 26 May 2026 13:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "教皇レオ14世がAIに関する回勅「マニフィカ・フマニタス」発表、AI規制や子どもの保護を訴え、AI時代の「新たな奴隷制」を批判",
+    "link": "https://gigazine.net/news/20260526-leo-xiv-magnifica-humanitas/",
+    "published": "Tue, 26 May 2026 13:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
+    "link": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
+    "published": "Tue, 26 May 2026 15:26:27 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Ferrari’s first EV is not for you",
+    "link": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
+    "published": "Tue, 26 May 2026 15:16:34 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+    "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "published": "Tue, 26 May 2026 14:55:05 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Spotify now lets you stream narrated magazine articles, too",
+    "link": "https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/",
+    "published": "Tue, 26 May 2026 14:38:05 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
+    "link": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
+    "published": "Tue, 26 May 2026 12:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "AIが書いたコードはAIが見る ── レビューが詰まらず、品質はむしろ上がる（連載Part 3）",
+    "link": "https://zenn.dev/aircloset/articles/91824e55b7fc9c",
+    "published": "Mon, 25 May 2026 23:37:52 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
+    "title": "DevContainerより軽量？Devboxで開発環境を瞬時に作る",
+    "link": "https://zenn.dev/arkbig/articles/devbox_0b6b39cd097e3288fe58baa5a49c7d39a28c5b46849",
+    "published": "Mon, 25 May 2026 14:14:03 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-26 15:57:03",
+    "ai_summary": null
+  },
+  {
     "title": "Googleで「結婚して」と検索したら、丁寧に断られた　検索クエリを指令と勘違い？",
     "link": "https://www.itmedia.co.jp/news/articles/2605/26/news067.html",
     "published": "Tue, 26 May 2026 10:34:00 +0900",
