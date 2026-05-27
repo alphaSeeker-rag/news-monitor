@@ -1,5 +1,182 @@
 [
   {
+    "title": "北朝鮮 キム総書記 AI誘導の巡航ミサイルなどの発射実験視察",
+    "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132461000.html",
+    "published": "Wed, 27 May 2026 11:49:16 +0900",
+    "keywords": [
+      "AI",
+      "人工知能"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-05-27 03:29:14",
+    "ai_summary": null
+  },
+  {
+    "title": "“未知の遺跡”をAIと地形データで発見──奈良文化財研究所　一般の人の取り組みにも期待",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/27/news080.html",
+    "published": "Wed, 27 May 2026 12:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Google、Workspaceアプリのアイコン刷新　Gmail、カレンダーなど一斉にデザイン変更",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/27/news079.html",
+    "published": "Wed, 27 May 2026 11:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
+    "title": "選挙の公正確保を　“虚偽”SNS対策が判明、AI生成動画像に改変表示義務付け　与野党案",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/27/news072.html",
+    "published": "Wed, 27 May 2026 10:39:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
+    "title": "「小説家になろう」、AI利用状況を報告必須に　未設定だと9月から投稿不可",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/27/news071.html",
+    "published": "Wed, 27 May 2026 10:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
+    "title": "日経平均、一時初の6万6000円台　AI・半導体関連株が牽引",
+    "link": "http://www.asahi.com/articles/ASV5W0GCRV5WULFA008M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
+    "title": "「ひゃくえむ。」監督が語るアニメの今と未来　AIも歓迎する理由",
+    "link": "http://www.asahi.com/articles/ASV57235WV57UEFT006M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Xiaomi製AI「MiMo-V2.5」のAPI料金が最大99％引き下げられる",
+    "link": "https://gigazine.net/news/20260527-xiaomi-mimo-v2-5-price-down/",
+    "published": "Wed, 27 May 2026 12:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
+    "title": "画像生成AIの潜在表現を高解像度画像へ直接変換する新技術「PiD」をNVIDIAが開発",
+    "link": "https://gigazine.net/news/20260527-nvidia-pid-pixel-diffusion-decoder/",
+    "published": "Wed, 27 May 2026 11:25:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
+    "title": "週に3億回超ダウンロードされているオープンソースパッケージ「Starlette」の脆弱性により数百万のAIエージェントが危険にさらされる",
+    "link": "https://gigazine.net/news/20260527-millions-ai-agents-imperiled-vulnerability-starlette/",
+    "published": "Wed, 27 May 2026 11:04:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
+    "title": "DuckDuckGoのユーザー数が急増、Google I/OでのAI関連の発表を受けて",
+    "link": "https://gigazine.net/news/20260527-not-google-but-duckduckgo/",
+    "published": "Wed, 27 May 2026 10:38:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Trump administration permits Volvo to keep selling connected cars in the US",
+    "link": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
+    "published": "Tue, 26 May 2026 22:55:01 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
+    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+    "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "published": "Tue, 26 May 2026 22:32:56 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
+    "title": "TSKaigi 2026 にチームラボのフロントエンド班として参加しました",
+    "link": "https://zenn.dev/teamlab_fe/articles/aaffd117e03c34",
+    "published": "Tue, 26 May 2026 06:23:00 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude × Obsidian で「感情の跡」を残す仕組みを作る",
+    "link": "https://zenn.dev/miyaken0805/articles/ed70d88fa81c34",
+    "published": "Tue, 26 May 2026 00:43:00 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
+    "title": "仕様駆動開発最前線 — SDLC を一周描き直す Living Book",
+    "link": "https://zenn.dev/myntai/books/spec-driven-frontier",
+    "published": "Sun, 24 May 2026 10:06:34 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-27 03:29:15",
+    "ai_summary": null
+  },
+  {
     "title": "経営幹部の99％が今後2年以内に「AI関連の人員削減」が起こると考えている",
     "link": "https://gigazine.net/news/20260527-vast-majority-executives-expect-ai-layoffs/",
     "published": "Wed, 27 May 2026 07:00:00 +0900",
