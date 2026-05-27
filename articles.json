@@ -1,5 +1,302 @@
 [
   {
+    "title": "「この答弁はAIが原案作成」　参院本会議で松本デジタル相「職員が事実確認し私が決済」",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/27/news118.html",
+    "published": "Wed, 27 May 2026 16:48:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "富士通が「Claude」全社展開へ　Anthropicと戦略提携、最新モデルへの早期アクセスも",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/27/news115.html",
+    "published": "Wed, 27 May 2026 16:25:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "ヒト型AIロボスタートアップのアトムが30億円調達　「日本のGDPを1％アップ」目指す",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/27/news088.html",
+    "published": "Wed, 27 May 2026 12:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "「協調と批判」はAIにも重要？　信頼性高める手法、言語学がヒント",
+    "link": "http://www.asahi.com/articles/ASV5V43X0V5VUTFL001M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "アメリカン航空が500機以上の旅客機にStarlinkを導入して機内Wi-Fiでギガビット通信を可能に",
+    "link": "https://gigazine.net/news/20260527-american-airlines-to-install-starlink/",
+    "published": "Wed, 27 May 2026 23:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIモデルには睡眠が必要」という研究結果",
+    "link": "https://gigazine.net/news/20260527-ai-need-sleep/",
+    "published": "Wed, 27 May 2026 23:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "ロシア関連サイバー攻撃を支援した疑いでホスティング企業関係者を逮捕、オランダ当局が800台以上のサーバー押収",
+    "link": "https://gigazine.net/news/20260527-netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+    "published": "Wed, 27 May 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "Stack OverflowのフォーラムはAIが原因で消滅しかけているが企業自体はまだAIのおかげで健在",
+    "link": "https://gigazine.net/news/20260527-stack-overflow-ai/",
+    "published": "Wed, 27 May 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "「安い中華AI＋人間」と「OpenAIやAnthropicの高性能AI」はどっちが低コストなのか？",
+    "link": "https://gigazine.net/news/20260527-ai-human-cost/",
+    "published": "Wed, 27 May 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "ギャンブル免許未取得を理由に予測市場プラットフォーム「Polymarket」と「Kalshi」をスペインが一時的に禁止",
+    "link": "https://gigazine.net/news/20260527-spain-blocks-polymarket-kalshi/",
+    "published": "Wed, 27 May 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "データセンター反対運動やAI批判が「反テクノロジー過激主義」として監視対象になる恐れがあることがアメリカ当局の内部資料で明らかに",
+    "link": "https://gigazine.net/news/20260527-us-law-warn-anti-tech-extremism/",
+    "published": "Wed, 27 May 2026 14:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "AIによる弁護士なしの「本人訴訟」が爆増、裁判所への負担も増大",
+    "link": "https://gigazine.net/news/20260527-ai-justice-gap-solution/",
+    "published": "Wed, 27 May 2026 14:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "MetaやGoogleのAI安全対策がGitHub公開ツールで解除できるとの報告",
+    "link": "https://gigazine.net/news/20260527-ai-safety-control-strip/",
+    "published": "Wed, 27 May 2026 13:51:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoftが画像生成AI「MAI-Image-2.5」をリリース、テキストからの画像生成で世界3位の実力",
+    "link": "https://gigazine.net/news/20260527-mai-image-25-generation-ai/",
+    "published": "Wed, 27 May 2026 13:31:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "iPhoneでローカル動作する画像生成AI「Bonsai Image 4B」が登場したので使ってみた、FLUX.2 Klein 4Bを1bit版に魔改造してメモリ使用量を8.3分の1に削減",
+    "link": "https://gigazine.net/news/20260527-bonsai-image-4b-image-generation-ai/",
+    "published": "Wed, 27 May 2026 12:54:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+    "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+    "published": "Wed, 27 May 2026 16:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
+    "link": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
+    "published": "Wed, 27 May 2026 15:20:16 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
+    "link": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
+    "published": "Wed, 27 May 2026 14:15:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
+    "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+    "published": "Wed, 27 May 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
+    "link": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
+    "published": "Wed, 27 May 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "China is increasingly keeping its best AI talent to itself",
+    "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+    "published": "Wed, 27 May 2026 13:48:41 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "YouTube will now automatically label AI videos",
+    "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+    "published": "Wed, 27 May 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "Tech CEOs are apparently suffering from AI psychosis",
+    "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+    "published": "Wed, 27 May 2026 12:30:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "Robinhood now lets your AI agents trade stocks",
+    "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+    "published": "Wed, 27 May 2026 12:30:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
+    "link": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
+    "published": "Wed, 27 May 2026 08:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "AI時代の実装力は『コードを書く力』から『解空間を収束させる力』へ移った",
+    "link": "https://zenn.dev/tesla/articles/f67c29415a02fc",
+    "published": "Tue, 26 May 2026 21:59:09 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
+    "title": "TsKaigi 2026の振り返りをします。自分の登壇の反省など。",
+    "link": "https://zenn.dev/melonps/articles/b3b7f6d3014c3d",
+    "published": "Tue, 26 May 2026 10:40:55 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-27 16:01:32",
+    "ai_summary": null
+  },
+  {
     "title": "北朝鮮 キム総書記 AI誘導の巡航ミサイルなどの発射実験視察",
     "link": "http://www3.nhk.or.jp/news/html/20260527/k10015132461000.html",
     "published": "Wed, 27 May 2026 11:49:16 +0900",
