@@ -1,5 +1,148 @@
 [
   {
+    "title": "Anthropic、650億ドル調達──評価額は3カ月で2.5倍の9650億ドルとなりOpenAIを上回る",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/29/news080.html",
+    "published": "Fri, 29 May 2026 07:14:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-28 22:41:47",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAのAI向けCPU「Vera」がAMDのEPYCやIntelのXeonを凌駕する強力な性能を発揮",
+    "link": "https://gigazine.net/news/20260529-nvidia-vera-benchmark/",
+    "published": "Fri, 29 May 2026 07:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 22:41:47",
+    "ai_summary": null
+  },
+  {
+    "title": "The internet is being rebuilt for machines",
+    "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "published": "Thu, 28 May 2026 21:24:01 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 22:41:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Asana acquires no-code agent-builder StackAI",
+    "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "published": "Thu, 28 May 2026 20:06:07 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 22:41:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Hackers are trying to steal Signal users’ backups in new wave of phishing attacks",
+    "link": "https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/",
+    "published": "Thu, 28 May 2026 19:07:24 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 22:41:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+    "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "published": "Thu, 28 May 2026 18:52:51 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 22:41:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+    "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+    "published": "Thu, 28 May 2026 18:32:25 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 22:41:48",
+    "ai_summary": null
+  },
+  {
+    "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment",
+    "link": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
+    "published": "Thu, 28 May 2026 18:08:37 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 22:41:48",
+    "ai_summary": null
+  },
+  {
+    "title": "A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers’ driver’s licenses",
+    "link": "https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/",
+    "published": "Thu, 28 May 2026 18:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 22:41:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Why Paris may be the most important AI city outside Silicon Valley",
+    "link": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
+    "published": "Thu, 28 May 2026 17:35:30 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 22:41:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago",
+    "link": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/",
+    "published": "Thu, 28 May 2026 17:15:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 22:41:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders",
+    "link": "https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/",
+    "published": "Thu, 28 May 2026 16:52:48 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 22:41:48",
+    "ai_summary": null
+  },
+  {
+    "title": "US says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’",
+    "link": "https://techcrunch.com/2026/05/28/u-s-says-troops-were-targeted-with-location-data-as-senator-warns-ad-industry-is-a-national-security-threat/",
+    "published": "Thu, 28 May 2026 16:21:23 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 22:41:48",
+    "ai_summary": null
+  },
+  {
     "title": "生成AIによる声などの無断利用 法務省検討会で声優が対策要請",
     "link": "http://www3.nhk.or.jp/news/html/20260528/k10015134321000.html",
     "published": "Thu, 28 May 2026 20:57:23 +0900",
