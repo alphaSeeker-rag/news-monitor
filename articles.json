@@ -1,5 +1,371 @@
 [
   {
+    "title": "生成AIによる声などの無断利用 法務省検討会で声優が対策要請",
+    "link": "http://www3.nhk.or.jp/news/html/20260528/k10015134321000.html",
+    "published": "Thu, 28 May 2026 20:57:23 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-05-28 16:16:06",
+    "ai_summary": null
+  },
+  {
+    "title": "「先週いくら使った？」ChatGPTが即答　資産管理のマネーツリーに新機能",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news144.html",
+    "published": "Thu, 28 May 2026 19:30:00 +0900",
+    "keywords": [
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-28 16:16:07",
+    "ai_summary": null
+  },
+  {
+    "title": "レノボ、国内に“水冷AIインフラ”の検証施設　GPUサーバ需要増で水冷活用促す",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news145.html",
+    "published": "Thu, 28 May 2026 19:25:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-28 16:16:07",
+    "ai_summary": null
+  },
+  {
+    "title": "「答弁原案も作成」　政府職員10万人が生成AI「源内」利用可能に　デジタル庁が大規模実証開始",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news136.html",
+    "published": "Thu, 28 May 2026 18:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-28 16:16:07",
+    "ai_summary": null
+  },
+  {
+    "title": "“AIの身元”確かめる認証基盤　みずほFGとNECが共同実証、AIエージェントが銀行を使う時代見据え",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news124.html",
+    "published": "Thu, 28 May 2026 16:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-28 16:16:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Docker専用のAIエージェント「Gordon」が正式リリース　無料アカウントでも利用可能",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news090.html",
+    "published": "Thu, 28 May 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-28 16:16:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazon、買い物AIアシスタント「Agentic Shopping Assistant on AWS」を小売業者向けに提供開始",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news091.html",
+    "published": "Thu, 28 May 2026 11:44:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-28 16:16:07",
+    "ai_summary": null
+  },
+  {
+    "title": "オープンAI新型へのアクセス権獲得へ　ミュトスに続き主要金融機関",
+    "link": "http://www.asahi.com/articles/ASV5X4WBTV5XULFA036M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-28 16:16:07",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントの「記憶」は人間の記憶とどう異なるのか？",
+    "link": "https://gigazine.net/news/20260528-ai-agent-memory-system/",
+    "published": "Thu, 28 May 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "AIによる「自律型戦争」は既に始まっている、Anthropicと国防総省との争いが自律型AI兵器のリスクを浮き彫りに",
+    "link": "https://gigazine.net/news/20260528-ai-warfare-already/",
+    "published": "Thu, 28 May 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが選挙対策を本格化、ChatGPTにAP通信の開票データ導入＆ディープフェイク規制法案も支持",
+    "link": "https://gigazine.net/news/20260528-openai-election-safeguards/",
+    "published": "Thu, 28 May 2026 16:20:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIも使い続けていると人間のように老化する」という指摘、セッションを重ねて記憶が蓄積されることで性能悪化",
+    "link": "https://gigazine.net/news/20260528-agingbench-ai-agents-age-too/",
+    "published": "Thu, 28 May 2026 16:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "スマホ画面に表示するプッシュ通知にAppleとGoogleは何をしているのか？",
+    "link": "https://gigazine.net/news/20260528-push-notification-apple-google/",
+    "published": "Thu, 28 May 2026 15:56:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "AIはバブルではないのか？AIインフラへの100兆円以上の投資がコーディングエージェントの成功で正当化される可能性がある",
+    "link": "https://gigazine.net/news/20260528-ai-product-market-fit/",
+    "published": "Thu, 28 May 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazon MGMスタジオがAIツールを駆使した映像制作を支援する「GenAI Creators’ Fund」を発表、Prime Video向けに3つのAIアニメシリーズの制作を承認＆AWSと共同でAI制作プラットフォーム「Project Nara」を立ち上げ",
+    "link": "https://gigazine.net/news/20260528-amazon-mgm-studios-genai-creators-fund/",
+    "published": "Thu, 28 May 2026 14:13:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "1曲の中で自然にジャンルを切り替えられる音楽生成AI「Music v2」を音声AI企業のElevenLabsがリリース",
+    "link": "https://gigazine.net/news/20260528-elevenlabs-introducing-music-v2-ai/",
+    "published": "Thu, 28 May 2026 13:50:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "動画生成AI「Runway」がChatGPTやClaudeのチャット内で利用可能に、チャットで参考画像やアイデアを入力して動画化できる",
+    "link": "https://gigazine.net/news/20260528-runway-mcp-chatgpt-claude/",
+    "published": "Thu, 28 May 2026 13:39:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "AIでタンパク質を予測・設計・発見するモデルをマーク・ザッカーバーグが出資する研究所「Biohub」が無償公開",
+    "link": "https://gigazine.net/news/20260528-biohub-protein-ai-model/",
+    "published": "Thu, 28 May 2026 12:27:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "日本経由でNVIDIA製GPUを中国に密輸しようとした3人が台湾当局に逮捕される",
+    "link": "https://gigazine.net/news/20260528-nvidia-smuggling-transshipment-japan/",
+    "published": "Thu, 28 May 2026 12:16:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "汎用人工知能(AGI)の実現は2030年頃と予想しているが2029年の可能性も視野に入れているとGoogle DeepMindのデミス・ハサビスCEOが発言",
+    "link": "https://gigazine.net/news/20260528-google-deepmind-ceo-demis-hassabis-agi-2030/",
+    "published": "Thu, 28 May 2026 12:04:00 +0900",
+    "keywords": [
+      "人工知能"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "MetaがInstagram・Facebook・WhatsAppのサブスクリプションを開始し今後AIプランを含むさらに多くのサービスを追加する予定",
+    "link": "https://gigazine.net/news/20260528-meta-new-plan/",
+    "published": "Thu, 28 May 2026 11:56:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+    "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+    "published": "Thu, 28 May 2026 15:36:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+    "link": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+    "published": "Thu, 28 May 2026 15:35:43 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+    "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+    "published": "Thu, 28 May 2026 14:45:13 +0000",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Rivian under investigation over rear suspension failures on R1 models",
+    "link": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
+    "published": "Thu, 28 May 2026 14:41:56 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "RSI is the new AGI — and it’s just as hard to pin down",
+    "link": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+    "published": "Thu, 28 May 2026 14:30:17 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+    "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+    "published": "Thu, 28 May 2026 14:30:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+    "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+    "published": "Thu, 28 May 2026 14:28:47 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Visa invests in Replit to power agentic payments for developers",
+    "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+    "published": "Thu, 28 May 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Has the hunt for AI compute uncovered the next Cerebras?",
+    "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+    "published": "Thu, 28 May 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+    "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+    "published": "Thu, 28 May 2026 07:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Laravel Live Japan 行ってきたぞー！",
+    "link": "https://zenn.dev/yabu_p/articles/03fbebc16fb865",
+    "published": "Wed, 27 May 2026 12:59:52 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude CodeとCodexを2ヶ月使い比べて分かった選び方 — settings.jsonを育てた側が速い",
+    "link": "https://zenn.dev/playpark/articles/claude-code-vs-codex-comparison",
+    "published": "Wed, 27 May 2026 02:16:51 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-28 16:16:08",
+    "ai_summary": null
+  },
+  {
     "title": "「国会議員マップ」話題　建設職人が個人で開発、議員の発言や政治の動きを分かりやすく　生成AI活用",
     "link": "https://www.itmedia.co.jp/news/articles/2605/28/news082.html",
     "published": "Thu, 28 May 2026 10:55:00 +0900",
