@@ -1,5 +1,93 @@
 [
   {
+    "title": "「国会議員マップ」話題　建設職人が個人で開発、議員の発言や政治の動きを分かりやすく　生成AI活用",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news082.html",
+    "published": "Thu, 28 May 2026 10:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-28 02:49:23",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazon、AI映像制作の「GenAI Creators' Fund」設立　初期3作品をプライムビデオで配信へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news079.html",
+    "published": "Thu, 28 May 2026 10:12:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-28 02:49:23",
+    "ai_summary": null
+  },
+  {
+    "title": "Meta、Instagramなど主要アプリに新サブスク「Plus」導入へ　将来は「Meta One」に一本化",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/28/news076.html",
+    "published": "Thu, 28 May 2026 07:23:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-28 02:49:23",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleがAIを用いた自律型サイバー攻撃対策サービス「Google AI Threat Defense」を発表、脆弱性の修正＆監視まで自律的に実行",
+    "link": "https://gigazine.net/news/20260528-google-ai-threat-defense/",
+    "published": "Thu, 28 May 2026 11:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 02:49:23",
+    "ai_summary": null
+  },
+  {
+    "title": "YouTubeがAI生成コンテンツを自動検出へ、投稿者が申告しなくてもラベル表示",
+    "link": "https://gigazine.net/news/20260528-youtube-ai-label/",
+    "published": "Thu, 28 May 2026 11:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 02:49:23",
+    "ai_summary": null
+  },
+  {
+    "title": "コーディングAIによるカンニングを防いでより正確なプログラミング性能が測定可能なベンチマーク「DeepSWE」",
+    "link": "https://gigazine.net/news/20260528-deepswe-ai-coding-benchmark/",
+    "published": "Thu, 28 May 2026 08:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-28 02:49:23",
+    "ai_summary": null
+  },
+  {
+    "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
+    "link": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
+    "published": "Thu, 28 May 2026 00:45:37 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 02:49:24",
+    "ai_summary": null
+  },
+  {
+    "title": "Why Google’s AI can’t spell Google (or anything else)",
+    "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+    "published": "Thu, 28 May 2026 00:17:41 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-28 02:49:24",
+    "ai_summary": null
+  },
+  {
     "title": "YouTube、AIで生成した動画を自動検出してラベル表示──クリエイターの申告なしでも",
     "link": "https://www.itmedia.co.jp/news/articles/2605/28/news074.html",
     "published": "Thu, 28 May 2026 06:25:00 +0900",
