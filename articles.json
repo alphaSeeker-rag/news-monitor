@@ -1,5 +1,94 @@
 [
   {
+    "title": "OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンスに開放　デュアルユースリスクに懸念も",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
+    "published": "Sat, 30 May 2026 06:48:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-29 22:37:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Coders are refusing to work without AI — and that could come back to bite them",
+    "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "published": "Fri, 29 May 2026 22:14:22 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-29 22:37:56",
+    "ai_summary": null
+  },
+  {
+    "title": "What happens when companies become too AI-pilled?",
+    "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "published": "Fri, 29 May 2026 17:57:05 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-29 22:37:56",
+    "ai_summary": null
+  },
+  {
+    "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+    "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "published": "Fri, 29 May 2026 17:27:13 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-29 22:37:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "published": "Fri, 29 May 2026 16:13:47 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-29 22:37:56",
+    "ai_summary": null
+  },
+  {
+    "title": "LiteLLMをやめて自作Goバイナリに置き換えたら一気に軽くなりました - 「実践 AI エージェント開発」を実装してみた",
+    "link": "https://zenn.dev/okamyuji/articles/golang-litellm-alternative-single-binary",
+    "published": "Thu, 28 May 2026 22:02:24 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-29 22:37:57",
+    "ai_summary": null
+  },
+  {
+    "title": "楽しかったコーディングエージェントサブスク時代の終わり",
+    "link": "https://zenn.dev/tkithrta/articles/0378bc53599fb3",
+    "published": "Thu, 28 May 2026 15:05:05 GMT",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-29 22:37:57",
+    "ai_summary": null
+  },
+  {
+    "title": "【Laravel 13】Laravel AI SDK を試してみた",
+    "link": "https://zenn.dev/sdb_blog/articles/dded156f2106d3",
+    "published": "Thu, 28 May 2026 08:00:00 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-29 22:37:57",
+    "ai_summary": null
+  },
+  {
     "title": "日本政府と主要金融機関、OpenAI新モデルのアクセス権を取得　サイバー対策強化へ",
     "link": "https://www.itmedia.co.jp/news/articles/2605/29/news144.html",
     "published": "Fri, 29 May 2026 19:14:00 +0900",
