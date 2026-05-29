@@ -1,5 +1,148 @@
 [
   {
+    "title": "米アンソロピック 「ミュトス」級AI 数週間以内に全顧客提供へ",
+    "link": "http://www3.nhk.or.jp/news/html/20260529/k10015134691000.html",
+    "published": "Fri, 29 May 2026 10:41:56 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-05-29 02:53:35",
+    "ai_summary": null
+  },
+  {
+    "title": "YouTube PremiumにPodcast向け新機能　AIによる再生速度の自動調整など3機能",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/29/news082.html",
+    "published": "Fri, 29 May 2026 09:42:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-29 02:53:36",
+    "ai_summary": null
+  },
+  {
+    "title": "Waymo、Zeekr製造の新型ロボタクシー「Ojai」を初公開",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/29/news081.html",
+    "published": "Fri, 29 May 2026 08:34:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-29 02:53:36",
+    "ai_summary": null
+  },
+  {
+    "title": "ついにGoogleの画像生成AI「Nano Banana 2」と「Nano Banana Pro」の一般提供が始まる、Previewが取れてAPI経由で利用可能に",
+    "link": "https://gigazine.net/news/20260529-nano-banana-ga/",
+    "published": "Fri, 29 May 2026 11:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-29 02:53:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Appleは新しいSiriを動かすためにGeminiを小型化してiPhoneに詰め込む作業を進めている",
+    "link": "https://gigazine.net/news/20260529-apple-massive-gemini-model-into-iphone-siri/",
+    "published": "Fri, 29 May 2026 11:13:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-29 02:53:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Mistral AIがLe Chatを「Vibe」にリブランド、チャットやコーディングや仕事補助エージェントの統合環境へ",
+    "link": "https://gigazine.net/news/20260529-mistral-ai-vibe/",
+    "published": "Fri, 29 May 2026 10:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-29 02:53:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "published": "Fri, 29 May 2026 00:44:37 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-29 02:53:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+    "link": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+    "published": "Fri, 29 May 2026 00:14:35 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-29 02:53:37",
+    "ai_summary": null
+  },
+  {
+    "title": "思想と仕様を分けて要件定義する",
+    "link": "https://zenn.dev/rehabforjapan/articles/requirements-engineering",
+    "published": "Thu, 28 May 2026 03:00:37 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-29 02:53:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Tips: Containerを利用したDL分散学習Libraryの開発環境",
+    "link": "https://zenn.dev/kaz20/articles/ff41dfdcd48613",
+    "published": "Thu, 28 May 2026 01:33:25 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-29 02:53:37",
+    "ai_summary": null
+  },
+  {
+    "title": "1 行渡すと Claude Code が 1 時間自走する ─ E2E テスト駆動で新機能を作らせた話",
+    "link": "https://zenn.dev/canly/articles/c7da70a520d1b8",
+    "published": "Thu, 28 May 2026 01:01:10 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-29 02:53:37",
+    "ai_summary": null
+  },
+  {
+    "title": "会議で知ったかするためのAIエージェント「知ったかくん」を作った",
+    "link": "https://zenn.dev/wildchild_hiro/articles/065ae3386d9c16",
+    "published": "Wed, 27 May 2026 05:03:26 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-29 02:53:37",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントを本番に出せない本当の理由",
+    "link": "https://zenn.dev/knowledge_graph/articles/kg-agent-production-safety",
+    "published": "Wed, 27 May 2026 02:06:29 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-29 02:53:37",
+    "ai_summary": null
+  },
+  {
     "title": "Anthropic、650億ドル調達──評価額は3カ月で2.5倍の9650億ドルとなりOpenAIを上回る",
     "link": "https://www.itmedia.co.jp/news/articles/2605/29/news080.html",
     "published": "Fri, 29 May 2026 07:14:00 +0900",
