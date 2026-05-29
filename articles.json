@@ -1,5 +1,171 @@
 [
   {
+    "title": "日本政府と主要金融機関、OpenAI新モデルのアクセス権を取得　サイバー対策強化へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/29/news144.html",
+    "published": "Fri, 29 May 2026 19:14:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-29 15:58:32",
+    "ai_summary": null
+  },
+  {
+    "title": "不動産会社が今もFAXを手放せない理由　DXを阻む“紙と零細”の壁",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/29/news059.html",
+    "published": "Fri, 29 May 2026 17:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-29 15:58:32",
+    "ai_summary": null
+  },
+  {
+    "title": "テンセントの高性能推論モデル「Hy3 preview」がOpenRouterの利用量ランキングで3週間にわたって1位を維持、無料期間終了後も2位を保つ",
+    "link": "https://gigazine.net/news/20260529-openrouter-ranking-hy3-mysterious-llm/",
+    "published": "Fri, 29 May 2026 23:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-29 15:58:33",
+    "ai_summary": null
+  },
+  {
+    "title": "「Grokが世界を統治すると4日で世界滅亡」という実験結果が示される、Claudeは15日間で犯罪ゼロ",
+    "link": "https://gigazine.net/news/20260529-emergence-world/",
+    "published": "Fri, 29 May 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-29 15:58:33",
+    "ai_summary": null
+  },
+  {
+    "title": "スパコンの1万3000倍の速度で計算できるGoogleの量子チップ「Willow」への早期アクセス権をイギリスの大学が獲得",
+    "link": "https://gigazine.net/news/20260529-google-quantum-processor-willow-access-kcl/",
+    "published": "Fri, 29 May 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-29 15:58:33",
+    "ai_summary": null
+  },
+  {
+    "title": "AIにコードを書かせまくると検査コストが爆発すると専門家が指摘、生成量を減らす考え方が重要",
+    "link": "https://gigazine.net/news/20260529-ai-code-generation/",
+    "published": "Fri, 29 May 2026 14:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-29 15:58:33",
+    "ai_summary": null
+  },
+  {
+    "title": "高速かつ高精度なオブジェクト検出AIモデル「LocateAnything」をNVIDIAが公開、写真だけでなくアプリUIや文字の検出にも対応",
+    "link": "https://gigazine.net/news/20260529-nvidia-ai-locateanything/",
+    "published": "Fri, 29 May 2026 13:29:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-29 15:58:33",
+    "ai_summary": null
+  },
+  {
+    "title": "Intelが初の携帯ゲーム用プロセッサー「Arc G3」と「Arc G3 Extreme」を発表、Xe3 GPUコアを内蔵し「Acer Predator Atlas 8」「MSI Claw 8 EX AI+」「OneXPlayer 3」で採用決定済み",
+    "link": "https://gigazine.net/news/20260529-intel-arc-g3/",
+    "published": "Fri, 29 May 2026 12:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-29 15:58:33",
+    "ai_summary": null
+  },
+  {
+    "title": "YouTubeがYouTube Premium会員向けにポッドキャスト関連の新機能を追加、AIおすすめツール・再生速度の自動調整機能・外出先でのリスニングモードなど",
+    "link": "https://gigazine.net/news/20260529-new-youtube-premium-features-podcasts/",
+    "published": "Fri, 29 May 2026 12:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-29 15:58:33",
+    "ai_summary": null
+  },
+  {
+    "title": "Waymoが第6世代自動運転技術搭載ロボタクシー「Ojai」の一般向けサービス展開を開始",
+    "link": "https://gigazine.net/news/20260529-waymo-ojai/",
+    "published": "Fri, 29 May 2026 12:25:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-29 15:58:33",
+    "ai_summary": null
+  },
+  {
+    "title": "「ローカルAIがズルズルと動き続けて無駄にバッテリーやGPUリソースを消費してしまう問題」を解決する技術「AgentStop」がBraveによって開発される",
+    "link": "https://gigazine.net/news/20260529-agentstop-terminating-local-ai-brave/",
+    "published": "Fri, 29 May 2026 12:11:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-29 15:58:33",
+    "ai_summary": null
+  },
+  {
+    "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+    "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+    "published": "Fri, 29 May 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-29 15:58:33",
+    "ai_summary": null
+  },
+  {
+    "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+    "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+    "published": "Fri, 29 May 2026 12:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-29 15:58:33",
+    "ai_summary": null
+  },
+  {
+    "title": "フロンティアAI による脅威変化を踏まえたFinatextグループとしての対応方針",
+    "link": "https://zenn.dev/finatext/articles/policy-for-frontier-ai",
+    "published": "Fri, 29 May 2026 02:30:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-29 15:58:33",
+    "ai_summary": null
+  },
+  {
+    "title": "【Claude Code ✖Obsidian】自分用ルールをskillsを使ってAIに自動読み込み・更新させる仕組みを作ってみた",
+    "link": "https://zenn.dev/arm_techblog/articles/ea4a436c5b80bb",
+    "published": "Thu, 28 May 2026 02:03:28 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-29 15:58:33",
+    "ai_summary": null
+  },
+  {
     "title": "米アンソロピック 「ミュトス」級AI 数週間以内に全顧客提供へ",
     "link": "http://www3.nhk.or.jp/news/html/20260529/k10015134691000.html",
     "published": "Fri, 29 May 2026 10:41:56 +0900",
