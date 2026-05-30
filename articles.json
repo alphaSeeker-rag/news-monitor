@@ -1,5 +1,82 @@
 [
   {
+    "title": "無料でリンク・メモ・画像・動画・PDFを保存してあとでスマホなどで読むアプリ「Karakeep」、オープンソースでセルフホスト可能",
+    "link": "https://gigazine.net/news/20260530-karakeep/",
+    "published": "Sat, 30 May 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-30 13:54:47",
+    "ai_summary": null
+  },
+  {
+    "title": "AI生成テキストからAI臭さを取り除いてより自然で人間らしい文章にするClaude CodeとOpenCode向けスキル「Humanizer」",
+    "link": "https://gigazine.net/news/20260530-humanizer/",
+    "published": "Sat, 30 May 2026 18:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-30 13:54:47",
+    "ai_summary": null
+  },
+  {
+    "title": "プレプリントサーバーのarXivが「AI生成の粗雑な論文を取り締まる」と発表した件を研究者はどう考えているのか？",
+    "link": "https://gigazine.net/news/20260530-arxiv-ai-science-paper-penalty/",
+    "published": "Sat, 30 May 2026 14:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-30 13:54:47",
+    "ai_summary": null
+  },
+  {
+    "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+    "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "published": "Sat, 30 May 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-30 13:54:47",
+    "ai_summary": null
+  },
+  {
+    "title": "This $300 pizza oven can easily help elevate your summer pizza nights",
+    "link": "https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/",
+    "published": "Sat, 30 May 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-05-30 13:54:47",
+    "ai_summary": null
+  },
+  {
+    "title": "AIを使った効率的な体験改善のための開発フロー",
+    "link": "https://zenn.dev/noppe/articles/2113952a4bf0cc",
+    "published": "Sat, 30 May 2026 03:54:36 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-30 13:54:47",
+    "ai_summary": null
+  },
+  {
+    "title": "自動運転アーキテクチャの一つの提案/Tri-Modal BEV VLA Planner",
+    "link": "https://zenn.dev/tatsuyai713/books/53b0b03395e35f",
+    "published": "Fri, 29 May 2026 16:11:06 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-05-30 13:54:47",
+    "ai_summary": null
+  },
+  {
     "title": "映像に「いつ・誰が・どう編集したか」を刻む技術、NHK技研が開発　来歴情報で“AIフェイク”も判別可能",
     "link": "https://www.itmedia.co.jp/news/articles/2605/30/news025.html",
     "published": "Sat, 30 May 2026 09:00:00 +0900",
