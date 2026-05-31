@@ -1,5 +1,38 @@
 [
   {
+    "title": "ソフトバンクG、フランスで最大750億ユーロ（約14兆円）投資　5GWのAIデータセンター整備へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2605/31/news022.html",
+    "published": "Sun, 31 May 2026 10:31:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-05-31 03:30:00",
+    "ai_summary": null
+  },
+  {
+    "title": "AIに奪われない仕事?年収18%増も　自動車整備士の養成校とは",
+    "link": "http://www.asahi.com/articles/ASV5Y351XV5YUUHB00WM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-05-31 03:30:01",
+    "ai_summary": null
+  },
+  {
+    "title": "無料でAI透かしを除去できる「Remove-AI-Watermarks」、画像から可視（Gemini）および不可視（SynthID、C2PA、EXIF）のいずれも削除可能",
+    "link": "https://gigazine.net/news/20260531-remove-ai-watermarks/",
+    "published": "Sun, 31 May 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-05-31 03:30:01",
+    "ai_summary": null
+  },
+  {
     "title": "SoftBank says it will invest up to €75 billion to build French data centers",
     "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
     "published": "Sat, 30 May 2026 21:45:00 +0000",
