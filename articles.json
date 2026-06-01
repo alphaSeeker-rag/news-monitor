@@ -1,5 +1,126 @@
 [
   {
+    "title": "株価 初の6万7000円台 ソフトバンクGが時価総額で一時首位に",
+    "link": "http://www3.nhk.or.jp/news/html/20260601/k10015136891000.html",
+    "published": "Mon, 01 Jun 2026 11:59:11 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-06-01 03:41:45",
+    "ai_summary": null
+  },
+  {
+    "title": "エリン・ブロコビッチ氏、AIデータセンター建設の「透明性欠如」を批判　住民報告マップも公開",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/01/news054.html",
+    "published": "Mon, 01 Jun 2026 07:03:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-01 03:41:46",
+    "ai_summary": null
+  },
+  {
+    "title": "日経平均、初の6万7000円台に　AI・半導体「値がさ株」に買い",
+    "link": "http://www.asahi.com/articles/ASV610P1SV61ULFA007M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-01 03:41:46",
+    "ai_summary": null
+  },
+  {
+    "title": "90以上の言語でオリジナルの話者の感情・トーン・ペースを維持しながらコンテンツと同期する音声AI「Dubbing v2」をElevenLabsがリリース",
+    "link": "https://gigazine.net/news/20260601-elevenlabs-dubbing-v2/",
+    "published": "Mon, 01 Jun 2026 12:27:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 03:41:46",
+    "ai_summary": null
+  },
+  {
+    "title": "Intel Coreシリーズ3プロセッサーを搭載した新型Swift Air 14をAcerが発表、学生や家庭向けの低価格帯Windows PCか",
+    "link": "https://gigazine.net/news/20260601-acer-new-swift-air-14/",
+    "published": "Mon, 01 Jun 2026 11:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 03:41:46",
+    "ai_summary": null
+  },
+  {
+    "title": "CodexがWindowsの自動操作に対応、自動でペイントで絵を描いたりブラウザを操作したりできる",
+    "link": "https://gigazine.net/news/20260601-codex-windows-computer-use/",
+    "published": "Mon, 01 Jun 2026 10:33:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 03:41:46",
+    "ai_summary": null
+  },
+  {
+    "title": "医療従事者向けに作られたAI「OpenEvidence」に長年悩まされている症状について相談してみた",
+    "link": "https://gigazine.net/news/20260601-openevidence-medical-ai-review/",
+    "published": "Mon, 01 Jun 2026 10:02:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 03:41:46",
+    "ai_summary": null
+  },
+  {
+    "title": "5つの最先端AIでさまざまな主張のファクトチェックを行ったところ67％で意見が一致しないとの調査結果",
+    "link": "https://gigazine.net/news/20260601-llm-disagreement-on-fact-checks/",
+    "published": "Mon, 01 Jun 2026 09:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 03:41:46",
+    "ai_summary": null
+  },
+  {
+    "title": "無料でiPhone・iPad内で動くターミナルアプリ「a-Shell」を使ってみた、Pythonやyt-dlpなどのCLIツールを実行できてショートカット連携も可能",
+    "link": "https://gigazine.net/news/20260601-a-shell/",
+    "published": "Mon, 01 Jun 2026 08:00:00 +0900",
+    "keywords": [
+      "Python"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 03:41:46",
+    "ai_summary": null
+  },
+  {
+    "title": "父親になることで脳の構造や活動が劇的に変化するという研究結果",
+    "link": "https://gigazine.net/news/20260601-fatherhood-rewire-brain/",
+    "published": "Mon, 01 Jun 2026 07:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 03:41:46",
+    "ai_summary": null
+  },
+  {
+    "title": "CodexでFlutterアプリを3か月未満で公開したけど、今どきの個人開発はコード以外が大変すぎる",
+    "link": "https://zenn.dev/mfactory_uh/articles/f793050a48813b",
+    "published": "Sun, 31 May 2026 00:08:10 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-01 03:41:46",
+    "ai_summary": null
+  },
+  {
     "title": "Erin Brockovich takes aim at data center secrecy",
     "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
     "published": "Sun, 31 May 2026 21:05:14 +0000",
