@@ -1,5 +1,236 @@
 [
   {
+    "title": "Intel、データセンター向け新CPU「Xeon 6+」発表　エージェンティックAI基盤を強化",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/01/news103.html",
+    "published": "Mon, 01 Jun 2026 15:28:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft、NVIDIAと共同設計のPC「Surface Laptop Ultra」発表　AIモデルのローカル実行可能",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/01/news098.html",
+    "published": "Mon, 01 Jun 2026 14:44:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIA、Windows用プロセッサ「RTX Spark」発表　ノートPCでローカルAIを高速実行",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/01/news088.html",
+    "published": "Mon, 01 Jun 2026 14:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "AI時代に本当に価値があるのはプログラミング能力ではなく「業界知識」だという指摘",
+    "link": "https://gigazine.net/news/20260601-domain-expertise/",
+    "published": "Mon, 01 Jun 2026 19:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAがアメリカ最強オープンモデル「Nemotron 3 Ultra」を発表＆AIサーバー「Vera Rubin」の量産開始を報告",
+    "link": "https://gigazine.net/news/20260601-nemotron-3-ultra/",
+    "published": "Mon, 01 Jun 2026 17:59:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicの人材採用プロセスはこんな感じ、面接でのAI使用は厳禁",
+    "link": "https://gigazine.net/news/20260601-anthropic-recruiting/",
+    "published": "Mon, 01 Jun 2026 16:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "中国のハイテクブームにより「テクノロジーツーリズム」が盛んに、最先端のロボタクシー乗車体験や工場見学などが可能",
+    "link": "https://gigazine.net/news/20260601-china-tech-ai-tourism/",
+    "published": "Mon, 01 Jun 2026 14:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが生物兵器対策に参入、感染症流行の予測や危険なDNA注文の検出をAIで支援",
+    "link": "https://gigazine.net/news/20260601-openai-resalind-biodefense/",
+    "published": "Mon, 01 Jun 2026 14:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAがGB300を内蔵したモンスター級WindowsデスクトップPC「DGX Station」を発表、メモリは最大748GBで最大1兆パラメーターのAIを実行可能",
+    "link": "https://gigazine.net/news/20260601-nvidia-dgx-station/",
+    "published": "Mon, 01 Jun 2026 14:11:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "ついにNVIDIAがノートPC向けSoC「NVIDIA RTX Spark」を発表、128GBメモリ＆NVIDIA製GPU＆ArmベースCPU搭載で高性能AIをローカル実行",
+    "link": "https://gigazine.net/news/20260601-nvidia-rtx-spark/",
+    "published": "Mon, 01 Jun 2026 13:32:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが「AIの能力は正しく測れていない可能性がある」と訴える",
+    "link": "https://gigazine.net/news/20260601-openai-third-party-evaluations/",
+    "published": "Mon, 01 Jun 2026 12:54:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "A new app, The Mall, is building a universal feed for online shopping",
+    "link": "https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/",
+    "published": "Mon, 01 Jun 2026 17:50:18 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
+    "link": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
+    "published": "Mon, 01 Jun 2026 16:42:22 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic files to go public",
+    "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "published": "Mon, 01 Jun 2026 16:36:55 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "This AI weather startup is out-forecasting government agencies",
+    "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "published": "Mon, 01 Jun 2026 16:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+    "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "published": "Mon, 01 Jun 2026 14:49:10 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Revolut rolls out services to thousands of users in India ahead of broader launch",
+    "link": "https://techcrunch.com/2026/06/01/revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launch/",
+    "published": "Mon, 01 Jun 2026 14:46:08 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
+    "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
+    "published": "Mon, 01 Jun 2026 10:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "[AI] 2026年6月時点でBestな開発環境を本気で考えた",
+    "link": "https://zenn.dev/d0ne1s/articles/9422407b652a48",
+    "published": "Mon, 01 Jun 2026 00:00:06 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "テスト計画・分析・設計・実装・実行・レポートまでを通しで自動実行するAI開発&公開",
+    "link": "https://zenn.dev/jam0824/articles/c84a2ef393ee70",
+    "published": "Sun, 31 May 2026 15:25:22 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
+    "title": "AI疲れが加速するので、Claude CodeのRemote Controlを使うのをやめた",
+    "link": "https://zenn.dev/karamage/articles/c82e2cb142701a",
+    "published": "Sat, 30 May 2026 11:18:07 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-01 17:55:13",
+    "ai_summary": null
+  },
+  {
     "title": "株価 初の6万7000円台 ソフトバンクGが時価総額で一時首位に",
     "link": "http://www3.nhk.or.jp/news/html/20260601/k10015136891000.html",
     "published": "Mon, 01 Jun 2026 11:59:11 +0900",
