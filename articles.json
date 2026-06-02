@@ -1,5 +1,137 @@
 [
   {
+    "title": "Microsoft、AndroidベースのAIエージェント基盤「Solara」発表　Snapdragon搭載のバッジ型端末も披露",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news066.html",
+    "published": "Wed, 03 Jun 2026 07:49:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-02 23:03:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft、NVIDIAのSoC搭載でAI特化のミニPC「Surface RTX Spark Dev Box」披露",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news063.html",
+    "published": "Wed, 03 Jun 2026 04:50:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-02 23:03:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+    "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "published": "Tue, 02 Jun 2026 19:11:48 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-02 23:03:17",
+    "ai_summary": null
+  },
+  {
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "published": "Tue, 02 Jun 2026 19:02:21 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-02 23:03:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+    "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+    "published": "Tue, 02 Jun 2026 18:16:53 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-02 23:03:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+    "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+    "published": "Tue, 02 Jun 2026 18:02:44 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-02 23:03:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
+    "link": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
+    "published": "Tue, 02 Jun 2026 18:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-02 23:03:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+    "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+    "published": "Tue, 02 Jun 2026 18:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-02 23:03:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft offers devs a better way to control AI agent behavior",
+    "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+    "published": "Tue, 02 Jun 2026 18:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-02 23:03:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+    "link": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+    "published": "Tue, 02 Jun 2026 17:47:28 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-02 23:03:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Focused Energy raises whopping $240M Series A for laser-powered fusion tech",
+    "link": "https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/",
+    "published": "Tue, 02 Jun 2026 17:01:17 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-02 23:03:17",
+    "ai_summary": null
+  },
+  {
+    "title": "ローカルLLMにWebアプリを自律生成させた — 28秒で完成、セキュリティテスト22件全PASS",
+    "link": "https://zenn.dev/seeda_yuto/articles/local-llm-agent-harness-guide",
+    "published": "Sun, 31 May 2026 23:05:49 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-02 23:03:18",
+    "ai_summary": null
+  },
+  {
     "title": "AI導入で従業員1人当たりの収益を50％アップさせた企業が存在する",
     "link": "https://gigazine.net/news/20260602-remote-grew-revenue/",
     "published": "Tue, 02 Jun 2026 23:00:00 +0900",
