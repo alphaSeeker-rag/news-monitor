@@ -1,5 +1,182 @@
 [
   {
+    "title": "ソニーとシャオミ、その対照的なスマートフォン戦略　炎上した「AIカメラアシスタント」の実際は？",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/02/news083.html",
+    "published": "Tue, 02 Jun 2026 12:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-02 03:38:06",
+    "ai_summary": null
+  },
+  {
+    "title": "メルカリ、AIと人事の責任者を1人に統合　「組織ごとAI前提に」",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/02/news073.html",
+    "published": "Tue, 02 Jun 2026 11:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-02 03:38:06",
+    "ai_summary": null
+  },
+  {
+    "title": "生成AIを「悩み相談」に使う10代女性たち　阿部前監督事件を招いた「AI正論」の波紋",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/02/news070.html",
+    "published": "Tue, 02 Jun 2026 10:31:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-02 03:38:06",
+    "ai_summary": null
+  },
+  {
+    "title": "Google擁するAlphabet、AI基盤増強に向け800億ドルの株式調達へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/02/news066.html",
+    "published": "Tue, 02 Jun 2026 09:34:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-02 03:38:06",
+    "ai_summary": null
+  },
+  {
+    "title": "北九州銀、融資判断にAI活用へ　行員は営業に力　頭取インタビュー",
+    "link": "http://www.asahi.com/articles/ASV620S8NV62ULFA002M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-02 03:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicが新規株式公開(IPO)に向けた非公開申請を行ったと発表、AI市場でOpenAIやxAIとの競争が加速へ",
+    "link": "https://gigazine.net/news/20260602-anthropic-ipo-confidential-draft/",
+    "published": "Tue, 02 Jun 2026 12:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-02 03:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAが高性能画像生成モデル＆動画生成モデルを含むフィジカルAI基盤モデル群「Cosmos 3」を公開",
+    "link": "https://gigazine.net/news/20260602-nvidia-cosmos-3/",
+    "published": "Tue, 02 Jun 2026 12:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-02 03:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "AIのトレーニングのためにMeta従業員のデータを収集する「MCI」に反発の声、通信量急増やプライバシー規則違反の可能性",
+    "link": "https://gigazine.net/news/20260602-meta-mci/",
+    "published": "Tue, 02 Jun 2026 12:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-02 03:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "中国製AIモデル「MiniMax M3」が登場、GPT-5.5やClaude Opus 4.7と競う高性能オープンモデル",
+    "link": "https://gigazine.net/news/20260602-minimax-m3/",
+    "published": "Tue, 02 Jun 2026 12:08:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-02 03:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "サッカーボールを一度ヘディングするだけで脳損傷に関連するタンパク質濃度が上昇する",
+    "link": "https://gigazine.net/news/20260602-heading-soccer-ball-brain-damage-proteins/",
+    "published": "Tue, 02 Jun 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-02 03:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "GitHub Copilotの従量課金がついに開始、「AIクレジット」を使い切ると追加利用には別料金が必要に",
+    "link": "https://gigazine.net/news/20260602-github-copilot-update-plan/",
+    "published": "Tue, 02 Jun 2026 11:48:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-02 03:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAの新型SoC「RTX Spark」を搭載したMicrosoft Surface Laptop UltraやASUS ProArt P16などの情報が明らかに",
+    "link": "https://gigazine.net/news/20260602-nvidia-rtx-spark-laptop-pcs/",
+    "published": "Tue, 02 Jun 2026 11:33:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-02 03:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "民泊で家事用ロボットをテストして家の中をめちゃくちゃにした疑いでロボットスタートアップ企業が提訴される",
+    "link": "https://gigazine.net/news/20260602-robot-company-sued-airbnb-host/",
+    "published": "Tue, 02 Jun 2026 11:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-02 03:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "ハッカーがMeta AIのサポートチャットボットを騙して有名人のInstagramアカウントを盗む",
+    "link": "https://gigazine.net/news/20260602-meta-ai-support-chatbot-steal-instagram-accounts/",
+    "published": "Tue, 02 Jun 2026 10:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-02 03:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless",
+    "link": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
+    "published": "Mon, 01 Jun 2026 23:20:52 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-02 03:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Antigravity CLI × Chrome DevTools for AgentsでAIデバッグ開発体験（for LIFF）",
+    "link": "https://zenn.dev/n0bisuke/books/antigravitycli-chrome-dev-line",
+    "published": "Mon, 01 Jun 2026 02:36:06 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-02 03:38:07",
+    "ai_summary": null
+  },
+  {
     "title": "米AI新興企業「アンソロピック」新規株式公開を申請と発表",
     "link": "http://www3.nhk.or.jp/news/html/20260602/k10015137731000.html",
     "published": "Tue, 02 Jun 2026 07:36:21 +0900",
