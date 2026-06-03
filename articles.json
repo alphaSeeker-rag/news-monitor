@@ -1,5 +1,248 @@
 [
   {
+    "title": "阿波銀行の情報漏えい、被害のテスト環境は「本来廃止すべきだった」　システム高度化作業でも利用",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news138.html",
+    "published": "Wed, 03 Jun 2026 20:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-03 17:02:55",
+    "ai_summary": null
+  },
+  {
+    "title": "Androidに「なりすまし電話」検知機能　AIディープフェイク詐欺の急増に対応──Pixelから順次提供",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news137.html",
+    "published": "Wed, 03 Jun 2026 20:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-03 17:02:55",
+    "ai_summary": null
+  },
+  {
+    "title": "進捗や目標を投入→AIが分かりやすいWebダッシュボードに、チーム間共有も　OpenAI、Codexに新機能「Sites」",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news100.html",
+    "published": "Wed, 03 Jun 2026 14:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-03 17:02:55",
+    "ai_summary": null
+  },
+  {
+    "title": "日経平均、早くも7万円目前　AI活況でキオクシアは一時トヨタ超え",
+    "link": "http://www.asahi.com/articles/ASV63462HV63ULFA01GM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "EU、半導体やAIに官民で78兆円　「テクノロジー主権」の確保へ",
+    "link": "http://www.asahi.com/articles/ASV6344KLV63UHBI01YM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "16人の数学者がAIの精度や信頼性など数学分野への潜在的な脅威について警告する「ライデン宣言」を発表",
+    "link": "https://gigazine.net/news/20260603-leiden-declaration-on-ai-and-math/",
+    "published": "Wed, 03 Jun 2026 20:00:00 +0900",
+    "keywords": [
+      "AI",
+      "人工知能"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "マーティン・スコセッシ監督がAI企業のアドバイザーに就任、イメージを他者へ共有する手段として画像生成AIの活用に意欲的",
+    "link": "https://gigazine.net/news/20260603-martin-scorsese-black-forest-labs/",
+    "published": "Wed, 03 Jun 2026 16:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "従量課金になったGitHub Copilotで「クレジット消費が激しすぎる」との声が相次ぐ",
+    "link": "https://gigazine.net/news/20260603-github-copilot-credit-consumption/",
+    "published": "Wed, 03 Jun 2026 15:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "GitHub Copilotが「AIアシスタント」から「AI開発チーム」へ進化、専用アプリの全貌が明らかに",
+    "link": "https://gigazine.net/news/20260603-github-copilot-app/",
+    "published": "Wed, 03 Jun 2026 14:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazon傘下のRingが無断で顔認識データを収集したとして集団訴訟を提起される",
+    "link": "https://gigazine.net/news/20260603-amazon-ring-scanning/",
+    "published": "Wed, 03 Jun 2026 14:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "トランプ大統領がAI規制は拒否しつつサイバー防衛能力を強化する大統領令に署名",
+    "link": "https://gigazine.net/news/20260603-trump-ai-innovation-security/",
+    "published": "Wed, 03 Jun 2026 13:28:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Codexに「プログラマー以外にも役立つ業務改善プラグイン」が追加される、Codexの週間アクティブユーザーは500万人超え",
+    "link": "https://gigazine.net/news/20260603-openai-codex-role-tool-workflow/",
+    "published": "Wed, 03 Jun 2026 13:27:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
+    "link": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
+    "published": "Wed, 03 Jun 2026 16:12:06 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazon will show AI product images when you search for some reason",
+    "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+    "published": "Wed, 03 Jun 2026 15:50:26 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Still facing copyright lawsuits, AI music generator Suno raises another $400M",
+    "link": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
+    "published": "Wed, 03 Jun 2026 15:31:42 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+    "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+    "published": "Wed, 03 Jun 2026 15:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "GitLab cuts 14% of staff as it scales its platform to serve AI workloads",
+    "link": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
+    "published": "Wed, 03 Jun 2026 14:59:30 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+    "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+    "published": "Wed, 03 Jun 2026 14:58:33 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+    "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+    "published": "Wed, 03 Jun 2026 13:40:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+    "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+    "published": "Wed, 03 Jun 2026 13:02:51 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "薄明かりの読書のためのshadcn/ui テーマをつくりました",
+    "link": "https://zenn.dev/shoota/articles/e4595637a190f4",
+    "published": "Tue, 02 Jun 2026 13:43:08 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Zennの記事一覧からAI関連の記事をAIの力によって滅ぼし、そして私も消えよう",
+    "link": "https://zenn.dev/sora_kumo/articles/zenn-ai-filter",
+    "published": "Tue, 02 Jun 2026 00:04:48 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-03 17:02:56",
+    "ai_summary": null
+  },
+  {
     "title": "株価 初の6万8000円台 半導体などがけん引",
     "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139421000.html",
     "published": "Wed, 03 Jun 2026 12:11:32 +0900",
