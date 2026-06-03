@@ -1,5 +1,149 @@
 [
   {
+    "title": "株価 初の6万8000円台 半導体などがけん引",
+    "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139421000.html",
+    "published": "Wed, 03 Jun 2026 12:11:32 +0900",
+    "keywords": [
+      "AI",
+      "人工知能"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-06-03 03:44:23",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft、次世代量子チップ「Majorana 2」披露　実用化目標を2029年に前倒し",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news087.html",
+    "published": "Wed, 03 Jun 2026 11:47:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-03 03:44:24",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft、自社開発した7つのAIモデル発表　画像編集や音声認識も",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news077.html",
+    "published": "Wed, 03 Jun 2026 11:03:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-03 03:44:24",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft、AIエージェント用のカスタマイズ可能な分離環境「Microsoft Execution Containers」発表　OpenClawも動作",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news074.html",
+    "published": "Wed, 03 Jun 2026 11:02:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-03 03:44:24",
+    "ai_summary": null
+  },
+  {
+    "title": "ネット青少年保護、年齢確認を厳格化　一律年齢制限には踏み込まず　総務省有識者案",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news071.html",
+    "published": "Wed, 03 Jun 2026 10:28:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-03 03:44:24",
+    "ai_summary": null
+  },
+  {
+    "title": "トランプ米大統領、AI安全保障に関する大統領令に署名　最先端モデルを公開30日前に政府が検査可能に",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news068.html",
+    "published": "Wed, 03 Jun 2026 09:42:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-03 03:44:24",
+    "ai_summary": null
+  },
+  {
+    "title": "MicrosoftがOpenClawベースの常時稼働型AIエージェント「Scout」を発表、ユーザーの代わりに仕事を進める「Autopilot」第1弾",
+    "link": "https://gigazine.net/news/20260603-microsoft-scout-by-openclaw/",
+    "published": "Wed, 03 Jun 2026 12:21:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-03 03:44:24",
+    "ai_summary": null
+  },
+  {
+    "title": "MicrosoftがNVIDIA RTX Spark搭載の「Surface RTX Spark Dev Box」を発表、ローカルAIもサクサク動作する演算性能は最大1PFLOPS",
+    "link": "https://gigazine.net/news/20260603-surface-rtx-spark-dev-box/",
+    "published": "Wed, 03 Jun 2026 12:06:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-03 03:44:24",
+    "ai_summary": null
+  },
+  {
+    "title": "MicrosoftがClaude Sonnet 4.6と同等性能な「MAI-Thinking-1」や音声クローンモデル「MAI-Voice-2」を含む7種のAIモデルを発表",
+    "link": "https://gigazine.net/news/20260603-microsoft-ai-thinking/",
+    "published": "Wed, 03 Jun 2026 11:57:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-03 03:44:24",
+    "ai_summary": null
+  },
+  {
+    "title": "MicrosoftがAIエージェント専用デバイス向け新プラットフォーム「Project Solara」を発表、WindowsではなくAndroidベースのOSでエージェント中心のシステムを形成",
+    "link": "https://gigazine.net/news/20260603-microsoft-project-solara/",
+    "published": "Wed, 03 Jun 2026 11:14:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-03 03:44:24",
+    "ai_summary": null
+  },
+  {
+    "title": "AnthropicがClaude Mythos Previewの先行提供プログラム「Project Glasswing」を15カ国以上に拡大",
+    "link": "https://gigazine.net/news/20260603-anthropic-project-glasswing-extend/",
+    "published": "Wed, 03 Jun 2026 10:48:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-03 03:44:24",
+    "ai_summary": null
+  },
+  {
+    "title": "MicrosoftがAIエージェントを用いて開発した次世代トポロジカル量子チップ「Majorana 2」を発表",
+    "link": "https://gigazine.net/news/20260603-microsoft-majorana-2/",
+    "published": "Wed, 03 Jun 2026 10:37:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-03 03:44:24",
+    "ai_summary": null
+  },
+  {
+    "title": "夜勤などのシフト勤務は脳の体積低下と関連しているという研究結果",
+    "link": "https://gigazine.net/news/20260603-shift-work-brain-volume-loss/",
+    "published": "Wed, 03 Jun 2026 09:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-03 03:44:24",
+    "ai_summary": null
+  },
+  {
     "title": "Microsoft、AndroidベースのAIエージェント基盤「Solara」発表　Snapdragon搭載のバッジ型端末も披露",
     "link": "https://www.itmedia.co.jp/news/articles/2606/03/news066.html",
     "published": "Wed, 03 Jun 2026 07:49:00 +0900",
