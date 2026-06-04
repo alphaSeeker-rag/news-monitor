@@ -1,5 +1,115 @@
 [
   {
+    "title": "日本政府、AI「Mythos」アクセス権を取得　サイバー防衛強化に活用",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/04/news073.html",
+    "published": "Thu, 04 Jun 2026 10:27:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-04 03:40:40",
+    "ai_summary": null
+  },
+  {
+    "title": "Google、AI検索への表示を拒否できるWebオーナー向けトグル機能のテスト開始",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/04/news071.html",
+    "published": "Thu, 04 Jun 2026 10:07:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-04 03:40:40",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleがデータセンターによる水不足問題を解消するための取り組みについて公開",
+    "link": "https://gigazine.net/news/20260604-google-water-stewardship/",
+    "published": "Thu, 04 Jun 2026 12:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-04 03:40:41",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAはWindowsノートPC向けSoCの第2世代・第3世代をすでに計画中、ジェンスン・フアンCEOは将来的にR2-D2のようなロボットの開発を目指す",
+    "link": "https://gigazine.net/news/20260604-nvidia-n2x-n3x-plan/",
+    "published": "Thu, 04 Jun 2026 12:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-04 03:40:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicが「サイバー攻撃はすでにAIで自動化されている」と報告",
+    "link": "https://gigazine.net/news/20260604-ai-enabled-cyber-threats/",
+    "published": "Thu, 04 Jun 2026 11:58:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-04 03:40:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Nano Banana Pro超えでローカルで実行可能な画像生成AI「Ideogram 4.0」が登場、日本語での指示も可能",
+    "link": "https://gigazine.net/news/20260604-ideogram-4-image-generation-ai/",
+    "published": "Thu, 04 Jun 2026 11:49:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-04 03:40:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが各ユーザーの検索履歴・写真・メールなどをもとに毎日オリジナルストーリーを生成する「Dreambeans」を公開",
+    "link": "https://gigazine.net/news/20260604-google-dreambeans/",
+    "published": "Thu, 04 Jun 2026 11:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-04 03:40:41",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleがノートPCで実行可能なAIモデル「Gemma 4 12B」を無料公開、16GBのVRAMがあれば実行可能",
+    "link": "https://gigazine.net/news/20260604-google-ai-gemma-4-12b/",
+    "published": "Thu, 04 Jun 2026 10:36:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-04 03:40:41",
+    "ai_summary": null
+  },
+  {
+    "title": "データサイエンティストのためのAGENTS.mdとSkills",
+    "link": "https://zenn.dev/green_tea/articles/d310e5cf809190",
+    "published": "Wed, 03 Jun 2026 04:02:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-04 03:40:41",
+    "ai_summary": null
+  },
+  {
+    "title": "使い方は覚えなくていいから tmux を入れろ",
+    "link": "https://zenn.dev/nasubikun/articles/tmux-for-ai-agents",
+    "published": "Tue, 02 Jun 2026 10:24:08 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-04 03:40:41",
+    "ai_summary": null
+  },
+  {
     "title": "SpaceX、IPOで750億ドル（約12兆円）調達へ　時価総額は1兆7700億ドルの見通し",
     "link": "https://www.itmedia.co.jp/news/articles/2606/04/news065.html",
     "published": "Thu, 04 Jun 2026 07:16:00 +0900",
