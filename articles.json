@@ -1,5 +1,94 @@
 [
   {
+    "title": "スペースX 来週にもナスダック上場へ 調達資金は過去最大規模",
+    "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141561000.html",
+    "published": "Fri, 05 Jun 2026 07:15:56 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-06-04 22:21:47",
+    "ai_summary": null
+  },
+  {
+    "title": "偏ったAIで文章作成、ユーザーの意見を無自覚のうちに変える恐れ",
+    "link": "http://www.asahi.com/articles/ASV62213CV62UTFL00SM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-04 22:21:47",
+    "ai_summary": null
+  },
+  {
+    "title": "SF作家のテッド・チャンが「AIは意識を持っていると考えるべきではない」と語る",
+    "link": "https://gigazine.net/news/20260605-ai-conscious/",
+    "published": "Fri, 05 Jun 2026 07:00:00 +0900",
+    "keywords": [
+      "AI",
+      "人工知能"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-04 22:21:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "published": "Thu, 04 Jun 2026 21:30:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-04 22:21:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+    "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+    "published": "Thu, 04 Jun 2026 19:20:58 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-04 22:21:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
+    "link": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+    "published": "Thu, 04 Jun 2026 18:54:08 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-04 22:21:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Meta’s Oversight Board says account bans lack due process, transparency",
+    "link": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
+    "published": "Thu, 04 Jun 2026 16:47:12 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-04 22:21:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Meta rolls out a new AI creator assistant on Facebook",
+    "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+    "published": "Thu, 04 Jun 2026 16:32:48 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-04 22:21:48",
+    "ai_summary": null
+  },
+  {
     "title": "TSMC、AI活用拡大による成長維持に自信　株主総会、東京エレクトロンとの取引は継続",
     "link": "https://www.itmedia.co.jp/news/articles/2606/04/news119.html",
     "published": "Thu, 04 Jun 2026 17:55:00 +0900",
