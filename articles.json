@@ -1,5 +1,171 @@
 [
   {
+    "title": "ChatGPTの“記憶”を刷新　メモリ機能の新基盤展開、無料ユーザーへも順次",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/05/news091.html",
+    "published": "Fri, 05 Jun 2026 12:50:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-05 15:19:12",
+    "ai_summary": null
+  },
+  {
+    "title": "AIによる「生物兵器」に対策を　アルトマン氏らトップが異例の要望",
+    "link": "http://www.asahi.com/articles/ASV65035HV65UHBI00BM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-05 15:19:12",
+    "ai_summary": null
+  },
+  {
+    "title": "梅雨が訪れたので雨が降り続く2週間を描くマンガ「あめあめふれふれうそやんで」の半額セールを開始しました",
+    "link": "https://gigazine.net/news/20260605-rainy-season-sale/",
+    "published": "Fri, 05 Jun 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-05 15:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Uberは従業員がAIツールを使い過ぎたことで「1人あたり各ツール月額24万円まで」という制限を設けている",
+    "link": "https://gigazine.net/news/20260605-uber-caps-ai/",
+    "published": "Fri, 05 Jun 2026 16:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-05 15:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicが「AIがAIを作る」自己改善ループのリスクを警告、AI開発をAI自身が加速する可能性を論じる",
+    "link": "https://gigazine.net/news/20260605-anthropic-ai-build-itself/",
+    "published": "Fri, 05 Jun 2026 15:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-05 15:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "アメリカの名門カリフォルニア大学バークレー校でAI利用の拡大と数学力低下が顕著になって落第者が激増",
+    "link": "https://gigazine.net/news/20260605-uc-berkeley-failing-grades-ai-math/",
+    "published": "Fri, 05 Jun 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-05 15:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleがAIとセッションできる音楽生成AI「Magenta RealTime 2」を公開＆DAWプラグインや楽器アプリも無料公開",
+    "link": "https://gigazine.net/news/20260605-magenta-realtime-2-live-music-ai/",
+    "published": "Fri, 05 Jun 2026 14:14:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-05 15:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "LM Studioに「外出先からスマホで自宅の高性能PCに接続してローカルAIを実行できる機能」が追加される",
+    "link": "https://gigazine.net/news/20260605-lm-studio-lm-link-locally/",
+    "published": "Fri, 05 Jun 2026 12:32:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-05 15:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Cloudflareが週間1億2900万DLの「Vite」開発元を買収、AI時代を見据えた狙いとは",
+    "link": "https://gigazine.net/news/20260605-voidzero-join-cloudflare/",
+    "published": "Fri, 05 Jun 2026 12:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-05 15:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+    "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+    "published": "Fri, 05 Jun 2026 14:49:12 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-05 15:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks",
+    "link": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
+    "published": "Fri, 05 Jun 2026 14:42:52 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-05 15:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+    "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+    "published": "Fri, 05 Jun 2026 14:32:57 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-05 15:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+    "published": "Fri, 05 Jun 2026 13:03:10 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-05 15:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Mira Murati steps back into the spotlight, carefully",
+    "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+    "published": "Fri, 05 Jun 2026 05:06:37 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-05 15:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "エージェントに「脆弱性を探して」はなぜ失敗するのか──Cloudflareが50+リポで示したharnessの正体",
+    "link": "https://zenn.dev/aiwatch_jp/articles/agent-vuln-hunting-harness-glasswing",
+    "published": "Thu, 04 Jun 2026 13:29:28 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-05 15:19:13",
+    "ai_summary": null
+  },
+  {
     "title": "Google、クリエイターとパブリッシャー向け「検索プロフィール」導入　AI検索での流入減批判受け",
     "link": "https://www.itmedia.co.jp/news/articles/2606/05/news072.html",
     "published": "Fri, 05 Jun 2026 09:18:00 +0900",
