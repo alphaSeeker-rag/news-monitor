@@ -1,5 +1,127 @@
 [
   {
+    "title": "AIペットロボット「モフリン」好調、カシオが新規事業に注力　4本目の柱に育成",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/08/news084.html",
+    "published": "Mon, 08 Jun 2026 11:12:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-08 03:39:21",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAがメモリ大手のSK hynixとの技術提携を発表、AI対応のために次世代メモリを共同開発",
+    "link": "https://gigazine.net/news/20260608-nvidia-sk-hynix-technology-partnership/",
+    "published": "Mon, 08 Jun 2026 12:33:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-08 03:39:22",
+    "ai_summary": null
+  },
+  {
+    "title": "CloudflareがAI利用料の予算管理機能を発表、誰がどのAIにいくら使ったのか把握可能に",
+    "link": "https://gigazine.net/news/20260608-cloudflare-ai-gateway-spend-limit/",
+    "published": "Mon, 08 Jun 2026 12:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-08 03:39:22",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIはコーディングツールとAIエージェントを備えたChatGPTの改良版スーパーアプリを計画している",
+    "link": "https://gigazine.net/news/20260608-openai-plans-chatgpt-superapp-overhaul/",
+    "published": "Mon, 08 Jun 2026 12:00:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-08 03:39:22",
+    "ai_summary": null
+  },
+  {
+    "title": "Metaの「テントの中にデータセンターを設立する」という計画の詳細が明らかに",
+    "link": "https://gigazine.net/news/20260608-meta-tents-data-centers/",
+    "published": "Mon, 08 Jun 2026 11:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-08 03:39:22",
+    "ai_summary": null
+  },
+  {
+    "title": "日立とIntelがフィジカルAI加速に向けて戦略的協業を発表",
+    "link": "https://gigazine.net/news/20260608-hitachi-intel/",
+    "published": "Mon, 08 Jun 2026 11:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-08 03:39:22",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleがスマホやノートPCでAIをローカル実行するための省メモリ化技術「QAT」をGemma 4に導入、Gemma 4 E2Bがわずか0.84GBのメモリで動作",
+    "link": "https://gigazine.net/news/20260608-google-ai-gemma-4-qat/",
+    "published": "Mon, 08 Jun 2026 11:01:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-08 03:39:22",
+    "ai_summary": null
+  },
+  {
+    "title": "銃乱射事件の生存者が銃器を検知できなかったAI銃検知システム会社を訴える",
+    "link": "https://gigazine.net/news/20260608-school-shooting-survivor-sues-ai-gun-detection/",
+    "published": "Mon, 08 Jun 2026 10:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-08 03:39:22",
+    "ai_summary": null
+  },
+  {
+    "title": "推薦システムの新たなパラダイム Generative Recommendation",
+    "link": "https://zenn.dev/rintaro121/articles/generative-recommendation",
+    "published": "Sun, 07 Jun 2026 10:15:27 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-08 03:39:22",
+    "ai_summary": null
+  },
+  {
+    "title": "バイブコーディングが怖いので、全PJにSemgrep + gitleaksの自動セキュリティスキャンを仕込んだ話",
+    "link": "https://zenn.dev/zittiandbuoni/articles/632ff0709247f6",
+    "published": "Sun, 07 Jun 2026 07:28:37 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-08 03:39:22",
+    "ai_summary": null
+  },
+  {
+    "title": "AIウォーターフォール開発：コンテキストゼロのAIを一人前にする仕組み",
+    "link": "https://zenn.dev/abalol/articles/579296fa31056f",
+    "published": "Sun, 07 Jun 2026 00:59:52 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-08 03:39:22",
+    "ai_summary": null
+  },
+  {
     "title": "史上最大の株式市場デビューとなることが期待されているOpenAI・Anthropic・SpaceXを市場は受け止めきれるか？",
     "link": "https://gigazine.net/news/20260608-stockmarket-swallow-anthropic-spacex-openai/",
     "published": "Mon, 08 Jun 2026 07:00:00 +0900",
