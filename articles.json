@@ -1,5 +1,171 @@
 [
   {
+    "title": "パナソニックエナジー、28年度に売上高2兆円目指す　AIデータセンター向けに主力転換",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/08/news131.html",
+    "published": "Mon, 08 Jun 2026 18:48:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-08 16:07:39",
+    "ai_summary": null
+  },
+  {
+    "title": "LINEのAIエージェントにメモリ機能　ツンデレや執事など“口調”も変更可能に",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/08/news100.html",
+    "published": "Mon, 08 Jun 2026 13:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-08 16:07:39",
+    "ai_summary": null
+  },
+  {
+    "title": "ビジュアルアーティストの“作風”を保護する米国「CREATOR法案」とは？　その建て付けと生成AI時代の課題",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/08/news101.html",
+    "published": "Mon, 08 Jun 2026 13:11:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-08 16:07:39",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI、上場前にChatGPTの「スーパーアプリ」化を計画　海外報道",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/08/news094.html",
+    "published": "Mon, 08 Jun 2026 12:35:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-08 16:07:39",
+    "ai_summary": null
+  },
+  {
+    "title": "アンソロピック、AI開発の減速・停止を提言「時間の余裕はない」",
+    "link": "http://www.asahi.com/articles/ASV6834FWV68ULFA01SM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-08 16:07:39",
+    "ai_summary": null
+  },
+  {
+    "title": "オープンソースブラウザ「Ladybird」が外部コード受け入れを停止、AI時代の開発体制へ転換",
+    "link": "https://gigazine.net/news/20260608-ladybird-change-develop/",
+    "published": "Mon, 08 Jun 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-08 16:07:39",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIが私のソフトウェアエンジニアとしてのキャリアを侵食しておりどうすればいいか分からない」という投稿が大きな反響を呼ぶ",
+    "link": "https://gigazine.net/news/20260608-llms-eroding-career/",
+    "published": "Mon, 08 Jun 2026 19:32:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-08 16:07:39",
+    "ai_summary": null
+  },
+  {
+    "title": "AIが設計した「万能ワクチン」を初めてヒトで試験したとケンブリッジ大学の研究者が発表",
+    "link": "https://gigazine.net/news/20260608-ai-universal-vaccine/",
+    "published": "Mon, 08 Jun 2026 14:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-08 16:07:39",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAではなくHuaweiの最先端チップ「Ascend 910C」でDeepSeek-V4-Proの事後学習に成功したことが明らかに、中国のAI自立が前進",
+    "link": "https://gigazine.net/news/20260608-huawei-ascend-910c-deepseek-v4-pro/",
+    "published": "Mon, 08 Jun 2026 14:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-08 16:07:39",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazon now lets you design custom merch using AI",
+    "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+    "published": "Mon, 08 Jun 2026 15:49:12 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-08 16:07:39",
+    "ai_summary": null
+  },
+  {
+    "title": "WhatsApp says it caught new spyware attacks linked to NSO Group in violation of court order",
+    "link": "https://techcrunch.com/2026/06/08/whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-in-violation-of-court-order/",
+    "published": "Mon, 08 Jun 2026 15:37:31 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-08 16:07:39",
+    "ai_summary": null
+  },
+  {
+    "title": "GitHub Copilot法人利用の移行先検討結果",
+    "link": "https://zenn.dev/nuits_jp/articles/2026-06-07-copilot-business-migration",
+    "published": "Sun, 07 Jun 2026 06:52:39 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-08 16:07:40",
+    "ai_summary": null
+  },
+  {
+    "title": "AIに8割書かせたコードを、半年後の自分が保守できるようにするために実際にやっていること",
+    "link": "https://zenn.dev/rapls/articles/7456767a19af06",
+    "published": "Sun, 07 Jun 2026 02:45:52 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-08 16:07:40",
+    "ai_summary": null
+  },
+  {
+    "title": "Rust を学ぶために、漫画ビューア gashuu(画集)を作った",
+    "link": "https://zenn.dev/yasuflatland/articles/48a08b3eb8cd27",
+    "published": "Sun, 07 Jun 2026 02:39:29 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-08 16:07:40",
+    "ai_summary": null
+  },
+  {
+    "title": "Raspberry Pi×OpenClawで始める 自宅AIエージェント入門",
+    "link": "https://zenn.dev/murasanlab/books/f4082d7ad9ee0b",
+    "published": "Sat, 06 Jun 2026 01:30:10 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-08 16:07:40",
+    "ai_summary": null
+  },
+  {
     "title": "AIペットロボット「モフリン」好調、カシオが新規事業に注力　4本目の柱に育成",
     "link": "https://www.itmedia.co.jp/news/articles/2606/08/news084.html",
     "published": "Mon, 08 Jun 2026 11:12:00 +0900",
