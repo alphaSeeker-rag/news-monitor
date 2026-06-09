@@ -1,5 +1,104 @@
 [
   {
+    "title": "Anthropic、ミュトス級AI「Claude Fable 5」を一般公開　保護機能解除版「Mythos 5」も限定提供",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/10/news058.html",
+    "published": "Wed, 10 Jun 2026 06:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-09 22:24:29",
+    "ai_summary": null
+  },
+  {
+    "title": "シャープ社長、AI中心に新規事業で売上2～3千億円へ　鴻海と協力",
+    "link": "http://www.asahi.com/articles/ASV693JX8V69PLFA00SM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-09 22:24:30",
+    "ai_summary": null
+  },
+  {
+    "title": "イスラエルがイランの監視カメラ映像をAIで分析してハメネイ師の位置を特定したことを受けてロシアはプーチン大統領を警護する監視システムの一部を一時停止",
+    "link": "https://gigazine.net/news/20260610-protecting-putin-system/",
+    "published": "Wed, 10 Jun 2026 07:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-09 22:24:30",
+    "ai_summary": null
+  },
+  {
+    "title": "GM joins race to build batteries for AI data centers and the grid",
+    "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+    "published": "Tue, 09 Jun 2026 21:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-09 22:24:30",
+    "ai_summary": null
+  },
+  {
+    "title": "Hey Siri, here’s what I actually want from AI",
+    "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+    "published": "Tue, 09 Jun 2026 20:50:17 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-09 22:24:30",
+    "ai_summary": null
+  },
+  {
+    "title": "Can tech companies learn to love cheaper AI models?",
+    "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "published": "Tue, 09 Jun 2026 18:56:09 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-09 22:24:30",
+    "ai_summary": null
+  },
+  {
+    "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
+    "link": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/",
+    "published": "Tue, 09 Jun 2026 17:40:08 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-09 22:24:30",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+    "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+    "published": "Tue, 09 Jun 2026 17:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-09 22:24:30",
+    "ai_summary": null
+  },
+  {
+    "title": "It’s not FAANG anymore. It’s MANGOS.",
+    "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+    "published": "Tue, 09 Jun 2026 16:09:14 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-09 22:24:30",
+    "ai_summary": null
+  },
+  {
     "title": "JR東、「QR乗車券」のイメージ公開　27年春から磁気を一部廃止に",
     "link": "https://www.itmedia.co.jp/news/articles/2606/09/news123.html",
     "published": "Tue, 09 Jun 2026 17:52:00 +0900",
