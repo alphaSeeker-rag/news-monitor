@@ -1,5 +1,148 @@
 [
   {
+    "title": "NTT 次世代技術「IOWN」普及へファンド設立 AI新興企業に投資",
+    "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145851000.html",
+    "published": "Wed, 10 Jun 2026 11:47:33 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-06-10 03:25:11",
+    "ai_summary": null
+  },
+  {
+    "title": "Meta、他社サイトでの行動履歴をフィードやAI応答のパーソナライズにも利用へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/10/news069.html",
+    "published": "Wed, 10 Jun 2026 10:27:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-10 03:25:11",
+    "ai_summary": null
+  },
+  {
+    "title": "政府・著名人のInstagramアカウントが次々に乗っ取り被害　原因はMetaのAIアシスタント？",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/10/news015.html",
+    "published": "Wed, 10 Jun 2026 07:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-10 03:25:11",
+    "ai_summary": null
+  },
+  {
+    "title": "AIを使用した攻撃に対抗してGoogleが「AIで守る」新セキュリティエージェントを発表",
+    "link": "https://gigazine.net/news/20260610-google-security-operations/",
+    "published": "Wed, 10 Jun 2026 12:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-10 03:25:13",
+    "ai_summary": null
+  },
+  {
+    "title": "AMDがオークリッジ国立研究所と共同で気象予測AI基盤モデルの「ORBIT-2」を開発",
+    "link": "https://gigazine.net/news/20260610-amd-weather-forecasts-ai-orbit-2/",
+    "published": "Wed, 10 Jun 2026 11:41:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-10 03:25:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Appleのプライバシー重視AIサーバーはNVIDIAのGPUで動いている",
+    "link": "https://gigazine.net/news/20260610-nvivia-gpu-apple-private-compute/",
+    "published": "Wed, 10 Jun 2026 11:34:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-10 03:25:13",
+    "ai_summary": null
+  },
+  {
+    "title": "ついに「Claude Mythos」の正式版が登場＆利用者制限撤廃版の「Claude Fable」も登場して誰でも使用可能に",
+    "link": "https://gigazine.net/news/20260610-claude-mythos-fable/",
+    "published": "Wed, 10 Jun 2026 10:56:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-10 03:25:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Google just fired a warning shot in the AI subscription price wars",
+    "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "published": "Wed, 10 Jun 2026 00:26:10 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-10 03:25:13",
+    "ai_summary": null
+  },
+  {
+    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+    "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+    "published": "Tue, 09 Jun 2026 23:17:51 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-10 03:25:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Code のトークン削減を実測した — semble 93%・cacheRead 1800倍の内訳",
+    "link": "https://zenn.dev/pepabo/articles/claude-code-token-reduction-measured",
+    "published": "Mon, 08 Jun 2026 23:13:48 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-10 03:25:13",
+    "ai_summary": null
+  },
+  {
+    "title": "ExcelVBA開発をAIエージェントで自律化させるAll-in-Oneな開発ランタイムを作りました",
+    "link": "https://zenn.dev/harumikun/articles/cd898e4032ca37",
+    "published": "Mon, 08 Jun 2026 22:38:47 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-10 03:25:13",
+    "ai_summary": null
+  },
+  {
+    "title": "GitHub Copilot FinOps戦略：Usage-Based Billingへの移行と最適化",
+    "link": "https://zenn.dev/microsoft/articles/ghcp-finops-01",
+    "published": "Mon, 08 Jun 2026 04:37:16 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-10 03:25:13",
+    "ai_summary": null
+  },
+  {
+    "title": "メモリが潤沢ではないPCでローカルLLMにコーディング質問した結果",
+    "link": "https://zenn.dev/okamyuji/articles/local-llm-ruby-pitfall-benchmark-18gb-mac",
+    "published": "Mon, 08 Jun 2026 04:09:04 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-10 03:25:13",
+    "ai_summary": null
+  },
+  {
     "title": "Anthropic、ミュトス級AI「Claude Fable 5」を一般公開　保護機能解除版「Mythos 5」も限定提供",
     "link": "https://www.itmedia.co.jp/news/articles/2606/10/news058.html",
     "published": "Wed, 10 Jun 2026 06:40:00 +0900",
