@@ -1,5 +1,303 @@
 [
   {
+    "title": "大手金融各社 米アンソロピック・NEC連携に参加の方針固める",
+    "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146481000.html",
+    "published": "Thu, 11 Jun 2026 00:35:13 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-06-10 15:53:42",
+    "ai_summary": null
+  },
+  {
+    "title": "ChatGPTで広告表示へ　無料・Goプランが対象　6月22日にポリシー更新",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/10/news128.html",
+    "published": "Wed, 10 Jun 2026 20:50:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-10 15:53:43",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントもフィッシング詐欺に引っかかる？　米セキュリティ企業がOpenClawで検証　結果は……",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/10/news126.html",
+    "published": "Wed, 10 Jun 2026 19:42:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-10 15:53:43",
+    "ai_summary": null
+  },
+  {
+    "title": "NTT、800億円規模のAIファンド「IOWN AI Fund」組成　シリコンバレーと東京に新会社拠点",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/10/news123.html",
+    "published": "Wed, 10 Jun 2026 18:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-10 15:53:43",
+    "ai_summary": null
+  },
+  {
+    "title": "「Siri AI」の進化に「Geminiそのまま」の誤解――現地取材で見えた“新生Apple Intelligence”の全貌",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/10/news122.html",
+    "published": "Wed, 10 Jun 2026 17:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-10 15:53:43",
+    "ai_summary": null
+  },
+  {
+    "title": "「妹の脚を触った」因縁つけ仲間に暴行、AI基に恐喝未遂　容疑の高校生5人逮捕",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/10/news086.html",
+    "published": "Wed, 10 Jun 2026 13:02:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-10 15:53:43",
+    "ai_summary": null
+  },
+  {
+    "title": "ComfyUIがOpenAI・Anthropic・Google・MoonshotのAIを競わせてプルリクをレビューする仕組みを公開",
+    "link": "https://gigazine.net/news/20260610-comfyui-four-rival-review/",
+    "published": "Wed, 10 Jun 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "AIの誤検知による誤認逮捕で職・家・2人の子どもの親権を失う事例が発生",
+    "link": "https://gigazine.net/news/20260610-ai-misidentification-wrongful-arrest/",
+    "published": "Wed, 10 Jun 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "SpaceXは2027年末までに地球の軌道上に最大100万基のAIデータセンター衛星を展開するべくロケットの打ち上げ許可を規制当局に申請中",
+    "link": "https://gigazine.net/news/20260610-spacex-aims-launch-orbital-ai-computing-tests-2027/",
+    "published": "Wed, 10 Jun 2026 16:16:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "台湾はアメリカに合わせてHuaweiのような輸出禁止リスト入り企業だけでなく「中国の全ての顧客」へのAIチップの販売を制限することを検討している",
+    "link": "https://gigazine.net/news/20260610-taiwan-will-ban-china-on-ai-chip/",
+    "published": "Wed, 10 Jun 2026 15:31:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "新型AI「Apple Foundation Models」は何がスゴいのか？iPhone上で200億パラメーターのマルチモーダルモデル「AFM 3 Core Advanced」を動作させる画期的な仕組み",
+    "link": "https://gigazine.net/news/20260610-apple-foundation-models/",
+    "published": "Wed, 10 Jun 2026 14:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Zest launches a restaurant discovery app powered by where people actually eat",
+    "link": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
+    "published": "Wed, 10 Jun 2026 15:53:07 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+    "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "published": "Wed, 10 Jun 2026 15:41:22 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Why enterprise AI will be a major focus at VivaTech 2026",
+    "link": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
+    "published": "Wed, 10 Jun 2026 15:16:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+    "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+    "published": "Wed, 10 Jun 2026 15:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Warner Music acquires AI attribution startup Sureel AI",
+    "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+    "published": "Wed, 10 Jun 2026 14:31:30 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+    "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+    "published": "Wed, 10 Jun 2026 13:33:09 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+    "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+    "published": "Wed, 10 Jun 2026 13:07:56 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Why everyone’s an energy company now",
+    "link": "https://techcrunch.com/2026/06/10/why-everyones-an-energy-company-now/",
+    "published": "Wed, 10 Jun 2026 12:45:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Avalanche’s desktop fusion reactor delivers blistering-hot plasma",
+    "link": "https://techcrunch.com/2026/06/10/avalanches-desktop-fusion-reactor-delivers-blistering-hot-plasma/",
+    "published": "Wed, 10 Jun 2026 12:15:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Why two SpaceX alumni are betting on solar and batteries to power the AI craze",
+    "link": "https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/",
+    "published": "Wed, 10 Jun 2026 12:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Meta signs first AI data center deal in India with Reliance",
+    "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+    "published": "Wed, 10 Jun 2026 07:05:26 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "新規事業を牽引する技術選定 〜フルスタックTypeScript開発の実践事例〜",
+    "link": "https://zenn.dev/katsumanarisawa/articles/c3dd3e8371d4d7",
+    "published": "Wed, 10 Jun 2026 01:46:27 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "ollama + qwenで、PDFを読み取る環境を構築",
+    "link": "https://zenn.dev/yuta_enginner/articles/4fb1d8b8d43923",
+    "published": "Tue, 09 Jun 2026 14:02:22 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "プロダクトより先に「自分の環境」を守る ─ 今日からできるセキュリティ対策",
+    "link": "https://zenn.dev/contrea/articles/87aaecea6e8ae2",
+    "published": "Tue, 09 Jun 2026 10:17:52 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "そのテスト、本当にバグを検出できますか？——Mutation Testingでテストの質を測る",
+    "link": "https://zenn.dev/explaza/articles/b04ad08bca46e1",
+    "published": "Tue, 09 Jun 2026 04:52:11 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Maestro MCPとClaude Code Skillsによる自律的なE2Eテスト作成",
+    "link": "https://zenn.dev/flierinc/articles/fcf32bfa82524e",
+    "published": "Tue, 09 Jun 2026 02:15:15 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-10 15:53:44",
+    "ai_summary": null
+  },
+  {
     "title": "NTT 次世代技術「IOWN」普及へファンド設立 AI新興企業に投資",
     "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145851000.html",
     "published": "Wed, 10 Jun 2026 11:47:33 +0900",
