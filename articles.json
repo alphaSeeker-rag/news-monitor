@@ -1,5 +1,83 @@
 [
   {
+    "title": "Anthropic、「Fable 5」の不可視だった蒸留の保護機能を可視化　「誤った判断」と謝罪",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/12/news068.html",
+    "published": "Fri, 12 Jun 2026 06:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-11 22:50:15",
+    "ai_summary": null
+  },
+  {
+    "title": "堀場製作所、半導体向けの新工場を稼働　AI需要で生産能力3倍に",
+    "link": "http://www.asahi.com/articles/ASV6C33Q2V6CPLFA002M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-11 22:50:15",
+    "ai_summary": null
+  },
+  {
+    "title": "AIで書いた文章を自分の言葉として伝えるのは倫理的に問題があるのか？",
+    "link": "https://gigazine.net/news/20260612-ai-use-disclosure-morally-wrong/",
+    "published": "Fri, 12 Jun 2026 06:00:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 22:50:16",
+    "ai_summary": null
+  },
+  {
+    "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
+    "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+    "published": "Thu, 11 Jun 2026 20:27:25 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-11 22:50:16",
+    "ai_summary": null
+  },
+  {
+    "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
+    "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+    "published": "Thu, 11 Jun 2026 17:30:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-11 22:50:16",
+    "ai_summary": null
+  },
+  {
+    "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+    "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+    "published": "Thu, 11 Jun 2026 16:36:20 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-11 22:50:16",
+    "ai_summary": null
+  },
+  {
+    "title": "These are the countries moving to ban social media for children",
+    "link": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
+    "published": "Thu, 11 Jun 2026 16:17:50 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-11 22:50:16",
+    "ai_summary": null
+  },
+  {
     "title": "AIに買い物を任せる時代へ　VisaとOpenAIが提携──“代理決済”を上限設定などで安全に",
     "link": "https://www.itmedia.co.jp/news/articles/2606/11/news126.html",
     "published": "Thu, 11 Jun 2026 19:05:00 +0900",
