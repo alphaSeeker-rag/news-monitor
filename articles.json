@@ -1,5 +1,282 @@
 [
   {
+    "title": "AIに買い物を任せる時代へ　VisaとOpenAIが提携──“代理決済”を上限設定などで安全に",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/11/news126.html",
+    "published": "Thu, 11 Jun 2026 19:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "NEC・アンソロピック、三井住友FGや明治安田など金融8社と連携　AI活用で新たな価値創出へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/11/news128.html",
+    "published": "Thu, 11 Jun 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "Google、検索サービスのプライバシー設定を刷新　レンズ画像や音声もデフォルトで保存対象に",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/11/news113.html",
+    "published": "Thu, 11 Jun 2026 16:11:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "JASRAC、「AI作曲・人間作詞」の曲は管理します――「人間の創作的寄与の有無」で線引き",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/11/news110.html",
+    "published": "Thu, 11 Jun 2026 15:49:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "サッカーW杯、偽ライブ配信サイトに注意　生成AIで詐欺が巧妙化　Acronisが警告",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/11/news106.html",
+    "published": "Thu, 11 Jun 2026 15:14:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic、「Fable 5」のガードレールの仕組みを説明　課金の仕組みや設定変更方法など",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/11/news104.html",
+    "published": "Thu, 11 Jun 2026 15:09:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIによる概要」、グーグルの法的責任は？　ドイツの裁判所が判断",
+    "link": "http://www.asahi.com/articles/ASV6C3GTDV6CUHBI01DM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "AppleがmacOS上で高速かつ軽量なLinux環境を提供できる「Container machine」を発表",
+    "link": "https://gigazine.net/news/20260611-apple-container-machines/",
+    "published": "Thu, 11 Jun 2026 22:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "オープンソースソフトウェアのプロジェクト開発へ積極的に関与していたユーザーが人間の制御下にない AIだった可能性",
+    "link": "https://gigazine.net/news/20260611-fedora-ai-runs/",
+    "published": "Thu, 11 Jun 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "高速かつ高精度な視覚言語モデル「Zamba2-VL」が登場、Transformerより高速なアーキテクチャで開発",
+    "link": "https://gigazine.net/news/20260611-zamba2-vl-zyphra/",
+    "published": "Thu, 11 Jun 2026 17:49:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "XiaomiがClaude Code的なAIエージェント「MiMo Code」をオープンソースで公開、ブラインドテストでClaude Codeに勝利",
+    "link": "https://gigazine.net/news/20260611-xiaomi-mimo-code/",
+    "published": "Thu, 11 Jun 2026 16:56:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIとVisaが提携してAIエージェントが自動でオンラインの購入手続きを完了可能に",
+    "link": "https://gigazine.net/news/20260611-visa-openai-partners-ai-commerce/",
+    "published": "Thu, 11 Jun 2026 16:10:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "AIもフィッシング詐欺に引っかかることが判明、上司を装ったメール1通でAWS認証情報を外部へ送信",
+    "link": "https://gigazine.net/news/20260611-openclaw-ai-phishing/",
+    "published": "Thu, 11 Jun 2026 16:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "アメリカ政府がAIの脅威に対処するため最も深刻な脆弱性の対応期限を「3日」に設定",
+    "link": "https://gigazine.net/news/20260611-cisa-prioritizing-security/",
+    "published": "Thu, 11 Jun 2026 15:59:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが「アメリカの関税やAIデータセンターに関する議論を操作しようとする中国発のChatGPTアカウントを禁止した」と発表",
+    "link": "https://gigazine.net/news/20260611-openai-chinese-propaganda-influenceus-ai-debates/",
+    "published": "Thu, 11 Jun 2026 13:42:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "Google検索の「AIによる概要」が虚偽の情報を記載したことにGoogleが直接的な責任を負うとの画期的判決が下る",
+    "link": "https://gigazine.net/news/20260611-ai-overview-german-ruling/",
+    "published": "Thu, 11 Jun 2026 13:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 16:14:29",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
+    "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
+    "published": "Thu, 11 Jun 2026 15:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-11 16:14:30",
+    "ai_summary": null
+  },
+  {
+    "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+    "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+    "published": "Thu, 11 Jun 2026 14:23:43 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-11 16:14:30",
+    "ai_summary": null
+  },
+  {
+    "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
+    "link": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
+    "published": "Thu, 11 Jun 2026 14:00:12 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-11 16:14:30",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+    "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+    "published": "Thu, 11 Jun 2026 11:48:55 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-11 16:14:30",
+    "ai_summary": null
+  },
+  {
+    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+    "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+    "published": "Thu, 11 Jun 2026 04:02:19 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-11 16:14:30",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic’s Dario Amodei has just one direct report",
+    "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+    "published": "Thu, 11 Jun 2026 03:53:06 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-11 16:14:30",
+    "ai_summary": null
+  },
+  {
+    "title": "Code with Claude Tokyoに参加して、AI時代に強い組織とは何かを考えさせられた",
+    "link": "https://zenn.dev/paraponera/articles/2026-06-11-code-with-claude-tokyo",
+    "published": "Wed, 10 Jun 2026 17:21:51 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-11 16:14:30",
+    "ai_summary": null
+  },
+  {
+    "title": "新しく出たGemma4-E2B-QATを試してみる",
+    "link": "https://zenn.dev/aiforall/articles/f4a39bb9b8c672",
+    "published": "Wed, 10 Jun 2026 08:28:41 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-11 16:14:30",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicの新モデル「Claude Fable 5 & Mythos 5」を徹底解説",
+    "link": "https://zenn.dev/galirage/articles/claude-fable-5",
+    "published": "Wed, 10 Jun 2026 06:35:41 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-11 16:14:30",
+    "ai_summary": null
+  },
+  {
     "title": "公式がワンコーラス公開→AIで無断フルコーラス化、拡散　大原ゆい子氏「無職転生III」OPが被害",
     "link": "https://www.itmedia.co.jp/news/articles/2606/11/news075.html",
     "published": "Thu, 11 Jun 2026 10:10:00 +0900",
