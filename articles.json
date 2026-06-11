@@ -1,5 +1,126 @@
 [
   {
+    "title": "公式がワンコーラス公開→AIで無断フルコーラス化、拡散　大原ゆい子氏「無職転生III」OPが被害",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/11/news075.html",
+    "published": "Thu, 11 Jun 2026 10:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-11 03:37:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Fable 5、ガードレール（保護機能）が厳しすぎて「DNAとは？」にも答えず",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/11/news063.html",
+    "published": "Thu, 11 Jun 2026 07:34:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-11 03:37:20",
+    "ai_summary": null
+  },
+  {
+    "title": "「作詞が人間、作曲はAI」にも著作権　JASRACが方針を公表",
+    "link": "http://www.asahi.com/articles/ASV6B5CQYV6BPTIL015M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-11 03:37:20",
+    "ai_summary": null
+  },
+  {
+    "title": "「Claude Fable 5」をAIの開発に利用するとこっそり性能が制限されることが判明、セキュリティ対策も厳しすぎて不満が続出",
+    "link": "https://gigazine.net/news/20260611-claude-fable-safeguards-rule/",
+    "published": "Thu, 11 Jun 2026 12:31:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 03:37:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicが高度なAIシステムによる壊滅的なリスクへの対処方法と労働市場の混乱への対応方法に関する政策提言を発表",
+    "link": "https://gigazine.net/news/20260611-anthropic-ai-policy/",
+    "published": "Thu, 11 Jun 2026 12:25:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 03:37:21",
+    "ai_summary": null
+  },
+  {
+    "title": "16歳未満のソーシャルメディア利用を禁止しAIチャットボットに対して安全基準を定める「安全なソーシャルメディア法案」をカナダ政府が提出",
+    "link": "https://gigazine.net/news/20260611-canada-bill-c-34-safe-social-media-act/",
+    "published": "Thu, 11 Jun 2026 12:02:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 03:37:21",
+    "ai_summary": null
+  },
+  {
+    "title": "将来有望なサッカー選手の才能をAIで発掘することはできるのか？",
+    "link": "https://gigazine.net/news/20260611-can-ai-spot-next-football-superstar/",
+    "published": "Thu, 11 Jun 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 03:37:21",
+    "ai_summary": null
+  },
+  {
+    "title": "「Claude Fable 5」では会話履歴がAnthropicの従業員によって読まれる場合がある、Microsoftはリスク評価のために従業員による使用を保留中",
+    "link": "https://gigazine.net/news/20260611-microsoft-claude-fable-5/",
+    "published": "Thu, 11 Jun 2026 11:22:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 03:37:21",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleがGemma 4より4倍高速な拡散言語モデル「DiffusionGemma」をオープンモデルとして公開、数独が得意なファインチューニングモデルもあり",
+    "link": "https://gigazine.net/news/20260611-google-ai-diffusiongemma/",
+    "published": "Thu, 11 Jun 2026 10:46:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-11 03:37:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Fable 5レビュー：Opusの2倍の価格に見合う価値はあるか",
+    "link": "https://zenn.dev/yamato_snow/articles/d180340730d583",
+    "published": "Wed, 10 Jun 2026 11:27:20 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-11 03:37:21",
+    "ai_summary": null
+  },
+  {
+    "title": "LLM時代に非構造化データを構造化して扱う設計を考える",
+    "link": "https://zenn.dev/lnest_knowledge/articles/5c096326621715",
+    "published": "Wed, 10 Jun 2026 01:39:45 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-11 03:37:21",
+    "ai_summary": null
+  },
+  {
     "title": "アンソロピック、高性能AIは「両刃の剣」　東京で初の開発者会議",
     "link": "http://www.asahi.com/articles/ASV6B323VV6BULFA012M.html?ref=rss",
     "published": "",
