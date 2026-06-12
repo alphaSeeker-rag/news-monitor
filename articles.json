@@ -1,5 +1,82 @@
 [
   {
+    "title": "OpenAI、クラウド開発環境のOnaを買収　「Codex」の強化狙い",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/12/news072.html",
+    "published": "Fri, 12 Jun 2026 08:46:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-12 03:37:14",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIがCodexの機能強化のためにAI企業「Ona」を買収",
+    "link": "https://gigazine.net/news/20260612-openai-acquire-ona/",
+    "published": "Fri, 12 Jun 2026 10:51:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-12 03:37:14",
+    "ai_summary": null
+  },
+  {
+    "title": "イーロン・マスク率いるSpaceXが世界最大の新規株式公開(IPO)で約12兆円を調達",
+    "link": "https://gigazine.net/news/20260612-space-x-ipo-75-b-dollar/",
+    "published": "Fri, 12 Jun 2026 10:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-12 03:37:14",
+    "ai_summary": null
+  },
+  {
+    "title": "「Claude Fable 5のこっそりナーフ」についてAnthropicが公式声明を発表、AI研究用途でのモデル弱体化を改善へ",
+    "link": "https://gigazine.net/news/20260612-claude-fable-5-safeguard-change/",
+    "published": "Fri, 12 Jun 2026 10:41:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-12 03:37:14",
+    "ai_summary": null
+  },
+  {
+    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+    "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "published": "Fri, 12 Jun 2026 01:48:07 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-12 03:37:14",
+    "ai_summary": null
+  },
+  {
+    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+    "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+    "published": "Fri, 12 Jun 2026 01:04:38 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-12 03:37:14",
+    "ai_summary": null
+  },
+  {
+    "title": "自分専用のAIニュースキュレーターをCodexで作って約1か月運用してみた",
+    "link": "https://zenn.dev/mkj/articles/966c62588bd8fc",
+    "published": "Thu, 11 Jun 2026 02:50:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-12 03:37:15",
+    "ai_summary": null
+  },
+  {
     "title": "Anthropic、「Fable 5」の不可視だった蒸留の保護機能を可視化　「誤った判断」と謝罪",
     "link": "https://www.itmedia.co.jp/news/articles/2606/12/news068.html",
     "published": "Fri, 12 Jun 2026 06:20:00 +0900",
