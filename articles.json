@@ -1,5 +1,204 @@
 [
   {
+    "title": "「スペースX」が上場 調達資金 約12兆円は過去最大規模",
+    "link": "http://www3.nhk.or.jp/news/html/20260612/k10015148891000.html",
+    "published": "Sat, 13 Jun 2026 00:19:26 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-06-12 15:30:44",
+    "ai_summary": null
+  },
+  {
+    "title": "「不完全だがスタートライン」　PF就労条約、AI管理に透明性も",
+    "link": "http://www.asahi.com/articles/ASV6D41VRV6DULFA01BM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Fable 5は指示されなくてもブラウザまで開いてバグを追う「容赦なく積極的」なAI",
+    "link": "https://gigazine.net/news/20260612-fable-is-relentlessly-proactive/",
+    "published": "Fri, 12 Jun 2026 22:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude MaxとChatGPT Proは月額200ドルなのにそれぞれ約8000ドルと約1万4000ドル相当のトークンが使えるとの指摘",
+    "link": "https://gigazine.net/news/20260612-anthropic-openai-subscription-margin/",
+    "published": "Fri, 12 Jun 2026 21:00:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "無料のAI音楽検出ツールを音楽配信サービスのDeezerがリリース、YouTube MusicやSpotifyなどのプレイリストをスキャン可能",
+    "link": "https://gigazine.net/news/20260612-deezer-ai-generated-music-detector/",
+    "published": "Fri, 12 Jun 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "AIへの指示まで履歴として保存する新バージョン管理システム「DeltaDB」をZedが発表",
+    "link": "https://gigazine.net/news/20260612-zed-deltadb/",
+    "published": "Fri, 12 Jun 2026 17:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "空気中から1リットル近い飲料水を取り出せるジャケットが開発される",
+    "link": "https://gigazine.net/news/20260612-jacket-pulls-drinking-water-from-air/",
+    "published": "Fri, 12 Jun 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "ポケモンGOプレーヤーがゲームのために現実世界をスキャンしたデータが軍用ドローンや軍事ロボット向け高精度ナビシステム開発に使われている",
+    "link": "https://gigazine.net/news/20260612-pokemon-go-trained-navigation-tech-military/",
+    "published": "Fri, 12 Jun 2026 14:33:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "全身麻酔中でも脳は周囲の音を聞いていてリアルタイムで言語を処理している可能性",
+    "link": "https://gigazine.net/news/20260612-general-anesthesia-brain-still-listening/",
+    "published": "Fri, 12 Jun 2026 14:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
+    "link": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
+    "published": "Fri, 12 Jun 2026 11:43:32 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "published": "Fri, 12 Jun 2026 04:30:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+    "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+    "published": "Fri, 12 Jun 2026 04:30:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "アプリ層とDB層の二重防御でテナント分離を担保する（マルチテナント化連載 第3回・二重防御編）",
+    "link": "https://zenn.dev/counterworks/articles/1887cb36a1b701",
+    "published": "Fri, 12 Jun 2026 02:01:30 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Codeのアドバイザーが「プロジェクトの本質」を毎回思い出させてくれる ── 公式仕様を踏まえたCLAUDE.mdの書き方",
+    "link": "https://zenn.dev/acntechjp/articles/83f9d7bb898010",
+    "published": "Thu, 11 Jun 2026 16:13:56 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Codeと91本のPDFで知識グラフを作って卒論を書いた（そして何が壊れたか）",
+    "link": "https://zenn.dev/keipi/articles/lbd-knowledge-graph-91pdfs",
+    "published": "Thu, 11 Jun 2026 15:53:34 GMT",
+    "keywords": [
+      "Python"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Code × Obsidian で『記憶の二層構造』を作る",
+    "link": "https://zenn.dev/0rv3/articles/b6a7172bfda1ed",
+    "published": "Wed, 10 Jun 2026 21:35:35 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "Hermes Desktop の設定 186 項目を実機とソースで全部調べて、日本語ガイドを公開した",
+    "link": "https://zenn.dev/takna/articles/hermes-desktop-settings-guide",
+    "published": "Wed, 10 Jun 2026 13:13:18 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
+    "title": "AIが書く量を増やすより、AIスロップを減らしたい",
+    "link": "https://zenn.dev/ttaniguchi/articles/ai-prompting-next",
+    "published": "Wed, 10 Jun 2026 12:17:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-12 15:30:46",
+    "ai_summary": null
+  },
+  {
     "title": "OpenAI、クラウド開発環境のOnaを買収　「Codex」の強化狙い",
     "link": "https://www.itmedia.co.jp/news/articles/2606/12/news072.html",
     "published": "Fri, 12 Jun 2026 08:46:00 +0900",
