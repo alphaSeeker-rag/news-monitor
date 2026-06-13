@@ -1,5 +1,38 @@
 [
   {
+    "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+    "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+    "published": "Sat, 13 Jun 2026 11:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-13 14:14:56",
+    "ai_summary": null
+  },
+  {
+    "title": "散らばるAI開発ログを一か所へ：agentsviewで検索・コスト確認・振り返り",
+    "link": "https://zenn.dev/53able/articles/6514f44e72be7f",
+    "published": "Fri, 12 Jun 2026 17:36:49 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-13 14:14:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Code × Trivy MCPで依存ライブラリの脆弱性を検出→修正→再スキャンする",
+    "link": "https://zenn.dev/virtualcraft/articles/claude-code-trivy-mcp-security-check",
+    "published": "Fri, 12 Jun 2026 04:31:13 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-13 14:14:56",
+    "ai_summary": null
+  },
+  {
     "title": "アンソロピック 最新AIモデルの提供を停止 米政府の命令受け",
     "link": "http://www3.nhk.or.jp/news/html/20260613/k10015149041000.html",
     "published": "Sat, 13 Jun 2026 11:55:15 +0900",
