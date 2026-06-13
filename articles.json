@@ -1,5 +1,93 @@
 [
   {
+    "title": "アンソロピック 最新AIモデルの提供を停止 米政府の命令受け",
+    "link": "http://www3.nhk.or.jp/news/html/20260613/k10015149041000.html",
+    "published": "Sat, 13 Jun 2026 11:55:15 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-06-13 03:24:28",
+    "ai_summary": null
+  },
+  {
+    "title": "「Claude Fable 5」「Mythos 5」全面停止　米政府の指令により　Anthropicは早期復旧を宣言",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/13/news026.html",
+    "published": "Sat, 13 Jun 2026 10:50:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-13 03:24:29",
+    "ai_summary": null
+  },
+  {
+    "title": "最新AI「Fable 5」でYouTube動画作ってみた　想像以上の出来に驚愕、ただし大きな弱点も",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/12/news113.html",
+    "published": "Sat, 13 Jun 2026 10:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-13 03:24:29",
+    "ai_summary": null
+  },
+  {
+    "title": "AIは「慈悲の心」を代替できない　マレーシア首相、東大で特別講義",
+    "link": "http://www.asahi.com/articles/ASV6C2T4JV6CUHBI022M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-13 03:24:29",
+    "ai_summary": null
+  },
+  {
+    "title": "最大6690万画素のソニー製ミラーレス一眼カメラ「α7R VI」の外観をじっくり観察してみたよレビュー",
+    "link": "https://gigazine.net/news/20260613-sony-alpha7r-vi-appearance/",
+    "published": "Sat, 13 Jun 2026 09:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-13 03:24:30",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "published": "Sat, 13 Jun 2026 02:26:30 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-13 03:24:30",
+    "ai_summary": null
+  },
+  {
+    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+    "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+    "published": "Fri, 12 Jun 2026 23:00:54 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-13 03:24:30",
+    "ai_summary": null
+  },
+  {
+    "title": "DatadogとAWSが同じ日に出した“Opsエージェント”は、何を奪い合っているのか",
+    "link": "https://zenn.dev/genda_jp/articles/e399fea370ffdb",
+    "published": "Fri, 12 Jun 2026 00:23:31 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-13 03:24:30",
+    "ai_summary": null
+  },
+  {
     "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
     "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
     "published": "Fri, 12 Jun 2026 20:38:09 +0000",
