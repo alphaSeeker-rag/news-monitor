@@ -1,5 +1,82 @@
 [
   {
+    "title": "AI開発なら本人同意なく提供　個人情報保護法改正案の問題点とは？",
+    "link": "http://www.asahi.com/articles/ASV6D2RYSV6DULZU008M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-14 03:40:35",
+    "ai_summary": null
+  },
+  {
+    "title": "世界の就活、どう違う?　特殊な日本の一括採用、AI時代に強みも",
+    "link": "http://www.asahi.com/articles/ASV6D2CXVV6DUHBI00NM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-14 03:40:35",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIに淘汰されたくない」シニア記者の訴えに川上量生さんの答えは",
+    "link": "http://www.asahi.com/articles/ASV692G3GV69ULLI006M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-14 03:40:35",
+    "ai_summary": null
+  },
+  {
+    "title": "AIのLLMアーキテクチャの新技法「KV共有」「mHC」「圧縮アテンション」とは何か？",
+    "link": "https://gigazine.net/news/20260614-recent-developments-in-llm-architectures/",
+    "published": "Sun, 14 Jun 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-14 03:40:35",
+    "ai_summary": null
+  },
+  {
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "published": "Sun, 14 Jun 2026 03:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-14 03:40:35",
+    "ai_summary": null
+  },
+  {
+    "title": "CKS合格🎊体験記〜AIと歩んだ44日間〜",
+    "link": "https://zenn.dev/aoi/articles/5a816271cbb174",
+    "published": "Sat, 13 Jun 2026 02:49:53 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-14 03:40:35",
+    "ai_summary": null
+  },
+  {
+    "title": "いかにして既存の自律LLMエージェントを超えるエージェントをつくるか - 試行錯誤の痕跡",
+    "link": "https://zenn.dev/minamorl/articles/ba026ee683bff2",
+    "published": "Fri, 12 Jun 2026 08:28:26 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-14 03:40:35",
+    "ai_summary": null
+  },
+  {
     "title": "KPMG pulls report on AI usage due to apparent hallucinations",
     "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
     "published": "Sat, 13 Jun 2026 20:42:31 +0000",
