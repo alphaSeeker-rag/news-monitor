@@ -1,5 +1,118 @@
 [
   {
+    "title": "Amazon、Anthropicの最新AIについて懸念を伝えていた　米政権による停止命令に先立ち　関係筋",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/14/news019.html",
+    "published": "Sun, 14 Jun 2026 18:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-14 14:19:12",
+    "ai_summary": null
+  },
+  {
+    "title": "コーディングAIエージェント向けのオープンソースHeroku「InsForge」",
+    "link": "https://gigazine.net/news/20260614-insforge/",
+    "published": "Sun, 14 Jun 2026 18:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-14 14:19:12",
+    "ai_summary": null
+  },
+  {
+    "title": "Metaによる中国発の注目AIスタートアップ・Manusの買収に中国政府が待った、買収解消に向け両社が準備中との報道",
+    "link": "https://gigazine.net/news/20260614-meta-unwind-manus-deal-beijing-demand/",
+    "published": "Sun, 14 Jun 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-14 14:19:12",
+    "ai_summary": null
+  },
+  {
+    "title": "個人開発はなぜ誰も使わないのか──AIで「作る壁」が消えた時代に大事になること",
+    "link": "https://zenn.dev/yun_bow/articles/6e6bcbf127072a",
+    "published": "Sun, 14 Jun 2026 00:14:20 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-14 14:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Fable 5停止をきっかけにUbuntuでGemma 4 E2Bを動かした記録",
+    "link": "https://zenn.dev/yamadatt/articles/20260614-ubuntu-gemma4-ollama",
+    "published": "Sun, 14 Jun 2026 00:00:12 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-14 14:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェント時代の品質保証 ― 監査駆動フィードバック開発という考え方",
+    "link": "https://zenn.dev/ichikawa_y/articles/audit-driven-feedback-development",
+    "published": "Sat, 13 Jun 2026 17:53:22 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-14 14:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "GitHub Copilot 難民 ～ Cluade Code ～ Google AI Studio ～ そして Codex へ",
+    "link": "https://zenn.dev/ssknaoya/articles/d9becba1164230",
+    "published": "Sat, 13 Jun 2026 17:00:18 GMT",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-14 14:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "GA した GitHub Copilot SDK (.NET) を試してみた",
+    "link": "https://zenn.dev/microsoft/articles/github-copilot-sdk-dotnet-ga",
+    "published": "Sat, 13 Jun 2026 16:00:54 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-14 14:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Pythonばかり書いてきた私の視点で、JavaScriptの世界観を理解するための用語(Node.js等)を整理した",
+    "link": "https://zenn.dev/lotation/articles/a1e0a8658d29ba",
+    "published": "Sat, 13 Jun 2026 14:35:32 GMT",
+    "keywords": [
+      "AI",
+      "Python"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-14 14:19:13",
+    "ai_summary": null
+  },
+  {
+    "title": "なぜAI生成コードは危ないのか — スキャナを作って見えた現実",
+    "link": "https://zenn.dev/numarn/articles/73fa473c161361",
+    "published": "Sat, 13 Jun 2026 11:51:05 GMT",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-14 14:19:13",
+    "ai_summary": null
+  },
+  {
     "title": "AI開発なら本人同意なく提供　個人情報保護法改正案の問題点とは？",
     "link": "http://www.asahi.com/articles/ASV6D2RYSV6DULZU008M.html?ref=rss",
     "published": "",
