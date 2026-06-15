@@ -1,5 +1,183 @@
 [
   {
+    "title": "Sakana AI、初の商用プロダクト「Marlin」リリース　その実力は？【出力レポート全文掲載】",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/15/news015.html",
+    "published": "Mon, 15 Jun 2026 11:56:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-15 03:55:24",
+    "ai_summary": null
+  },
+  {
+    "title": "Google、「Gemini」悪用の中国系サイバー犯罪組織を提訴――2週間で250万通の詐欺メッセージ",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/15/news067.html",
+    "published": "Mon, 15 Jun 2026 10:51:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-15 03:55:24",
+    "ai_summary": null
+  },
+  {
+    "title": "ChatGPT vs. Google検索──どっちで調べるのが学習効果が高い？　8日間の実験で検証した研究",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/15/news028.html",
+    "published": "Mon, 15 Jun 2026 08:00:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-15 03:55:24",
+    "ai_summary": null
+  },
+  {
+    "title": "AIの「目」が人を助ける　広がる顔認識カメラ捜査と市民に残る不安",
+    "link": "http://www.asahi.com/articles/ASV692D40V69UTIL001M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-15 03:55:24",
+    "ai_summary": null
+  },
+  {
+    "title": "ミュトス級AI、停止命令はアマゾンの通報が契機か　政府と対立再燃",
+    "link": "http://www.asahi.com/articles/ASV6H0SXLV6HUHBI00LM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-15 03:55:24",
+    "ai_summary": null
+  },
+  {
+    "title": "日経平均、迫る7万円　「和平合意」に勢いづくAI銘柄にバブルの影",
+    "link": "http://www.asahi.com/articles/ASV6H0J5TV6HULFA00PM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-15 03:55:24",
+    "ai_summary": null
+  },
+  {
+    "title": "味の素は先端チップ製造基板の主要材料である「ABF」の需要を2030年まで満たすことができるという見通し、価格を引き上げるのではなく生産能力を拡大する計画",
+    "link": "https://gigazine.net/news/20260615-ajinomoto-abf-product-more/",
+    "published": "Mon, 15 Jun 2026 12:51:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-15 03:55:24",
+    "ai_summary": null
+  },
+  {
+    "title": "NothingのCEOが「スマホの価格はさらに上がる」と予想、高騰するメモリが一部モデルで価格の半分以上を占める事態に",
+    "link": "https://gigazine.net/news/20260615-nothing-ceo-smartphone-memory-opinion/",
+    "published": "Mon, 15 Jun 2026 12:29:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-15 03:55:24",
+    "ai_summary": null
+  },
+  {
+    "title": "AnthropicのClaude Mythos 5／Fable 5の輸出規制発動につながった原因はAmazonのCEO、トランプ政権当局者に対し「脱獄」の懸念を表明したため",
+    "link": "https://gigazine.net/news/20260615-amazon-ceo-andy-jassy-anthropic-mythos-fable/",
+    "published": "Mon, 15 Jun 2026 11:51:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-15 03:55:24",
+    "ai_summary": null
+  },
+  {
+    "title": "公営企業の「独自開発AI」が既存モデル2つを混ぜただけと判明、重み解析で発覚",
+    "link": "https://gigazine.net/news/20260615-rio-open-nex-qwen/",
+    "published": "Mon, 15 Jun 2026 11:41:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-15 03:55:24",
+    "ai_summary": null
+  },
+  {
+    "title": "中国製AIモデル「Kimi K2.7 Code」がオープンモデルとして公開される、Kimiシリーズ最高のコーディング性能でトークン消費も少なめ",
+    "link": "https://gigazine.net/news/20260615-kimi-k2-7-code/",
+    "published": "Mon, 15 Jun 2026 10:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-15 03:55:24",
+    "ai_summary": null
+  },
+  {
+    "title": "アメリカ政府によるClaude Mythos 5とClaude Fable 5の提供停止命令は「中国と関係のあるグループがアクセスした疑いがあるため」との報道",
+    "link": "https://gigazine.net/news/20260615-china-access-mythos/",
+    "published": "Mon, 15 Jun 2026 10:34:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-15 03:55:24",
+    "ai_summary": null
+  },
+  {
+    "title": "ChatGPT・Claude・Geminiに「冷戦下の戦略会議」をさせたら核兵器を使用してしまったという研究結果",
+    "link": "https://gigazine.net/news/20260615-chatgpt-claude-gemini-nuclear/",
+    "published": "Mon, 15 Jun 2026 08:00:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-15 03:55:24",
+    "ai_summary": null
+  },
+  {
+    "title": "超精密インデックス「PageIndex」で実現する推論ベースRAG（JTC版）",
+    "link": "https://zenn.dev/snaga/articles/2026-06-14-doctools-with-pageindex",
+    "published": "Sun, 14 Jun 2026 08:08:31 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-15 03:55:25",
+    "ai_summary": null
+  },
+  {
+    "title": "JavaScriptのClass離れの歴史をたどる話",
+    "link": "https://zenn.dev/sjbworks/articles/41a5c76dce4b36",
+    "published": "Sun, 14 Jun 2026 04:05:29 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-15 03:55:25",
+    "ai_summary": null
+  },
+  {
+    "title": "「生成AIで属人性を解消」には、違和感を感じる。",
+    "link": "https://zenn.dev/ncdc/articles/8f8f3bf16017f7",
+    "published": "Sun, 14 Jun 2026 04:00:08 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-15 03:55:25",
+    "ai_summary": null
+  },
+  {
     "title": "検索エンジンに「AIによる概要」が表示される状況で自社のウェブサイトを見てもらいやすくする方法とは？",
     "link": "https://gigazine.net/news/20260615-make-your-website-discoverable-by-ai/",
     "published": "Mon, 15 Jun 2026 07:00:00 +0900",
