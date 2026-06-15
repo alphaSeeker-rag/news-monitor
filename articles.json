@@ -1,5 +1,215 @@
 [
   {
+    "title": "AI広告は受け入れられるのか？　最新調査から見えてきた近未来像",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/15/news083.html",
+    "published": "Mon, 15 Jun 2026 12:49:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-15 17:23:13",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントがネットワーク全体をスキャンしようとしてAWSから100万円以上の請求、運用していた人物が寄付を募る事態に",
+    "link": "https://gigazine.net/news/20260615-dn42-ai-agent/",
+    "published": "Mon, 15 Jun 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "データセンター反対派の活動によって3カ月で20兆円規模の建設計画が遅延・停止している",
+    "link": "https://gigazine.net/news/20260615-data-center-opposition/",
+    "published": "Mon, 15 Jun 2026 17:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "AIが社会を変革する「今」と「AGIの未来」の中間にある真の問題「混沌とした中間期」とは？",
+    "link": "https://gigazine.net/news/20260615-ai-messy-middle/",
+    "published": "Mon, 15 Jun 2026 16:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "Appleが「Siri AI」をEUの規則のせいでヨーロッパにリリースできないと主張するも欧州委員会は「AppleがEU域内で新製品や新サービスを導入することを禁じる条項は一切ない」と反論",
+    "link": "https://gigazine.net/news/20260615-ai-siri-dma/",
+    "published": "Mon, 15 Jun 2026 14:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Fableのサービス停止を受けて中国企業が最先端モデル「GLM-5.2」を急遽発表、2026年6月中に無料公開へ",
+    "link": "https://gigazine.net/news/20260615-z-ai-glm-5-2/",
+    "published": "Mon, 15 Jun 2026 13:58:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "AppleがSiriでClaudeやGeminiを選べる機能をiOS 27ベータ版に実装か、WWDCでは発表せず",
+    "link": "https://gigazine.net/news/20260615-apple-siri-extensions/",
+    "published": "Mon, 15 Jun 2026 13:50:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "日本語対応の音声クローンAI「ZONOS2」が登場、トランプ大統領の声でエヴァンゲリオンについて語らせるデモもあり",
+    "link": "https://gigazine.net/news/20260615-tts-zonos2-amd-zyphra/",
+    "published": "Mon, 15 Jun 2026 13:03:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
+    "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
+    "published": "Mon, 15 Jun 2026 14:45:03 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+    "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+    "published": "Mon, 15 Jun 2026 14:34:45 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+    "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+    "published": "Mon, 15 Jun 2026 13:46:08 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+    "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+    "published": "Mon, 15 Jun 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "The AI layoff wave is becoming a powder keg",
+    "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "published": "Mon, 15 Jun 2026 07:25:41 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+    "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
+    "published": "Mon, 15 Jun 2026 04:01:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "AI 開発合宿で見えたのは普段の開発文化だった",
+    "link": "https://zenn.dev/dress_code/articles/dresscode-ai-dev-camp",
+    "published": "Mon, 15 Jun 2026 02:30:08 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントはCloudflareに賭けろ",
+    "link": "https://zenn.dev/yusukebe/articles/ccb1f953e48ee1",
+    "published": "Mon, 15 Jun 2026 02:27:32 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "OSSの「AI社員だけの会社」OneManCompany を動かしてみる ~Microsoft Foundry のモデルで~",
+    "link": "https://zenn.dev/nomhiro/articles/omc-azure-foundry",
+    "published": "Sun, 14 Jun 2026 14:11:29 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "Docker/Kubernetesをつなぐコンテナランタイム「Raind」",
+    "link": "https://zenn.dev/shizuku1984/articles/3f546a7ddd780a",
+    "published": "Sun, 14 Jun 2026 11:51:15 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
+    "title": "どうすれば月2億円分のトークンを燃やせるのか",
+    "link": "https://zenn.dev/r_kaga/articles/340fba67527789",
+    "published": "Sun, 14 Jun 2026 10:26:09 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-15 17:23:14",
+    "ai_summary": null
+  },
+  {
     "title": "Sakana AI、初の商用プロダクト「Marlin」リリース　その実力は？【出力レポート全文掲載】",
     "link": "https://www.itmedia.co.jp/news/articles/2606/15/news015.html",
     "published": "Mon, 15 Jun 2026 11:56:00 +0900",
