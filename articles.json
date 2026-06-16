@@ -1,5 +1,293 @@
 [
   {
+    "title": "デジタル相、停止中のミュトス級AIについて「今あるもので最大限」　3メガバンクなども同様",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/16/news124.html",
+    "published": "Tue, 16 Jun 2026 20:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "SBGとOpenAI、AIで脆弱性診断「Patching as a Service」提供　まずは日本の重要インフラ向けに",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/16/news115.html",
+    "published": "Tue, 16 Jun 2026 18:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazon「プライムデー」7月10日から4日間　「iPhone Air」など対象に",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/16/news093.html",
+    "published": "Tue, 16 Jun 2026 15:01:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "日経平均一時7万円、最後の一押しは日銀　安心感からAI関連に買い",
+    "link": "http://www.asahi.com/articles/ASV6J3VGPV6JULFA02GM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "力こそパワーな筋肉駆動の手回し式AIマシン「CrankGPT」が登場、負荷の高いAI処理ほど多くの筋力を求められる仕様",
+    "link": "https://gigazine.net/news/20260616-crankgpt-local-human-powered-ai/",
+    "published": "Tue, 16 Jun 2026 23:00:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "AIで女性を裸にしてしまうヌード化ツールがXアカウントで宣伝されている",
+    "link": "https://gigazine.net/news/20260616-ai-nudify-tools/",
+    "published": "Tue, 16 Jun 2026 16:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoftが「AIへの質問1回の消費電力量は電子レンジを数秒動かす程度」と主張、従来推定の最大20分の1",
+    "link": "https://gigazine.net/news/20260616-microsoft-ai-energy-efficiency/",
+    "published": "Tue, 16 Jun 2026 14:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "複数のAIを組み合わせてClaude Fable超えの性能を実現するシステム「Fusion」をOpenRouterがリリース",
+    "link": "https://gigazine.net/news/20260616-openrouter-ai-fusion/",
+    "published": "Tue, 16 Jun 2026 13:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "「Claude FableおよびMythosのサービス停止はサイバー攻撃者に有利に働く」としてセキュリティ専門家たちがホワイトハウスに対し停止命令の解除を要請",
+    "link": "https://gigazine.net/news/20260616-anthropic-ai-controls-open-letter/",
+    "published": "Tue, 16 Jun 2026 13:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが企業秘密を盗んだと主張するxAIの訴訟が棄却される",
+    "link": "https://gigazine.net/news/20260616-openai-vs-xai-end/",
+    "published": "Tue, 16 Jun 2026 13:13:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "「MetaがAI開発のためにポルノ動画を違法ダウンロードした」とする訴訟の却下申し立てが却下され審理継続",
+    "link": "https://gigazine.net/news/20260616-meta-adult-piracy-lawsuit/",
+    "published": "Tue, 16 Jun 2026 13:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Self-driving tech supplier Mobileye wants to be part of the robotaxi revolution — again",
+    "link": "https://techcrunch.com/2026/06/16/self-driving-tech-supplier-mobileye-wants-to-be-part-of-the-robotaxi-revolution-again/",
+    "published": "Tue, 16 Jun 2026 17:06:52 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Snap finally debuts its long awaited AR glasses, Specs, and, oof, they aren’t cheap",
+    "link": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
+    "published": "Tue, 16 Jun 2026 17:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+    "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+    "published": "Tue, 16 Jun 2026 16:49:44 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
+    "link": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
+    "published": "Tue, 16 Jun 2026 15:35:39 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+    "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+    "published": "Tue, 16 Jun 2026 15:05:03 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+    "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+    "published": "Tue, 16 Jun 2026 15:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+    "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+    "published": "Tue, 16 Jun 2026 14:50:09 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Probably raises $9M to build a more reliable kind of AI",
+    "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+    "published": "Tue, 16 Jun 2026 13:15:09 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "This startup’s super metals could soon be in military drones, luxury watches, and chef’s knives",
+    "link": "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
+    "published": "Tue, 16 Jun 2026 11:25:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+    "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "published": "Tue, 16 Jun 2026 11:21:41 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "ChatGPT’s market share slips below 50% for first time",
+    "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+    "published": "Tue, 16 Jun 2026 10:30:00 +0000",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+    "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+    "published": "Tue, 16 Jun 2026 06:59:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "AI の不時着 ~ コードの国を追われ、要求の国へ ~",
+    "link": "https://zenn.dev/layerx/articles/947ce6d31701cf",
+    "published": "Tue, 16 Jun 2026 00:55:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "M365 Copilot で実践するハーネス エンジニアリングのループ",
+    "link": "https://zenn.dev/microsoft/articles/m365-copilot-harness-engineering",
+    "published": "Mon, 15 Jun 2026 13:25:42 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
+    "title": "AI が大量にアウトプットしてくるので認知負荷を下げる Skill を作った",
+    "link": "https://zenn.dev/hataluck/articles/0752919b305a9f",
+    "published": "Mon, 15 Jun 2026 12:15:48 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-16 17:09:15",
+    "ai_summary": null
+  },
+  {
     "title": "急拡大するAIインフラの電力需要……光明は「ワットビット連携」に？　さくら田中社長と東電が対談",
     "link": "https://www.itmedia.co.jp/news/articles/2606/15/news082.html",
     "published": "Tue, 16 Jun 2026 08:00:00 +0900",
