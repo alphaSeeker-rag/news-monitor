@@ -1,5 +1,82 @@
 [
   {
+    "title": "急拡大するAIインフラの電力需要……光明は「ワットビット連携」に？　さくら田中社長と東電が対談",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/15/news082.html",
+    "published": "Tue, 16 Jun 2026 08:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-16 03:43:54",
+    "ai_summary": null
+  },
+  {
+    "title": "AIの「クセ」が生み出す危うさ　プライベートな情報を管理する先に",
+    "link": "http://www.asahi.com/articles/ASV692DHSV69UTIL01YM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-16 03:43:55",
+    "ai_summary": null
+  },
+  {
+    "title": "Facebookが新しい「AIモード」を導入、プラットフォーム全体から公開情報を取得する",
+    "link": "https://gigazine.net/news/20260616-meta-facebook-new-ai-mode/",
+    "published": "Tue, 16 Jun 2026 12:28:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-16 03:43:55",
+    "ai_summary": null
+  },
+  {
+    "title": "AMDがAIのメモリ不足を解決するべく「MEXT」を買収、フラッシュメモリをDRAMとして扱う技術",
+    "link": "https://gigazine.net/news/20260616-amd-acquires-mext-ai-memory/",
+    "published": "Tue, 16 Jun 2026 10:33:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-16 03:43:55",
+    "ai_summary": null
+  },
+  {
+    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+    "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+    "published": "Mon, 15 Jun 2026 23:51:44 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-16 03:43:55",
+    "ai_summary": null
+  },
+  {
+    "title": "戦術AIから戦略AIへ Snowflake SUMMIT 2026に参加して",
+    "link": "https://zenn.dev/dataheroes/articles/snowflake-summit-2026-strategic-ai",
+    "published": "Mon, 15 Jun 2026 05:40:54 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-16 03:43:55",
+    "ai_summary": null
+  },
+  {
+    "title": "「ストーリー」と「視線誘導」を意識しながら、生成AIとともにイイ感じのスライドを作る",
+    "link": "https://zenn.dev/tokium_dev/articles/slide-deck-craft-with-ai",
+    "published": "Mon, 15 Jun 2026 03:00:11 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-16 03:43:55",
+    "ai_summary": null
+  },
+  {
     "title": "Facebookの新「AI Mode」、グループやリールの公開投稿が検索結果に",
     "link": "https://www.itmedia.co.jp/news/articles/2606/16/news061.html",
     "published": "Tue, 16 Jun 2026 07:44:00 +0900",
