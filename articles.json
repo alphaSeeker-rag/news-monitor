@@ -1,5 +1,171 @@
 [
   {
+    "title": "Google、Gemini専用設計の新スマスピ「Google Home スピーカー」を1万6800円で発売へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/17/news124.html",
+    "published": "Wed, 17 Jun 2026 21:41:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-17 15:52:41",
+    "ai_summary": null
+  },
+  {
+    "title": "AIの普及は自己啓発本を駆逐してしまったのか？AI時代に作家はどうすればいいのか？",
+    "link": "https://gigazine.net/news/20260617-ai-killed-self-help-nonfiction-book/",
+    "published": "Wed, 17 Jun 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-17 15:52:41",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが「AIにバレずにAIをテストする手法」の開発に成功",
+    "link": "https://gigazine.net/news/20260617-openai-simulating-deployment/",
+    "published": "Wed, 17 Jun 2026 18:50:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-17 15:52:41",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAやAMDのAIサーバーの学習性能を評価するベンチマークテスト「MLPerf Training v6.0」の結果が公表される",
+    "link": "https://gigazine.net/news/20260617-mlperf-training-v6/",
+    "published": "Wed, 17 Jun 2026 17:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-17 15:52:41",
+    "ai_summary": null
+  },
+  {
+    "title": "記憶はどのようにして脳の中に保存されるのか？",
+    "link": "https://gigazine.net/news/20260617-human-brain-memory/",
+    "published": "Wed, 17 Jun 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-17 15:52:41",
+    "ai_summary": null
+  },
+  {
+    "title": "「Claude Codeは誰にどんな用途で使われているのか？」を分析した結果をAnthropicが公開",
+    "link": "https://gigazine.net/news/20260617-tracking-claude-code/",
+    "published": "Wed, 17 Jun 2026 13:12:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-17 15:52:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+    "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+    "published": "Wed, 17 Jun 2026 15:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-17 15:52:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+    "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+    "published": "Wed, 17 Jun 2026 14:15:22 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-17 15:52:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+    "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+    "published": "Wed, 17 Jun 2026 12:38:09 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-17 15:52:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+    "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+    "published": "Wed, 17 Jun 2026 11:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-17 15:52:41",
+    "ai_summary": null
+  },
+  {
+    "title": "自己改善エージェントはなぜ前提を覆せないのか ― 局所最適とハーネスでの脱出",
+    "link": "https://zenn.dev/layerx/articles/b36ceffe6b5e20",
+    "published": "Wed, 17 Jun 2026 02:00:06 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-17 15:52:42",
+    "ai_summary": null
+  },
+  {
+    "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
+    "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+    "published": "Wed, 17 Jun 2026 01:34:53 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-17 15:52:42",
+    "ai_summary": null
+  },
+  {
+    "title": "Data + AI Summit 2026 初日Keynote：Genie Ontology を現地スライドで読み解く",
+    "link": "https://zenn.dev/kazushi6/articles/3d58cfe511bcc3",
+    "published": "Tue, 16 Jun 2026 19:53:36 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-17 15:52:42",
+    "ai_summary": null
+  },
+  {
+    "title": "バイブコーディングでできたこと・できなかったこと",
+    "link": "https://zenn.dev/baleenstudio/articles/928435eab25064",
+    "published": "Tue, 16 Jun 2026 10:04:53 GMT",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-17 15:52:42",
+    "ai_summary": null
+  },
+  {
+    "title": "「とりあえず許可」を卒業する：Claude Codeの実行前に行動説明を表示するHookを作ってみた",
+    "link": "https://zenn.dev/nttdata_tech/articles/d2edb6a9fe5d7f",
+    "published": "Tue, 16 Jun 2026 03:35:55 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-17 15:52:42",
+    "ai_summary": null
+  },
+  {
     "title": "SpaceX、AIコーディングの「Cursor」を600億ドルで買収　上場直後の巨額投資",
     "link": "https://www.itmedia.co.jp/news/articles/2606/17/news066.html",
     "published": "Wed, 17 Jun 2026 08:28:00 +0900",
