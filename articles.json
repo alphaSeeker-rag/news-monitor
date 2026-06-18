@@ -1,5 +1,160 @@
 [
   {
+    "title": "「AIコーディング」がたった5年で急進化したワケ　NTT「tsuzumi 2」開発者が分析",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/18/news038.html",
+    "published": "Thu, 18 Jun 2026 08:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-18 03:36:08",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIを使う学生」vs.「使わない学生」、エッセイが創造的なのはどっち？　米大学が2025年に実証実験",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/18/news043.html",
+    "published": "Thu, 18 Jun 2026 07:30:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-18 03:36:08",
+    "ai_summary": null
+  },
+  {
+    "title": "AIが再現する人間の誤り　懸念されるのは警察が持つデータの「質」",
+    "link": "http://www.asahi.com/articles/ASV6B2698V6BUTIL033M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-18 03:36:08",
+    "ai_summary": null
+  },
+  {
+    "title": "GitHubで同時に開けるプルリクエスト数の上限設定が可能に、生成AI時代の大量投稿対策",
+    "link": "https://gigazine.net/news/20260618-github-limit-pull-request/",
+    "published": "Thu, 18 Jun 2026 12:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-18 03:36:09",
+    "ai_summary": null
+  },
+  {
+    "title": "ローカル動画生成AI「LTX-2.3」の公式LoRA開発ツール「LTX Trainer」が大幅にアップデートされキャラLoRAなどの作成が容易に",
+    "link": "https://gigazine.net/news/20260618-ltx-trainer-video-generation-ai-lora/",
+    "published": "Thu, 18 Jun 2026 12:07:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-18 03:36:09",
+    "ai_summary": null
+  },
+  {
+    "title": "脳に埋め込んだインプラントのおかげで重度のまひを患う男性が自分の意思でコミュニケーション可能に",
+    "link": "https://gigazine.net/news/20260618-brain-implant-paralysis-man-communication/",
+    "published": "Thu, 18 Jun 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-18 03:36:09",
+    "ai_summary": null
+  },
+  {
+    "title": "AIが科学者にとってどれだけ役立つかを測定できるベンチマークテスト「LifeSciBench」をOpenAIが公開",
+    "link": "https://gigazine.net/news/20260618-openai-lifescibench/",
+    "published": "Thu, 18 Jun 2026 11:17:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-18 03:36:09",
+    "ai_summary": null
+  },
+  {
+    "title": "xAIが動画生成AI「Grok Imagine Video 1.5」を一般提供開始、高速モデルの「Grok Imagine Video 1.5 Fast」も登場",
+    "link": "https://gigazine.net/news/20260618-grok-imagine-video-1-5/",
+    "published": "Thu, 18 Jun 2026 11:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-18 03:36:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Appleのティム・クックCEOがiPhoneの値上げは避けられないと発言",
+    "link": "https://gigazine.net/news/20260618-apple-price-increases-unavoidable-tim-cook/",
+    "published": "Thu, 18 Jun 2026 11:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-18 03:36:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Metaが自社の象徴たるエンジニアリング文化を崩壊させてしまった理由とは？",
+    "link": "https://gigazine.net/news/20260618-why-meta-destroying-engineering-organization/",
+    "published": "Thu, 18 Jun 2026 08:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-18 03:36:09",
+    "ai_summary": null
+  },
+  {
+    "title": "How to turn off AI in your Google Docs",
+    "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+    "published": "Thu, 18 Jun 2026 01:23:51 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-18 03:36:09",
+    "ai_summary": null
+  },
+  {
+    "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+    "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+    "published": "Wed, 17 Jun 2026 23:28:21 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-18 03:36:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Databricks発OSSのメタハーネス『Omnigent』を触ってみた！🪸⭐",
+    "link": "https://zenn.dev/nttdata_tech/articles/2fe14c8819557c",
+    "published": "Wed, 17 Jun 2026 08:33:47 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-18 03:36:09",
+    "ai_summary": null
+  },
+  {
+    "title": "テスト駆動開発（TDD）をやってみた",
+    "link": "https://zenn.dev/wwwave/articles/fba5f88cf5f52b",
+    "published": "Tue, 16 Jun 2026 08:24:03 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-18 03:36:09",
+    "ai_summary": null
+  },
+  {
     "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
     "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
     "published": "Wed, 17 Jun 2026 21:30:50 +0000",
