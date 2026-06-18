@@ -1,5 +1,205 @@
 [
   {
+    "title": "2040年度までの17分野の官民投資額 370兆円規模を想定",
+    "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153921000.html",
+    "published": "Thu, 18 Jun 2026 23:53:44 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-06-18 15:40:50",
+    "ai_summary": null
+  },
+  {
+    "title": "ChatGPTに新機能、予約したタスクを自動実行できる「Scheduled tasks」　状況監視も依頼可能",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/18/news099.html",
+    "published": "Thu, 18 Jun 2026 14:30:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-18 15:40:51",
+    "ai_summary": null
+  },
+  {
+    "title": "「利便性とお客様の資産、後者が優先」最先端AIの脅威に全銀協会長",
+    "link": "http://www.asahi.com/articles/ASV6L3320V6LULFA00MM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-18 15:40:51",
+    "ai_summary": null
+  },
+  {
+    "title": "消費者の60％がブランドメッセージに「AI」という言葉が含まれていると敬遠する",
+    "link": "https://gigazine.net/news/20260618-ai-brand-visibility-research/",
+    "published": "Thu, 18 Jun 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
+    "title": "Appleは2027年春に第2世代iPhone Airを発売か、超広角カメラを追加した背面デュアルカメラ搭載＆バッテリー駆動時間も向上か",
+    "link": "https://gigazine.net/news/20260618-iphone-air-2/",
+    "published": "Thu, 18 Jun 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
+    "title": "ゲームみたいに移動可能な世界をリアルタイム生成できるAI「HappyOyster 1.0」が登場したので使ってみた",
+    "link": "https://gigazine.net/news/20260618-happyoyster-real-time-world-model/",
+    "published": "Thu, 18 Jun 2026 17:36:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleの「AMIE」などのAI医療ツールが診断や治療判断で人間の医師と同等またはそれ以上のパフォーマンスを示す",
+    "link": "https://gigazine.net/news/20260618-ai-medical-tools-surpass-doctors-mira-amie/",
+    "published": "Thu, 18 Jun 2026 16:50:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude DesignとClaude Codeの連携が強化されてコーディングからデザインまでAIをバリバリ活用可能に",
+    "link": "https://gigazine.net/news/20260618-claude-design-claude-code/",
+    "published": "Thu, 18 Jun 2026 15:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIは年間数兆円規模の損失を出していることが流出した財務文書で明らかに",
+    "link": "https://gigazine.net/news/20260618-openai-financial-docs/",
+    "published": "Thu, 18 Jun 2026 15:00:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
+    "title": "画像生成AIの「Midjourney」がまさかの医療分野に進出、60秒で全身をスキャンできる「Midjourney Scanner」を開発中",
+    "link": "https://gigazine.net/news/20260618-midjourney-medical-scanner/",
+    "published": "Thu, 18 Jun 2026 13:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
+    "title": "General Intuition in talks to raise $300M at around $2B valuation",
+    "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+    "published": "Thu, 18 Jun 2026 15:20:37 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
+    "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+    "link": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+    "published": "Thu, 18 Jun 2026 15:13:21 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
+    "title": "Adobe adds its AI assistant to Premiere, Illustrator and InDesign",
+    "link": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+    "published": "Thu, 18 Jun 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
+    "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
+    "link": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
+    "published": "Thu, 18 Jun 2026 06:26:24 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
+    "title": "【服装予報アプリ】を開発してアメリカで賞を獲りました",
+    "link": "https://zenn.dev/harunasu/articles/6ac7d15bd37556",
+    "published": "Wed, 17 Jun 2026 05:37:09 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
+    "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
+    "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+    "published": "Wed, 17 Jun 2026 01:34:53 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
+    "title": "ポート開放なしで外出先から自宅 Mac に SSH 接続し、Claude Code を動かす",
+    "link": "https://zenn.dev/coa00/articles/tailscale-ssh-home-mac-claude-code",
+    "published": "Tue, 16 Jun 2026 13:53:12 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
+    "title": "会社員のためのCodex資料作成術：Skillで統一感のあるプレゼン資料を作る実践ガイド",
+    "link": "https://zenn.dev/acntechjp/articles/c2bff25e230539",
+    "published": "Tue, 16 Jun 2026 10:30:28 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-18 15:40:52",
+    "ai_summary": null
+  },
+  {
     "title": "「AIコーディング」がたった5年で急進化したワケ　NTT「tsuzumi 2」開発者が分析",
     "link": "https://www.itmedia.co.jp/news/articles/2606/18/news038.html",
     "published": "Thu, 18 Jun 2026 08:00:00 +0900",
