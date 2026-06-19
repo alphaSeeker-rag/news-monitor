@@ -1,5 +1,193 @@
 [
   {
+    "title": "高性能AI対策へ 初の基本計画の見直し案 政府",
+    "link": "http://www3.nhk.or.jp/news/html/20260619/k10015154991000.html",
+    "published": "Fri, 19 Jun 2026 23:41:12 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-06-19 15:33:51",
+    "ai_summary": null
+  },
+  {
+    "title": "アクロバットで話題の人型ロボ「H1」「G1」、GMO子会社が国内販売へ　中国Unitreeと代理店契約",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/19/news118.html",
+    "published": "Fri, 19 Jun 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-19 15:33:51",
+    "ai_summary": null
+  },
+  {
+    "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場　出力は「Premiere」「DaVinci」でも読み込み可",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
+    "published": "Fri, 19 Jun 2026 18:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-19 15:33:51",
+    "ai_summary": null
+  },
+  {
+    "title": "Photoshopなど「Adobe Creative Cloud」にAIエージェント、アドビが全面導入　ChatGPTやClaudeとも連携",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/19/news110.html",
+    "published": "Fri, 19 Jun 2026 15:45:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-19 15:33:51",
+    "ai_summary": null
+  },
+  {
+    "title": "画面操作を“録画”→AIが作業代行　Codexに新機能「Record & Replay」",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+    "published": "Fri, 19 Jun 2026 14:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-19 15:33:51",
+    "ai_summary": null
+  },
+  {
+    "title": "その人の「名前」がAIモデルの中でどれほど強く重み付けされているのかがわかる「IN THE WEIGHTS」",
+    "link": "https://gigazine.net/news/20260619-intheweights-llm-weights-name/",
+    "published": "Fri, 19 Jun 2026 23:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-19 15:33:52",
+    "ai_summary": null
+  },
+  {
+    "title": "AIに「分からないことを分からないと認める力」は身につくのか？OpenAIが有益な性質を強化学習で定着させる研究結果を公開",
+    "link": "https://gigazine.net/news/20260619-openai-beneficial-rl/",
+    "published": "Fri, 19 Jun 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-19 15:33:52",
+    "ai_summary": null
+  },
+  {
+    "title": "アメリカのAI企業が独自開発モデル「Laguna M.1」をオープンモデルとして公開、高性能だが中国製オープンモデルには劣る",
+    "link": "https://gigazine.net/news/20260619-laguna-m1-ai-open/",
+    "published": "Fri, 19 Jun 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-19 15:33:52",
+    "ai_summary": null
+  },
+  {
+    "title": "32GBのVRAMを搭載して他のグラボより激安の「Intel Arc Pro B70」はローカルAIを実際に動かすとどれぐらいの性能とトークンのコスパを発揮するのか？",
+    "link": "https://gigazine.net/news/20260619-intel-arc-pro-b70-local-ai/",
+    "published": "Fri, 19 Jun 2026 15:34:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-19 15:33:52",
+    "ai_summary": null
+  },
+  {
+    "title": "Appleがワイヤレスイヤホン経由で会話を盗聴される可能性がある深刻な脆弱性を修正",
+    "link": "https://gigazine.net/news/20260619-apple-patches-eavesdropping-vulnerability-beats-studio-buds/",
+    "published": "Fri, 19 Jun 2026 14:21:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-19 15:33:52",
+    "ai_summary": null
+  },
+  {
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "published": "Fri, 19 Jun 2026 15:23:28 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-19 15:33:52",
+    "ai_summary": null
+  },
+  {
+    "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+    "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "published": "Fri, 19 Jun 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-19 15:33:52",
+    "ai_summary": null
+  },
+  {
+    "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+    "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "published": "Fri, 19 Jun 2026 07:59:12 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-19 15:33:52",
+    "ai_summary": null
+  },
+  {
+    "title": "Apple container で docker compose を動かす",
+    "link": "https://zenn.dev/7kaji/articles/370a8dd7f678d1",
+    "published": "Thu, 18 Jun 2026 17:00:10 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-19 15:33:52",
+    "ai_summary": null
+  },
+  {
+    "title": "【Eve】AIエージェントは\"ディレクトリ\"になる — Vercel発のエージェントフレームワークを触ってみた",
+    "link": "https://zenn.dev/sc30gsw/articles/a03d6a17af036c",
+    "published": "Thu, 18 Jun 2026 12:11:12 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-19 15:33:52",
+    "ai_summary": null
+  },
+  {
+    "title": "デザインシステムのskillの精度が上がった8つの方法",
+    "link": "https://zenn.dev/pksha/articles/7a7db5c105f396",
+    "published": "Thu, 18 Jun 2026 07:22:12 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-19 15:33:52",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントが自律的に自己改善する self-improvement スキルが良い",
+    "link": "https://zenn.dev/stak22/articles/3ea03d0e3ca025",
+    "published": "Wed, 17 Jun 2026 02:31:04 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-19 15:33:52",
+    "ai_summary": null
+  },
+  {
     "title": "画像生成AIのMidjourneyが医療参入、超音波全身スキャナとサウナ融合の「Midjourney Spa」構想を発表",
     "link": "https://www.itmedia.co.jp/news/articles/2606/19/news090.html",
     "published": "Fri, 19 Jun 2026 12:15:00 +0900",
