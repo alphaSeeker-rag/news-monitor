@@ -1,5 +1,105 @@
 [
   {
+    "title": "画像生成AIのMidjourneyが医療参入、超音波全身スキャナとサウナ融合の「Midjourney Spa」構想を発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/19/news090.html",
+    "published": "Fri, 19 Jun 2026 12:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-19 03:58:42",
+    "ai_summary": null
+  },
+  {
+    "title": "筋トレの健康効果、週○分で頭打ち　適正時間は？　米ハーバード大などが14万人を調査",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/19/news045.html",
+    "published": "Fri, 19 Jun 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-19 03:58:42",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得　トランプ政権でAI政策を担ったディーン・ボール氏も",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/19/news072.html",
+    "published": "Fri, 19 Jun 2026 08:49:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-19 03:58:42",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+    "link": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+    "published": "Fri, 19 Jun 2026 12:24:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-19 03:58:43",
+    "ai_summary": null
+  },
+  {
+    "title": "ChatGPTが将来のタスクをあらかじめ依頼できる新機能「Scheduled tasks」を発表、一方で毎日ユーザー向けの情報をまとめてくれる「Pulse」は終了",
+    "link": "https://gigazine.net/news/20260619-chatgpt-scheduled-tasks/",
+    "published": "Fri, 19 Jun 2026 12:05:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-19 03:58:43",
+    "ai_summary": null
+  },
+  {
+    "title": "AmazonがNVIDIA対抗AIチップ「Trainium」の外販に向け交渉開始、AWS専用から他社データセンターへ",
+    "link": "https://gigazine.net/news/20260619-amazon-trainium/",
+    "published": "Fri, 19 Jun 2026 11:22:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-19 03:58:43",
+    "ai_summary": null
+  },
+  {
+    "title": "GrokでWord・Excel・PowerPointを操作できる拡張機能が登場",
+    "link": "https://gigazine.net/news/20260619-grok-word-excel-powerpoint/",
+    "published": "Fri, 19 Jun 2026 10:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-19 03:58:43",
+    "ai_summary": null
+  },
+  {
+    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "published": "Fri, 19 Jun 2026 00:51:11 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-19 03:58:43",
+    "ai_summary": null
+  },
+  {
+    "title": "AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた",
+    "link": "https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro",
+    "published": "Thu, 18 Jun 2026 06:20:23 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-19 03:58:44",
+    "ai_summary": null
+  },
+  {
     "title": "電博、2社そろってChatGPT広告参入　OpenAIと直接連携の国内ローンチパートナーに",
     "link": "https://www.itmedia.co.jp/news/articles/2606/19/news062.html",
     "published": "Fri, 19 Jun 2026 06:57:00 +0900",
