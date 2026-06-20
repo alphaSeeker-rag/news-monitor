@@ -1,5 +1,82 @@
 [
   {
+    "title": "Amazonが完成間近だったサム・アルトマンの伝記映画『Artificial』の配給から撤退",
+    "link": "https://gigazine.net/news/20260620-amazon-dropped-sam-altman-movie-artificial/",
+    "published": "Sat, 20 Jun 2026 12:06:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-20 14:19:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Obsidian(Markdown) よりも快適に書く: vscode-scb で Cosense 記法",
+    "link": "https://zenn.dev/sta/articles/2026-06-20-vscode-scb",
+    "published": "Sat, 20 Jun 2026 00:52:22 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-20 14:19:03",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントを「指揮」するOSS「TAKT」とは — 仕組と使い方",
+    "link": "https://zenn.dev/alpha_omega/articles/56ca3136bc5cd8",
+    "published": "Fri, 19 Jun 2026 14:34:16 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-20 14:19:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Design がclaudeアプリに対応したので触ってみた",
+    "link": "https://zenn.dev/91works/articles/bb03f5adb45dea",
+    "published": "Fri, 19 Jun 2026 07:29:58 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-20 14:19:03",
+    "ai_summary": null
+  },
+  {
+    "title": "リファクタリングにドメイン知識が要るなら、その知識はどこに置くのか",
+    "link": "https://zenn.dev/417/articles/ai-era-domain-knowledge-placement",
+    "published": "Fri, 19 Jun 2026 04:26:17 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-20 14:19:03",
+    "ai_summary": null
+  },
+  {
+    "title": "AI時代のRust crate選定 (1/4) デファクトスタンダードなcrate群",
+    "link": "https://zenn.dev/estie/articles/4e057582208b0b",
+    "published": "Fri, 19 Jun 2026 00:53:35 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-20 14:19:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Flue Framework 実践入門 — AIエージェントを本番で動かす",
+    "link": "https://zenn.dev/417/books/flue-framework-guide",
+    "published": "Thu, 18 Jun 2026 09:53:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-20 14:19:03",
+    "ai_summary": null
+  },
+  {
     "title": "今だから押さえておきたいソフトウェア工学のベストプラクティス",
     "link": "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
     "published": "Fri, 19 Jun 2026 01:38:48 GMT",
