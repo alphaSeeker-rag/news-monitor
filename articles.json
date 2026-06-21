@@ -1,5 +1,38 @@
 [
   {
+    "title": "ノーベル化学賞のジョン・ジャンパー氏、Google DeepMindからAnthropicへ──「AlphaFold」開発の立役者",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/21/news017.html",
+    "published": "Sun, 21 Jun 2026 15:43:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-21 14:24:39",
+    "ai_summary": null
+  },
+  {
+    "title": "無料でグラボのVRAMが壊れていないかチェックできるツール「memtest_vulkan」の使い方、インストール不要でダブルクリックして待つだけでOK",
+    "link": "https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/",
+    "published": "Sun, 21 Jun 2026 22:52:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-21 14:24:40",
+    "ai_summary": null
+  },
+  {
+    "title": "無料でWordPressの管理画面をデスクトップOSっぽくできるプラグイン「Desktop Mode」、AIとの連携も可能",
+    "link": "https://gigazine.net/news/20260621-desktop-mode/",
+    "published": "Sun, 21 Jun 2026 18:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-21 14:24:40",
+    "ai_summary": null
+  },
+  {
     "title": "llama.cppがAI言語モデルに使用するファイル形式「GGUF」にはウェイト以外に何が含まれているのか？",
     "link": "https://gigazine.net/news/20260621-whats-in-a-gguf/",
     "published": "Sun, 21 Jun 2026 12:00:00 +0900",
