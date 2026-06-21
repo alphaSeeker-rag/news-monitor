@@ -1,5 +1,71 @@
 [
   {
+    "title": "llama.cppがAI言語モデルに使用するファイル形式「GGUF」にはウェイト以外に何が含まれているのか？",
+    "link": "https://gigazine.net/news/20260621-whats-in-a-gguf/",
+    "published": "Sun, 21 Jun 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-21 03:50:51",
+    "ai_summary": null
+  },
+  {
+    "title": "何千万もの楽曲がAIのトレーニングに利用可能なデータセットとして配布されておりAI生成楽曲の肥やしになっているとの指摘",
+    "link": "https://gigazine.net/news/20260621-songs-mashed-into-ai-generated-music/",
+    "published": "Sun, 21 Jun 2026 10:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-21 03:50:51",
+    "ai_summary": null
+  },
+  {
+    "title": "AI以後の受託システム開発はどうなっていくのか（2026年6月版）",
+    "link": "https://zenn.dev/terurou/articles/eb9e7a4ca7b364",
+    "published": "Sat, 20 Jun 2026 08:39:08 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-21 03:50:51",
+    "ai_summary": null
+  },
+  {
+    "title": "GitHub Copilotのクレジット消費がユーザー単位でAPI取得可能に：監視を自動化する ai_credits_used の使い方",
+    "link": "https://zenn.dev/headwaters/articles/github-copilot-ai-credits-usage-metrics-2026",
+    "published": "Sat, 20 Jun 2026 00:00:06 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-21 03:50:51",
+    "ai_summary": null
+  },
+  {
+    "title": "TypeScriptの型のみでオセロの型を実装したので解説する",
+    "link": "https://zenn.dev/forcia_tech/articles/202606_tskaigi_othello_hatano",
+    "published": "Fri, 19 Jun 2026 04:00:00 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-21 03:50:51",
+    "ai_summary": null
+  },
+  {
+    "title": "催促の業務は Copilot Cowork にやってもらおう",
+    "link": "https://zenn.dev/softbank/articles/24b73434d8c815",
+    "published": "Fri, 19 Jun 2026 00:00:10 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-21 03:50:51",
+    "ai_summary": null
+  },
+  {
     "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
     "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
     "published": "Sat, 20 Jun 2026 20:32:29 +0000",
