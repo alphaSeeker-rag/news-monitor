@@ -1,5 +1,138 @@
 [
   {
+    "title": "「ChatGPTにうちの会社が出てこない」──採用担当を悩ます“AI就活時代”の容赦なき実態",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/18/news020.html",
+    "published": "Mon, 22 Jun 2026 12:00:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-22 03:54:00",
+    "ai_summary": null
+  },
+  {
+    "title": "クリエイター守らねば産業伸びない　自民・山田太郎氏語る日本のコンテンツ戦略　AI時代の権利保護にも言及＜後編＞",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/22/news067.html",
+    "published": "Mon, 22 Jun 2026 10:42:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-22 03:54:00",
+    "ai_summary": null
+  },
+  {
+    "title": "日経のAI、NTTデータが販売契約　出典明示でハルシネーションに強い法人向け「NIKKEI KAI」",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/19/news121.html",
+    "published": "Mon, 22 Jun 2026 09:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-22 03:54:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicへの500万ドル間接出資を解消、広告事業のイオレ　軸足移すAIデータセンター事業に資金投入",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/19/news138.html",
+    "published": "Mon, 22 Jun 2026 08:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-22 03:54:00",
+    "ai_summary": null
+  },
+  {
+    "title": "AIに頼ると技術が落ちる？　医師・エンジニアたちの懸念、検証結果は……Natureも警鐘",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/22/news041.html",
+    "published": "Mon, 22 Jun 2026 07:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-22 03:54:00",
+    "ai_summary": null
+  },
+  {
+    "title": "警察がAIを使うときの注意点は「場面ごとに効果や副作用の検討を」",
+    "link": "http://www.asahi.com/articles/ASV6B4DRVV6BUHBI011M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-22 03:54:01",
+    "ai_summary": null
+  },
+  {
+    "title": "日経平均、一時7万2000円超え　AI・半導体分野への成長期待",
+    "link": "http://www.asahi.com/articles/ASV6Q0GH4V6QULFA002M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-22 03:54:01",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicが2026年7月8日から一部サービスにおける本人確認の実施を明言、使用するシステムはDiscordで却下された「Persona Identities」",
+    "link": "https://gigazine.net/news/20260622-anthropic-claude-identity-verification/",
+    "published": "Mon, 22 Jun 2026 12:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-22 03:54:01",
+    "ai_summary": null
+  },
+  {
+    "title": "ソフトバンクがボストン・ダイナミクス株をすべて売却へ、現代自動車グループが残り9.65％取得で100％保有へ",
+    "link": "https://gigazine.net/news/20260622-hyundai-take-full-control-boston-dynamics/",
+    "published": "Mon, 22 Jun 2026 12:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-22 03:54:01",
+    "ai_summary": null
+  },
+  {
+    "title": "「タンパク質構造予測」でノーベル賞を受賞したジョン・ジャンパー氏が約9年間勤めたGoogle DeepMindを離れAnthropicに入社すると発表",
+    "link": "https://gigazine.net/news/20260622-john-jumper-leave-google-deepmind-for-anthropic/",
+    "published": "Mon, 22 Jun 2026 11:49:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-22 03:54:01",
+    "ai_summary": null
+  },
+  {
+    "title": "AMD製ローカルAI実行アプリ「Lemonade」にMCPゲートウェイ機能が追加される、MCP対応アプリからLemonadeで実行中のLLMや画像生成AIを呼び出せるように",
+    "link": "https://gigazine.net/news/20260622-lemonade-local-ai-mcp/",
+    "published": "Mon, 22 Jun 2026 11:08:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-22 03:54:01",
+    "ai_summary": null
+  },
+  {
+    "title": "自動運転OSSのAutowareの解説サイトを作っている件",
+    "link": "https://zenn.dev/coffeecupjp/articles/778aa821a82c0f",
+    "published": "Sun, 21 Jun 2026 06:04:02 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-22 03:54:01",
+    "ai_summary": null
+  },
+  {
     "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
     "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
     "published": "Sun, 21 Jun 2026 16:35:00 +0000",
