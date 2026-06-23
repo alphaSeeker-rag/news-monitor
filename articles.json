@@ -1,5 +1,182 @@
 [
   {
+    "title": "GiGOアプリの“大規模BAN”で運営謝罪　「ルール周知や事前説明が不十分だった」　停止措置を一時解除",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/23/news138.html",
+    "published": "Tue, 23 Jun 2026 22:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-23 15:15:20",
+    "ai_summary": null
+  },
+  {
+    "title": "メルカリ、ChatGPT上で商品検索から出品準備まで可能に　「Apps in ChatGPT」に公式アプリ",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/23/news134.html",
+    "published": "Tue, 23 Jun 2026 20:09:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-23 15:15:20",
+    "ai_summary": null
+  },
+  {
+    "title": "国産AI「Sakana Fugu」なぜドル建て？　円建てニーズ「受け止める」とSakana AI",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/23/news117.html",
+    "published": "Tue, 23 Jun 2026 16:34:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-23 15:15:20",
+    "ai_summary": null
+  },
+  {
+    "title": "“全編AI制作”でコスト9割減を実現したViglooに聞く韓国ショートドラマ事情　「視聴者は制作方法で作品を選ばない」",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/22/news137.html",
+    "published": "Tue, 23 Jun 2026 12:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-23 15:15:20",
+    "ai_summary": null
+  },
+  {
+    "title": "不動産業者がAIで加工した物件画像が賃貸探しを混乱させている",
+    "link": "https://gigazine.net/news/20260623-generative-ai-impossible-homes/",
+    "published": "Tue, 23 Jun 2026 22:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-23 15:15:21",
+    "ai_summary": null
+  },
+  {
+    "title": "フィジカルAIとロボット工学向けの包括的安全システム「NVIDIA Halos for Robotics」発表",
+    "link": "https://gigazine.net/news/20260623-nvidia-halos-for-robotics/",
+    "published": "Tue, 23 Jun 2026 18:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-23 15:15:21",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenRouterで中華モデル「GLM-5.2」のAPI利用者が急増、AIユーザーたちは何に使っているのか？",
+    "link": "https://gigazine.net/news/20260623-glm-5-2-openrouter/",
+    "published": "Tue, 23 Jun 2026 18:02:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-23 15:15:21",
+    "ai_summary": null
+  },
+  {
+    "title": "複数の写真から3Dシーンを生成するAIモデル「ArtiFixer」をNVIDIAが発表、写真にない部分も生成処理で補完可能",
+    "link": "https://gigazine.net/news/20260623-nvidia-artifixer-3d-representation/",
+    "published": "Tue, 23 Jun 2026 16:04:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-23 15:15:21",
+    "ai_summary": null
+  },
+  {
+    "title": "政府や企業に壊滅的なサイバー攻撃をもたらすAIモデルが「数カ月以内」に登場する恐れ、ファイブ・アイズが異例の共同警告",
+    "link": "https://gigazine.net/news/20260623-ai-shift-cyber-risk/",
+    "published": "Tue, 23 Jun 2026 14:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-23 15:15:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Google AI Studioにクレカ等の支払い方法登録不要でアプリ公開を始められる「Starter Tier」が登場",
+    "link": "https://gigazine.net/news/20260623-starter-tier-google-ai-studio/",
+    "published": "Tue, 23 Jun 2026 14:25:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-23 15:15:21",
+    "ai_summary": null
+  },
+  {
+    "title": "2億2600万パラメーターで100億パラメーター級の画像補完性能を示すAIフレームワーク「Moebius」、不要物の除去や顔の置き換えが可能",
+    "link": "https://gigazine.net/news/20260623-moebius-image-inpainting-framework/",
+    "published": "Tue, 23 Jun 2026 12:32:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-23 15:15:21",
+    "ai_summary": null
+  },
+  {
+    "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
+    "link": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
+    "published": "Tue, 23 Jun 2026 15:09:38 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-23 15:15:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Meta debuts new, cheaper smart glasses under its own brand",
+    "link": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
+    "published": "Tue, 23 Jun 2026 14:11:23 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-23 15:15:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+    "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "published": "Tue, 23 Jun 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-23 15:15:21",
+    "ai_summary": null
+  },
+  {
+    "title": "アプリエンジニアのためのAWS Blocksハンズオン",
+    "link": "https://zenn.dev/ppgm/books/aws-blocks-mini-support-desk",
+    "published": "Mon, 22 Jun 2026 15:26:02 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-23 15:15:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Raspberry Pi + Cloudflare Tunnel で安価で安全な自宅 Web サーバーを手に入れる",
+    "link": "https://zenn.dev/xin9le/articles/1340941f739745",
+    "published": "Mon, 22 Jun 2026 06:17:11 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-23 15:15:21",
+    "ai_summary": null
+  },
+  {
     "title": "とある「銅化合物」が脳の“ゴミ掃除ポンプ”を修繕、マウス実験で記憶力が約44%向上　アルツハイマー病治療に期待",
     "link": "https://www.itmedia.co.jp/news/articles/2606/23/news028.html",
     "published": "Tue, 23 Jun 2026 11:00:00 +0900",
