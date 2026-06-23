@@ -1,5 +1,138 @@
 [
   {
+    "title": "とある「銅化合物」が脳の“ゴミ掃除ポンプ”を修繕、マウス実験で記憶力が約44%向上　アルツハイマー病治療に期待",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/23/news028.html",
+    "published": "Tue, 23 Jun 2026 11:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-23 02:53:20",
+    "ai_summary": null
+  },
+  {
+    "title": "SpaceX、初のシニア無担保社債を発行　AI投資加速に向け資金調達を本格化",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/23/news076.html",
+    "published": "Tue, 23 Jun 2026 08:56:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-23 02:53:20",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI、Getty Imagesと複数年契約　ChatGPTの検索結果にライセンス画像を直接表示",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/23/news075.html",
+    "published": "Tue, 23 Jun 2026 07:46:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-23 02:53:20",
+    "ai_summary": null
+  },
+  {
+    "title": "47都道府県警の57％でAI活用と回答　過去のデータで犯罪予測も",
+    "link": "http://www.asahi.com/articles/ASV6B2CGKV6BUTIL02DM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-23 02:53:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Opus級のGLM-5.2をローカルで動かすガイドが公開される、最小構成の目安はメモリ223GB",
+    "link": "https://gigazine.net/news/20260623-glm-local-unsloth/",
+    "published": "Tue, 23 Jun 2026 11:46:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-23 02:53:21",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIがClaude Mythos 5超えのセキュリティー特化AI「GPT-5.5-Cyber」のアップデートを発表＆セキュリティー特化Codexプラグイン「Codex Security」もアップデート",
+    "link": "https://gigazine.net/news/20260623-openai-gpt-cyber-codex-security-daybreak/",
+    "published": "Tue, 23 Jun 2026 11:34:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-23 02:53:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Oracleが12カ月間で2万1000人の人員削減を実施、AI技術の採用が背景に",
+    "link": "https://gigazine.net/news/20260623-oracle-reduce-worker-21000/",
+    "published": "Tue, 23 Jun 2026 11:23:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-23 02:53:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが映画製作会社のA24に約120億円を投資、Google DeepMindとA24が「映画制作用のAIツール」を共同開発へ",
+    "link": "https://gigazine.net/news/20260623-google-deepmind-a24/",
+    "published": "Tue, 23 Jun 2026 11:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-23 02:53:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicが日本でClaudeコミュニティアンバサダーの募集を開始、Claudeの利用を拡散するために無料APIクレジットを利用可能",
+    "link": "https://gigazine.net/news/20260623-claude-community-ambassadors/",
+    "published": "Tue, 23 Jun 2026 10:41:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-23 02:53:21",
+    "ai_summary": null
+  },
+  {
+    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "published": "Tue, 23 Jun 2026 01:27:55 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-23 02:53:21",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "published": "Tue, 23 Jun 2026 00:11:31 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-23 02:53:21",
+    "ai_summary": null
+  },
+  {
+    "title": "AIコーディングではコードではなく検証プロセスをレビューする",
+    "link": "https://zenn.dev/mkj/articles/56245f7a34539c",
+    "published": "Mon, 22 Jun 2026 02:50:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-23 02:53:21",
+    "ai_summary": null
+  },
+  {
     "title": "Google DeepMindと映画スタジオA24がAI研究で提携──映像制作ツールを作り手と共同開発",
     "link": "https://www.itmedia.co.jp/news/articles/2606/23/news073.html",
     "published": "Tue, 23 Jun 2026 06:54:00 +0900",
