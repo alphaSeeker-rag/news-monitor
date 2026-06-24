@@ -1,5 +1,193 @@
 [
   {
+    "title": "17戦略分野への投資額 2040年度までに「370兆円超」",
+    "link": "http://www3.nhk.or.jp/news/html/20260624/k10015157951000.html",
+    "published": "Wed, 24 Jun 2026 21:41:31 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-06-24 14:45:24",
+    "ai_summary": null
+  },
+  {
+    "title": "「夏場は50度以上のコンテナで作業」に対処　サンワサプライが西日本で荷降ろしロボット活用",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/24/news081.html",
+    "published": "Wed, 24 Jun 2026 11:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-24 14:45:25",
+    "ai_summary": null
+  },
+  {
+    "title": "「Google Home」アプリ最新版は応答速度を改善し、ライブ会話の誤起動も減",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/24/news076.html",
+    "published": "Wed, 24 Jun 2026 11:31:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-24 14:45:25",
+    "ai_summary": null
+  },
+  {
+    "title": "RTX 5090を使って1.8秒で動画を生成できる動画生成AIモデル「FastWan-QAD」が登場、Wan2.1を量子化＆蒸留して95.6倍に高速化",
+    "link": "https://gigazine.net/news/20260624-fastwan-qad-video-generation-ai/",
+    "published": "Wed, 24 Jun 2026 16:51:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-24 14:45:26",
+    "ai_summary": null
+  },
+  {
+    "title": "AIにコンテンツのスクレイピングを許可するかどうかをクリエイターが簡単に制御できる機能をCloudflareが提供開始",
+    "link": "https://gigazine.net/news/20260624-cloudflare-beehiiv-ai-crawl-control/",
+    "published": "Wed, 24 Jun 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-24 14:45:26",
+    "ai_summary": null
+  },
+  {
+    "title": "Baiduが長い文書を一度に読めるAIモデル「Unlimited OCR」をオープンソースで公開",
+    "link": "https://gigazine.net/news/20260624-baidu-unlimited-ocr/",
+    "published": "Wed, 24 Jun 2026 14:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-24 14:45:26",
+    "ai_summary": null
+  },
+  {
+    "title": "TikTok動画の59％、YouTube動画の21％はAIによる低品質動画",
+    "link": "https://gigazine.net/news/20260624-tiktok-ai-slop/",
+    "published": "Wed, 24 Jun 2026 14:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-24 14:45:26",
+    "ai_summary": null
+  },
+  {
+    "title": "動画生成AI「Seedance 2.5」をByteDanceが発表、最大50個の参照素材から最大30秒の動画を生成可能",
+    "link": "https://gigazine.net/news/20260624-bytedance-seedance-2-5/",
+    "published": "Wed, 24 Jun 2026 12:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-24 14:45:26",
+    "ai_summary": null
+  },
+  {
+    "title": "SlackにClaudeを参加させてAIエージェントにタスクを依頼できる「Claude Tag」が登場、Anthropic製品チームのコードの65％はClaude Tagで作成",
+    "link": "https://gigazine.net/news/20260624-claude-tag-slack/",
+    "published": "Wed, 24 Jun 2026 12:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-24 14:45:26",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAが「お風呂よりも高温の冷却液」で冷やす完全液冷システムを発表、電力消費量と水使用量を最大100％削減できるとアピール",
+    "link": "https://gigazine.net/news/20260624-nvidia-45-degree-liquid-cooling/",
+    "published": "Wed, 24 Jun 2026 12:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-24 14:45:26",
+    "ai_summary": null
+  },
+  {
+    "title": "画像生成AI「Krea 2」がオープンモデル化されてローカル生成可能になったのでComfyUIで実写風画像とイラスト風画像を生成してみたよレビュー",
+    "link": "https://gigazine.net/news/20260624-krea-2-raw-turbo/",
+    "published": "Wed, 24 Jun 2026 12:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-24 14:45:26",
+    "ai_summary": null
+  },
+  {
+    "title": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
+    "link": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
+    "published": "Wed, 24 Jun 2026 13:58:14 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-24 14:45:26",
+    "ai_summary": null
+  },
+  {
+    "title": "Slate Auto’s radically simple electric truck starts at $24,950",
+    "link": "https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/",
+    "published": "Wed, 24 Jun 2026 12:33:34 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-24 14:45:26",
+    "ai_summary": null
+  },
+  {
+    "title": "How to invest when everything is moving too fast",
+    "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
+    "published": "Wed, 24 Jun 2026 06:26:11 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-24 14:45:26",
+    "ai_summary": null
+  },
+  {
+    "title": "なぜ LLM に大喜利が難しいのか",
+    "link": "https://zenn.dev/nttdata_tech/articles/3241a46dca47b2",
+    "published": "Tue, 23 Jun 2026 08:44:57 GMT",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-24 14:45:26",
+    "ai_summary": null
+  },
+  {
+    "title": "個人のプロンプト術をやめて、チームで回るAI駆動開発ループを作った話",
+    "link": "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
+    "published": "Tue, 23 Jun 2026 05:26:57 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-24 14:45:26",
+    "ai_summary": null
+  },
+  {
+    "title": "タスクを割り振る開発は終わった",
+    "link": "https://zenn.dev/awesome_kou/articles/end-of-task-assignment-dev",
+    "published": "Tue, 23 Jun 2026 00:41:40 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-24 14:45:26",
+    "ai_summary": null
+  },
+  {
     "title": "Meta、初の自社ブランドAIグラス「Meta Glasses」を北米などで発売　299ドルから",
     "link": "https://www.itmedia.co.jp/news/articles/2606/24/news061.html",
     "published": "Wed, 24 Jun 2026 07:15:00 +0900",
