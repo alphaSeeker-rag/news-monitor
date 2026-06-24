@@ -1,5 +1,82 @@
 [
   {
+    "title": "Meta、初の自社ブランドAIグラス「Meta Glasses」を北米などで発売　299ドルから",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/24/news061.html",
+    "published": "Wed, 24 Jun 2026 07:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-24 02:54:02",
+    "ai_summary": null
+  },
+  {
+    "title": "日本語対応のOCRモデル「Mistral OCR 4」が登場、PDFや表だらけの文書をAIが「使えるデータ」に変換",
+    "link": "https://gigazine.net/news/20260624-mistral-ocr-4/",
+    "published": "Wed, 24 Jun 2026 11:47:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-24 02:54:03",
+    "ai_summary": null
+  },
+  {
+    "title": "AI株と半導体株を中心に世界的なハイテク株の売りが激化",
+    "link": "https://gigazine.net/news/20260624-ai-tech-stock-sell-off/",
+    "published": "Wed, 24 Jun 2026 11:39:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-24 02:54:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Metaが自社ブランドでより安価な新型スマートグラス「Meta Glasses」を発表",
+    "link": "https://gigazine.net/news/20260624-meta-glasses/",
+    "published": "Wed, 24 Jun 2026 11:17:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-24 02:54:03",
+    "ai_summary": null
+  },
+  {
+    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "published": "Tue, 23 Jun 2026 23:30:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-24 02:54:03",
+    "ai_summary": null
+  },
+  {
+    "title": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
+    "link": "https://zenn.dev/knowledgesense/articles/14a874a9f423bb",
+    "published": "Tue, 23 Jun 2026 01:45:47 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-24 02:54:03",
+    "ai_summary": null
+  },
+  {
+    "title": "標準CSSは美しくなった、もはやTailwindは不要",
+    "link": "https://zenn.dev/higakijin/articles/06276828c81546",
+    "published": "Tue, 23 Jun 2026 01:11:44 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-24 02:54:03",
+    "ai_summary": null
+  },
+  {
     "title": "「AIは世界に関心を持てない」京大教授が語る人間の強みと学ぶ意義",
     "link": "http://www.asahi.com/articles/ASV6Q2HS1V6QPTIL019M.html?ref=rss",
     "published": "",
