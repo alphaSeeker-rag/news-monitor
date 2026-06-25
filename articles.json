@@ -1,5 +1,171 @@
 [
   {
+    "title": "NYダウ 一時800ドル超上昇 取引時間中の最高値更新 AI期待で",
+    "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160551000.html",
+    "published": "Fri, 26 Jun 2026 06:51:52 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-06-25 22:21:27",
+    "ai_summary": null
+  },
+  {
+    "title": "IBM、世界初の「1nm未満」チップ技術を発表――3D構造「ナノスタック」でAIの処理を高速化",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/26/news059.html",
+    "published": "Fri, 26 Jun 2026 06:47:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-25 22:21:28",
+    "ai_summary": null
+  },
+  {
+    "title": "自衛隊、指揮統制にAI活用　米パランティア導入を検討、国産化も",
+    "link": "http://www.asahi.com/articles/ASV6T3QJ0V6TUTFK00TM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-25 22:21:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Sakana AIのデイビッド・ハCEOが「日本型AI」について語る",
+    "link": "https://gigazine.net/news/20260626-sakana-ai-david-ha/",
+    "published": "Fri, 26 Jun 2026 07:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-25 22:21:28",
+    "ai_summary": null
+  },
+  {
+    "title": "「集中力」を支える脳幹ニューロンが特定される",
+    "link": "https://gigazine.net/news/20260626-brainstem-neurons-focus/",
+    "published": "Fri, 26 Jun 2026 06:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-25 22:21:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "published": "Thu, 25 Jun 2026 20:19:25 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-25 22:21:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Polymarket says hackers stole users’ funds",
+    "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+    "published": "Thu, 25 Jun 2026 19:58:46 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-25 22:21:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Notion Mail shuts down amid agent takeover",
+    "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+    "published": "Thu, 25 Jun 2026 19:14:46 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-25 22:21:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "published": "Thu, 25 Jun 2026 17:38:27 +0000",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-25 22:21:28",
+    "ai_summary": null
+  },
+  {
+    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+    "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "published": "Thu, 25 Jun 2026 16:55:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-25 22:21:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+    "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+    "published": "Thu, 25 Jun 2026 16:48:11 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-25 22:21:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Rippling now wants to be your entire data stack",
+    "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
+    "published": "Thu, 25 Jun 2026 16:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-25 22:21:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Google Finance gets a dedicated app for Android",
+    "link": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
+    "published": "Thu, 25 Jun 2026 16:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-25 22:21:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+    "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+    "published": "Thu, 25 Jun 2026 14:55:38 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-25 22:21:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Apple raises Mac and iPad prices, spares iPhone for now",
+    "link": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
+    "published": "Thu, 25 Jun 2026 14:52:35 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-25 22:21:28",
+    "ai_summary": null
+  },
+  {
     "title": "「Mac」「iPad」突然の一斉値上げ　MacBook Airは18万4800円→22万4800円からに",
     "link": "https://www.itmedia.co.jp/news/articles/2606/25/news138.html",
     "published": "Thu, 25 Jun 2026 22:40:00 +0900",
