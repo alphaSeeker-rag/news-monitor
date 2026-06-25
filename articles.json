@@ -1,5 +1,138 @@
 [
   {
+    "title": "OpenAI、「GPT-5.5 Instant」をアップデート　会話の文脈維持や箇条書き減など「読みやすさ」を改善",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/25/news062.html",
+    "published": "Thu, 25 Jun 2026 09:23:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-25 02:53:33",
+    "ai_summary": null
+  },
+  {
+    "title": "自衛隊の日米訓練にパランティアAI　2.8億円の契約と変わる戦闘",
+    "link": "http://www.asahi.com/articles/ASV6B3T07V6BULZU00DM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-25 02:53:33",
+    "ai_summary": null
+  },
+  {
+    "title": "日本の防衛に米国産AI、指揮権は守れるか　他国依存に3つの課題",
+    "link": "http://www.asahi.com/articles/ASV6B3WNKV6BULZU005M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-25 02:53:33",
+    "ai_summary": null
+  },
+  {
+    "title": "QualcommがAIスタートアップのModularを約6400億円で買収",
+    "link": "https://gigazine.net/news/20260625-qualcomm-acquires-modular/",
+    "published": "Thu, 25 Jun 2026 11:41:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-25 02:53:33",
+    "ai_summary": null
+  },
+  {
+    "title": "Gemini 3.5 Flashに画面を認識してクリックや文字入力する能力「computer use」が追加される、PCを操作するエージェントの構築が可能に",
+    "link": "https://gigazine.net/news/20260625-gemini-3-5-computer-use/",
+    "published": "Thu, 25 Jun 2026 11:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-25 02:53:33",
+    "ai_summary": null
+  },
+  {
+    "title": "富士通がAI効率を475倍にするTransformer代替アーキテクチャ「PHOTON」を開発",
+    "link": "https://gigazine.net/news/20260625-fujitsu-photon/",
+    "published": "Thu, 25 Jun 2026 11:08:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-25 02:53:33",
+    "ai_summary": null
+  },
+  {
+    "title": "QualcommがAIデータセンター向け製品「Qualcomm Dragonfly」を発表、エージェントAI向けCPU「C1000」やAIラック「AI300」など",
+    "link": "https://gigazine.net/news/20260625-qualcomm-dragonfly/",
+    "published": "Thu, 25 Jun 2026 11:01:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-25 02:53:33",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIがBroadcomと共同開発したLLM最適推論チップ「Jalapeño」を発表",
+    "link": "https://gigazine.net/news/20260625-openai-broadcom-jalapeno/",
+    "published": "Thu, 25 Jun 2026 10:50:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-25 02:53:33",
+    "ai_summary": null
+  },
+  {
+    "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+    "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+    "published": "Wed, 24 Jun 2026 23:26:52 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-25 02:53:33",
+    "ai_summary": null
+  },
+  {
+    "title": "Elon suffers another day short of trillionaire status",
+    "link": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
+    "published": "Wed, 24 Jun 2026 23:09:39 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-25 02:53:33",
+    "ai_summary": null
+  },
+  {
+    "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+    "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+    "published": "Wed, 24 Jun 2026 22:41:41 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-25 02:53:33",
+    "ai_summary": null
+  },
+  {
+    "title": "学生のためのCodex 〜Codexを学習に使う 入門編〜",
+    "link": "https://zenn.dev/sora_lnv/articles/b67a03b8339278",
+    "published": "Wed, 24 Jun 2026 08:00:09 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-25 02:53:34",
+    "ai_summary": null
+  },
+  {
     "title": "薬で「脳凍結」のような状態を作ると脳卒中後の脳損傷を抑えられる可能性",
     "link": "https://gigazine.net/news/20260625-drug-brain-freeze-stroke/",
     "published": "Thu, 25 Jun 2026 06:00:00 +0900",
