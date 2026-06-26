@@ -1,5 +1,116 @@
 [
   {
+    "title": "Notion、メールアプリ「Notion Mail」終了へ　AIエージェントに全面移行",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/26/news060.html",
+    "published": "Fri, 26 Jun 2026 07:32:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-26 02:58:56",
+    "ai_summary": null
+  },
+  {
+    "title": "女性の“痛み”軽視されがち？　「訴えがおおげさ」は偏見か　2万件の医療記録、2024年の分析結果は",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/25/news041.html",
+    "published": "Fri, 26 Jun 2026 07:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-26 02:58:56",
+    "ai_summary": null
+  },
+  {
+    "title": "メールをAIで便利に管理できる「Notion Mail」が2026年9月でサービス終了、ユーザーの大半が受信トレイを開かなくなったのでAIエージェントに注力",
+    "link": "https://gigazine.net/news/20260626-notion-mail-is-going-away/",
+    "published": "Fri, 26 Jun 2026 11:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-26 02:58:57",
+    "ai_summary": null
+  },
+  {
+    "title": "YouTube・X(旧Twitter)・TikTok・Instagramなど1000超のサービスからオリジナル画質のまま動画をダウンロードできる「VideoProc Converter AI」を使ってみた",
+    "link": "https://gigazine.net/news/20260626-videoproc-converter-ai/",
+    "published": "Fri, 26 Jun 2026 09:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-26 02:58:57",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI社員がAIエージェントをどれだけ使っているのかが丸わかりなレポートが公開される、非エンジニアもCodexをバリバリ活用",
+    "link": "https://gigazine.net/news/20260626-openai-employees-codex/",
+    "published": "Fri, 26 Jun 2026 11:22:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-26 02:58:57",
+    "ai_summary": null
+  },
+  {
+    "title": "AppleがMacやiPadなどを一斉値上げ、MacBook Airは4万円アップでもiPhoneとApple Watchは価格キープ",
+    "link": "https://gigazine.net/news/20260626-apple-raise-price/",
+    "published": "Fri, 26 Jun 2026 11:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-26 02:58:57",
+    "ai_summary": null
+  },
+  {
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "published": "Thu, 25 Jun 2026 23:34:39 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-26 02:58:57",
+    "ai_summary": null
+  },
+  {
+    "title": "Gemini を Claude の「サブエージェント」に —— 大規模開発でコストを実測",
+    "link": "https://zenn.dev/google_cloud_jp/articles/63205d90345627",
+    "published": "Thu, 25 Jun 2026 04:03:03 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-26 02:58:57",
+    "ai_summary": null
+  },
+  {
+    "title": "LLMが書いた「正しそうな言葉」に感じる違和感",
+    "link": "https://zenn.dev/mkj/articles/40a6c187d2dbc9",
+    "published": "Thu, 25 Jun 2026 02:50:08 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-26 02:58:57",
+    "ai_summary": null
+  },
+  {
+    "title": "ローカルのGit差分をGitHub風UIでレビューできる「difit」を使ってみた",
+    "link": "https://zenn.dev/rescuenow/articles/535533464da3cf",
+    "published": "Thu, 25 Jun 2026 01:46:26 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-26 02:58:57",
+    "ai_summary": null
+  },
+  {
     "title": "NYダウ 一時800ドル超上昇 取引時間中の最高値更新 AI期待で",
     "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160551000.html",
     "published": "Fri, 26 Jun 2026 06:51:52 +0900",
