@@ -1,5 +1,160 @@
 [
   {
+    "title": "OpenAI、「GPT-5.6」のリリースは特定のパートナーに限定か　上場は来年への延期を検討",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/26/news104.html",
+    "published": "Fri, 26 Jun 2026 15:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-26 14:37:38",
+    "ai_summary": null
+  },
+  {
+    "title": "防衛省は“認知戦”にどう挑む　ウクライナ脅かすAIフェイク、偽アカウントへの対応は　分析資料を公開",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/26/news091.html",
+    "published": "Fri, 26 Jun 2026 13:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-26 14:37:38",
+    "ai_summary": null
+  },
+  {
+    "title": "高性能AI対応に法制度見直しへ　有識者会議がワーキンググループ",
+    "link": "http://www.asahi.com/articles/ASV6V447CV6VUTFL025M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-26 14:37:38",
+    "ai_summary": null
+  },
+  {
+    "title": "中国の開発者が公式価格の約10％でAnthropicのAIモデルを利用できるAPIプロキシ「中转站」が支えるグレー経済圏の実態とは？",
+    "link": "https://gigazine.net/news/20260626-china-anthropic-api/",
+    "published": "Fri, 26 Jun 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-26 14:37:39",
+    "ai_summary": null
+  },
+  {
+    "title": "トランプ政権がOpenAIに「GPT-5.6」のリリースを遅らせるよう要請",
+    "link": "https://gigazine.net/news/20260626-openai-will-delay-gpt-5-6/",
+    "published": "Fri, 26 Jun 2026 18:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-26 14:37:39",
+    "ai_summary": null
+  },
+  {
+    "title": "AIで「まだ起きていない自然災害」を予測、拡散モデルで異常気象リスク計算の限界克服へ",
+    "link": "https://gigazine.net/news/20260626-ai-disaster-prediction/",
+    "published": "Fri, 26 Jun 2026 16:02:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-26 14:37:39",
+    "ai_summary": null
+  },
+  {
+    "title": "AppleはM6チップの上位モデルをスキップして2027年にM7シリーズの展開を計画しているという報道、デバイス上のAI機能を強化するため",
+    "link": "https://gigazine.net/news/20260626-apple-skip-m6/",
+    "published": "Fri, 26 Jun 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-26 14:37:39",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントに「タスクに合ったAIモデルを見つける能力」を与える「OpenRouter MCP Server」が登場",
+    "link": "https://gigazine.net/news/20260626-openrouter-mcp-server/",
+    "published": "Fri, 26 Jun 2026 13:50:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-26 14:37:39",
+    "ai_summary": null
+  },
+  {
+    "title": "約400紙の新聞を発行する新聞社が記事を無断でスクレイピングされたとしてOpenAIとMicrosoftを提訴",
+    "link": "https://gigazine.net/news/20260626-publishers-sue-microsoft-openai/",
+    "published": "Fri, 26 Jun 2026 13:40:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-26 14:37:39",
+    "ai_summary": null
+  },
+  {
+    "title": "AIを最大9.64倍高速化する投機的デコーディング手法「JetSpec」が開発される",
+    "link": "https://gigazine.net/news/20260626-jetspec-speedup-ai/",
+    "published": "Fri, 26 Jun 2026 12:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-26 14:37:39",
+    "ai_summary": null
+  },
+  {
+    "title": "自動車大手のフォードでAI主導の自動化がうまくいかず人間のベテラン技術者を再雇用せざるを得ない事態に",
+    "link": "https://gigazine.net/news/20260626-ford-rehire-inspectors/",
+    "published": "Fri, 26 Jun 2026 12:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-26 14:37:39",
+    "ai_summary": null
+  },
+  {
+    "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
+    "link": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
+    "published": "Fri, 26 Jun 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-26 14:37:39",
+    "ai_summary": null
+  },
+  {
+    "title": "マイクラを声で動かそうとしたら令和の「ピカチュウげんきでちゅう」になった話",
+    "link": "https://zenn.dev/m2lab/articles/koe-craft-agent-amivoice",
+    "published": "Thu, 25 Jun 2026 22:11:25 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-26 14:37:39",
+    "ai_summary": null
+  },
+  {
+    "title": "Astro 7 移行で main マージしても本番が更新されない。Cloudflare Pages から Workers Builds へ",
+    "link": "https://zenn.dev/redamoon/articles/article47-astro7-cloudflare-workers-migration",
+    "published": "Thu, 25 Jun 2026 20:43:03 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-26 14:37:39",
+    "ai_summary": null
+  },
+  {
     "title": "Notion、メールアプリ「Notion Mail」終了へ　AIエージェントに全面移行",
     "link": "https://www.itmedia.co.jp/news/articles/2606/26/news060.html",
     "published": "Fri, 26 Jun 2026 07:32:00 +0900",
