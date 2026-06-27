@@ -1,5 +1,83 @@
 [
   {
+    "title": "米政権、先端AIの統制鮮明　ミュトス再開許可、GPTは提供限定",
+    "link": "http://www.asahi.com/articles/ASV6W1RKFV6WULZU001M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-27 13:57:13",
+    "ai_summary": null
+  },
+  {
+    "title": "無料でChrome・Firefoxで訪問したウェブサイトを自動的にローカルに保存しインデックス化＆定期自動取得で最新状態を維持し続ける汎用検索エンジン「Hister」、セルフホスト可能でMCPサーバー化させてAIとの連携やローカルのファイル検索も実現",
+    "link": "https://gigazine.net/news/20260627-hister/",
+    "published": "Sat, 27 Jun 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-27 13:57:13",
+    "ai_summary": null
+  },
+  {
+    "title": "無料でセルフホスト型のChatGPTやClaudeっぽいローカルAIワークスペースが実現できる「Odysseus」、ファイルアップロード・モデルダウンロード・ウェブ検索・メール/カレンダー連携が可能",
+    "link": "https://gigazine.net/news/20260627-odysseus/",
+    "published": "Sat, 27 Jun 2026 18:00:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-27 13:57:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "published": "Sat, 27 Jun 2026 12:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-27 13:57:13",
+    "ai_summary": null
+  },
+  {
+    "title": "コードを書かずに、MulmoClaude で note 記事をアニメーション付き動画にする",
+    "link": "https://zenn.dev/singularity/articles/2026-06-26-mulmoclaude-html-tailwind-animation",
+    "published": "Sat, 27 Jun 2026 06:23:06 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-27 13:57:13",
+    "ai_summary": null
+  },
+  {
+    "title": "会議中に Claude が“次に聞くべきこと”を提案してくれる議事録アプリを作った",
+    "link": "https://zenn.dev/uguisu_blog/articles/d777bd252bab6b",
+    "published": "Fri, 26 Jun 2026 11:55:03 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-27 13:57:13",
+    "ai_summary": null
+  },
+  {
+    "title": "シニアエンジニアがコードをほぼ書かなくなった理由",
+    "link": "https://zenn.dev/acntechjp/articles/22f7b6f9258008",
+    "published": "Fri, 26 Jun 2026 09:45:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-27 13:57:13",
+    "ai_summary": null
+  },
+  {
     "title": "本田圭佑さん解説を元NHKアナが解説　AIが及ばない「生々しさ」",
     "link": "http://www.asahi.com/articles/ASV6V2Q61V6VOXIE029M.html?ref=rss",
     "published": "",
