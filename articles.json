@@ -1,5 +1,83 @@
 [
   {
+    "title": "OpenAIのサム・アルトマンCEOとAnthropicのダリオ・アモデイCEOの間には10年にもわたる確執がある",
+    "link": "https://gigazine.net/news/20260628-dario-amodei-sam-altman/",
+    "published": "Sun, 28 Jun 2026 20:00:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-28 14:03:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+    "link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+    "published": "Sun, 28 Jun 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-28 14:03:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+    "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+    "published": "Sun, 28 Jun 2026 05:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-28 14:03:10",
+    "ai_summary": null
+  },
+  {
+    "title": "AIの日本語が「整いすぎて不自然」な正体は『カルク（訳語臭）』だった — 高品質な日本語文章を生成するスキルを作った",
+    "link": "https://zenn.dev/forest_project/articles/a62fc2f6ac85ff",
+    "published": "Sat, 27 Jun 2026 16:30:34 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-28 14:03:10",
+    "ai_summary": null
+  },
+  {
+    "title": "RX 9070 XT 16GBでローカルLLMのAIコーディングエージェント環境を作る",
+    "link": "https://zenn.dev/masahide/articles/0d4016e8ea5a25",
+    "published": "Sat, 27 Jun 2026 15:13:08 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-28 14:03:10",
+    "ai_summary": null
+  },
+  {
+    "title": "スマホのみでWebアプリ開発。Codexで作って公開した話",
+    "link": "https://zenn.dev/bit_and_coffee/articles/gexam-practice-app",
+    "published": "Sat, 27 Jun 2026 14:08:03 GMT",
+    "keywords": [
+      "ChatGPT"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-28 14:03:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Codeのレート残量をCLI一発で確認する ~ もうブラウザ確認なんてしない ~",
+    "link": "https://zenn.dev/masa0902dev/articles/clc-claude-code-rate",
+    "published": "Fri, 26 Jun 2026 14:37:49 GMT",
+    "keywords": [
+      "Python"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-28 14:03:10",
+    "ai_summary": null
+  },
+  {
     "title": "OpenAI、次世代AI「GPT-5.6」を限定プレビュー──米政府の要請で全面公開見送り「恒久的な標準にすべきでない」",
     "link": "https://www.itmedia.co.jp/news/articles/2606/28/news020.html",
     "published": "Sun, 28 Jun 2026 08:20:00 +0900",
