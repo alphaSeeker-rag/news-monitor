@@ -1,5 +1,105 @@
 [
   {
+    "title": "OpenAI、次世代AI「GPT-5.6」を限定プレビュー──米政府の要請で全面公開見送り「恒久的な標準にすべきでない」",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/28/news020.html",
+    "published": "Sun, 28 Jun 2026 08:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-28 03:29:19",
+    "ai_summary": null
+  },
+  {
+    "title": "米政府、Anthropicの「Mythos」（ミュトス）再開を一部容認──「Fable 5」は停止継続",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/28/news019.html",
+    "published": "Sun, 28 Jun 2026 07:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-28 03:29:19",
+    "ai_summary": null
+  },
+  {
+    "title": "金融情報をAIに聞くリスクと利点　利用者に難しい真偽の見極め",
+    "link": "http://www.asahi.com/articles/ASV6S2T0FV6SULFA00PM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-28 03:29:20",
+    "ai_summary": null
+  },
+  {
+    "title": "AIに不可欠なデータセンター、宇宙に活路　スペースXなど続々構想",
+    "link": "http://www.asahi.com/articles/ASV6S1DXFV6SUHBI00HM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-28 03:29:20",
+    "ai_summary": null
+  },
+  {
+    "title": "無料でAI最適化「AEO」をChatGPT・Google AI Overviews・Perplexity・Gemini・Copilot・Grokなどで確認できる「Elmo」、オープンソースで開発されセルフホスト可能",
+    "link": "https://gigazine.net/news/20260628-elmo/",
+    "published": "Sun, 28 Jun 2026 12:00:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-28 03:29:21",
+    "ai_summary": null
+  },
+  {
+    "title": "hoge+fuga@example.com は「エイリアス」ではない",
+    "link": "https://zenn.dev/mai_llj/articles/3eefb32e632563",
+    "published": "Sat, 27 Jun 2026 15:07:10 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-28 03:29:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Code と Codex のレビュー機能は脆弱性をどれだけ見つけられるかをOWASP Benchmark で検証",
+    "link": "https://zenn.dev/yukkie1114/articles/3d927e8c28e085",
+    "published": "Sat, 27 Jun 2026 08:55:23 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-28 03:29:21",
+    "ai_summary": null
+  },
+  {
+    "title": "【初学者向け】Google AI Studioでwebアプリを作ってみよう",
+    "link": "https://zenn.dev/kanaru/articles/a8fc555cdbb6b0",
+    "published": "Sat, 27 Jun 2026 04:49:22 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-28 03:29:21",
+    "ai_summary": null
+  },
+  {
+    "title": "AI 推進専任 4 ヶ月、試行錯誤してたどり着いた答え",
+    "link": "https://zenn.dev/babyjob/articles/ai-promotion-4months-practice",
+    "published": "Fri, 26 Jun 2026 07:00:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-28 03:29:21",
+    "ai_summary": null
+  },
+  {
     "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
     "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
     "published": "Sat, 27 Jun 2026 16:45:09 +0000",
