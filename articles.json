@@ -1,5 +1,204 @@
 [
   {
+    "title": "「ヤフコメまとめ」開始　ヤフコメの論点、AIがグラフで可視化",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/29/news114.html",
+    "published": "Mon, 29 Jun 2026 16:32:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-29 15:58:37",
+    "ai_summary": null
+  },
+  {
+    "title": "サッカーの才能の宝庫ブラジルでは動画を分析して選手のスカウトを行うAIスカウトアプリが普及しつつある",
+    "link": "https://gigazine.net/news/20260629-brazil-next-big-soccer-star-scouted-ai/",
+    "published": "Mon, 29 Jun 2026 23:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "持ち帰り試験で平均96点のクラスが対面試験に切り替えると平均48点に、教授は「AIでカンニングしている」と落胆",
+    "link": "https://gigazine.net/news/20260629-ai-exam-brown-university/",
+    "published": "Mon, 29 Jun 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "DeepSeekがAI言語モデルの生成速度を最大85％向上させる「DSpark」を公開",
+    "link": "https://gigazine.net/news/20260629-deepseek-dspark/",
+    "published": "Mon, 29 Jun 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "「土日の方がAIの個人用途は多い」「女性の方が使用時間は長い」「高賃金タスクは夜間も実行されがち」などClaudeの利用実態レポートが公開される",
+    "link": "https://gigazine.net/news/20260629-anthropic-economic-report/",
+    "published": "Mon, 29 Jun 2026 16:54:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Opus 4.7と同等性能のコーディングAIモデル「Ornith-1.0」が登場、ローカルで動作する小型モデルもラインナップ",
+    "link": "https://gigazine.net/news/20260629-ornith-agentic-coding-ai/",
+    "published": "Mon, 29 Jun 2026 13:16:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Metaが要求したGeminiの計算能力をGoogleが提供しきれずMetaの社内プロジェクトが中断・遅延",
+    "link": "https://gigazine.net/news/20260629-meta-google-gemini-limit/",
+    "published": "Mon, 29 Jun 2026 12:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
+    "link": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
+    "published": "Mon, 29 Jun 2026 15:02:07 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "published": "Mon, 29 Jun 2026 14:00:08 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
+    "link": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
+    "published": "Mon, 29 Jun 2026 13:16:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Flipper Device’s new Busy Bar is a customizable display for productivity",
+    "link": "https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/",
+    "published": "Mon, 29 Jun 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Omen AI’s plan to optimize data centers is all wet",
+    "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+    "published": "Mon, 29 Jun 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Codeに同じバグを3回出すと、自動でルール化される話",
+    "link": "https://zenn.dev/nexta_/articles/858e92ee22b4a4",
+    "published": "Mon, 29 Jun 2026 02:00:09 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "UnityプロジェクトでAIを効率よく使うためのトークン節約術",
+    "link": "https://zenn.dev/gamedev_toollab/articles/a7364d37455a50",
+    "published": "Mon, 29 Jun 2026 01:00:09 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントをUIにすることで、誰でも地理データを扱えるWebGISができた。",
+    "link": "https://zenn.dev/shimizu/articles/c1d19c39202eb3",
+    "published": "Mon, 29 Jun 2026 00:21:17 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "AWS Summit AI-DLCハッカソンを戦い抜くために工夫したこと",
+    "link": "https://zenn.dev/mashharuki/articles/aws_aidlc_hackathon-1",
+    "published": "Sun, 28 Jun 2026 14:41:02 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "AIに知識ベースを育てさせる：Karpathy氏の「LLM Wiki」を実際にやってみた",
+    "link": "https://zenn.dev/fujimac/articles/fc62cb2ac43505",
+    "published": "Sun, 28 Jun 2026 14:32:11 GMT",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Claudeに「オントロジー」を持たせたら、コスト半分・3倍速になるかも",
+    "link": "https://zenn.dev/takupeso/articles/claude-ontology-knowledge-structuring",
+    "published": "Sat, 27 Jun 2026 16:49:46 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-29 15:58:38",
+    "ai_summary": null
+  },
+  {
     "title": "AIの進化は、スマートスピーカーへの“失望感”を挽回できるか？　Gemini対応の新型を試す",
     "link": "https://www.itmedia.co.jp/news/articles/2606/29/news077.html",
     "published": "Mon, 29 Jun 2026 11:32:00 +0900",
