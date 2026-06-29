@@ -1,5 +1,93 @@
 [
   {
+    "title": "タスクの難易度でローカルAIとクラウドAIを自動切り替えする「Wayfinder」、切り替え判断にAIを使わずコストを削減",
+    "link": "https://gigazine.net/news/20260630-wayfinder/",
+    "published": "Tue, 30 Jun 2026 07:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-29 22:08:43",
+    "ai_summary": null
+  },
+  {
+    "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+    "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+    "published": "Mon, 29 Jun 2026 20:55:50 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-29 22:08:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Gemini’s personalized AI image generation is now free for US users",
+    "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "published": "Mon, 29 Jun 2026 20:12:59 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-29 22:08:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Waymo and Uber quietly part ways in Phoenix",
+    "link": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
+    "published": "Mon, 29 Jun 2026 18:45:12 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-29 22:08:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+    "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "published": "Mon, 29 Jun 2026 18:10:26 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-29 22:08:44",
+    "ai_summary": null
+  },
+  {
+    "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+    "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+    "published": "Mon, 29 Jun 2026 18:07:48 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-29 22:08:44",
+    "ai_summary": null
+  },
+  {
+    "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+    "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "published": "Mon, 29 Jun 2026 17:39:17 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-29 22:08:44",
+    "ai_summary": null
+  },
+  {
+    "title": "TIDAL cracks down on AI music by cutting off monetization",
+    "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+    "published": "Mon, 29 Jun 2026 16:29:04 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-29 22:08:44",
+    "ai_summary": null
+  },
+  {
     "title": "「ヤフコメまとめ」開始　ヤフコメの論点、AIがグラフで可視化",
     "link": "https://www.itmedia.co.jp/news/articles/2606/29/news114.html",
     "published": "Mon, 29 Jun 2026 16:32:00 +0900",
