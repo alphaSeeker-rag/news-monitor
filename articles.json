@@ -1,5 +1,115 @@
 [
   {
+    "title": "AIの進化は、スマートスピーカーへの“失望感”を挽回できるか？　Gemini対応の新型を試す",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/29/news077.html",
+    "published": "Mon, 29 Jun 2026 11:32:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-29 03:34:12",
+    "ai_summary": null
+  },
+  {
+    "title": "カインズが画像AIで売上UP模索、店頭でのインテリア“試着”をテスト　立ちはだかる「正確性と効率」の壁",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/26/news114.html",
+    "published": "Mon, 29 Jun 2026 10:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-29 03:34:12",
+    "ai_summary": null
+  },
+  {
+    "title": "トランプ政権がAnthropicの「Claude Fable 5」復帰を近く容認か、早ければ7月上旬にも制限解除の可能性",
+    "link": "https://gigazine.net/news/20260629-anthropic-fable-5-return-soon/",
+    "published": "Mon, 29 Jun 2026 11:50:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-29 03:34:13",
+    "ai_summary": null
+  },
+  {
+    "title": "音楽生成AIのSunoが独立系アーティストを支援するプログラム「Spark」を開始、「Sunoの悪口禁止」「Sunoに対する裁判への参加権放棄」といった条件が注目を集める",
+    "link": "https://gigazine.net/news/20260629-suno-incubator-program-spark/",
+    "published": "Mon, 29 Jun 2026 11:39:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-29 03:34:13",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが「GPT-5.6」シリーズを発表、Claude Mythos 5超えだがアメリカ政府の指示で限定プレビュー公開",
+    "link": "https://gigazine.net/news/20260629-gpt-5-6-sol-terra-luna/",
+    "published": "Mon, 29 Jun 2026 11:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-29 03:34:13",
+    "ai_summary": null
+  },
+  {
+    "title": "労働人口が減る中国で「AI搭載の人型ロボット」を働かせる動きが加速している",
+    "link": "https://gigazine.net/news/20260629-china-humanoid-ai-robots/",
+    "published": "Mon, 29 Jun 2026 11:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-29 03:34:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Apple Vision Proやスマートグラスを開発する幹部がOpenAIに転職するとの報道",
+    "link": "https://gigazine.net/news/20260629-apple-vision-pro-chief-openai/",
+    "published": "Mon, 29 Jun 2026 10:46:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-29 03:34:13",
+    "ai_summary": null
+  },
+  {
+    "title": "ハーネスエンジニアリングは、AI時代のチームビルディングだった",
+    "link": "https://zenn.dev/ttaniguchi/articles/hands-on-harness-engineering",
+    "published": "Sun, 28 Jun 2026 03:19:25 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-29 03:34:13",
+    "ai_summary": null
+  },
+  {
+    "title": "【めざせカードマスター】Kaggleコンペ紹介 Pokémon Trading Card Game AI Battle Challenge",
+    "link": "https://zenn.dev/kkj/articles/85a3a0a08f193c",
+    "published": "Sat, 27 Jun 2026 23:20:31 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-29 03:34:13",
+    "ai_summary": null
+  },
+  {
+    "title": "LLM 事後学習 (SFT / RLHF / DPO / RLVR / GRPO / 自己蒸留) を教師信号から眺める",
+    "link": "https://zenn.dev/shunk031/articles/llm-post-training-overview",
+    "published": "Sat, 27 Jun 2026 15:00:00 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-29 03:34:13",
+    "ai_summary": null
+  },
+  {
     "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
     "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
     "published": "Sun, 28 Jun 2026 19:05:39 +0000",
