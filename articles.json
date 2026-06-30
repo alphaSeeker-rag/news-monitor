@@ -1,5 +1,248 @@
 [
   {
+    "title": "農水省の“クソダサ”ポスター話題　「AIよりよっぽど良い」の声も　担当者に狙いを聞いた",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/30/news158.html",
+    "published": "Tue, 30 Jun 2026 19:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-30 14:32:32",
+    "ai_summary": null
+  },
+  {
+    "title": "日印「防衛用AIドローン」共同開発へ　首脳会談で確認、対中念頭に安保協力深化",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/30/news141.html",
+    "published": "Tue, 30 Jun 2026 16:12:00 +0900",
+    "keywords": [
+      "AI",
+      "人工知能"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-30 14:32:32",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI、Codex向けデバイスを予告　7月15日に発表か　キーボードメーカーと協業",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/30/news123.html",
+    "published": "Tue, 30 Jun 2026 12:50:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-30 14:32:32",
+    "ai_summary": null
+  },
+  {
+    "title": "本人確認は「干支を口頭で」、書類は紙――地面師を生かし続ける不動産取引の“デジタル化されない現実”",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/29/news066.html",
+    "published": "Tue, 30 Jun 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-30 14:32:32",
+    "ai_summary": null
+  },
+  {
+    "title": "中国のオープンウェイトモデル「GLM-5.2」が脆弱性検出ベンチマークでClaude Codeを上回る",
+    "link": "https://gigazine.net/news/20260630-glm-5-2-beats-claude-cyber-benchmarks/",
+    "published": "Tue, 30 Jun 2026 23:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-30 14:32:33",
+    "ai_summary": null
+  },
+  {
+    "title": "日本のIPO件数はわずか18件で15年ぶりの低水準を記録、日本にAI・データセンター・半導体関連のスタートアップが不足していることが一因",
+    "link": "https://gigazine.net/news/20260630-japan-ipo-fall-15-year-low/",
+    "published": "Tue, 30 Jun 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-30 14:32:33",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントの「物忘れ」を防ぐMicrosoftの長期記憶アーキテクチャ「Memora」とは？",
+    "link": "https://gigazine.net/news/20260630-microsoft-memora-harmonic-memory/",
+    "published": "Tue, 30 Jun 2026 16:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-30 14:32:33",
+    "ai_summary": null
+  },
+  {
+    "title": "iOS版Cursorが登場、CursorのエージェントタスクをiPhoneから管理可能",
+    "link": "https://gigazine.net/news/20260630-cursor-for-ios/",
+    "published": "Tue, 30 Jun 2026 14:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-30 14:32:33",
+    "ai_summary": null
+  },
+  {
+    "title": "AIランキングサイト「Arena」が商用サービス開始から8カ月で年換算収益160億円を突破、AIモデルを「実際に使って比べる」評価が巨大ビジネスに",
+    "link": "https://gigazine.net/news/20260630-arena-revenue/",
+    "published": "Tue, 30 Jun 2026 14:02:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-30 14:32:33",
+    "ai_summary": null
+  },
+  {
+    "title": "Grok 4.5は1.5兆パラメーターの基盤モデルをCursorのデータで追加学習したものでSpaceXとTesla社内でベータテスト中",
+    "link": "https://gigazine.net/news/20260630-grok-4-5-cursor/",
+    "published": "Tue, 30 Jun 2026 13:11:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-30 14:32:33",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude CodeなどのAIエージェントでComfyUIを使った画像・動画生成の自動化が可能な「Comfy MCP」が登場、Comfy Cloudを使用するので低スペックPCでもOK",
+    "link": "https://gigazine.net/news/20260630-comfy-mcp-comfyui-ai-agent/",
+    "published": "Tue, 30 Jun 2026 12:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-30 14:32:33",
+    "ai_summary": null
+  },
+  {
+    "title": "あのキズナアイをデスクトップ上に配置してモーションを観察＆ボイスを楽しめる「Desktop Mate キズナアイ DLC」レビュー",
+    "link": "https://gigazine.net/news/20260630-desktop-mate-kizuna-ai/",
+    "published": "Tue, 30 Jun 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-06-30 14:32:33",
+    "ai_summary": null
+  },
+  {
+    "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+    "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+    "published": "Tue, 30 Jun 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-30 14:32:33",
+    "ai_summary": null
+  },
+  {
+    "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+    "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+    "published": "Tue, 30 Jun 2026 09:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-30 14:32:33",
+    "ai_summary": null
+  },
+  {
+    "title": "The AI jobs debate just got messier",
+    "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "published": "Tue, 30 Jun 2026 04:01:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-30 14:32:33",
+    "ai_summary": null
+  },
+  {
+    "title": "世界史データベースチームの開発手法",
+    "link": "https://zenn.dev/coten/articles/6e1d0b8e14eaf3",
+    "published": "Tue, 30 Jun 2026 00:05:55 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-30 14:32:34",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenTelemetry に reasoning.level 属性を追加しました",
+    "link": "https://zenn.dev/studist/articles/opentelemetry-genai-reasoning-level",
+    "published": "Mon, 29 Jun 2026 23:00:11 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-30 14:32:34",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Code の Agent Teams による、複数課題を同時並行で処理し自己改善を繰り返すAIチーム（PM＋作業者）の構築",
+    "link": "https://zenn.dev/acntechjp/articles/6f74e9a6aef835",
+    "published": "Mon, 29 Jun 2026 23:00:10 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-30 14:32:34",
+    "ai_summary": null
+  },
+  {
+    "title": "AI時代に、自動化についてもう一度考える",
+    "link": "https://zenn.dev/namoo_san/articles/3cc632399946e5",
+    "published": "Mon, 29 Jun 2026 15:09:42 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-30 14:32:34",
+    "ai_summary": null
+  },
+  {
+    "title": "LLMエージェントを『コスパ良く・高精度に』組む技術：Clearwingのワークフロー設計に学ぶ",
+    "link": "https://zenn.dev/khale/articles/llm-agent-cost-accuracy-clearwing",
+    "published": "Mon, 29 Jun 2026 15:04:56 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-30 14:32:34",
+    "ai_summary": null
+  },
+  {
+    "title": "「なんとなくの性能差」にサヨナラ。GitHub Copilot、Claude Code、Cursor の裏側の仕組みを調べてみた。",
+    "link": "https://zenn.dev/sonicmoov/articles/63a6ae419db43a",
+    "published": "Mon, 29 Jun 2026 15:00:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-30 14:32:34",
+    "ai_summary": null
+  },
+  {
+    "title": "マーケティング担当がAIと一緒に、LINEのアンケート→出し分け配信を無料で作ってみた",
+    "link": "https://zenn.dev/teradox_blog/articles/19228a95b22456",
+    "published": "Mon, 29 Jun 2026 09:49:24 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-06-30 14:32:34",
+    "ai_summary": null
+  },
+  {
     "title": "「“社長AI”って意味ある？」→言った本人も手のひら返し　幹部の9割が高評価したNTTドコモビジネスの「AI小島社長」開発録",
     "link": "https://www.itmedia.co.jp/news/articles/2606/24/news030.html",
     "published": "Tue, 30 Jun 2026 11:00:00 +0900",
