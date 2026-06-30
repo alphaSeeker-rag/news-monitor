@@ -1,5 +1,126 @@
 [
   {
+    "title": "Anthropic、「Claude Sonnet 5」公開──停止中のミュトスとは別にOpus級の性能を低価格で",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/01/news057.html",
+    "published": "Wed, 01 Jul 2026 06:12:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-06-30 22:15:16",
+    "ai_summary": null
+  },
+  {
+    "title": "企業法務にAI活用、法務省が検討会設置へ　「非弁行為」規制を緩和",
+    "link": "http://www.asahi.com/articles/ASV6Z4356V6ZUTIL01QM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-06-30 22:15:16",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenClaw is finally available on Android and iOS",
+    "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "published": "Tue, 30 Jun 2026 21:53:28 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-30 22:15:16",
+    "ai_summary": null
+  },
+  {
+    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+    "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "published": "Tue, 30 Jun 2026 20:33:48 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-30 22:15:16",
+    "ai_summary": null
+  },
+  {
+    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "published": "Tue, 30 Jun 2026 19:02:38 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-30 22:15:16",
+    "ai_summary": null
+  },
+  {
+    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+    "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "published": "Tue, 30 Jun 2026 18:13:02 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-30 22:15:16",
+    "ai_summary": null
+  },
+  {
+    "title": "Acti puts AI agents directly into your smartphone keyboard",
+    "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+    "published": "Tue, 30 Jun 2026 17:52:46 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-30 22:15:16",
+    "ai_summary": null
+  },
+  {
+    "title": "Blue Origin still doesn’t know why its New Glenn rocket blew up last month",
+    "link": "https://techcrunch.com/2026/06/30/blue-origin-still-doesnt-know-why-its-new-glenn-rocket-blew-up-last-month/",
+    "published": "Tue, 30 Jun 2026 16:09:57 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-30 22:15:16",
+    "ai_summary": null
+  },
+  {
+    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+    "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "published": "Tue, 30 Jun 2026 15:08:42 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-30 22:15:16",
+    "ai_summary": null
+  },
+  {
+    "title": "Podcasting platform Riverside enters the newsletter publishing game",
+    "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+    "published": "Tue, 30 Jun 2026 15:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-30 22:15:16",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "published": "Tue, 30 Jun 2026 15:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-06-30 22:15:16",
+    "ai_summary": null
+  },
+  {
     "title": "農水省の“クソダサ”ポスター話題　「AIよりよっぽど良い」の声も　担当者に狙いを聞いた",
     "link": "https://www.itmedia.co.jp/news/articles/2606/30/news158.html",
     "published": "Tue, 30 Jun 2026 19:55:00 +0900",
