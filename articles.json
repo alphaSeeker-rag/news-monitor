@@ -1,5 +1,193 @@
 [
   {
+    "title": "キーボード入力時の脳の動きから打った文章を割り出す技術、Metaが発表　手術不要、“埋め込み式”に迫る",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/01/news063.html",
+    "published": "Wed, 01 Jul 2026 11:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "AIで“ゲームキャラの出産二次創作”を何千回と生成する人も……ChatGPTの会話57万件から見えたヘビーな利用実態",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/01/news027.html",
+    "published": "Wed, 01 Jul 2026 08:00:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "Google、高速で低価格な画像生成AI「Nano Banana 2 Lite」と動画生成モデル「Gemini Omni Flash」公開",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/01/news060.html",
+    "published": "Wed, 01 Jul 2026 07:11:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "生成AIの請求書、人件費と並べる時代へ　国内5社のAI責任者が語る「トークンマネジメント」の現在地",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/30/news027.html",
+    "published": "Wed, 01 Jul 2026 07:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "AIでは追えないLGBTQ+の歴史　資料2万点集めた私設図書館",
+    "link": "http://www.asahi.com/articles/ASV6Z0RRSV6ZUTIL01JM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIがAIの科学能力を測定するベンチマークテスト「GeneBench-Pro」を発表",
+    "link": "https://gigazine.net/news/20260701-genebench-pro/",
+    "published": "Wed, 01 Jul 2026 12:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleがより高速で安価な画像生成モデル「Nano Banana 2 Lite」と動画生成モデル「Gemini Omni Flash」を発表",
+    "link": "https://gigazine.net/news/20260701-google-nano-banana-2-lite-gemini-omni-flash/",
+    "published": "Wed, 01 Jul 2026 11:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "AI生成の写真を使ったニセの花の種販売が横行",
+    "link": "https://gigazine.net/news/20260701-scammers-sell-ai-seeds/",
+    "published": "Wed, 01 Jul 2026 11:39:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "「Claude Sonnet 5」が登場、Opus 4.8に近い性能で安価＆無料プランでも使用可能",
+    "link": "https://gigazine.net/news/20260701-claude-sonnet-5/",
+    "published": "Wed, 01 Jul 2026 11:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "ミクシィが動画生成AIのRunwayと戦略的パートナーシップを締結、すでにモンストの映像制作などでRunwayのAIを使用",
+    "link": "https://gigazine.net/news/20260701-mixi-runway-strategic-partnership/",
+    "published": "Wed, 01 Jul 2026 11:12:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+    "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "published": "Wed, 01 Jul 2026 02:16:06 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+    "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+    "published": "Wed, 01 Jul 2026 02:04:40 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "ローカルLLMで「Pi」エージェントを動かす",
+    "link": "https://zenn.dev/fuwamoekissaten/articles/bb5f5364838ced",
+    "published": "Tue, 30 Jun 2026 10:25:15 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "はじめて AI エージェント向けの CLI ツールを作ってみて気づいたこと",
+    "link": "https://zenn.dev/chot/articles/dca4889fa27d27",
+    "published": "Tue, 30 Jun 2026 06:54:49 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "ローカルLLMでハルシネーションを見抜く",
+    "link": "https://zenn.dev/starai_org/articles/1b09b1971a2a2b",
+    "published": "Tue, 30 Jun 2026 06:26:06 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "Gemini Embedding 2で作るネイティブマルチモーダルRAG",
+    "link": "https://zenn.dev/aishift/articles/83708f752b3c87",
+    "published": "Tue, 30 Jun 2026 03:03:50 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
+    "title": "【Qase×AI】テスト資産の管理をAIに任せてみた",
+    "link": "https://zenn.dev/edash_tech_blog/articles/pulasqaaa-003",
+    "published": "Tue, 30 Jun 2026 03:00:16 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-01 03:29:45",
+    "ai_summary": null
+  },
+  {
     "title": "Anthropic、「Claude Sonnet 5」公開──停止中のミュトスとは別にOpus級の性能を低価格で",
     "link": "https://www.itmedia.co.jp/news/articles/2607/01/news057.html",
     "published": "Wed, 01 Jul 2026 06:12:00 +0900",
