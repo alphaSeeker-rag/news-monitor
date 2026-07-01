@@ -1,5 +1,247 @@
 [
   {
+    "title": "ソフトバンクG、OpenAIに1兆6273億円の追加出資　第3弾は10月に",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/01/news139.html",
+    "published": "Wed, 01 Jul 2026 18:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "ランサムで売上95％減──アスクルの“システム再構築”支えた生成AI活用　復旧までの3.5カ月、社長が語る舞台裏",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/01/news098.html",
+    "published": "Wed, 01 Jul 2026 13:01:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "AIバイブコーディングでゲームのリリースが急増か、わずか6カ月で18万1000本のスマホゲームがリリースされiOSでは前年同期比118％増・Androidでは73％増",
+    "link": "https://gigazine.net/news/20260701-mobile-game-boom/",
+    "published": "Wed, 01 Jul 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Codeがユーザーの接続経路を「日付の書式を変更する」という手法で記録していたとの指摘、「2026-06-30」「2026/06/30」といった書式の違いで見分ける仕組み",
+    "link": "https://gigazine.net/news/20260701-claude-code-prompt-steganography/",
+    "published": "Wed, 01 Jul 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Mistralが自動定理証明向けAI「Leanstral 1.5」リリース、Lean 4の証明作業を支援",
+    "link": "https://gigazine.net/news/20260701-mistral-leanstral-1-5/",
+    "published": "Wed, 01 Jul 2026 16:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIのエンジニアがAIの推論コストを半分以下に削減する方法を見つけたとの報道",
+    "link": "https://gigazine.net/news/20260701-openai-discovers-cut-inference-costs-half/",
+    "published": "Wed, 01 Jul 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Protonがプライバシー重視チャットAI「Lumo 2.0」を発表、Claude Sonnet 4.6を超える性能",
+    "link": "https://gigazine.net/news/20260701-proton-lumo-2-0/",
+    "published": "Wed, 01 Jul 2026 14:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェント経由でXのAPIを操作して「投稿検索」「トレンド分析」などが可能な「X MCP」が公開される",
+    "link": "https://gigazine.net/news/20260701-x-mcp/",
+    "published": "Wed, 01 Jul 2026 13:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAのAIチップを使わずにGemini 3.1 Pro並みの性能を実現した1.6兆パラメーターの中国製AIモデル「LongCat-2.0」が登場",
+    "link": "https://gigazine.net/news/20260701-longcat-2-0/",
+    "published": "Wed, 01 Jul 2026 13:25:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIがCodex用の新ハードウェアを予告",
+    "link": "https://gigazine.net/news/20260701-openai-codex-hardware/",
+    "published": "Wed, 01 Jul 2026 12:58:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicが科学者向けAIアプリ「Claude Science」を公開、文献調査や図表作成を単一アプリで実行可能",
+    "link": "https://gigazine.net/news/20260701-anthropic-claude-science/",
+    "published": "Wed, 01 Jul 2026 12:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+    "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "published": "Wed, 01 Jul 2026 14:25:23 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+    "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "published": "Wed, 01 Jul 2026 14:20:19 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+    "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+    "published": "Wed, 01 Jul 2026 13:43:07 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由",
+    "link": "https://zenn.dev/canly/articles/428767121d7dc2",
+    "published": "Wed, 01 Jul 2026 04:18:01 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "投機的デコーディングによる推論高速化（Eagle3・DFlash・DSpark）",
+    "link": "https://zenn.dev/syurenuko/articles/b31d9d63035c9c",
+    "published": "Wed, 01 Jul 2026 04:09:25 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Data + AI Summit 2026 現地参加レポート：データ基盤は「AIがビジネスで意思決定する基盤」へ",
+    "link": "https://zenn.dev/ivry/articles/dais-2026-report",
+    "published": "Wed, 01 Jul 2026 02:37:14 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "C#のDisposeを深掘りする：GC、finalizer、UnityEngine.Objectの破棄を整理する",
+    "link": "https://zenn.dev/gamedev_toollab/articles/4fceb9127d8085",
+    "published": "Wed, 01 Jul 2026 01:00:10 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "優秀な人ばかりなのに、組織が重い ── AI時代に複利で膨らむ『認識負債』の話",
+    "link": "https://zenn.dev/canly/articles/0c01a3124b8480",
+    "published": "Tue, 30 Jun 2026 23:00:12 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "SIGNATE: 木材の含水率を予測するだけ、のはずだったのに未知樹種汎化で考えすぎた件",
+    "link": "https://zenn.dev/mantis_ryuji/articles/e17b4d223cd7da",
+    "published": "Tue, 30 Jun 2026 21:47:55 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "claude -p を分類器として使って、ファイルを中身で自動整理するツールを作った話",
+    "link": "https://zenn.dev/xtone/articles/copper-golem-claude-p",
+    "published": "Tue, 30 Jun 2026 17:59:04 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Railsの設計パターンと責務分離18選｜AI時代に見直すFat Controller / Fat Model対策",
+    "link": "https://zenn.dev/wwwave/articles/a9a8b38dc2cdb7",
+    "published": "Tue, 30 Jun 2026 11:56:31 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-01 14:49:59",
+    "ai_summary": null
+  },
+  {
     "title": "キーボード入力時の脳の動きから打った文章を割り出す技術、Metaが発表　手術不要、“埋め込み式”に迫る",
     "link": "https://www.itmedia.co.jp/news/articles/2607/01/news063.html",
     "published": "Wed, 01 Jul 2026 11:05:00 +0900",
