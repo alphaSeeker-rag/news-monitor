@@ -1,5 +1,126 @@
 [
   {
+    "title": "Googleの「Gemini Spark」がmacOSに対応──Canvaなど外部アプリとの連携も",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/02/news058.html",
+    "published": "Thu, 02 Jul 2026 09:13:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-02 02:54:47",
+    "ai_summary": null
+  },
+  {
+    "title": "「インターネットの父」ヴィント・サーフ氏、Googleを退任へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/02/news057.html",
+    "published": "Thu, 02 Jul 2026 08:16:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-02 02:54:47",
+    "ai_summary": null
+  },
+  {
+    "title": "AIに「相手に電気ショックを与えろ」と命じ続けたらボタンを押すのか？　11のLLMで“ミルグラム実験”　抵抗できたのは……",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/02/news029.html",
+    "published": "Thu, 02 Jul 2026 08:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-02 02:54:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicの営業はAIエージェントをこう使う！　日本法人メンバーが明かす手の内",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/02/news017.html",
+    "published": "Thu, 02 Jul 2026 07:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-02 02:54:47",
+    "ai_summary": null
+  },
+  {
+    "title": "xAIが「人間の声をクローンしたAIコールセンター」をノーコードで作成できる「Voice Agent Builder」をリリース",
+    "link": "https://gigazine.net/news/20260702-xai-voice-agent-builder/",
+    "published": "Thu, 02 Jul 2026 10:46:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-02 02:54:47",
+    "ai_summary": null
+  },
+  {
+    "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+    "link": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
+    "published": "Wed, 01 Jul 2026 22:28:35 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 02:54:48",
+    "ai_summary": null
+  },
+  {
+    "title": "WSL Containersに触れてみた",
+    "link": "https://zenn.dev/user_thebigslee/articles/wsl-container-trial",
+    "published": "Wed, 01 Jul 2026 03:08:24 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-02 02:54:48",
+    "ai_summary": null
+  },
+  {
+    "title": "モデルは“使い捨て”でいい 〜AI時代のモデルベースドテスト〜",
+    "link": "https://zenn.dev/edash_tech_blog/articles/ea57d16a4a9a97",
+    "published": "Wed, 01 Jul 2026 03:00:19 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-02 02:54:48",
+    "ai_summary": null
+  },
+  {
+    "title": "最近リブランディングされた Gemini Enterprise Agent Platform はもう触った？",
+    "link": "https://zenn.dev/gixo/articles/e61553d1df1a93",
+    "published": "Wed, 01 Jul 2026 02:03:15 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-02 02:54:48",
+    "ai_summary": null
+  },
+  {
+    "title": "国際音声AIコンペ総合第1位：URGENT Challenge優勝モデルの技術解説",
+    "link": "https://zenn.dev/softbank/articles/bf95e2e274cf97",
+    "published": "Wed, 01 Jul 2026 00:20:58 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-02 02:54:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Goで表現する構造的並行処理",
+    "link": "https://zenn.dev/yuta_kakiki/articles/b9a4f34739ddb4",
+    "published": "Tue, 30 Jun 2026 23:11:20 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-02 02:54:48",
+    "ai_summary": null
+  },
+  {
     "title": "きょう日印首脳会談 経済安保など協力進展図る 成果文書も調整",
     "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166401000.html",
     "published": "Thu, 02 Jul 2026 05:33:10 +0900",
