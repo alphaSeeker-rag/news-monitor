@@ -1,5 +1,225 @@
 [
   {
+    "title": "キャンメイクの“高クオリティ”「AI社員」、SNSで評価割れる「実物に近づけたAIと実物の写真は違う」",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/02/news094.html",
+    "published": "Thu, 02 Jul 2026 16:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-02 14:18:59",
+    "ai_summary": null
+  },
+  {
+    "title": "復活した「Fable 5」　米政府からのオーダーに対して、Anthropicはどう対策したのか",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
+    "published": "Thu, 02 Jul 2026 16:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-02 14:18:59",
+    "ai_summary": null
+  },
+  {
+    "title": "GLM-5.2の開発元による中国製AIエージェントアプリ「ZCode」、AnthropicやOpenAIのAIモデルも活用可能",
+    "link": "https://gigazine.net/news/20260702-zcode-ai-agent/",
+    "published": "Thu, 02 Jul 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "オープンソースのゲームエンジン「Godot」がAI製コードを今後受け付けないことを決定、AIを多用するユーザーが自分のコードを十分に理解して修正できるとは限らないため",
+    "link": "https://gigazine.net/news/20260702-godot-ban-ai/",
+    "published": "Thu, 02 Jul 2026 20:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "GitHub CopilotがVS Code内でブラウザ操作に対応、AIエージェントがウェブアプリを開いて検証可能に",
+    "link": "https://gigazine.net/news/20260702-github-copilot-browser-use/",
+    "published": "Thu, 02 Jul 2026 16:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "CloudflareがAIボットを「検索」「代理操作」「学習」など種類ごとに制御する仕組みを公開、無料プランでも「検索は許可、AI学習は拒否」を設定可能",
+    "link": "https://gigazine.net/news/20260702-cloudflare-ai-traffic-option/",
+    "published": "Thu, 02 Jul 2026 14:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "中国のロボットメーカーUBTechがリアルなシリコン製の皮膚と感情AIを備えた人型ロボット「UWorld U1」シリーズを発表、実在する人物の声も再現可能",
+    "link": "https://gigazine.net/news/20260702-ubtech-uworld-u1/",
+    "published": "Thu, 02 Jul 2026 13:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "「Appleでサインイン」時に使える「メールを非公開」機能にメールアドレスが漏れてしまう脆弱性あり",
+    "link": "https://gigazine.net/news/20260702-apple-hide-my-email-vulnerability/",
+    "published": "Thu, 02 Jul 2026 12:25:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "RAM不足の悪化によりPlayStation 6の価格が現行機の倍以上に迫るとの指摘",
+    "link": "https://gigazine.net/news/20260702-ps6-ram-shortage/",
+    "published": "Thu, 02 Jul 2026 12:21:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Metaのスマートグラスは月額課金の「Meta One Premium」に加入しないと利用が制限される",
+    "link": "https://gigazine.net/news/20260702-meta-ai-glass/",
+    "published": "Thu, 02 Jul 2026 12:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "AIがウェブサイトに訪問するたびに課金できるシステム「Monetization Gateway」をCloudflareが発表",
+    "link": "https://gigazine.net/news/20260702-cloudflare-monetization-gateway/",
+    "published": "Thu, 02 Jul 2026 12:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "MetaがAWS・Azure・Google Cloudに対抗するためAIコンピューティングとAIモデルへのアクセスを販売するクラウドインフラストラクチャ事業を計画中との報道",
+    "link": "https://gigazine.net/news/20260702-meta-planning-cloud-business/",
+    "published": "Thu, 02 Jul 2026 11:59:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "「iPhoneより薄いスマホ風AIデバイスをSpaceXが開発中」と報じられるもイーロン・マスクが即否定",
+    "link": "https://gigazine.net/news/20260702-spacex-hardware-prototype-denies/",
+    "published": "Thu, 02 Jul 2026 11:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "published": "Thu, 02 Jul 2026 13:53:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Rivian raises EV sales forecast as Q2 production ramps up",
+    "link": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
+    "published": "Thu, 02 Jul 2026 12:30:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+    "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+    "published": "Thu, 02 Jul 2026 05:30:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Syncthingでサーバー上のフォルダをローカルPCと同期する",
+    "link": "https://zenn.dev/karaage0703/articles/907b11839dff2d",
+    "published": "Wed, 01 Jul 2026 15:04:25 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "AI時代のチーム開発フローは「小さく安全に流し続ける」こと",
+    "link": "https://zenn.dev/nocall/articles/3f0fcbbed6348c",
+    "published": "Wed, 01 Jul 2026 14:02:51 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "プログラマーのためのブックマーク整理術",
+    "link": "https://zenn.dev/k_tabuchi/articles/bef3713e4ffb58",
+    "published": "Wed, 01 Jul 2026 11:08:38 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
+    "title": "動画編集ソフト「AviQtl」の創り方",
+    "link": "https://zenn.dev/taisho_guy/articles/2fa8e91a6c0a07",
+    "published": "Wed, 01 Jul 2026 07:20:10 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-02 14:19:00",
+    "ai_summary": null
+  },
+  {
     "title": "Googleの「Gemini Spark」がmacOSに対応──Canvaなど外部アプリとの連携も",
     "link": "https://www.itmedia.co.jp/news/articles/2607/02/news058.html",
     "published": "Thu, 02 Jul 2026 09:13:00 +0900",
