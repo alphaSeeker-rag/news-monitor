@@ -1,5 +1,181 @@
 [
   {
+    "title": "“開かずの基幹システム”、450人月→実質2カ月で解読　創業100年のカクヤス、生成AIで挑む「転生」",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
+    "published": "Fri, 03 Jul 2026 06:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft、AI導入支援組織「Microsoft Frontier Company」設立　6000人体制で顧客企業を支援",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/03/news067.html",
+    "published": "Fri, 03 Jul 2026 06:37:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Qualcomm製IoT機器向けLinuxが2.0に進化、AIカメラから産業用PCまで1つの基盤で開発可能に",
+    "link": "https://gigazine.net/news/20260703-qualcomm-linux-2-0/",
+    "published": "Fri, 03 Jul 2026 07:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "国際宇宙ステーションの空気漏れで宇宙飛行士5人が一時退避、老朽化が進む中でいつまで使い続けられるのか？",
+    "link": "https://gigazine.net/news/20260703-iss-air-leak-habitable/",
+    "published": "Fri, 03 Jul 2026 06:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+    "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+    "published": "Thu, 02 Jul 2026 21:57:10 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
+    "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+    "published": "Thu, 02 Jul 2026 20:42:48 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+    "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "published": "Thu, 02 Jul 2026 20:11:59 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
+    "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+    "published": "Thu, 02 Jul 2026 19:14:46 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "published": "Thu, 02 Jul 2026 18:44:02 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
+    "link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
+    "published": "Thu, 02 Jul 2026 18:39:14 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic is discussing a new custom chip with Samsung",
+    "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "published": "Thu, 02 Jul 2026 18:31:09 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
+    "link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
+    "published": "Thu, 02 Jul 2026 17:30:04 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
+    "link": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
+    "published": "Thu, 02 Jul 2026 15:26:43 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "published": "Thu, 02 Jul 2026 15:20:51 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
+    "link": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
+    "published": "Thu, 02 Jul 2026 15:14:03 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "US government says it got hacked — again",
+    "link": "https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/",
+    "published": "Thu, 02 Jul 2026 14:22:36 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-02 22:07:20",
+    "ai_summary": null
+  },
+  {
     "title": "キャンメイクの“高クオリティ”「AI社員」、SNSで評価割れる「実物に近づけたAIと実物の写真は違う」",
     "link": "https://www.itmedia.co.jp/news/articles/2607/02/news094.html",
     "published": "Thu, 02 Jul 2026 16:55:00 +0900",
