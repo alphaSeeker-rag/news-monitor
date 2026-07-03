@@ -1,5 +1,115 @@
 [
   {
+    "title": "Cloudflare、AIクローラー制御を全顧客に開放──「検索」「エージェント」「学習」の3分類で管理可能に",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/03/news087.html",
+    "published": "Fri, 03 Jul 2026 10:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-03 02:37:56",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIA、AIインフラ調達の新ビジネスモデル発表　収益分配で新興企業を支援",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/03/news077.html",
+    "published": "Fri, 03 Jul 2026 09:39:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-03 02:37:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Micron Technology、「Trump Accounts」に2億5000万ドル拠出",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/03/news069.html",
+    "published": "Fri, 03 Jul 2026 07:22:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-03 02:37:56",
+    "ai_summary": null
+  },
+  {
+    "title": "AnthropicがSamsungと独自のAIカスタムチップ開発について協議しているという報道",
+    "link": "https://gigazine.net/news/20260703-anthropic-samsung-ai-chip/",
+    "published": "Fri, 03 Jul 2026 11:16:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-03 02:37:58",
+    "ai_summary": null
+  },
+  {
+    "title": "MetaがAIで触って遊べるインタラクティブアイテムを作成・共有・発見できるソーシャルアプリの「Pocket」をリリース",
+    "link": "https://gigazine.net/news/20260703-meta-pocket/",
+    "published": "Fri, 03 Jul 2026 11:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-03 02:37:58",
+    "ai_summary": null
+  },
+  {
+    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+    "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "published": "Thu, 02 Jul 2026 23:38:10 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-03 02:37:58",
+    "ai_summary": null
+  },
+  {
+    "title": "MoonBit を高速化する",
+    "link": "https://zenn.dev/mizchi/articles/optimize-moonbit-core",
+    "published": "Thu, 02 Jul 2026 11:13:44 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-03 02:37:58",
+    "ai_summary": null
+  },
+  {
+    "title": "Claudian Orchestra：ObsidianとAIエージェントで作るAI時代のタスク管理（続）",
+    "link": "https://zenn.dev/mkj/articles/claudian-orchestra_20260616",
+    "published": "Thu, 02 Jul 2026 08:00:09 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-03 02:37:58",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェント時代のターミナルマルチプレクサ「herdr」にtmuxから乗り換えた",
+    "link": "https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer",
+    "published": "Thu, 02 Jul 2026 06:52:46 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-03 02:37:58",
+    "ai_summary": null
+  },
+  {
+    "title": "AIが自走できるかは設計で決まる ― 良いコードを残し、悪いコードを入れさせない",
+    "link": "https://zenn.dev/sunagaku/articles/ai-autonomous-development-design",
+    "published": "Thu, 02 Jul 2026 03:32:08 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-03 02:37:58",
+    "ai_summary": null
+  },
+  {
     "title": "“開かずの基幹システム”、450人月→実質2カ月で解読　創業100年のカクヤス、生成AIで挑む「転生」",
     "link": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
     "published": "Fri, 03 Jul 2026 06:45:00 +0900",
