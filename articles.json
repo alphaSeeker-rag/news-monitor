@@ -1,5 +1,159 @@
 [
   {
+    "title": "3万円で「Yahoo!ニュース」にPR掲載　プレスリリースをAIで「ニュース風記事」に",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/03/news116.html",
+    "published": "Fri, 03 Jul 2026 15:44:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-03 14:23:27",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic、Samsungと独自AIチップで協議か　報道受けNVIDIAなど半導体関連株が下落",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/03/news101.html",
+    "published": "Fri, 03 Jul 2026 13:36:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-03 14:23:27",
+    "ai_summary": null
+  },
+  {
+    "title": "「国家安全保障にまつわる機密情報が悪用される懸念」からスペイン政府がデータ分析大手のPalantir Technologiesをブラックリストに登録",
+    "link": "https://gigazine.net/news/20260703-spain-orders-blacklist-us-tech-giant-palantir/",
+    "published": "Fri, 03 Jul 2026 22:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-03 14:23:27",
+    "ai_summary": null
+  },
+  {
+    "title": "2026年7月3日のヘッドラインニュース",
+    "link": "https://gigazine.net/news/20260703-headline/",
+    "published": "Fri, 03 Jul 2026 18:51:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-03 14:23:27",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントでSafariを自動操作してテストやデバッグを実行できる「Safari MCP server」が登場",
+    "link": "https://gigazine.net/news/20260703-safari-mcp-server/",
+    "published": "Fri, 03 Jul 2026 17:56:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-03 14:23:27",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicとアメリカ政府の関係悪化の経緯が裁判で提出されたメールによって明らかに、ダリオ・アモデイCEOと国防総省幹部のメール内容が公開される",
+    "link": "https://gigazine.net/news/20260703-anthropic-pentagon-email/",
+    "published": "Fri, 03 Jul 2026 16:02:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-03 14:23:27",
+    "ai_summary": null
+  },
+  {
+    "title": "AIによる創作ではキャラクターが単調になりがちという研究結果、AIは「曖昧さ」を残すことが苦手な可能性",
+    "link": "https://gigazine.net/news/20260703-ai-story-characters/",
+    "published": "Fri, 03 Jul 2026 16:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-03 14:23:27",
+    "ai_summary": null
+  },
+  {
+    "title": "史上初の「エージェント型ランサムウェア」感染事例の報告",
+    "link": "https://gigazine.net/news/20260703-ai-agent-ransomware/",
+    "published": "Fri, 03 Jul 2026 14:46:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-03 14:23:27",
+    "ai_summary": null
+  },
+  {
+    "title": "「折りたたみiPhone」が折りたたみスマホの平均価格を18％上げるとの予測",
+    "link": "https://gigazine.net/news/20260703-iphone-fold-raise-average-foldable-phone-prices/",
+    "published": "Fri, 03 Jul 2026 12:52:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-03 14:23:27",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIがアメリカ政府に株式の5％譲渡を計画中との報道、アメリカ政府はGPT-5.6の一般公開を規制中",
+    "link": "https://gigazine.net/news/20260703-openai-stock-government/",
+    "published": "Fri, 03 Jul 2026 12:31:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-03 14:23:27",
+    "ai_summary": null
+  },
+  {
+    "title": "テスラが従業員によるAIツール使用に週200ドルの制限を設定",
+    "link": "https://gigazine.net/news/20260703-tesla-ai-tool-weekly-cap/",
+    "published": "Fri, 03 Jul 2026 11:54:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-03 14:23:27",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIエージェントの進歩は期待していたほど速くなかった」とMetaのマーク・ザッカーバーグCEOが語る",
+    "link": "https://gigazine.net/news/20260703-meta-zuckerberg-ai-agent-tech-progressing-slower/",
+    "published": "Fri, 03 Jul 2026 11:43:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-03 14:23:27",
+    "ai_summary": null
+  },
+  {
+    "title": "アメリカ製オープンモデル「Laguna XS 2.1」が登場、ローカルで動作し一部のテストでClaude Haiku 4.5を上回る",
+    "link": "https://gigazine.net/news/20260703-laguna-xs-2-1/",
+    "published": "Fri, 03 Jul 2026 11:43:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-03 14:23:27",
+    "ai_summary": null
+  },
+  {
+    "title": "AgentCore で Agent をプロダクション利用する際の実装ノウハウ (AWS Summit Japan 2026)",
+    "link": "https://zenn.dev/aws_japan/articles/006-aws-specialist-agent",
+    "published": "Thu, 02 Jul 2026 22:21:57 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-03 14:23:27",
+    "ai_summary": null
+  },
+  {
     "title": "Cloudflare、AIクローラー制御を全顧客に開放──「検索」「エージェント」「学習」の3分類で管理可能に",
     "link": "https://www.itmedia.co.jp/news/articles/2607/03/news087.html",
     "published": "Fri, 03 Jul 2026 10:55:00 +0900",
