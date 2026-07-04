@@ -1,5 +1,27 @@
 [
   {
+    "title": "空を埋め尽くす配送ドローンや空飛ぶタクシーが故障したらどうなるのか？",
+    "link": "https://gigazine.net/news/20260704-flying-taxis-drones-crowd-fail/",
+    "published": "Sat, 04 Jul 2026 10:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-04 02:34:56",
+    "ai_summary": null
+  },
+  {
+    "title": "Generative UIとそれを実現するOpenUIのイメージを掴む！",
+    "link": "https://zenn.dev/peishim/articles/37ff4d894f8fbc",
+    "published": "Fri, 03 Jul 2026 11:30:29 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-04 02:34:57",
+    "ai_summary": null
+  },
+  {
     "title": "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
     "link": "https://zenn.dev/rapls/articles/7a1bac83df8b21",
     "published": "Thu, 02 Jul 2026 00:52:43 GMT",
