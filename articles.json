@@ -1,5 +1,61 @@
 [
   {
+    "title": "鹿島・桐生新社長　AIに注力しつつ「最後は人」　人手不足どう対応",
+    "link": "http://www.asahi.com/articles/ASV722BYHV72ULFA00ZM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-07-04 13:48:15",
+    "ai_summary": null
+  },
+  {
+    "title": "ディスプレイなしのGoogle製フィットネストラッカー「Google Fitbit Air」を使ってみた",
+    "link": "https://gigazine.net/news/20260704-google-fitbit/",
+    "published": "Sat, 04 Jul 2026 16:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-04 13:48:16",
+    "ai_summary": null
+  },
+  {
+    "title": "カメラ付きAirPodsの登場を示唆するコードがiOS 27開発者向けベータ版の中で見つかる",
+    "link": "https://gigazine.net/news/20260704-ios-27-developer-beta-code-hints-airpods-cameras/",
+    "published": "Sat, 04 Jul 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-04 13:48:16",
+    "ai_summary": null
+  },
+  {
+    "title": "C++の謎めいたHello WorldをPythonで再実装して理解を深めよう",
+    "link": "https://zenn.dev/sirasagi62/articles/59db634940ba80",
+    "published": "Fri, 03 Jul 2026 12:26:37 GMT",
+    "keywords": [
+      "AI",
+      "Python"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-04 13:48:16",
+    "ai_summary": null
+  },
+  {
+    "title": "とある部長のObsidian",
+    "link": "https://zenn.dev/canly/articles/173479ac3e9824",
+    "published": "Fri, 03 Jul 2026 06:28:32 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-04 13:48:16",
+    "ai_summary": null
+  },
+  {
     "title": "空を埋め尽くす配送ドローンや空飛ぶタクシーが故障したらどうなるのか？",
     "link": "https://gigazine.net/news/20260704-flying-taxis-drones-crowd-fail/",
     "published": "Sat, 04 Jul 2026 10:00:00 +0900",
