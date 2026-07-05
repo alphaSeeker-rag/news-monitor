@@ -1,5 +1,16 @@
 [
   {
+    "title": ".env に API キーを書きたくないので 軽いCLI を作った",
+    "link": "https://zenn.dev/trknhr/articles/42c20e11812217",
+    "published": "Fri, 03 Jul 2026 08:25:45 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-05 02:45:12",
+    "ai_summary": null
+  },
+  {
     "title": "アリババが従業員のClaude Code使用を禁止、セキュリティリスクの懸念のため",
     "link": "https://gigazine.net/news/20260704-alibaba-bans-claude-code/",
     "published": "Sat, 04 Jul 2026 23:35:00 +0900",
