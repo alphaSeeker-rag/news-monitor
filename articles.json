@@ -1,5 +1,82 @@
 [
   {
+    "title": "人の心を読めるAI開発へ　国が脳科学に本腰、安全保障・倫理に課題",
+    "link": "http://www.asahi.com/articles/ASV733CPRV73UTFL00HM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-07-05 13:54:34",
+    "ai_summary": null
+  },
+  {
+    "title": "銀行の窓口係を減らしたのはATMではなくiPhoneだったという指摘",
+    "link": "https://gigazine.net/news/20260705-atm-iphone-bank-tellers/",
+    "published": "Sun, 05 Jul 2026 22:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-05 13:54:35",
+    "ai_summary": null
+  },
+  {
+    "title": "無料でスマホ・デスクトップPC・ターミナルからありとあらゆるコーディングAIエージェントを一気にまとめて管理しコントロールする「Paseo」、セルフホスト可能でオープンソース",
+    "link": "https://gigazine.net/news/20260705-paseo/",
+    "published": "Sun, 05 Jul 2026 18:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-05 13:54:35",
+    "ai_summary": null
+  },
+  {
+    "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
+    "link": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+    "published": "Sun, 05 Jul 2026 13:33:32 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-05 13:54:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+    "link": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+    "published": "Sun, 05 Jul 2026 12:47:39 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-05 13:54:35",
+    "ai_summary": null
+  },
+  {
+    "title": "AIに外部脳を持たせて1ヶ月運用した全記録",
+    "link": "https://zenn.dev/nobu666/articles/ai-external-brain-digest",
+    "published": "Sat, 04 Jul 2026 14:55:45 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-05 13:54:35",
+    "ai_summary": null
+  },
+  {
+    "title": "コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった",
+    "link": "https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories",
+    "published": "Sat, 04 Jul 2026 09:57:02 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-05 13:54:35",
+    "ai_summary": null
+  },
+  {
     "title": ".env に API キーを書きたくないので 軽いCLI を作った",
     "link": "https://zenn.dev/trknhr/articles/42c20e11812217",
     "published": "Fri, 03 Jul 2026 08:25:45 GMT",
