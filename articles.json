@@ -1,5 +1,238 @@
 [
   {
+    "title": "会話できる探査機、JAXAが開発へ　SF映画のような「人と対話しながらミッションに挑む」実現",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/06/news130.html",
+    "published": "Mon, 06 Jul 2026 20:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "Sakana AI、敬語もネットスラングも“温度感そのまま”で訳す無料翻訳機能「Sakana Translate」　日英中に対応",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/06/news089.html",
+    "published": "Mon, 06 Jul 2026 13:59:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "「ChatGPTで不正プログラム自作」　バンダイチャンネル4万6800人を勝手に退会させた疑い、15歳を再逮捕　報道",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/06/news075.html",
+    "published": "Mon, 06 Jul 2026 12:18:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "Metaの新AI「Watermelon」はOpenAIのGPT-5.5に匹敵する性能で近日登場",
+    "link": "https://gigazine.net/news/20260706-meta-watermelon/",
+    "published": "Mon, 06 Jul 2026 22:25:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "YouTube StudioのAI機能で非公開動画の情報が漏れる可能性が指摘される",
+    "link": "https://gigazine.net/news/20260706-youtube-ask-studio-leak/",
+    "published": "Mon, 06 Jul 2026 22:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントは通常の生成AIよりも最大136倍エネルギーを消費する",
+    "link": "https://gigazine.net/news/20260706-ai-agents-consume/",
+    "published": "Mon, 06 Jul 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "富裕層の中には「AIに子どもの教育を任せる人」もいる",
+    "link": "https://gigazine.net/news/20260706-rich-let-ai-teach-kids/",
+    "published": "Mon, 06 Jul 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "かつて成功したブログ100個のうち約半数はGoogleのAI導入などで検索トラフィックの85％以上を失った",
+    "link": "https://gigazine.net/news/20260706-great-blog-collapse-google-ai/",
+    "published": "Mon, 06 Jul 2026 17:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "TripadvisorのAIレビュー要約が「不潔」「食中毒」の訴えを見落としてホテルを「清潔」と称賛していたことが判明",
+    "link": "https://gigazine.net/news/20260706-tripadvisor-misleading-ai-review-summary/",
+    "published": "Mon, 06 Jul 2026 16:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "個人開発者がClaude Fableを使って「Command ＆ Conquer Generals Zero Hour」をMac・iPhone・iPadに移植しオープンソースで無料公開",
+    "link": "https://gigazine.net/news/20260706-command-and-conquer-zero-hour-apple/",
+    "published": "Mon, 06 Jul 2026 15:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "CIA長官が高度なAIを核兵器と同等のレベルに位置づける",
+    "link": "https://gigazine.net/news/20260706-cia-boss-compare-ai-nuclear/",
+    "published": "Mon, 06 Jul 2026 13:42:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "中国のAIアプリから「人間っぽい相棒」が消える、ByteDanceとAlibabaが規制対応で機能停止へ",
+    "link": "https://gigazine.net/news/20260706-disable-custom-agents/",
+    "published": "Mon, 06 Jul 2026 13:40:00 +0900",
+    "keywords": [
+      "AI",
+      "人工知能"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが巨大データセンター建設計画「Stargate UK」で現地を一切視察していないことが明らかに",
+    "link": "https://gigazine.net/news/20260706-openai-data-center-stargate-uk/",
+    "published": "Mon, 06 Jul 2026 13:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "人間が宇宙人と接触していないのは「宇宙人がAIを導入したから」ではないかという説",
+    "link": "https://gigazine.net/news/20260706-superintelligent-ai-explain-fermi-paradox/",
+    "published": "Mon, 06 Jul 2026 12:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+    "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+    "published": "Mon, 06 Jul 2026 15:32:43 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+    "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+    "published": "Mon, 06 Jul 2026 15:22:08 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+    "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+    "published": "Mon, 06 Jul 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+    "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+    "published": "Mon, 06 Jul 2026 09:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "スマートグラス「Even G2」でAIコーディングツールを使う方法",
+    "link": "https://zenn.dev/karaage0703/articles/2d61434fceb867",
+    "published": "Sun, 05 Jul 2026 15:18:48 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "Codexに丸投げで高速縦型リリックビデオを作ってみた",
+    "link": "https://zenn.dev/kairininja/articles/zenn-codex-vertical-mv-quality-gate",
+    "published": "Sun, 05 Jul 2026 15:09:23 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
+    "title": "AIコーディング時代の生き抜き方",
+    "link": "https://zenn.dev/garasubo/articles/9b9548ebab5a67",
+    "published": "Sun, 05 Jul 2026 12:35:49 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-06 15:48:12",
+    "ai_summary": null
+  },
+  {
     "title": "サイバー攻撃で4万人余を勝手に退会させたか 高校生を逮捕",
     "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169691000.html",
     "published": "Mon, 06 Jul 2026 10:46:10 +0900",
