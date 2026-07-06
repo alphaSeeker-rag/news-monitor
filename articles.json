@@ -1,5 +1,104 @@
 [
   {
+    "title": "サイバー攻撃で4万人余を勝手に退会させたか 高校生を逮捕",
+    "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169691000.html",
+    "published": "Mon, 06 Jul 2026 10:46:10 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-07-06 02:51:15",
+    "ai_summary": null
+  },
+  {
+    "title": "AIサーバで稼ぐシャープ　2030年度の新規事業売上高の8割強目指す　鴻海と連携",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/06/news060.html",
+    "published": "Mon, 06 Jul 2026 10:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-06 02:51:16",
+    "ai_summary": null
+  },
+  {
+    "title": "AIの軍事利用「人間が判断の責任」　防衛大手CEOにインタビュー",
+    "link": "http://www.asahi.com/articles/ASV734D80V73UHBI01CM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-07-06 02:51:16",
+    "ai_summary": null
+  },
+  {
+    "title": "ジム・ケラーの半導体製造スタートアップ企業「Fab2」が小型半導体ファブを大量生産するための工場を建設中",
+    "link": "https://gigazine.net/news/20260706-jim-keller-fab-2/",
+    "published": "Mon, 06 Jul 2026 11:44:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 02:51:16",
+    "ai_summary": null
+  },
+  {
+    "title": "メモリ企業が「家電製品の税控除」や「政府による選択的な市場介入の防止」を目指してロビー活動を展開",
+    "link": "https://gigazine.net/news/20260706-memory-chip-supply-lobbying/",
+    "published": "Mon, 06 Jul 2026 11:42:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 02:51:16",
+    "ai_summary": null
+  },
+  {
+    "title": "インドの裁判所が偽サイト対策のためWHOISのプライバシー保護を制限する動き、大手レジストラが反発",
+    "link": "https://gigazine.net/news/20260706-domain-india-privacy/",
+    "published": "Mon, 06 Jul 2026 11:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 02:51:16",
+    "ai_summary": null
+  },
+  {
+    "title": "画像生成AIを開発するMidjourneyが係争中のハリウッドの映画スタジオに対してAIの利用状況の詳細を明らかにするよう要求",
+    "link": "https://gigazine.net/news/20260706-midjourney-hollywood-studios-ai-usage/",
+    "published": "Mon, 06 Jul 2026 11:08:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 02:51:16",
+    "ai_summary": null
+  },
+  {
+    "title": "折りたたみiPhoneは発売当初入手困難で出荷も若干遅れる可能性があるとの報道",
+    "link": "https://gigazine.net/news/20260706-iphone-fold-incredibly-limited-availability-launch/",
+    "published": "Mon, 06 Jul 2026 10:47:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 02:51:16",
+    "ai_summary": null
+  },
+  {
+    "title": "JavaScriptのメソッドチェインが遅い理由",
+    "link": "https://zenn.dev/dameyodamedame/articles/0bd949354baf6e",
+    "published": "Sun, 05 Jul 2026 10:58:57 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-06 02:51:17",
+    "ai_summary": null
+  },
+  {
     "title": "AI使った弁護士資料に捏造や誤り　米名門ロースクールは利用を禁止",
     "link": "http://www.asahi.com/articles/ASV7271ZWV72UHBI00MM.html?ref=rss",
     "published": "",
