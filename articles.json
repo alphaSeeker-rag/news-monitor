@@ -1,5 +1,60 @@
 [
   {
+    "title": "ダウ平均株価が再び最高値 AI期待で半導体などに買い戻し",
+    "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170501000.html",
+    "published": "Tue, 07 Jul 2026 06:40:55 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-07-06 22:14:19",
+    "ai_summary": null
+  },
+  {
+    "title": "動画ダウンローダー「yt-dlp」のインストール手順まとめ、wingetコマンドでサクッとインストール可能",
+    "link": "https://gigazine.net/news/20260707-yt-dlp-python/",
+    "published": "Tue, 07 Jul 2026 06:00:00 +0900",
+    "keywords": [
+      "Python"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-06 22:14:20",
+    "ai_summary": null
+  },
+  {
+    "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+    "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "published": "Mon, 06 Jul 2026 19:01:59 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-06 22:14:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
+    "link": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
+    "published": "Mon, 06 Jul 2026 18:12:01 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-06 22:14:20",
+    "ai_summary": null
+  },
+  {
+    "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+    "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+    "published": "Mon, 06 Jul 2026 17:04:58 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-06 22:14:20",
+    "ai_summary": null
+  },
+  {
     "title": "会話できる探査機、JAXAが開発へ　SF映画のような「人と対話しながらミッションに挑む」実現",
     "link": "https://www.itmedia.co.jp/news/articles/2607/06/news130.html",
     "published": "Mon, 06 Jul 2026 20:45:00 +0900",
