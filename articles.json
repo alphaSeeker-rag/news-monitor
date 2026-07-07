@@ -1,5 +1,138 @@
 [
   {
+    "title": "SpaceX、xAIの正式名称を「SpaceXAI」に　新ロゴも公開",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/07/news084.html",
+    "published": "Tue, 07 Jul 2026 10:50:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-07 02:45:47",
+    "ai_summary": null
+  },
+  {
+    "title": "佃煮の日「クソダサポスター」ホントにAIに作れない？　GeminiとChatGPTに挑戦させてみた結果",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/06/news053.html",
+    "published": "Tue, 07 Jul 2026 10:00:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-07 02:45:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Broadcom、Appleとの半導体契約を2031年まで延長　複数世代のApple製品にカスタムASICを供給へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/07/news078.html",
+    "published": "Tue, 07 Jul 2026 07:46:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-07 02:45:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft、全社で約4800人を削減へ――法人向け部門とXbox部門が中心",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/07/news076.html",
+    "published": "Tue, 07 Jul 2026 07:01:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-07 02:45:47",
+    "ai_summary": null
+  },
+  {
+    "title": "xAIの名称が「SpaceXAI」に変更される",
+    "link": "https://gigazine.net/news/20260707-xai-change-spacexai/",
+    "published": "Tue, 07 Jul 2026 11:34:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-07 02:45:48",
+    "ai_summary": null
+  },
+  {
+    "title": "ボストン・ダイナミクスの人型ロボットAtlasがワールドカップデビュー",
+    "link": "https://gigazine.net/news/20260707-fifa-world-cup-2026-hyundai-atlas/",
+    "published": "Tue, 07 Jul 2026 11:28:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-07 02:45:48",
+    "ai_summary": null
+  },
+  {
+    "title": "テンセントがAIモデル「Hy3」をオープンモデルとして公開、295BでGLM-5.2やDeepSeek-V4に匹敵＆科学タスクではGPT-5.5を上回る",
+    "link": "https://gigazine.net/news/20260707-tencent-ai-hy3/",
+    "published": "Tue, 07 Jul 2026 10:51:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-07 02:45:48",
+    "ai_summary": null
+  },
+  {
+    "title": "The ‘first’ AI-run ransomware attack still needed a human",
+    "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "published": "Mon, 06 Jul 2026 23:56:14 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-07 02:45:48",
+    "ai_summary": null
+  },
+  {
+    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+    "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+    "published": "Mon, 06 Jul 2026 23:21:03 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-07 02:45:48",
+    "ai_summary": null
+  },
+  {
+    "title": "AI Agentに自由な開発環境を渡す、Proxmox+LXCで。",
+    "link": "https://zenn.dev/uzulla/articles/91272997a7c668",
+    "published": "Mon, 06 Jul 2026 11:12:08 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-07 02:45:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Unity 6時代のR3設計方針：10人規模開発で保守性を落とさない基本ルール",
+    "link": "https://zenn.dev/gamedev_toollab/articles/404e0e499954a9",
+    "published": "Mon, 06 Jul 2026 01:00:08 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-07 02:45:48",
+    "ai_summary": null
+  },
+  {
+    "title": "複数リポジトリを単一のdev containerで開発する Claude Code 環境を構築する",
+    "link": "https://zenn.dev/finatext/articles/whole-dev-container",
+    "published": "Mon, 06 Jul 2026 00:00:08 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-07 02:45:48",
+    "ai_summary": null
+  },
+  {
     "title": "ダウ平均株価が再び最高値 AI期待で半導体などに買い戻し",
     "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170501000.html",
     "published": "Tue, 07 Jul 2026 06:40:55 +0900",
