@@ -1,5 +1,225 @@
 [
   {
+    "title": "三菱UFJ半沢淳一社長「企業の資金ニーズに対応」　個人向け「エムット」でAI活用も",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/07/news149.html",
+    "published": "Tue, 07 Jul 2026 17:58:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIが引用するドメイン」不動の首位は……",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/07/news148.html",
+    "published": "Tue, 07 Jul 2026 17:32:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "「iPhone Air」が2万円引き　「プライムデー先行セール」開始、Apple製品が安い",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/07/news112.html",
+    "published": "Tue, 07 Jul 2026 12:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "AMDのAI開発キット「Ryzen AI Halo」レビューがさっそく登場、約64万円で128GBの超大容量ユニファイドメモリ＆Zen 5CPU＆Radeon 8060S GPUを搭載した強力ミニワークステーション",
+    "link": "https://gigazine.net/news/20260707-amd-ryzen-ai-halo/",
+    "published": "Tue, 07 Jul 2026 22:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "わずか5MBのAIモデルをウェブサイトに組み込んでユーザーにローカル操作させられる「ternlight」が登場、ウェブサイトにAIを活用した検索機能などを追加可能",
+    "link": "https://gigazine.net/news/20260707-ternlight-webassembly-embeddings/",
+    "published": "Tue, 07 Jul 2026 23:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "AIが指示を処理するとき「思考」に特化した「J空間」が活性化していることが判明",
+    "link": "https://gigazine.net/news/20260707-ai-j-apace/",
+    "published": "Tue, 07 Jul 2026 17:38:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "手書きの文章に返事をくれるハリー・ポッターの「トム・リドルの日記」を電子ペーパー端末とAIで再現",
+    "link": "https://gigazine.net/news/20260707-harry-potter-diary-of-tom-riddle/",
+    "published": "Tue, 07 Jul 2026 14:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "国連事務総長がAI技術開発で世界に呼びかけ、「革新的な技術」を利用できない数十億の人々に提供する必要性を強調",
+    "link": "https://gigazine.net/news/20260707-un-chief-call-ai/",
+    "published": "Tue, 07 Jul 2026 12:58:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "複数のAIモデルを一元管理できる「Otari」がMozilla.aiによって開発される",
+    "link": "https://gigazine.net/news/20260707-mozilla-ai-otari/",
+    "published": "Tue, 07 Jul 2026 12:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Sakana AIが翻訳機能「Sakana Translate」をリリース、日英中の双方向翻訳に対応＆カジュアル・簡潔・大阪弁などに変換可能",
+    "link": "https://gigazine.net/news/20260707-sakana-translate/",
+    "published": "Tue, 07 Jul 2026 12:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "MSIが中国製DDR5メモリ向けのベータ版BIOSをリリースしDDR5-8200での動作が可能に、CXMTがMicron・Samsung・SK hynixに代わる選択肢となるか",
+    "link": "https://gigazine.net/news/20260707-msi-cxmt-memory-bios/",
+    "published": "Tue, 07 Jul 2026 12:19:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "中国のネット小説サイトがAI小説対策を強化、読者からは「AI小説を読むのは時間の無駄」との声も",
+    "link": "https://gigazine.net/news/20260707-china-ai-web-novels/",
+    "published": "Tue, 07 Jul 2026 12:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+    "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+    "published": "Tue, 07 Jul 2026 14:35:42 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "This startup pits dealerships against each other to bid on your used car",
+    "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
+    "published": "Tue, 07 Jul 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+    "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+    "published": "Tue, 07 Jul 2026 12:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+    "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+    "published": "Tue, 07 Jul 2026 09:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-07 14:51:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+    "link": "https://zenn.dev/knowledgesense/articles/283244af941a2d",
+    "published": "Tue, 07 Jul 2026 01:00:08 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-07 14:51:38",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントの決済履歴は「戦略ログ」になる ─ 誰が誰に払ったかを隠す private x402 \"SubEtha\"を作った",
+    "link": "https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78",
+    "published": "Tue, 07 Jul 2026 00:00:07 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-07 14:51:38",
+    "ai_summary": null
+  },
+  {
+    "title": "AI時代のObservability設計 - アプリケーション / インフラ / CI / LLMすべてを監視する（設計編）",
+    "link": "https://zenn.dev/aircloset/articles/d4c32cff8cb230",
+    "published": "Mon, 06 Jul 2026 23:44:32 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-07 14:51:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Git 感覚で AWS / Google Cloud / Azure のシークレットを管理できる CLI/GUI ツール「suve」を作った",
+    "link": "https://zenn.dev/yumemi_inc/articles/suve-git-like-secret-management",
+    "published": "Mon, 06 Jul 2026 21:38:15 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-07 14:51:38",
+    "ai_summary": null
+  },
+  {
     "title": "SpaceX、xAIの正式名称を「SpaceXAI」に　新ロゴも公開",
     "link": "https://www.itmedia.co.jp/news/articles/2607/07/news084.html",
     "published": "Tue, 07 Jul 2026 10:50:00 +0900",
