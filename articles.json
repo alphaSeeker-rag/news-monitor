@@ -1,5 +1,258 @@
 [
   {
+    "title": "小中学校の情報分野の新たな学び 再来年以降前倒し実施へ",
+    "link": "http://www3.nhk.or.jp/news/html/20260708/k10015172101000.html",
+    "published": "Wed, 08 Jul 2026 21:02:09 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-07-08 14:29:46",
+    "ai_summary": null
+  },
+  {
+    "title": "小中で「情報」新設、先行実施へ　AI発達にらむ　次期学習指導要領、授業時数は現行維持",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/08/news156.html",
+    "published": "Wed, 08 Jul 2026 16:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "参考資料を自ら探す画像生成AI、Metaが開発　“長考”でクオリティー向上も",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/08/news097.html",
+    "published": "Wed, 08 Jul 2026 13:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Metaの新AI「Muse Image」公開に伴う注意点　Instagram公開アカウントのコンテンツ再利用を防ぐには",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/08/news087.html",
+    "published": "Wed, 08 Jul 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "note上方修正　「AI活用、想定以上」で人件費率低下　2Q累計営業益は「20倍超」に",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/08/news082.html",
+    "published": "Wed, 08 Jul 2026 11:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "100歳超えが多い「ブルーゾーン」の人々によくみられる性格とは？",
+    "link": "https://gigazine.net/news/20260708-personality-trait-who-live-100/",
+    "published": "Wed, 08 Jul 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "「Claude Cowork」の用途はソフトウェア開発が8.7％で大半はスライド作成などの事務作業、コーディング以外にもAI利用が広がっている実態が明らかに",
+    "link": "https://gigazine.net/news/20260708-claude-cowork-using/",
+    "published": "Wed, 08 Jul 2026 18:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "AIへの画像入力は解像度を下げると逆にコストが増えることがあるという実験結果",
+    "link": "https://gigazine.net/news/20260708-llm-image-cost/",
+    "published": "Wed, 08 Jul 2026 16:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "メール・会議・Slackの内容をAIが覚えて仕事を手伝う「Rowboat」、Claude Desktop代替として何が便利なのか？",
+    "link": "https://gigazine.net/news/20260708-rowboat/",
+    "published": "Wed, 08 Jul 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIで書いたのではないか」と疑念の目を向けられた短編小説が国際文学賞の最優秀賞を受賞",
+    "link": "https://gigazine.net/news/20260708-commonwealth-prize-claims-ai-use-win/",
+    "published": "Wed, 08 Jul 2026 14:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Metaが「AIグラスを使った盗撮」の対策をアピール、撮影中は白色LEDが点灯しLEDを隠すとカメラ起動不可",
+    "link": "https://gigazine.net/news/20260708-meta-ai-glasses-capture-led/",
+    "published": "Wed, 08 Jul 2026 13:11:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "スマホからPC自動操作AI「Claude Cowork」のタスク進行状況を管理できる機能が登場",
+    "link": "https://gigazine.net/news/20260708-claude-cowork-phone/",
+    "published": "Wed, 08 Jul 2026 11:46:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoftは自社AIモデルへの依存度を高めることでAIコストの削減に取り組んでいる",
+    "link": "https://gigazine.net/news/20260708-microsoft-ai-cost-cutting-relying-more-own-models/",
+    "published": "Wed, 08 Jul 2026 11:31:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Google調査で83％の組織がAIインフラ刷新を必要視、AIエージェント時代に従来基盤の限界が浮き彫りに",
+    "link": "https://gigazine.net/news/20260708-google-state-of-ai-infrastructure/",
+    "published": "Wed, 08 Jul 2026 11:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Venus Aerospace raises $90M Series B to build a new kind of rocket engine",
+    "link": "https://techcrunch.com/2026/07/08/venus-aerospace-raises-90m-series-b-to-build-a-new-kind-of-rocket-engine/",
+    "published": "Wed, 08 Jul 2026 14:07:49 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Blue Origin reportedly raising $10B at $130B valuation",
+    "link": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
+    "published": "Wed, 08 Jul 2026 14:04:53 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+    "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+    "published": "Wed, 08 Jul 2026 12:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+    "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+    "published": "Wed, 08 Jul 2026 08:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+    "published": "Wed, 08 Jul 2026 07:16:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Unity 6時代のR3運用ルール：SubscribeAwait・EveryUpdate・禁止パターンを整理する",
+    "link": "https://zenn.dev/gamedev_toollab/articles/88cbe9d9110202",
+    "published": "Wed, 08 Jul 2026 01:00:09 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "アプリ層から低レイヤーを打ち抜く：WhatsApp GIF脆弱性(CVE-2019-11932)をGemini×Claudeで徹底検証",
+    "link": "https://zenn.dev/inlet_back/articles/2069cb693dd737",
+    "published": "Wed, 08 Jul 2026 00:00:07 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Codeに作らせたデスクトップアプリ、その後3ヶ月でどうなったか",
+    "link": "https://zenn.dev/kashioka/articles/7e02592d222990",
+    "published": "Tue, 07 Jul 2026 16:51:56 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Excel VBAの開発体験をモダン言語並みにアゲる VSCode拡張機能を作りました",
+    "link": "https://zenn.dev/harumikun/articles/05274480f07d5f",
+    "published": "Mon, 06 Jul 2026 10:00:53 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-08 14:29:47",
+    "ai_summary": null
+  },
+  {
     "title": "泥棒が次に狙っているのは銅線が豊富な「AIデータセンター」",
     "link": "https://gigazine.net/news/20260708-thieves-target-ai-data-center/",
     "published": "Wed, 08 Jul 2026 11:03:00 +0900",
