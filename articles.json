@@ -1,5 +1,116 @@
 [
   {
+    "title": "Meta、AIグラスの「盗撮改造」対策を強化──録画ランプ破壊で撮影不能に",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/09/news085.html",
+    "published": "Thu, 09 Jul 2026 11:01:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-09 02:38:06",
+    "ai_summary": null
+  },
+  {
+    "title": "Grokを使って継娘の性的な画像を大量作成した男性が自殺、被害者少女は性的被害と父親を失う二重苦で一夜にして人生が崩壊",
+    "link": "https://gigazine.net/news/20260709-grok-make-7k-sex-images-stepdaughter/",
+    "published": "Thu, 09 Jul 2026 11:37:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 02:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "動画生成AI「LTX-2.3」の開発チームがAI企業「LTX」として独立、仮想世界シミュレーションを可能とする世界モデルを開発中でオープンモデルの姿勢は維持",
+    "link": "https://gigazine.net/news/20260709-ltx-open-world-models-company/",
+    "published": "Thu, 09 Jul 2026 11:35:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 02:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "中国政府機関がClaude Codeにバックドアが含まれていると発表",
+    "link": "https://gigazine.net/news/20260709-china-cnndv-claude-code-backdoor/",
+    "published": "Thu, 09 Jul 2026 11:31:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 02:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "「Grok 4.5」が登場、Claude Opus 4.8と同等性能で料金は安価",
+    "link": "https://gigazine.net/news/20260709-grok-4-5-ai/",
+    "published": "Thu, 09 Jul 2026 11:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 02:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "ChatGPTの音声モードでより自然な会話を可能にする「GPT-Live」が登場、話を聞きながら相づちや割り込みに対応",
+    "link": "https://gigazine.net/news/20260709-openai-gpt-live/",
+    "published": "Thu, 09 Jul 2026 10:53:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 02:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Metaが常時録画機能を備えたAIグラスを開発中との報道",
+    "link": "https://gigazine.net/news/20260709-meta-develope-smart-glasses-recording-all-time/",
+    "published": "Thu, 09 Jul 2026 10:42:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 02:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "Agent Skills自動最適化の研究、中身はほぼ深層学習の訓練ループだった",
+    "link": "https://zenn.dev/layerx/articles/9f25ec86a31730",
+    "published": "Wed, 08 Jul 2026 08:00:06 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-09 02:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "個人タスク管理を「判断は人間、更新はエージェント、計算はスクリプト」で設計する",
+    "link": "https://zenn.dev/layerx/articles/797bb5b8935bf6",
+    "published": "Wed, 08 Jul 2026 02:30:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-09 02:38:07",
+    "ai_summary": null
+  },
+  {
+    "title": "VS Code DevContainer を使わなくなった私の、LLM エージェント向け開発環境",
+    "link": "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
+    "published": "Tue, 07 Jul 2026 08:00:09 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-09 02:38:07",
+    "ai_summary": null
+  },
+  {
     "title": "AI時代において「CAPTCHA」に意味はあるのか？",
     "link": "https://gigazine.net/news/20260709-ai-captcha-obsolete/",
     "published": "Thu, 09 Jul 2026 06:00:00 +0900",
