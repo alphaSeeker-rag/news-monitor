@@ -1,5 +1,225 @@
 [
   {
+    "title": "「快活CLUB」へのサイバー攻撃、18歳男を新たに逮捕　ChatGPT製プログラムを使用　グループには当時小6も　報道",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/09/news103.html",
+    "published": "Thu, 09 Jul 2026 13:44:00 +0900",
+    "keywords": [
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-09 15:24:47",
+    "ai_summary": null
+  },
+  {
+    "title": "1.2万人削減のパナソニックの反転　痛み伴う改革からの成長戦略　旗印は「松下幸之助」",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/09/news095.html",
+    "published": "Thu, 09 Jul 2026 12:12:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-09 15:24:47",
+    "ai_summary": null
+  },
+  {
+    "title": "Grok 4.5・GPT-5.5・Claude Opus 4.8／Fable 5に同じアプリを作らせてレイテンシとコストを測定した結果、勝ったAIはどれか？",
+    "link": "https://gigazine.net/news/20260709-grok-gpt-claude-build-apps/",
+    "published": "Thu, 09 Jul 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "「ロケットリーグ」で学習しプレイヤーの操作を受け付けつつリアルタイムで映像を生成するAIモデル「MIRA」",
+    "link": "https://gigazine.net/news/20260709-rocket-league-mira/",
+    "published": "Thu, 09 Jul 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "中国が国内AI企業によるNVIDIA H200の輸入を承認へ",
+    "link": "https://gigazine.net/news/20260709-china-nvidia-h200/",
+    "published": "Thu, 09 Jul 2026 16:08:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "ユニクロのAkamaiコラボTシャツに書かれたコードを解読すると何が現れるのか？",
+    "link": "https://gigazine.net/news/20260709-uniqlo-akamai-t-shirts-script/",
+    "published": "Thu, 09 Jul 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "男性より女性の収入が高い夫婦が別れやすい原因は「男性が稼ぐべき」という伝統的ジェンダー規範ではない可能性",
+    "link": "https://gigazine.net/news/20260709-relationships-fail-women-earn-more/",
+    "published": "Thu, 09 Jul 2026 14:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが「SWE-Bench Proの約30％が壊れている」と報告、AIのコーディング能力を測るベンチマークに大量の不備",
+    "link": "https://gigazine.net/news/20260709-openai-coding-evaluations/",
+    "published": "Thu, 09 Jul 2026 12:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "日常生活すら困難になる慢性疲労症候群が脳の老廃物除去システムと関連している可能性",
+    "link": "https://gigazine.net/news/20260709-chronic-fatigue-syndrome-brains-waste-clearing/",
+    "published": "Thu, 09 Jul 2026 12:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Mistral AIがロボット用ナビゲーションAI「Robostral Navigate」を発表、「ロッカーの手前で右折して」といった自然言語での指示に対応可能",
+    "link": "https://gigazine.net/news/20260709-mistral-ai-robostral/",
+    "published": "Thu, 09 Jul 2026 12:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "デスクトップにバーチャル・シンガーのMEIKOとKAITOが登場して大人の魅力を振りまくDesktop Mateの「MEIKO DLC」「KAITO DLC」レビュー",
+    "link": "https://gigazine.net/news/20260709-desktop-mate-meiko-kaito/",
+    "published": "Thu, 09 Jul 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "GitHubの公開IssueだけでAIに非公開リポジトリの情報を吐き出させる脆弱性「GitLost」が報告される",
+    "link": "https://gigazine.net/news/20260709-gitlost/",
+    "published": "Thu, 09 Jul 2026 11:40:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Block reaches $45M settlement with 46 states over Cash App fraud probe",
+    "link": "https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/",
+    "published": "Thu, 09 Jul 2026 15:16:34 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+    "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+    "published": "Thu, 09 Jul 2026 14:53:09 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+    "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+    "published": "Thu, 09 Jul 2026 14:51:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+    "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+    "published": "Thu, 09 Jul 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+    "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+    "published": "Thu, 09 Jul 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+    "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+    "published": "Thu, 09 Jul 2026 12:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "エージェント界のラーメン二郎史  oh-my-系の1年",
+    "link": "https://zenn.dev/sonicmoov/articles/3ee60ce2f5954d",
+    "published": "Wed, 08 Jul 2026 14:49:39 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
+    "title": "2026 年 7 月版 Claude Code による AI 駆動開発フロー改善の記録",
+    "link": "https://zenn.dev/taroosg/articles/20260708203628-86db8756331c10",
+    "published": "Wed, 08 Jul 2026 12:11:00 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-09 15:24:48",
+    "ai_summary": null
+  },
+  {
     "title": "Meta、AIグラスの「盗撮改造」対策を強化──録画ランプ破壊で撮影不能に",
     "link": "https://www.itmedia.co.jp/news/articles/2607/09/news085.html",
     "published": "Thu, 09 Jul 2026 11:01:00 +0900",
