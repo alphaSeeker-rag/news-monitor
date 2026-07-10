@@ -1,5 +1,82 @@
 [
   {
+    "title": "他人のインスタ投稿写真、無断でAI合成できる？メタ新機能に批判",
+    "link": "http://www.asahi.com/articles/ASV7B2QXQV7BUHBI018M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-07-10 22:04:00",
+    "ai_summary": null
+  },
+  {
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "published": "Fri, 10 Jul 2026 21:00:29 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-10 22:04:01",
+    "ai_summary": null
+  },
+  {
+    "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+    "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+    "published": "Fri, 10 Jul 2026 17:42:36 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-10 22:04:01",
+    "ai_summary": null
+  },
+  {
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "published": "Fri, 10 Jul 2026 17:17:12 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-10 22:04:01",
+    "ai_summary": null
+  },
+  {
+    "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+    "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+    "published": "Fri, 10 Jul 2026 17:11:51 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-10 22:04:01",
+    "ai_summary": null
+  },
+  {
+    "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+    "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+    "published": "Fri, 10 Jul 2026 15:00:09 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-10 22:04:01",
+    "ai_summary": null
+  },
+  {
+    "title": "Hugging Face’s CEO on why companies are done renting their AI",
+    "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "published": "Fri, 10 Jul 2026 14:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-10 22:04:01",
+    "ai_summary": null
+  },
+  {
     "title": "テスラ車内で「Grok」と会話、日本でも展開へ　ナビ設定やルート確認を音声で",
     "link": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
     "published": "Fri, 10 Jul 2026 21:15:00 +0900",
