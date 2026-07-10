@@ -1,5 +1,182 @@
 [
   {
+    "title": "テスラ車内で「Grok」と会話、日本でも展開へ　ナビ設定やルート確認を音声で",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
+    "published": "Fri, 10 Jul 2026 21:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "「まるで人間」　OpenAIの新モデル「GPT-Live」のトーク力が話題　間を空けずに考えながら会話できる",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/10/news114.html",
+    "published": "Fri, 10 Jul 2026 16:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "領域特化型AI戦略、19領域に重点　119番AI分析→対応提案",
+    "link": "http://www.asahi.com/articles/ASV7B25L7V7BUQIP023M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた",
+    "link": "https://gigazine.net/news/20260710-cloudflare-tunnel-access/",
+    "published": "Fri, 10 Jul 2026 23:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "7440億パラメーターの巨大AI「GLM-5.2」をメモリ25GBの普通のPCで動かす推論エンジン「Colibrì」が登場",
+    "link": "https://gigazine.net/news/20260710-colibri-glm/",
+    "published": "Fri, 10 Jul 2026 16:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "iPhone 17 Proで270億パラメータのAI「Qwen3.6-27B」が動作、AppleはPrismMLと圧縮技術の活用を協議か",
+    "link": "https://gigazine.net/news/20260710-prismml-iphone-apple-qwen/",
+    "published": "Fri, 10 Jul 2026 15:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "ゲームの女性キャラクターのヘアスタイルを現実世界で再現する動画が流行中",
+    "link": "https://gigazine.net/news/20260710-game-recreating-female-character-hairstyles-irl/",
+    "published": "Fri, 10 Jul 2026 15:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "時速240kmの高速サーブを打ち返すテニス選手の脳の働きを解剖学者が解説",
+    "link": "https://gigazine.net/news/20260710-tennis-brain/",
+    "published": "Fri, 10 Jul 2026 14:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "メールアドレスの所有権確認をブラウザ経由で一瞬で済ませる新機能「Email Verification Protocol(EVP)」をChromeが試験提供中",
+    "link": "https://gigazine.net/news/20260710-chrome-email-verification-protocol/",
+    "published": "Fri, 10 Jul 2026 13:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが「LiteRT.js」をリリース、ブラウザ上のAI推論を既存ランタイム比で最大3倍高速に",
+    "link": "https://gigazine.net/news/20260710-google-litert-js/",
+    "published": "Fri, 10 Jul 2026 12:32:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIがAI駆動ブラウザ「ChatGPT Atlas」の提供を終了",
+    "link": "https://gigazine.net/news/20260710-openai-chatgpt-atlas-end/",
+    "published": "Fri, 10 Jul 2026 12:20:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+    "link": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+    "published": "Fri, 10 Jul 2026 14:19:40 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+    "link": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
+    "published": "Fri, 10 Jul 2026 14:11:03 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた",
+    "link": "https://zenn.dev/9m/articles/d08dcc093e1bbf",
+    "published": "Fri, 10 Jul 2026 02:33:47 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "AI が自分の結論を正当化してくるので、デバイアスして自律的にFable 5 にセカンドオピニオンを聞くSkill を作った",
+    "link": "https://zenn.dev/atrae/articles/08f2b2c3f2217d",
+    "published": "Thu, 09 Jul 2026 22:15:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
+    "title": "なぜUnityのUIは書きづらいのか — Reactに学んで宣言的UIフレームワークを作った話",
+    "link": "https://zenn.dev/s4k1/articles/6c29073680ff21",
+    "published": "Wed, 08 Jul 2026 14:00:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-10 14:42:22",
+    "ai_summary": null
+  },
+  {
     "title": "株価 一時1500円超値上がり 米でAI関連など値上がりした流れで",
     "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173461000.html",
     "published": "Fri, 10 Jul 2026 10:59:42 +0900",
