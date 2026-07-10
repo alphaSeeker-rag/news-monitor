@@ -1,5 +1,149 @@
 [
   {
+    "title": "株価 一時1500円超値上がり 米でAI関連など値上がりした流れで",
+    "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173461000.html",
+    "published": "Fri, 10 Jul 2026 10:59:42 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-07-10 02:40:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic、Claudeの使い方を振り返る新機能「reflect」（振り返り）追加──AIとの付き合い方を見直すために",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/10/news086.html",
+    "published": "Fri, 10 Jul 2026 10:24:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-10 02:40:22",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIのフィジ・シモ氏、フルタイムの役職を退任――慢性疾患の療養に専念",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/10/news079.html",
+    "published": "Fri, 10 Jul 2026 09:31:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-10 02:40:22",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic、バーナンキ元FRB議長を独立監督機関に招へい――AIが経済に与える影響を注視",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/10/news074.html",
+    "published": "Fri, 10 Jul 2026 09:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-10 02:40:22",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleがコード最適化・アルゴリズム発見エージェントの「AlphaEvolve」を一般公開",
+    "link": "https://gigazine.net/news/20260710-google-alphaevolve-generally-available/",
+    "published": "Fri, 10 Jul 2026 11:29:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-10 02:40:22",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleのAI広告ツールを使用して作成された広告に「AI製」表記が自動付与、選挙広告だけでなくあらゆる広告でAI製か否かがより明確に確認可能に",
+    "link": "https://gigazine.net/news/20260710-google-new-ai-labels-for-ads/",
+    "published": "Fri, 10 Jul 2026 11:28:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-10 02:40:22",
+    "ai_summary": null
+  },
+  {
+    "title": "Claudeに過去の使用状況を確認できる機能が追加される、「何時に使ったか」「どんなジャンルの会話をしたか」など",
+    "link": "https://gigazine.net/news/20260710-claude-reflect/",
+    "published": "Fri, 10 Jul 2026 11:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-10 02:40:22",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが「GPT-5.6」を正式リリース、第三者テストでClaude Fableを超えるコーディング性能を示す",
+    "link": "https://gigazine.net/news/20260710-gpt-5-6-openai/",
+    "published": "Fri, 10 Jul 2026 11:07:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-10 02:40:22",
+    "ai_summary": null
+  },
+  {
+    "title": "ChatGPTとCodexを統合して幅広いタスクを自律的に進める「ChatGPT ワーク」が登場、GPT-5.6が基盤に",
+    "link": "https://gigazine.net/news/20260710-openai-chatgpt-work/",
+    "published": "Fri, 10 Jul 2026 11:02:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-10 02:40:22",
+    "ai_summary": null
+  },
+  {
+    "title": "Metaが独自開発AI「Muse Spark 1.1」を発表、Claude Opus 4.8と同等のベンチマークスコア",
+    "link": "https://gigazine.net/news/20260710-meta-muse-spark-1-1/",
+    "published": "Fri, 10 Jul 2026 10:52:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-10 02:40:22",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "published": "Fri, 10 Jul 2026 00:16:54 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-10 02:40:22",
+    "ai_summary": null
+  },
+  {
+    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+    "published": "Thu, 09 Jul 2026 23:38:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-10 02:40:22",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "published": "Thu, 09 Jul 2026 22:24:24 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-10 02:40:22",
+    "ai_summary": null
+  },
+  {
     "title": "殺人ロボットの足音迫る　AI戦争を止められるのか国際社会の答えは",
     "link": "http://www.asahi.com/articles/ASV781DJTV78UHBI01CM.html?ref=rss",
     "published": "",
