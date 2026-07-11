@@ -1,5 +1,49 @@
 [
   {
+    "title": "Metaがユーザーからの反発を受けInstagramのAI機能を削除",
+    "link": "https://gigazine.net/news/20260711-meta-removes-controversial-ai-instagram/",
+    "published": "Sat, 11 Jul 2026 17:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-11 13:41:13",
+    "ai_summary": null
+  },
+  {
+    "title": "無料でAI向けのブラウザ自動化ができる「Browser4」",
+    "link": "https://gigazine.net/news/20260711-browser4/",
+    "published": "Sat, 11 Jul 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-11 13:41:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Loop Engineeringで失敗しないためのハーネス設計",
+    "link": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
+    "published": "Fri, 10 Jul 2026 09:09:43 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-11 13:41:13",
+    "ai_summary": null
+  },
+  {
+    "title": "人間のコードレビュー、本当に必要ですか？",
+    "link": "https://zenn.dev/daiksud/articles/is-human-code-review-still-necessary",
+    "published": "Thu, 09 Jul 2026 13:42:21 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-11 13:41:13",
+    "ai_summary": null
+  },
+  {
     "title": "Apple、OpenAIと元従業員2人を提訴　「iPhoneの機密を盗んだ」と主張",
     "link": "https://www.itmedia.co.jp/news/articles/2607/11/news038.html",
     "published": "Sat, 11 Jul 2026 08:12:00 +0900",
