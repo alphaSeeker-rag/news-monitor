@@ -1,5 +1,105 @@
 [
   {
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "published": "Sat, 11 Jul 2026 14:13:00 +0000",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-11 21:50:25",
+    "ai_summary": null
+  },
+  {
+    "title": "ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ",
+    "link": "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types",
+    "published": "Sat, 11 Jul 2026 11:11:42 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-11 21:50:25",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Fable 5 が教えてくれた FastEnum の高速化テクニック (1) - 文字列のハッシュ値生成",
+    "link": "https://zenn.dev/xin9le/articles/6fb2045805996c",
+    "published": "Sat, 11 Jul 2026 09:28:41 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-11 21:50:25",
+    "ai_summary": null
+  },
+  {
+    "title": "agent-cost-bench でコーディングエージェントの品質とコストを測ってみる",
+    "link": "https://zenn.dev/aws_japan/articles/agent-cost-bench-model-compare",
+    "published": "Sat, 11 Jul 2026 08:02:21 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-11 21:50:25",
+    "ai_summary": null
+  },
+  {
+    "title": "AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか",
+    "link": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
+    "published": "Sat, 11 Jul 2026 06:32:57 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-11 21:50:25",
+    "ai_summary": null
+  },
+  {
+    "title": "ループエンジニアリングをGitHub Copilotで組めるか調べてみた",
+    "link": "https://zenn.dev/jodycraft/articles/3f7548173dcb55",
+    "published": "Sat, 11 Jul 2026 05:08:43 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-11 21:50:25",
+    "ai_summary": null
+  },
+  {
+    "title": "GitHub Actions の parallel でデプロイは8分→3分、CI はコスト3割減になった",
+    "link": "https://zenn.dev/hatsu/articles/github-actions-steps-parallel",
+    "published": "Sat, 11 Jul 2026 00:19:29 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-11 21:50:25",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude CodeでAgentic Engineeringを個人開発での本番運用につなぐ",
+    "link": "https://zenn.dev/okamyuji/articles/agent-driven-workflow-feedflow",
+    "published": "Fri, 10 Jul 2026 22:09:20 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-11 21:50:25",
+    "ai_summary": null
+  },
+  {
+    "title": "AI時代でも変わらない、業務自動化／効率化の考え方",
+    "link": "https://zenn.dev/grooves/articles/d0e1a182138ab0",
+    "published": "Fri, 10 Jul 2026 02:03:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-11 21:50:25",
+    "ai_summary": null
+  },
+  {
     "title": "Metaがユーザーからの反発を受けInstagramのAI機能を削除",
     "link": "https://gigazine.net/news/20260711-meta-removes-controversial-ai-instagram/",
     "published": "Sat, 11 Jul 2026 17:00:00 +0900",
