@@ -1,5 +1,94 @@
 [
   {
+    "title": "AIの思考っぽい「J空間」を可視化できる「Jレンズ」を触ってみた",
+    "link": "https://gigazine.net/news/20260712-ai-j-space-jacobian-lens/",
+    "published": "Sun, 12 Jul 2026 20:48:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-12 13:41:32",
+    "ai_summary": null
+  },
+  {
+    "title": "AI「Claude」を使って開発ツールの「Bun」の53万行のZigコード全てをRustへ書き換え、Zig作者もブログで反応",
+    "link": "https://gigazine.net/news/20260712-bun-zig-rust/",
+    "published": "Sun, 12 Jul 2026 17:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-12 13:41:32",
+    "ai_summary": null
+  },
+  {
+    "title": "AppleがOpenAIを企業秘密侵害で提訴",
+    "link": "https://gigazine.net/news/20260712-apple-sues-openai/",
+    "published": "Sun, 12 Jul 2026 16:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-12 13:41:32",
+    "ai_summary": null
+  },
+  {
+    "title": "情報漏洩に敏感な金融機関で、Claude・Gemini・ChatGPTを導入した話",
+    "link": "https://zenn.dev/seiuchi3939/articles/b12d6746d9f187",
+    "published": "Sun, 12 Jul 2026 01:36:49 GMT",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-12 13:41:32",
+    "ai_summary": null
+  },
+  {
+    "title": "Rust + Tauri で古い Mac 風のシステムモニタを作ってみた",
+    "link": "https://zenn.dev/m2lab/articles/rust-tauri-sysgauge",
+    "published": "Sat, 11 Jul 2026 21:46:59 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-12 13:41:32",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenFugu×ローカルLLM群でマルチAI駆動を検証① Multi-Agent System as a Model の再現",
+    "link": "https://zenn.dev/znet/articles/2026-openfugu-local-multiagent-part1",
+    "published": "Sat, 11 Jul 2026 18:34:18 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-12 13:41:32",
+    "ai_summary": null
+  },
+  {
+    "title": "Markdownをpushするだけで社内資料PDFを常に最新に — WIF×Google Driveで鍵レス自動配信",
+    "link": "https://zenn.dev/o2wsu9/articles/36dea065f5d73c",
+    "published": "Sat, 11 Jul 2026 12:31:50 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-12 13:41:32",
+    "ai_summary": null
+  },
+  {
+    "title": "AIと一緒にCAD設計できるソフト「cad-coworker」",
+    "link": "https://zenn.dev/karaage0703/articles/47299d42de9607",
+    "published": "Sat, 11 Jul 2026 05:28:17 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-12 13:41:32",
+    "ai_summary": null
+  },
+  {
     "title": "稲垣吾郎さんとAI「けなげでいとおしさすら感じる」でも…",
     "link": "http://www.asahi.com/articles/ASV797VTTV79UCVL03WM.html?ref=rss",
     "published": "",
