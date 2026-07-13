@@ -1,5 +1,215 @@
 [
   {
+    "title": "OpenAIのブラウザ「ChatGPT Atlas」終了へ　公開から1年足らずで",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
+    "published": "Mon, 13 Jul 2026 14:20:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-13 14:49:41",
+    "ai_summary": null
+  },
+  {
+    "title": "GMOグループ、AI時代に「エンジニア含む組織体制見直し」　熊谷代表が「AI変革最高責任者」に",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/13/news093.html",
+    "published": "Mon, 13 Jul 2026 14:02:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-13 14:49:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic、「Fable 5」またも延長　追加費用なしで7月19日まで利用可能に　「GPT-5.6」に対抗？",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/13/news081.html",
+    "published": "Mon, 13 Jul 2026 12:27:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-13 14:49:41",
+    "ai_summary": null
+  },
+  {
+    "title": "「GPT-Liveが“まるで人間”」ってホンマ？　出汁を「でじる」、トーストを「素焼き」て言うてたけど……",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/13/news068.html",
+    "published": "Mon, 13 Jul 2026 11:59:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-13 14:49:41",
+    "ai_summary": null
+  },
+  {
+    "title": "AIグラスへの不安感は、盗撮問題に集中しすぎると問題を見誤るのではないか",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/13/news063.html",
+    "published": "Mon, 13 Jul 2026 11:12:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-13 14:49:41",
+    "ai_summary": null
+  },
+  {
+    "title": "超音波を使って声を発することなく会話ができるシステムが開発される",
+    "link": "https://gigazine.net/news/20260713-silent-speech-with-ultrasound/",
+    "published": "Mon, 13 Jul 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-13 14:49:42",
+    "ai_summary": null
+  },
+  {
+    "title": "脳に電気刺激を与える治療法がわずか10日間でうつ病治療に著しい効果をもたらしたとの研究結果",
+    "link": "https://gigazine.net/news/20260713-brain-zapping-improves-depression-10-days/",
+    "published": "Mon, 13 Jul 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-13 14:49:42",
+    "ai_summary": null
+  },
+  {
+    "title": "イスラム過激派組織ボコ・ハラムがAIを使って爆発物の設計や武器の修理を行っていたことが判明",
+    "link": "https://gigazine.net/news/20260713-terrorist-group-use-ai/",
+    "published": "Mon, 13 Jul 2026 19:05:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-13 14:49:42",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Codeは指示前の初期データだけで約3万3000トークンを使用、実用構成では約7万5000トークンに",
+    "link": "https://gigazine.net/news/20260713-claude-code-consuming-token/",
+    "published": "Mon, 13 Jul 2026 16:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-13 14:49:42",
+    "ai_summary": null
+  },
+  {
+    "title": "Grok Buildが機密情報を伏せずに送信、未読ファイルやGit履歴もアップロードしていたとの調査結果",
+    "link": "https://gigazine.net/news/20260713-grok-build-sending-data/",
+    "published": "Mon, 13 Jul 2026 13:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-13 14:49:42",
+    "ai_summary": null
+  },
+  {
+    "title": "AI「GLM」を開発した中国Z.ai共同創設者の唐杰氏が「最先端のAIは可能な限りオープンで広くアクセス可能な状態であるべき」と主張",
+    "link": "https://gigazine.net/news/20260713-zhipu-ai-co-founder-stay-open/",
+    "published": "Mon, 13 Jul 2026 12:56:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-13 14:49:42",
+    "ai_summary": null
+  },
+  {
+    "title": "反AI運動の過激派が行方不明になって大騒動、反AI運動グループで何が起こっているのか？",
+    "link": "https://gigazine.net/news/20260713-war-with-ai/",
+    "published": "Mon, 13 Jul 2026 12:45:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-13 14:49:42",
+    "ai_summary": null
+  },
+  {
+    "title": "世界で最も黒い塗料「ベンタブラック」が人工衛星による光害を防ぐ可能性が示される",
+    "link": "https://gigazine.net/news/20260713-vantablack-blackest-paint-satellites-light-pollution/",
+    "published": "Mon, 13 Jul 2026 12:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-13 14:49:42",
+    "ai_summary": null
+  },
+  {
+    "title": "SpaceX cleared to fly Starship again after booster failure in May",
+    "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+    "published": "Mon, 13 Jul 2026 14:19:44 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-13 14:49:42",
+    "ai_summary": null
+  },
+  {
+    "title": "Waze adds new AI-powered features and customization updates",
+    "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+    "published": "Mon, 13 Jul 2026 14:18:16 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-13 14:49:42",
+    "ai_summary": null
+  },
+  {
+    "title": "Cursorに「不要なブランチを整理して」と頼んだら、Dドライブが消えた話",
+    "link": "https://zenn.dev/iwaken71/articles/cursor-agent-d-drive-deleted",
+    "published": "Sun, 12 Jul 2026 18:23:18 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-13 14:49:42",
+    "ai_summary": null
+  },
+  {
+    "title": "開発現場のAIセキュリティを見直す",
+    "link": "https://zenn.dev/nenene01/articles/ai-security-2026",
+    "published": "Sun, 12 Jul 2026 14:13:10 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-13 14:49:42",
+    "ai_summary": null
+  },
+  {
+    "title": "オンチェーン金融って、結局なんだろう──政府の構想から考える",
+    "link": "https://zenn.dev/komlock_lab/articles/what-is-onchain-finance-2026",
+    "published": "Sun, 12 Jul 2026 13:07:36 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-13 14:49:42",
+    "ai_summary": null
+  },
+  {
+    "title": "Unityのエディタ拡張から共有メモリに書き込みを行い、ランタイム側で読み込みを行う",
+    "link": "https://zenn.dev/sion_pn/articles/8677bcac5b443e",
+    "published": "Sun, 12 Jul 2026 09:47:48 GMT",
+    "keywords": [
+      "Python"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-13 14:49:42",
+    "ai_summary": null
+  },
+  {
     "title": "Instagram、他人の公開写真からAI動画を自動生成する機能を無効化　フィードバック受け",
     "link": "https://www.itmedia.co.jp/news/articles/2607/13/news059.html",
     "published": "Mon, 13 Jul 2026 08:59:00 +0900",
