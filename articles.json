@@ -1,5 +1,126 @@
 [
   {
+    "title": "「AIで大規模な雇用喪失、対策を」　ノーベル経済学賞学者らが声明",
+    "link": "http://www.asahi.com/articles/ASV7G03G4V7GUHBI009M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-07-14 02:07:18",
+    "ai_summary": null
+  },
+  {
+    "title": "【まとめてわかる】日本のAI主権とは　米国に翻弄、対抗の技術は？",
+    "link": "http://www.asahi.com/articles/ASV7F36J6V7FUTFL010M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-07-14 02:07:18",
+    "ai_summary": null
+  },
+  {
+    "title": "AI基本計画が閣議決定　サイバー環境激変、わずか半年で改定",
+    "link": "http://www.asahi.com/articles/ASV7F34Z5V7FUTFL01BM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-07-14 02:07:18",
+    "ai_summary": null
+  },
+  {
+    "title": "Intelがアメリカ政府向けに宇宙利用想定で設計したSoC「Starfire」を発表",
+    "link": "https://gigazine.net/news/20260714-intel-starfire/",
+    "published": "Tue, 14 Jul 2026 10:47:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-14 02:07:19",
+    "ai_summary": null
+  },
+  {
+    "title": "大量に存在するAIのうちGIGAZINE読者に人気なAIは一体何なのか調査してみた",
+    "link": "https://gigazine.net/news/20260714-gigazine-user-ai-report/",
+    "published": "Tue, 14 Jul 2026 09:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-14 02:07:19",
+    "ai_summary": null
+  },
+  {
+    "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+    "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+    "published": "Tue, 14 Jul 2026 00:45:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-14 02:07:19",
+    "ai_summary": null
+  },
+  {
+    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+    "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+    "published": "Tue, 14 Jul 2026 00:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-14 02:07:19",
+    "ai_summary": null
+  },
+  {
+    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+    "published": "Mon, 13 Jul 2026 23:31:18 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-14 02:07:19",
+    "ai_summary": null
+  },
+  {
+    "title": "AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測",
+    "link": "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint",
+    "published": "Mon, 13 Jul 2026 07:27:42 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-14 02:07:19",
+    "ai_summary": null
+  },
+  {
+    "title": "【スクフェス仙台2026】初参加の初登壇でQAが「AIにやらせないこと」を話してきた",
+    "link": "https://zenn.dev/nexta_/articles/4319a84dece1ba",
+    "published": "Mon, 13 Jul 2026 02:30:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-14 02:07:19",
+    "ai_summary": null
+  },
+  {
+    "title": "Critを導入したらコーディングAIへのフィードバックがとても楽になった",
+    "link": "https://zenn.dev/tenkei/articles/5ba5c993dfb8d6",
+    "published": "Mon, 13 Jul 2026 01:24:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-14 02:07:19",
+    "ai_summary": null
+  },
+  {
     "title": "Satya Nadella has issued a shocking warning to companies using AI",
     "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
     "published": "Mon, 13 Jul 2026 20:59:00 +0000",
