@@ -1,5 +1,148 @@
 [
   {
+    "title": "AIで「人間が頂点の時代終わる」――孫正義氏が考える2040年　人類が生きる道は“スーパーヒューマン化”",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/14/news115.html",
+    "published": "Tue, 14 Jul 2026 20:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-14 13:59:21",
+    "ai_summary": null
+  },
+  {
+    "title": "上半期「情報サービス業」倒産、過去10年で最多　生成AIやノーコード普及が零細に逆風",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/14/news104.html",
+    "published": "Tue, 14 Jul 2026 17:06:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-14 13:59:21",
+    "ai_summary": null
+  },
+  {
+    "title": "AIの発展によって私たち「人間」に残される仕事は何か？人間とAIの「共同超知能」というビジョン",
+    "link": "https://gigazine.net/news/20260714-ai-left-work/",
+    "published": "Tue, 14 Jul 2026 22:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-14 13:59:21",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIによる雇用喪失」のリスクを警鐘する緊急声明が発表される、16人のノーベル賞受賞者やGoogle元CEOなど著名な経済学者やテック界の大物が署名",
+    "link": "https://gigazine.net/news/20260714-prepare-for-ai-statement/",
+    "published": "Tue, 14 Jul 2026 16:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-14 13:59:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Appleのオンデバイス音声認識API「SpeechAnalyzer」が英語ベンチマークでWhisper Smallを上回る",
+    "link": "https://gigazine.net/news/20260714-apple-speech-analyzer-benchmark/",
+    "published": "Tue, 14 Jul 2026 15:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-14 13:59:21",
+    "ai_summary": null
+  },
+  {
+    "title": "OnePlusはアメリカとヨーロッパの市場から間もなく撤退するとの報道",
+    "link": "https://gigazine.net/news/20260714-oneplus-bailing-us-eu/",
+    "published": "Tue, 14 Jul 2026 13:36:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-14 13:59:21",
+    "ai_summary": null
+  },
+  {
+    "title": "LinkedInの長文投稿の約40％はAIによって作成されたもの",
+    "link": "https://gigazine.net/news/20260714-linkedin-longform-content-ai/",
+    "published": "Tue, 14 Jul 2026 12:19:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-14 13:59:21",
+    "ai_summary": null
+  },
+  {
+    "title": "AnthropicがClaudeの性格調査結果を公開、「英語とロシア語ではエビデンスを求めがち」「日本語は偏り小さめ」「Sonnet 4.6は温かみがある」など",
+    "link": "https://gigazine.net/news/20260714-anthropic-claude-value/",
+    "published": "Tue, 14 Jul 2026 11:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-14 13:59:21",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントと人間を見分けるCloudflareの新技術「Precursor」が登場、人間っぽく振る舞うAIをサイト内の行動から見破る",
+    "link": "https://gigazine.net/news/20260714-cloudflare-precursor/",
+    "published": "Tue, 14 Jul 2026 11:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-14 13:59:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+    "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+    "published": "Tue, 14 Jul 2026 02:46:42 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-14 13:59:21",
+    "ai_summary": null
+  },
+  {
+    "title": "ローカル LLM を構築した",
+    "link": "https://zenn.dev/neet/articles/11bafab8645995",
+    "published": "Tue, 14 Jul 2026 08:13:16 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-14 13:59:21",
+    "ai_summary": null
+  },
+  {
+    "title": "AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）",
+    "link": "https://zenn.dev/aircloset/articles/3b8e60fcaab4b7",
+    "published": "Mon, 13 Jul 2026 23:51:06 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-14 13:59:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Agent-as-a-Judgeは本当に必要なのか — 評価にエージェントを使う意味を考える",
+    "link": "https://zenn.dev/takkuhiro/articles/agent-as-a-judge-necessity",
+    "published": "Mon, 13 Jul 2026 22:00:16 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-14 13:59:21",
+    "ai_summary": null
+  },
+  {
     "title": "「AIで大規模な雇用喪失、対策を」　ノーベル経済学賞学者らが声明",
     "link": "http://www.asahi.com/articles/ASV7G03G4V7GUHBI009M.html?ref=rss",
     "published": "",
