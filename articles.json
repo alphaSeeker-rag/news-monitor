@@ -1,5 +1,182 @@
 [
   {
+    "title": "豪州、AI規制法制化へ　著作権保護など柱　首相「事実上の窃盗」",
+    "link": "http://www.asahi.com/articles/ASV7H3WF8V7HUHBI021M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-07-15 13:56:19",
+    "ai_summary": null
+  },
+  {
+    "title": "路線に沿って駅名を入力してタイピング力を鍛える無料ゲーム「電車でタイピング」レビュー、乗り換え手順を考える楽しさもアリ",
+    "link": "https://gigazine.net/news/20260715-train-typing-training/",
+    "published": "Wed, 15 Jul 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Cursorに「リポジトリを開くだけ」で任意コードが実行される脆弱性、報告から7カ月たっても修正されず研究者が全容公開",
+    "link": "https://gigazine.net/news/20260715-cursor-0day-disclosure/",
+    "published": "Wed, 15 Jul 2026 15:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
+    "title": "自己愛が強いナルシシストは生成AIに過剰な時間を費やしたり過度に依存したりする傾向が強い",
+    "link": "https://gigazine.net/news/20260715-narcissistic-individuals-problematic-ai-use/",
+    "published": "Wed, 15 Jul 2026 15:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Claudeの教師向けバージョン「Claude for Teachers」が登場、カリキュラムに沿って教材を生成可能",
+    "link": "https://gigazine.net/news/20260715-claude-for-teachers/",
+    "published": "Wed, 15 Jul 2026 13:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Google DeepMindのデミス・ハサビスCEOが「最先端AIを規制するための独立した標準機関」の設立を呼びかけ、OpenAIやMicrosoftのCEOも賛同",
+    "link": "https://gigazine.net/news/20260715-google-deepmind-demmis-hassabis-ai-framework/",
+    "published": "Wed, 15 Jul 2026 12:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
+    "title": "MetaがAIを用いて不当に従業員を解雇したとして元従業員に訴えられる",
+    "link": "https://gigazine.net/news/20260715-lawsuit-claims-meta-layoff-decisions-ai/",
+    "published": "Wed, 15 Jul 2026 12:16:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
+    "title": "iPhoneでローカル実行可能な270億パラメータのAIモデル「Bonsai 27B」が登場、Qwen3.6-27Bをメモリ使用量3.9GBまで小型化してスマホ単体で実用的な速度で動作",
+    "link": "https://gigazine.net/news/20260715-bonsai-27b/",
+    "published": "Wed, 15 Jul 2026 12:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI初のAIハードウェアは「自律走行可能な画面なしスマートスピーカー」か",
+    "link": "https://gigazine.net/news/20260715-openai-first-device-ai-speaker/",
+    "published": "Wed, 15 Jul 2026 11:33:00 +0900",
+    "keywords": [
+      "AI",
+      "ChatGPT"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+    "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "published": "Wed, 15 Jul 2026 13:10:47 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+    "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+    "published": "Wed, 15 Jul 2026 13:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+    "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+    "published": "Wed, 15 Jul 2026 12:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+    "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+    "published": "Wed, 15 Jul 2026 12:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
+    "link": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+    "published": "Wed, 15 Jul 2026 11:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
+    "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era",
+    "link": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/",
+    "published": "Wed, 15 Jul 2026 10:30:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
+    "title": "一人前のエンジニアなら、PRでコメントをもらうな。",
+    "link": "https://zenn.dev/headwaters/articles/72c39ad735038d",
+    "published": "Tue, 14 Jul 2026 13:17:16 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-15 13:56:20",
+    "ai_summary": null
+  },
+  {
     "title": "民泊仲介Airbnb、国内利用者比率5割へ　非観光地への分散や地方創生策活用",
     "link": "https://www.itmedia.co.jp/news/articles/2607/15/news071.html",
     "published": "Wed, 15 Jul 2026 10:37:00 +0900",
