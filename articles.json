@@ -1,5 +1,82 @@
 [
   {
+    "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売　Apple提訴の渦中にある端末とは別物",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
+    "published": "Thu, 16 Jul 2026 07:26:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-16 02:13:35",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェント「Grok Build」がオープンソース化される",
+    "link": "https://gigazine.net/news/20260716-grok-build-open-source/",
+    "published": "Thu, 16 Jul 2026 11:08:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-16 02:13:35",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAとセガがパートナーシップを締結、「バーチャファイター クロスロード」などのSEGAタイトルがNVIDIA RTX Sparkでプレイ可能に",
+    "link": "https://gigazine.net/news/20260716-sega-nvidia-partnership/",
+    "published": "Thu, 16 Jul 2026 11:08:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-16 02:13:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+    "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+    "published": "Thu, 16 Jul 2026 00:20:42 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-16 02:13:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+    "published": "Wed, 15 Jul 2026 23:59:44 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-16 02:13:35",
+    "ai_summary": null
+  },
+  {
+    "title": "WSL Containers（wslc）入門｜Docker Desktop不要",
+    "link": "https://zenn.dev/var/articles/wsl-containers-windows-wslc-hands-on",
+    "published": "Wed, 15 Jul 2026 00:06:05 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-16 02:13:35",
+    "ai_summary": null
+  },
+  {
+    "title": "最近、テックブログの高齢化について考えるようになりました",
+    "link": "https://zenn.dev/tkithrta/articles/afb24ea1326211",
+    "published": "Mon, 13 Jul 2026 22:15:24 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-16 02:13:35",
+    "ai_summary": null
+  },
+  {
     "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
     "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
     "published": "Wed, 15 Jul 2026 19:46:54 +0000",
