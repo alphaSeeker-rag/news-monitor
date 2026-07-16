@@ -1,5 +1,258 @@
 [
   {
+    "title": "台湾 TSMC 4-6月期決算 売り上げ 最終利益 ともに過去最高更新",
+    "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178681000.html",
+    "published": "Thu, 16 Jul 2026 21:15:21 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-07-16 14:08:25",
+    "ai_summary": null
+  },
+  {
+    "title": "大手共同出資の“国産AI開発企業”が本格始動　NVIDIAも協力、「Rubin」2万7500基搭載の計算基盤を構築へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/16/news101.html",
+    "published": "Thu, 16 Jul 2026 19:07:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAとトヨタ、提携拡大　車両ソフトウェア開発や「ウーブン・シティ」での開発支援など",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/16/news082.html",
+    "published": "Thu, 16 Jul 2026 15:10:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "フアンCEO「次の産業革命はメイド・イン・ジャパン」　富士通など4社、NVIDIA技術でフィジカルAIの事業検討",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/16/news073.html",
+    "published": "Thu, 16 Jul 2026 12:56:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "グーグルAI検索、「岩手の会社が事業停止」と誤情報　参照元も憤り",
+    "link": "http://www.asahi.com/articles/ASV7J2HWBV7JUJUB003M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "「金属有機構造体(MOF)」の開発でノーベル化学賞を受賞した科学者がアメリカを離れ中国の研究所所長に就任",
+    "link": "https://gigazine.net/news/20260716-nobel-winning-chemist-leaves-us-china/",
+    "published": "Thu, 16 Jul 2026 21:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "Claudeのメモリから氏名や勤務先を盗み出す攻撃手法が発見される、ウェブ閲覧機能を悪用して外部サイトへ送信",
+    "link": "https://gigazine.net/news/20260716-claude-memory-heist/",
+    "published": "Thu, 16 Jul 2026 19:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "Firefoxをブラウザのタブ内で丸ごと動かす「Firefox in WebAssembly」が登場、開発におけるAIコストは合計400万円以上に相当",
+    "link": "https://gigazine.net/news/20260716-firefox-in-webassembly/",
+    "published": "Thu, 16 Jul 2026 16:00:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "コンゴ民主共和国の熱帯雨林で新種の霊長類が発見される",
+    "link": "https://gigazine.net/news/20260716-new-species-monkey-congo-rainforest/",
+    "published": "Thu, 16 Jul 2026 15:30:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "既存のAIに攻撃を仕掛けて弱点を自動的に探し出すAIモデル「GPT-Red」をOpenAIが発表",
+    "link": "https://gigazine.net/news/20260716-openai-gpt-red/",
+    "published": "Thu, 16 Jul 2026 13:07:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "中国当局が「Apple Intelligence」導入を承認、アリババ製AI「Qwen」を活用か",
+    "link": "https://gigazine.net/news/20260716-china-apple-intelligence/",
+    "published": "Thu, 16 Jul 2026 12:55:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI初のハードウェア製品「Codex Micro」が登場、ボタン1発でCodexを操作",
+    "link": "https://gigazine.net/news/20260716-openai-codex-micro/",
+    "published": "Thu, 16 Jul 2026 12:33:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleの24時間稼働AIエージェント「Gemini Spark」が日本語で利用可能に",
+    "link": "https://gigazine.net/news/20260716-gemini-spark-japanese/",
+    "published": "Thu, 16 Jul 2026 11:20:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "約1兆パラメーターで画像・音声の理解やコーディングに対応、用途別に調整できるオープンウェイトAIモデル「Inkling」登場",
+    "link": "https://gigazine.net/news/20260716-inkling/",
+    "published": "Thu, 16 Jul 2026 11:15:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
+    "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+    "published": "Thu, 16 Jul 2026 11:30:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
+    "link": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+    "published": "Thu, 16 Jul 2026 11:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+    "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+    "published": "Thu, 16 Jul 2026 04:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "published": "Thu, 16 Jul 2026 04:00:00 +0000",
+    "keywords": [
+      "AI"
+    ],
+    "source": "TechCrunch",
+    "detected_at": "2026-07-16 14:08:26",
+    "ai_summary": null
+  },
+  {
+    "title": "GoMLX による Go 単独での手書き数字分類 ― 学習から推論まで Python を用いない実装",
+    "link": "https://zenn.dev/c6h1ocao6/articles/7e41873f3a9668",
+    "published": "Thu, 16 Jul 2026 02:38:21 GMT",
+    "keywords": [
+      "Python"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-16 14:08:27",
+    "ai_summary": null
+  },
+  {
+    "title": "【衝撃】GPT-5.6のReact習熟度を測った結果……",
+    "link": "https://zenn.dev/uhyo/articles/react-profession-bench-11",
+    "published": "Thu, 16 Jul 2026 00:50:56 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-16 14:08:27",
+    "ai_summary": null
+  },
+  {
+    "title": "LLM の可観測性ツールを決めきれないので、OpenTelemetry で決めない構成にした",
+    "link": "https://zenn.dev/optimisuke/articles/8f2ce41b9a7d30",
+    "published": "Wed, 15 Jul 2026 11:00:06 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-16 14:08:27",
+    "ai_summary": null
+  },
+  {
+    "title": "GPT-Live の「自然さ」を生かした英会話学習法",
+    "link": "https://zenn.dev/takanari_dev/articles/2026-07-14-english-practice-with-gpt-live",
+    "published": "Wed, 15 Jul 2026 10:37:14 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-16 14:08:27",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法",
+    "link": "https://zenn.dev/sonicmoov/articles/8712598f532b18",
+    "published": "Wed, 15 Jul 2026 09:00:13 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-16 14:08:27",
+    "ai_summary": null
+  },
+  {
     "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売　Apple提訴の渦中にある端末とは別物",
     "link": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
     "published": "Thu, 16 Jul 2026 07:26:00 +0900",
