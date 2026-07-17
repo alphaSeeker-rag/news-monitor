@@ -12,7 +12,7 @@ import hashlib
 import logging
 import argparse
 import webbrowser
-from datetime import datetime
+from datetime import datetime, timedelta
 from html import escape
 from pathlib import Path
 
@@ -108,7 +108,7 @@ HTML_TEMPLATE = """\
   /* ===== Holographic layers ===== */
   @keyframes spin {{ to {{ transform: rotate(360deg); }} }}
   .holo-rings {{ position: fixed; top: -150px; right: -150px; width: 520px; height: 520px;
-                 z-index: 0; pointer-events: none; opacity: .45; }}
+                 z-index: 0; pointer-events: none; opacity: .62; }}
   .holo-rings i {{ position: absolute; inset: 0; border-radius: 50%; display: block; }}
   .holo-rings i:nth-child(1) {{ border: 1px dashed rgba(95,216,255,.45);
                  animation: spin 46s linear infinite; }}
@@ -123,7 +123,7 @@ HTML_TEMPLATE = """\
                  background: conic-gradient(from 0deg, rgba(95,216,255,.15), transparent 65deg, transparent);
                  animation: spin 7s linear infinite; }}
   .holo-left {{ top: auto; right: auto; bottom: -120px; left: -130px;
-                width: 380px; height: 380px; opacity: .3; }}
+                width: 380px; height: 380px; opacity: .45; }}
   /* perspective floor grid */
   .holo-floor {{ position: fixed; left: -10%; right: -10%; bottom: 0; height: 240px;
                  z-index: 0; pointer-events: none; opacity: .45;
@@ -152,6 +152,61 @@ HTML_TEMPLATE = """\
     100% {{ transform: translateY(-6vh) rotate(400deg); opacity: 0; }}
   }}
 
+  /* ===== viewport corner frame ===== */
+  .fc {{ position: fixed; width: 26px; height: 26px; z-index: 2; pointer-events: none;
+         border: 2px solid rgba(95,216,255,.55); }}
+  .fc.tl {{ top: 10px; left: 10px; border-right: none; border-bottom: none; }}
+  .fc.tr {{ top: 10px; right: 10px; border-left: none; border-bottom: none; }}
+  .fc.bl {{ bottom: 10px; left: 10px; border-right: none; border-top: none; }}
+  .fc.br {{ bottom: 10px; right: 10px; border-left: none; border-top: none; }}
+
+  /* ===== HUD data strip ===== */
+  .hud-strip {{ position: relative; z-index: 1; max-width: 1000px; margin: 18px auto 0;
+      padding: 0 32px; display: grid; grid-template-columns: 1.2fr 1.2fr 1fr; gap: 14px; }}
+  .hud-panel {{ border: 1px solid var(--line); background: rgba(8,18,44,.5);
+      backdrop-filter: blur(3px); padding: 10px 14px 12px; position: relative;
+      clip-path: polygon(0 0, calc(100% - 14px) 0, 100% 14px, 100% 100%, 0 100%); }}
+  .hp-label {{ font-family: var(--mono); font-size: .6rem; letter-spacing: .22em;
+      color: var(--cyan); text-transform: uppercase; margin-bottom: 8px; }}
+  /* real activity bars */
+  .bars {{ display: flex; align-items: flex-end; gap: 4px; height: 62px; }}
+  .bars i {{ flex: 1; min-height: 3px; display: block;
+      background: linear-gradient(180deg, rgba(95,216,255,.9), rgba(46,123,255,.2));
+      box-shadow: 0 0 8px rgba(95,216,255,.3); transition: background .15s; }}
+  .bars i:hover {{ background: #9fe8ff; }}
+  /* decorative candlestick feed */
+  .candles {{ display: flex; align-items: flex-end; gap: 5px; height: 62px; }}
+  .candles i {{ position: relative; flex: 1; max-width: 9px; display: block; }}
+  .candles i::before {{ content: ""; position: absolute; left: 50%; width: 1px; margin-left: -0.5px;
+      top: -7px; bottom: -5px; background: rgba(95,216,255,.35); }}
+  .candles .u {{ background: rgba(95,216,255,.8); box-shadow: 0 0 7px rgba(95,216,255,.45); }}
+  .candles .d {{ background: rgba(40,86,190,.7); }}
+  .candles i:last-child {{ animation: blink 1.4s infinite; }}
+  /* signal wave + binary + verification */
+  .wave {{ width: 100%; height: 34px; display: block; }}
+  .wave path {{ stroke: var(--cyan); stroke-width: 1.6; fill: none;
+      filter: drop-shadow(0 0 4px rgba(95,216,255,.8));
+      stroke-dasharray: 640; animation: flow 3.2s linear infinite; }}
+  @keyframes flow {{ to {{ stroke-dashoffset: -640; }} }}
+  .bin {{ font-family: var(--mono); font-size: .58rem; color: rgba(127,160,204,.75);
+      white-space: nowrap; overflow: hidden; margin-top: 5px; }}
+  .bin span {{ display: inline-block; padding-right: 24px; animation: slide 14s linear infinite; }}
+  @keyframes slide {{ to {{ transform: translateX(-100%); }} }}
+  .verif {{ display: flex; align-items: center; gap: 8px; margin-top: 7px;
+      font-family: var(--mono); font-size: .6rem; letter-spacing: .14em; color: var(--dim);
+      text-transform: uppercase; }}
+  .verif b {{ color: var(--cyan); font-weight: 400; text-shadow: var(--glow); }}
+  .vbar {{ flex: 1; height: 5px; border: 1px solid rgba(95,178,255,.4);
+      position: relative; overflow: hidden; }}
+  .vbar i {{ position: absolute; inset: 0; display: block;
+      background: repeating-linear-gradient(90deg, rgba(95,216,255,.85) 0 6px, transparent 6px 9px);
+      animation: vfill 5s ease-in-out infinite alternate; }}
+  @keyframes vfill {{ 0% {{ width: 78%; }} 100% {{ width: 96%; }} }}
+  @media (max-width: 860px) {{
+    .hud-strip {{ grid-template-columns: 1fr; }}
+    .fc {{ display: none; }}
+  }}
+
   /* ===== HUD Masthead ===== */
   header {{ padding: 30px 32px 20px; border-bottom: 1px solid var(--line);
             background: linear-gradient(180deg, rgba(10,24,56,.85), rgba(10,24,56,.2)); }}
@@ -165,7 +220,15 @@ HTML_TEMPLATE = """\
   @keyframes blink {{ 0%,100% {{ opacity: 1; }} 50% {{ opacity: .25; }} }}
   header h1 {{ font-family: var(--disp); font-size: 2.1rem; font-weight: 900;
                letter-spacing: .12em; color: #fff; margin-top: 12px;
-               text-shadow: 0 0 14px rgba(95,216,255,.65), 0 0 40px rgba(46,123,255,.35); }}
+               text-shadow: 0 0 14px rgba(95,216,255,.65), 0 0 40px rgba(46,123,255,.35);
+               animation: holoflick 6s infinite; }}
+  @keyframes holoflick {{
+    0%, 90%, 100% {{ opacity: 1; }}
+    91% {{ opacity: .7; }}
+    92% {{ opacity: 1; }}
+    96% {{ opacity: .85; }}
+    97% {{ opacity: 1; }}
+  }}
   header h1 .jp {{ display: block; font-family: var(--sans); font-size: .82rem; font-weight: 500;
                letter-spacing: .28em; color: var(--dim); margin-top: 8px; text-shadow: none; }}
   .hud-meta {{ margin-top: 14px; font-family: var(--mono); font-size: .7rem; color: var(--dim);
@@ -260,6 +323,7 @@ HTML_TEMPLATE = """\
 </style>
 </head>
 <body>
+<div class="fc tl"></div><div class="fc tr"></div><div class="fc bl"></div><div class="fc br"></div>
 <div class="holo-rings"><i></i><i></i><i></i><i></i></div>
 <div class="holo-rings holo-left"><i></i><i></i><i></i><i></i></div>
 <div class="holo-floor"></div>
@@ -277,6 +341,24 @@ HTML_TEMPLATE = """\
     </div>
   </div>
 </header>
+<div class="hud-strip">
+  <div class="hud-panel">
+    <div class="hp-label">Activity // Hits per Day (14D)</div>
+    <div class="bars">{activity_bars}</div>
+  </div>
+  <div class="hud-panel">
+    <div class="hp-label">Data Pulse // Stream Monitor</div>
+    <div class="candles">
+      <i class="u" style="height:34px"></i><i class="d" style="height:22px"></i><i class="u" style="height:41px"></i><i class="u" style="height:48px"></i><i class="d" style="height:30px"></i><i class="u" style="height:38px"></i><i class="d" style="height:18px"></i><i class="u" style="height:26px"></i><i class="u" style="height:44px"></i><i class="d" style="height:36px"></i><i class="u" style="height:52px"></i><i class="d" style="height:24px"></i><i class="u" style="height:31px"></i><i class="u" style="height:46px"></i><i class="d" style="height:28px"></i><i class="u" style="height:39px"></i><i class="d" style="height:21px"></i><i class="u" style="height:49px"></i><i class="u" style="height:35px"></i><i class="d" style="height:26px"></i><i class="u" style="height:43px"></i><i class="u" style="height:55px"></i>
+    </div>
+  </div>
+  <div class="hud-panel">
+    <div class="hp-label">Signal Analysis</div>
+    <svg class="wave" viewBox="0 0 320 34" preserveAspectRatio="none"><path d="M0 17 Q 10 3 20 17 T 40 17 T 60 17 T 80 17 T 100 17 T 120 17 T 140 17 T 160 17 T 180 17 T 200 17 T 220 17 T 240 17 T 260 17 T 280 17 T 300 17 T 320 17"/></svg>
+    <div class="bin"><span>01001101 00101110 11010010 01110001 00011011 10110100 01011100 10011010 00110101 11001001 01110110</span><span>01001101 00101110 11010010 01110001 00011011 10110100 01011100 10011010 00110101 11001001 01110110</span></div>
+    <div class="verif">Verification <b>98.2%</b> <span class="vbar"><i></i></span> OK</div>
+  </div>
+</div>
 <div class="filters">
   <span>Filter</span>
   <button class="btn active" onclick="filter(this,'')">ALL</button>
@@ -410,7 +492,22 @@ def build_report(articles: list, keywords: list[str]) -> None:
     if not articles:
         cards_html = '<p class="empty">まだ記事がありません。</p>'
         kw_buttons = ""
+        activity_bars = ""
     else:
+        # 直近14日間の日次ヒット数バー(実データ)
+        day_counts: dict[str, int] = {}
+        for a in articles:
+            d = a.get("detected_at", "")[:10]
+            day_counts[d] = day_counts.get(d, 0) + 1
+        today = datetime.now().date()
+        days14 = [today - timedelta(days=i) for i in range(13, -1, -1)]
+        maxc = max((day_counts.get(str(d), 0) for d in days14), default=0) or 1
+        bar_parts = []
+        for d in days14:
+            c = day_counts.get(str(d), 0)
+            h = max(6, round(c / maxc * 100)) if c else 4
+            bar_parts.append(f'<i style="height:{h}%" title="{d} : {c}件"></i>')
+        activity_bars = "".join(bar_parts)
         kw_count: dict[str, int] = {}
         for a in articles:
             for k in a.get("keywords", []):
@@ -475,6 +572,7 @@ def build_report(articles: list, keywords: list[str]) -> None:
         total=len(articles),
         kw_buttons=kw_buttons,
         cards=cards_html,
+        activity_bars=activity_bars,
     )
     REPORT_FILE.write_text(html, encoding="utf-8")
 
