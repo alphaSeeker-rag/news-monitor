@@ -105,6 +105,53 @@ HTML_TEMPLATE = """\
   @keyframes sweep {{ 0% {{ top: -120px; }} 100% {{ top: 100vh; }} }}
   header, .filters, main, footer {{ position: relative; z-index: 1; }}
 
+  /* ===== Holographic layers ===== */
+  @keyframes spin {{ to {{ transform: rotate(360deg); }} }}
+  .holo-rings {{ position: fixed; top: -150px; right: -150px; width: 520px; height: 520px;
+                 z-index: 0; pointer-events: none; opacity: .45; }}
+  .holo-rings i {{ position: absolute; inset: 0; border-radius: 50%; display: block; }}
+  .holo-rings i:nth-child(1) {{ border: 1px dashed rgba(95,216,255,.45);
+                 animation: spin 46s linear infinite; }}
+  .holo-rings i:nth-child(2) {{ inset: 13%; border: 1px solid rgba(95,216,255,.2);
+                 border-top-color: rgba(95,216,255,.8); border-right-color: rgba(95,216,255,.45);
+                 animation: spin 15s linear infinite reverse; }}
+  .holo-rings i:nth-child(3) {{ inset: 27%; border: 2px dotted rgba(46,123,255,.4);
+                 animation: spin 28s linear infinite; }}
+  .holo-rings i:nth-child(4) {{ inset: 41%; border: 1px solid rgba(95,216,255,.3);
+                 border-bottom-color: rgba(95,216,255,.9); animation: spin 9s linear infinite reverse; }}
+  .holo-rings::after {{ content: ""; position: absolute; inset: 0; border-radius: 50%;
+                 background: conic-gradient(from 0deg, rgba(95,216,255,.15), transparent 65deg, transparent);
+                 animation: spin 7s linear infinite; }}
+  .holo-left {{ top: auto; right: auto; bottom: -120px; left: -130px;
+                width: 380px; height: 380px; opacity: .3; }}
+  /* perspective floor grid */
+  .holo-floor {{ position: fixed; left: -10%; right: -10%; bottom: 0; height: 240px;
+                 z-index: 0; pointer-events: none; opacity: .45;
+                 background:
+                   linear-gradient(rgba(95,178,255,.16) 1px, transparent 1px),
+                   linear-gradient(90deg, rgba(95,178,255,.16) 1px, transparent 1px);
+                 background-size: 60px 30px;
+                 transform: perspective(420px) rotateX(58deg); transform-origin: bottom;
+                 -webkit-mask-image: linear-gradient(180deg, transparent, #000 75%);
+                 mask-image: linear-gradient(180deg, transparent, #000 75%); }}
+  /* floating data bits */
+  .bits {{ position: fixed; inset: 0; z-index: 0; pointer-events: none; }}
+  .bits i {{ position: absolute; width: 5px; height: 5px; background: rgba(95,216,255,.55);
+             box-shadow: 0 0 8px rgba(95,216,255,.7); display: block;
+             animation: rise linear infinite; }}
+  .bits i:nth-child(1) {{ left: 8%;  animation-duration: 14s; animation-delay: 0s;   width: 4px; height: 4px; }}
+  .bits i:nth-child(2) {{ left: 22%; animation-duration: 19s; animation-delay: 3s; }}
+  .bits i:nth-child(3) {{ left: 47%; animation-duration: 16s; animation-delay: 7s;  width: 3px; height: 3px; }}
+  .bits i:nth-child(4) {{ left: 68%; animation-duration: 21s; animation-delay: 1.5s; }}
+  .bits i:nth-child(5) {{ left: 83%; animation-duration: 13s; animation-delay: 5s;  width: 7px; height: 7px; }}
+  .bits i:nth-child(6) {{ left: 93%; animation-duration: 18s; animation-delay: 9s;  width: 3px; height: 3px; }}
+  @keyframes rise {{
+    0%   {{ transform: translateY(104vh) rotate(45deg); opacity: 0; }}
+    8%   {{ opacity: .8; }}
+    85%  {{ opacity: .45; }}
+    100% {{ transform: translateY(-6vh) rotate(400deg); opacity: 0; }}
+  }}
+
   /* ===== HUD Masthead ===== */
   header {{ padding: 30px 32px 20px; border-bottom: 1px solid var(--line);
             background: linear-gradient(180deg, rgba(10,24,56,.85), rgba(10,24,56,.2)); }}
@@ -150,22 +197,43 @@ HTML_TEMPLATE = """\
       background: linear-gradient(90deg, var(--line), transparent); }}
 
   /* ===== Article panel ===== */
-  .card {{ position: relative; background: var(--panel); border: 1px solid var(--line);
-           padding: 18px 22px; margin-bottom: 14px; backdrop-filter: blur(3px);
-           transition: border-color .15s, box-shadow .15s; }}
-  .card::before, .card::after {{ content: ""; position: absolute; width: 14px; height: 14px;
-           border: 1.5px solid var(--cyan); pointer-events: none; opacity: .8; }}
-  .card::before {{ top: -1px; left: -1px; border-right: none; border-bottom: none; }}
-  .card::after {{ bottom: -1px; right: -1px; border-left: none; border-top: none; }}
-  .card:hover {{ border-color: rgba(95,216,255,.7); box-shadow: 0 0 18px rgba(46,123,255,.25); }}
-  .card-title a {{ color: #eaf4ff; font-size: 1.04rem; font-weight: 700;
+  .card {{ position: relative; margin-bottom: 16px; padding: 12px 22px 18px;
+           background: linear-gradient(135deg, rgba(16,34,74,.75), rgba(7,16,40,.55));
+           border: 1px solid var(--line); border-left: 3px solid var(--cyan);
+           clip-path: polygon(0 0, calc(100% - 18px) 0, 100% 18px, 100% 100%, 0 100%);
+           overflow: hidden; transition: border-color .2s, box-shadow .2s, transform .2s; }}
+  /* hover light sweep */
+  .card::before {{ content: ""; position: absolute; top: 0; left: -80%;
+           width: 55%; height: 100%; transform: skewX(-18deg); pointer-events: none;
+           background: linear-gradient(100deg, transparent, rgba(95,216,255,.12), transparent);
+           transition: left .5s ease; }}
+  .card:hover::before {{ left: 125%; }}
+  /* cyan corner chip on the cut corner */
+  .card::after {{ content: ""; position: absolute; top: 0; right: 0; width: 18px; height: 18px;
+           background: rgba(95,216,255,.55); clip-path: polygon(0 0, 100% 0, 100% 100%);
+           pointer-events: none; }}
+  .card:hover {{ border-color: rgba(95,216,255,.75); transform: translateX(3px);
+           box-shadow: -6px 0 22px rgba(46,123,255,.28), 0 0 18px rgba(46,123,255,.18); }}
+  .card-head {{ display: flex; justify-content: space-between; align-items: center;
+           margin-bottom: 8px; padding-bottom: 8px;
+           border-bottom: 1px dashed rgba(95,178,255,.22);
+           font-family: var(--mono); font-size: .62rem; letter-spacing: .2em;
+           text-transform: uppercase; }}
+  .cid {{ color: var(--cyan); text-shadow: var(--glow); }}
+  .chit {{ display: flex; align-items: center; gap: 7px; color: var(--dim); }}
+  .chit::before {{ content: ""; width: 6px; height: 6px; border-radius: 50%;
+           background: var(--cyan); box-shadow: var(--glow);
+           animation: blink 1.6s infinite; flex-shrink: 0; }}
+  .card-title a {{ color: #eaf4ff; font-size: 1.06rem; font-weight: 700;
                    text-decoration: none; line-height: 1.55; transition: color .15s; }}
   .card-title a:hover {{ color: var(--cyan); text-shadow: var(--glow); }}
   .card-meta {{ display: flex; gap: 12px; margin-top: 10px; flex-wrap: wrap; align-items: center; }}
   .kw {{ font-family: var(--mono); font-size: .66rem; letter-spacing: .06em; padding: 2px 9px;
          color: var(--cyan); border: 1px solid rgba(95,216,255,.5);
-         background: rgba(95,216,255,.07); text-transform: uppercase; }}
+         background: rgba(95,216,255,.07); text-transform: uppercase;
+         clip-path: polygon(6px 0, 100% 0, 100% calc(100% - 6px), calc(100% - 6px) 100%, 0 100%, 0 6px); }}
   .source {{ font-family: var(--mono); font-size: .7rem; color: var(--ink); }}
+  .source::before {{ content: "SRC // "; color: var(--dim); }}
   .date {{ font-family: var(--mono); font-size: .68rem; color: var(--dim); }}
 
   /* ===== AI summary panel ===== */
@@ -192,6 +260,10 @@ HTML_TEMPLATE = """\
 </style>
 </head>
 <body>
+<div class="holo-rings"><i></i><i></i><i></i><i></i></div>
+<div class="holo-rings holo-left"><i></i><i></i><i></i><i></i></div>
+<div class="holo-floor"></div>
+<div class="bits"><i></i><i></i><i></i><i></i><i></i><i></i></div>
 <header>
   <div class="mast">
     <div class="sysline">System Online // Datacenter · Semiconductor · AI Policy</div>
@@ -339,9 +411,14 @@ def build_report(articles: list, keywords: list[str]) -> None:
         cards_html = '<p class="empty">まだ記事がありません。</p>'
         kw_buttons = ""
     else:
+        kw_count: dict[str, int] = {}
+        for a in articles:
+            for k in a.get("keywords", []):
+                kw_count[k] = kw_count.get(k, 0) + 1
+        top_kws = sorted(kw_count, key=lambda k: kw_count[k], reverse=True)[:30]
         kw_buttons = " ".join(
-            f'<button class="btn" onclick="filter(this,\'{escape(kw)}\')">{escape(kw)}</button>'
-            for kw in keywords
+            f'<button class="btn" onclick="filter(this,\'{escape(k)}\')">{escape(k)} ({kw_count[k]})</button>'
+            for k in top_kws
         )
         grouped: dict[str, list] = {}
         for a in articles:
@@ -349,9 +426,13 @@ def build_report(articles: list, keywords: list[str]) -> None:
             grouped.setdefault(day, []).append(a)
 
         sections = []
+        idx = 0
         for day in sorted(grouped.keys(), reverse=True):
-            sections.append(f'<div class="section-label">{escape(day)}</div>')
+            sections.append(
+                f'<div class="section-label">{escape(day)} // {len(grouped[day])} HITS</div>'
+            )
             for a in grouped[day]:
+                idx += 1
                 kws_data = "|".join(a["keywords"])
                 kws_html = " ".join(
                     f'<span class="kw">{escape(k)}</span>' for k in a["keywords"]
@@ -374,6 +455,10 @@ def build_report(articles: list, keywords: list[str]) -> None:
 
                 sections.append(
                     f'<div class="card" data-kw="{escape(kws_data)}">'
+                    f'<div class="card-head">'
+                    f'<span class="cid">INTEL // {idx:03d}</span>'
+                    f'<span class="chit">Signal Detected</span>'
+                    f'</div>'
                     f'<div class="card-title"><a href="{escape(a["link"])}" target="_blank">{escape(a["title"])}</a></div>'
                     f'<div class="card-meta">'
                     f'{kws_html}'
