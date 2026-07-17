@@ -527,10 +527,10 @@ def build_report(articles: list, keywords: list[str]) -> None:
         for a in articles:
             for k in a.get("keywords", []):
                 kw_count[k] = kw_count.get(k, 0) + 1
-        top_kws = sorted(kw_count, key=lambda k: kw_count[k], reverse=True)[:30]
+        # 現在の監視キーワード設定順で表示(過去のヒット数に引きずられない)
         kw_buttons = " ".join(
-            f'<button class="btn" onclick="filter(this,\'{escape(k)}\')">{escape(k)} ({kw_count[k]})</button>'
-            for k in top_kws
+            f'<button class="btn" onclick="filter(this,\'{escape(k)}\')">{escape(k)} ({kw_count.get(k, 0)})</button>'
+            for k in keywords
         )
         grouped: dict[str, list] = {}
         for a in articles:
