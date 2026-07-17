@@ -80,13 +80,14 @@ HTML_TEMPLATE = """\
     --sans: "Noto Sans JP", -apple-system, "Segoe UI", sans-serif;
   }}
   * {{ box-sizing: border-box; margin: 0; padding: 0; }}
+  html {{ overflow-x: hidden; }}
   body {{
     font-family: var(--sans); color: var(--ink); line-height: 1.6;
     background:
       radial-gradient(ellipse at 20% -10%, rgba(46,123,255,.28), transparent 55%),
       radial-gradient(ellipse at 85% 110%, rgba(46,123,255,.22), transparent 55%),
       linear-gradient(160deg, #050c24 0%, #030818 45%, #071230 100%);
-    background-attachment: fixed; min-height: 100vh;
+    background-attachment: fixed; min-height: 100vh; overflow-x: hidden;
   }}
   /* HUD grid overlay */
   body::before {{
@@ -316,9 +317,23 @@ HTML_TEMPLATE = """\
             font-family: var(--mono); font-size: .66rem; letter-spacing: .22em;
             color: var(--dim); text-transform: uppercase; }}
   @media (max-width: 640px) {{
+    header {{ padding: 20px 16px 14px; }}
     header h1 {{ font-size: 1.3rem; letter-spacing: .08em; }}
-    header h1 .jp {{ letter-spacing: .14em; }}
-    main {{ padding: 0 14px; }}
+    header h1 .jp {{ letter-spacing: .12em; font-size: .68rem; }}
+    .sysline {{ font-size: .58rem; letter-spacing: .18em; }}
+    .hud-meta {{ font-size: .62rem; gap: 12px 16px; }}
+    .hud-strip {{ padding: 0 14px; margin-top: 14px; gap: 10px; }}
+    .hud-panel {{ padding: 8px 12px 10px; }}
+    .bars, .candles {{ height: 44px; }}
+    .filters {{ padding: 10px 14px; gap: 6px; }}
+    .btn {{ font-size: .68rem; padding: 4px 10px; }}
+    main {{ padding: 0 14px; margin-top: 24px; }}
+    .section-label {{ font-size: .8rem; letter-spacing: .18em; margin: 26px 0 10px; }}
+    .card {{ padding: 10px 16px 14px; }}
+    .card-title a {{ font-size: .96rem; }}
+    .holo-rings {{ width: 320px; height: 320px; opacity: .35; }}
+    .holo-rings.holo-left {{ width: 220px; height: 220px; }}
+    .holo-floor {{ height: 150px; }}
   }}
 </style>
 </head>
