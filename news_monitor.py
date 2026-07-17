@@ -59,69 +59,177 @@ HTML_TEMPLATE = """\
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="refresh" content="60">
-<title>ニュース監視レポート</title>
+<title>DC × SEMICON INTEL — ニュース監視レポート</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
+  :root {{
+    --bg: #030818;
+    --cyan: #5fd8ff;
+    --blue: #2e7bff;
+    --ink: #d7e9ff;
+    --dim: #7fa0cc;
+    --line: rgba(95, 178, 255, .30);
+    --panel: rgba(10, 24, 56, .58);
+    --glow: 0 0 8px rgba(95, 216, 255, .55);
+    --mono: "Share Tech Mono", Consolas, monospace;
+    --disp: "Orbitron", "Share Tech Mono", sans-serif;
+    --sans: "Noto Sans JP", -apple-system, "Segoe UI", sans-serif;
+  }}
   * {{ box-sizing: border-box; margin: 0; padding: 0; }}
-  body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-          background: #f0f2f5; color: #1a1a1a; }}
-  header {{ background: #1a1a2e; color: #fff; padding: 20px 32px;
-            display: flex; align-items: center; justify-content: space-between; }}
-  header h1 {{ font-size: 1.3rem; font-weight: 600; }}
-  header .meta {{ font-size: 0.8rem; color: #aab; }}
-  .filters {{ background: #fff; border-bottom: 1px solid #e0e0e0;
-              padding: 12px 32px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }}
-  .filters span {{ font-size: 0.85rem; color: #666; margin-right: 4px; }}
-  .btn {{ padding: 5px 14px; border-radius: 20px; border: 1px solid #ccc;
-          background: #fff; cursor: pointer; font-size: 0.82rem; transition: all .15s; }}
-  .btn:hover, .btn.active {{ background: #1a1a2e; color: #fff; border-color: #1a1a2e; }}
-  main {{ max-width: 960px; margin: 24px auto; padding: 0 16px; }}
-  .card {{ background: #fff; border-radius: 10px; padding: 18px 22px;
-           margin-bottom: 12px; box-shadow: 0 1px 4px rgba(0,0,0,.07);
-           transition: box-shadow .15s; }}
-  .card:hover {{ box-shadow: 0 4px 14px rgba(0,0,0,.12); }}
-  .card-title a {{ text-decoration: none; color: #1a1a2e; font-size: 1rem;
-                   font-weight: 600; line-height: 1.5; }}
-  .card-title a:hover {{ color: #4a6fa5; }}
-  .card-meta {{ display: flex; gap: 12px; margin-top: 8px;
-                flex-wrap: wrap; align-items: center; }}
-  .source {{ font-size: 0.78rem; color: #888; }}
-  .date {{ font-size: 0.78rem; color: #aaa; }}
-  .kw {{ display: inline-block; padding: 2px 9px; border-radius: 12px;
-         font-size: 0.72rem; font-weight: 600; background: #e8f0fe; color: #3a5cc5; }}
-  .ai-box {{ margin-top: 14px; background: #f8faff; border-left: 3px solid #4a6fa5;
-             border-radius: 0 8px 8px 0; padding: 12px 16px; }}
-  .ai-label {{ font-size: 0.7rem; font-weight: 700; color: #4a6fa5;
-               text-transform: uppercase; letter-spacing: .08em; margin-bottom: 6px; }}
-  .ai-title-ja {{ font-size: 0.95rem; font-weight: 600; color: #1a1a2e; margin-bottom: 8px; }}
-  .ai-summary {{ font-size: 0.85rem; color: #444; line-height: 1.65; margin-bottom: 8px; }}
-  .ai-insights {{ padding-left: 16px; }}
-  .ai-insights li {{ font-size: 0.83rem; color: #333; line-height: 1.6; margin-bottom: 3px; }}
-  .empty {{ text-align: center; color: #aaa; padding: 60px 0; font-size: 1rem; }}
-  .section-label {{ font-size: 0.78rem; font-weight: 600; color: #888;
-                    text-transform: uppercase; letter-spacing: .06em;
-                    margin: 24px 0 8px; }}
+  body {{
+    font-family: var(--sans); color: var(--ink); line-height: 1.6;
+    background:
+      radial-gradient(ellipse at 20% -10%, rgba(46,123,255,.28), transparent 55%),
+      radial-gradient(ellipse at 85% 110%, rgba(46,123,255,.22), transparent 55%),
+      linear-gradient(160deg, #050c24 0%, #030818 45%, #071230 100%);
+    background-attachment: fixed; min-height: 100vh;
+  }}
+  /* HUD grid overlay */
+  body::before {{
+    content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 0;
+    background:
+      linear-gradient(rgba(95,178,255,.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(95,178,255,.05) 1px, transparent 1px);
+    background-size: 44px 44px;
+  }}
+  /* scanline sweep */
+  body::after {{
+    content: ""; position: fixed; left: 0; right: 0; height: 120px; z-index: 0;
+    background: linear-gradient(180deg, transparent, rgba(95,216,255,.05), transparent);
+    animation: sweep 9s linear infinite; pointer-events: none;
+  }}
+  @keyframes sweep {{ 0% {{ top: -120px; }} 100% {{ top: 100vh; }} }}
+  header, .filters, main, footer {{ position: relative; z-index: 1; }}
+
+  /* ===== HUD Masthead ===== */
+  header {{ padding: 30px 32px 20px; border-bottom: 1px solid var(--line);
+            background: linear-gradient(180deg, rgba(10,24,56,.85), rgba(10,24,56,.2)); }}
+  .mast {{ max-width: 1000px; margin: 0 auto; }}
+  .sysline {{ font-family: var(--mono); font-size: .68rem; letter-spacing: .3em;
+              color: var(--cyan); text-transform: uppercase;
+              display: flex; align-items: center; gap: 12px; }}
+  .sysline::before {{ content: ""; width: 9px; height: 9px; background: var(--cyan);
+              box-shadow: var(--glow); border-radius: 50%; flex-shrink: 0;
+              animation: blink 2s infinite; }}
+  @keyframes blink {{ 0%,100% {{ opacity: 1; }} 50% {{ opacity: .25; }} }}
+  header h1 {{ font-family: var(--disp); font-size: 2.1rem; font-weight: 900;
+               letter-spacing: .12em; color: #fff; margin-top: 12px;
+               text-shadow: 0 0 14px rgba(95,216,255,.65), 0 0 40px rgba(46,123,255,.35); }}
+  header h1 .jp {{ display: block; font-family: var(--sans); font-size: .82rem; font-weight: 500;
+               letter-spacing: .28em; color: var(--dim); margin-top: 8px; text-shadow: none; }}
+  .hud-meta {{ margin-top: 14px; font-family: var(--mono); font-size: .7rem; color: var(--dim);
+               display: flex; gap: 22px; flex-wrap: wrap; letter-spacing: .1em; }}
+  .hud-meta b {{ color: var(--cyan); font-weight: 400; }}
+
+  /* ===== Filters ===== */
+  .filters {{ position: sticky; top: 0; z-index: 5; padding: 12px 32px;
+              display: flex; gap: 8px; flex-wrap: wrap; align-items: center;
+              background: rgba(4, 10, 30, .88); backdrop-filter: blur(8px);
+              border-bottom: 1px solid var(--line); }}
+  .filters span {{ font-family: var(--mono); font-size: .68rem; letter-spacing: .22em;
+              text-transform: uppercase; color: var(--cyan); margin-right: 6px; }}
+  .btn {{ font-family: var(--mono); font-size: .74rem; padding: 4px 13px;
+          background: transparent; color: var(--dim); border: 1px solid var(--line);
+          cursor: pointer; transition: all .15s;
+          clip-path: polygon(8px 0, 100% 0, 100% calc(100% - 8px), calc(100% - 8px) 100%, 0 100%, 0 8px); }}
+  .btn:hover {{ color: var(--cyan); border-color: var(--cyan); box-shadow: var(--glow); }}
+  .btn.active {{ background: rgba(95,216,255,.14); color: var(--cyan); border-color: var(--cyan);
+                 box-shadow: var(--glow), inset 0 0 12px rgba(95,216,255,.12); }}
+
+  /* ===== Layout ===== */
+  main {{ max-width: 960px; margin: 34px auto 70px; padding: 0 20px; }}
+  .section-label {{ font-family: var(--disp); font-size: .95rem; letter-spacing: .28em;
+      color: var(--cyan); margin: 36px 0 14px; display: flex; align-items: center; gap: 14px;
+      text-shadow: var(--glow); }}
+  .section-label::before {{ content: "◆"; font-size: .7rem; }}
+  .section-label::after {{ content: ""; flex: 1; height: 1px;
+      background: linear-gradient(90deg, var(--line), transparent); }}
+
+  /* ===== Article panel ===== */
+  .card {{ position: relative; background: var(--panel); border: 1px solid var(--line);
+           padding: 18px 22px; margin-bottom: 14px; backdrop-filter: blur(3px);
+           transition: border-color .15s, box-shadow .15s; }}
+  .card::before, .card::after {{ content: ""; position: absolute; width: 14px; height: 14px;
+           border: 1.5px solid var(--cyan); pointer-events: none; opacity: .8; }}
+  .card::before {{ top: -1px; left: -1px; border-right: none; border-bottom: none; }}
+  .card::after {{ bottom: -1px; right: -1px; border-left: none; border-top: none; }}
+  .card:hover {{ border-color: rgba(95,216,255,.7); box-shadow: 0 0 18px rgba(46,123,255,.25); }}
+  .card-title a {{ color: #eaf4ff; font-size: 1.04rem; font-weight: 700;
+                   text-decoration: none; line-height: 1.55; transition: color .15s; }}
+  .card-title a:hover {{ color: var(--cyan); text-shadow: var(--glow); }}
+  .card-meta {{ display: flex; gap: 12px; margin-top: 10px; flex-wrap: wrap; align-items: center; }}
+  .kw {{ font-family: var(--mono); font-size: .66rem; letter-spacing: .06em; padding: 2px 9px;
+         color: var(--cyan); border: 1px solid rgba(95,216,255,.5);
+         background: rgba(95,216,255,.07); text-transform: uppercase; }}
+  .source {{ font-family: var(--mono); font-size: .7rem; color: var(--ink); }}
+  .date {{ font-family: var(--mono); font-size: .68rem; color: var(--dim); }}
+
+  /* ===== AI summary panel ===== */
+  .ai-box {{ margin-top: 14px; border: 1px solid rgba(95,178,255,.25);
+             border-left: 3px solid var(--cyan); background: rgba(5,14,38,.6); padding: 14px 18px; }}
+  .ai-label {{ font-family: var(--mono); font-size: .62rem; letter-spacing: .26em;
+             color: var(--cyan); text-transform: uppercase; margin-bottom: 8px; }}
+  .ai-title-ja {{ font-size: .98rem; font-weight: 700; color: #eaf4ff; margin-bottom: 8px; }}
+  .ai-summary {{ font-size: .86rem; color: var(--ink); line-height: 1.8; margin-bottom: 8px; }}
+  .ai-insights {{ list-style: none; padding: 0; }}
+  .ai-insights li {{ font-size: .84rem; color: var(--dim); padding-left: 20px;
+                     position: relative; margin-bottom: 5px; line-height: 1.65; }}
+  .ai-insights li::before {{ content: "▸"; position: absolute; left: 0; color: var(--cyan); }}
+
+  .empty {{ text-align: center; padding: 70px 0; color: var(--dim); font-family: var(--mono); }}
+  footer {{ text-align: center; padding: 26px; border-top: 1px solid var(--line);
+            font-family: var(--mono); font-size: .66rem; letter-spacing: .22em;
+            color: var(--dim); text-transform: uppercase; }}
+  @media (max-width: 640px) {{
+    header h1 {{ font-size: 1.3rem; letter-spacing: .08em; }}
+    header h1 .jp {{ letter-spacing: .14em; }}
+    main {{ padding: 0 14px; }}
+  }}
 </style>
 </head>
 <body>
 <header>
-  <h1>ニュース監視レポート</h1>
-  <span class="meta">更新: {updated} ／ 全 {total} 件 ／ 60秒ごとに自動更新</span>
+  <div class="mast">
+    <div class="sysline">System Online // Datacenter · Semiconductor · AI Policy</div>
+    <h1>DC × SEMICON INTEL
+      <span class="jp">データセンター・半導体・AI政策 監視レポート</span>
+    </h1>
+    <div class="hud-meta">
+      <span>UPDATED <b>{updated}</b></span>
+      <span>ARTICLES <b>{total}</b></span>
+      <span>AUTO-REFRESH <b>60S</b></span>
+    </div>
+  </div>
 </header>
 <div class="filters">
-  <span>絞り込み:</span>
-  <button class="btn active" onclick="filter(this,'')">すべて</button>
+  <span>Filter</span>
+  <button class="btn active" onclick="filter(this,'')">ALL</button>
   {kw_buttons}
 </div>
 <main id="main">
 {cards}
 </main>
+<footer>
+  Self-Adaptive Monitoring System // Updated {updated}
+</footer>
 <script>
   function filter(btn, kw) {{
     document.querySelectorAll('.btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     document.querySelectorAll('.card').forEach(c => {{
       c.style.display = (!kw || c.dataset.kw.includes(kw)) ? '' : 'none';
+    }});
+    document.querySelectorAll('.section-label').forEach(s => {{
+      let n = s.nextElementSibling, vis = 0;
+      while (n && n.classList.contains('card')) {{
+        if (n.style.display !== 'none') vis++;
+        n = n.nextElementSibling;
+      }}
+      s.style.display = vis ? '' : 'none';
     }});
   }}
 </script>
