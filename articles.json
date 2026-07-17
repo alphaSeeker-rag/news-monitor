@@ -1,5 +1,82 @@
 [
   {
+    "title": "株価 一時2500円以上値下がり グーグルAI開発遅れの報道などで",
+    "link": "http://www3.nhk.or.jp/news/html/20260717/k10015178951000.html",
+    "published": "Fri, 17 Jul 2026 09:51:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "NHKニュース",
+    "detected_at": "2026-07-17 02:22:12",
+    "ai_summary": null
+  },
+  {
+    "title": "Netflix「今年配信の約300作品で生成AI活用」　制作は2倍速で制作費は半額の実例も",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/17/news065.html",
+    "published": "Fri, 17 Jul 2026 10:06:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-17 02:22:13",
+    "ai_summary": null
+  },
+  {
+    "title": "欧州委員会、GoogleにAIアシスタントの相互運用と検索データ共有を命令──Googleは「安全性を損なう」と反発",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/17/news063.html",
+    "published": "Fri, 17 Jul 2026 08:57:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-17 02:22:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Google、「NotebookLM」を「Gemini Notebook」に改称　Geminiエコシステムへの統合を強化",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
+    "published": "Fri, 17 Jul 2026 08:21:00 +0900",
+    "keywords": [
+      "AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-17 02:22:13",
+    "ai_summary": null
+  },
+  {
+    "title": "日経平均、一時2700円安　AI・半導体企業による投資回収に懸念",
+    "link": "http://www.asahi.com/articles/ASV7K0F47V7KULFA009M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-07-17 02:22:13",
+    "ai_summary": null
+  },
+  {
+    "title": "AI自動車　最適なデータを渡すことが鍵　アルプスアルパイン社長",
+    "link": "http://www.asahi.com/articles/ASV7J0S4GV7JULFA021M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "AI"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-07-17 02:22:13",
+    "ai_summary": null
+  },
+  {
+    "title": "AI もデータ基盤のユーザーになる時代の、BigQuery コストとの向き合い方",
+    "link": "https://zenn.dev/linda/articles/1f48bad4d84747",
+    "published": "Thu, 16 Jul 2026 01:00:09 GMT",
+    "keywords": [
+      "AI"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-07-17 02:22:14",
+    "ai_summary": null
+  },
+  {
     "title": "Google検索の「AIモード」、検索結果からそのままアプリで作業可能に　CanvaやYouTube Musicなど",
     "link": "https://www.itmedia.co.jp/news/articles/2607/17/news061.html",
     "published": "Fri, 17 Jul 2026 06:51:00 +0900",
