@@ -1,1 +1,246 @@
-[]
+[
+  {
+    "title": "大手共同出資の“国産AI開発企業”が本格始動　NVIDIAも協力、「Rubin」2万7500基搭載の計算基盤を構築へ",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/16/news101.html",
+    "published": "Thu, 16 Jul 2026 19:07:00 +0900",
+    "keywords": [
+      "AIモデル",
+      "国産AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-17 13:51:58",
+    "ai_summary": null
+  },
+  {
+    "title": "AI音楽生成サービス「Suno」がYouTubeやDeezerから数百万曲をスクレイピングしていたことが流出したソースコードから判明",
+    "link": "https://gigazine.net/news/20260717-suno-scraping-from-youtube-deezer/",
+    "published": "Fri, 17 Jul 2026 22:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-17 13:51:59",
+    "ai_summary": null
+  },
+  {
+    "title": "ローカルAIモデルをAIエージェントとして使える「LM Studio Bionic」が登場、コーディングやスライド作成に対応しクラウドモデルも使用可能",
+    "link": "https://gigazine.net/news/20260717-lm-studio-bionic/",
+    "published": "Fri, 17 Jul 2026 12:18:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-17 13:51:59",
+    "ai_summary": null
+  },
+  {
+    "title": "GPT-5.6 Solに匹敵する中国製AIモデル「Kimi K3」が登場、2.8兆パラメーターの超大型オープンモデル",
+    "link": "https://gigazine.net/news/20260717-kimi-k3/",
+    "published": "Fri, 17 Jul 2026 12:03:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-17 13:51:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Chip Industry Week In Review",
+    "link": "https://semiengineering.com/chip-industry-week-in-review-147/",
+    "published": "Fri, 17 Jul 2026 07:01:01 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-07-17 13:52:01",
+    "ai_summary": null
+  },
+  {
+    "title": "QualcommのDragonfly C1000を読み解く　「苦手な戦場」で勝負できるのか",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2607/17/news028.html",
+    "published": "Fri, 17 Jul 2026 11:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-07-17 13:52:02",
+    "ai_summary": null
+  },
+  {
+    "title": "AppleとBroadcomの「300億ドル契約」、Intelにもチャンスか",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2607/16/news063.html",
+    "published": "Thu, 16 Jul 2026 11:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-07-17 13:52:02",
+    "ai_summary": null
+  },
+  {
+    "title": "Intelが高NA EUV露光装置を量産導入　Intel 18Aの一部レイヤーに適用",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2607/16/news053.html",
+    "published": "Thu, 16 Jul 2026 10:30:00 +0900",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-07-17 13:52:02",
+    "ai_summary": null
+  },
+  {
+    "title": "「半導体業界は黄金期」 TSMCが語る最新ロードマップ",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2607/15/news074.html",
+    "published": "Wed, 15 Jul 2026 13:30:00 +0900",
+    "keywords": [
+      "CoWoS"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-07-17 13:52:02",
+    "ai_summary": null
+  },
+  {
+    "title": "Stacking Chips Sideways Gives AI More Memory",
+    "link": "https://spectrum.ieee.org/stacking-chips-sideways",
+    "published": "Wed, 08 Jul 2026 10:00:02 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "IEEE Spectrum",
+    "detected_at": "2026-07-17 13:52:02",
+    "ai_summary": null
+  },
+  {
+    "title": "The Next 15 Years of Moore’s Law, According to Imec",
+    "link": "https://spectrum.ieee.org/semiconductor-technology-roadmap",
+    "published": "Tue, 19 May 2026 12:51:55 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "IEEE Spectrum",
+    "detected_at": "2026-07-17 13:52:02",
+    "ai_summary": null
+  },
+  {
+    "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
+    "link": "https://spectrum.ieee.org/applied-materials-epic-center",
+    "published": "Thu, 14 May 2026 10:00:01 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "IEEE Spectrum",
+    "detected_at": "2026-07-17 13:52:02",
+    "ai_summary": null
+  },
+  {
+    "title": "国産AI開発のノエトラ、NVIDIAのGPU2万7500基で「実世界モデル」構築へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/071700006/",
+    "published": "",
+    "keywords": [
+      "データセンター",
+      "国産AI"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-07-17 13:52:06",
+    "ai_summary": null
+  },
+  {
+    "title": "AI BOM（AI Bill of Materials）",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/070700227/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-07-17 13:52:06",
+    "ai_summary": null
+  },
+  {
+    "title": "米マイクロン、1.5兆円投じ広島で最先端HBM　CEO「かつてない需要」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11875/",
+    "published": "",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-07-17 13:52:06",
+    "ai_summary": null
+  },
+  {
+    "title": "グリーンインフラの資金調達を多角化、成果連動型報酬を先行導入した前橋市",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000004/",
+    "published": "",
+    "keywords": [
+      "資金調達"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-07-17 13:52:06",
+    "ai_summary": null
+  },
+  {
+    "title": "再エネ生かしてデータセンター誘致、「三方良し」の石狩モデル",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03674/070300007/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-07-17 13:52:06",
+    "ai_summary": null
+  },
+  {
+    "title": "中国AIは米国にどこまで追い付いたか、コスト面では既に優位",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00692/071600193/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-07-17 13:52:06",
+    "ai_summary": null
+  },
+  {
+    "title": "AI半導体やデータセンターの水養う、ネイチャーポジティブは地域単位で",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03685/071000003/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-07-17 13:52:06",
+    "ai_summary": null
+  },
+  {
+    "title": "データセンター、脱迷惑施設への針路　社会に役立つ機能をDCに",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03674/070300006/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-07-17 13:52:06",
+    "ai_summary": null
+  },
+  {
+    "title": "AIをすべての人の道具へ､ChatGPTでもClaudeでもない｢仕事を終わらせるAI｣の正体に迫る | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/951619?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Fri, 17 Jul 2026 13:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-07-17 13:52:07",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが「GPT-5.6」一般提供　3モデルの価格と新たな利用条件は",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2607/11/news013.html",
+    "published": "Tue, 14 Jul 2026 07:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia エンタープライズ 最新記事一覧",
+    "detected_at": "2026-07-17 13:52:07",
+    "ai_summary": null
+  }
+]
