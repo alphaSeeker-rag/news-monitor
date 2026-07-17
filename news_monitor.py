@@ -504,34 +504,34 @@ def ai_summarize(title: str, body: str, client) -> dict | None:
 
 
 def build_report(articles: list, keywords: list[str]) -> None:
+    # 直近14日間の日次ヒット数バー(実データ、記事0件でも枠だけ表示)
+    day_counts: dict[str, int] = {}
+    for a in articles:
+        d = a.get("detected_at", "")[:10]
+        day_counts[d] = day_counts.get(d, 0) + 1
+    today = datetime.now().date()
+    days14 = [today - timedelta(days=i) for i in range(13, -1, -1)]
+    maxc = max((day_counts.get(str(d), 0) for d in days14), default=0) or 1
+    bar_parts = []
+    for d in days14:
+        c = day_counts.get(str(d), 0)
+        h = max(6, round(c / maxc * 100)) if c else 4
+        bar_parts.append(f'<i style="height:{h}%" title="{d} : {c}件"></i>')
+    activity_bars = "".join(bar_parts)
+
+    # 絞り込みボタンは常に現在の監視キーワード一覧から生成(記事0件でも表示)
+    kw_count: dict[str, int] = {}
+    for a in articles:
+        for k in a.get("keywords", []):
+            kw_count[k] = kw_count.get(k, 0) + 1
+    kw_buttons = " ".join(
+        f'<button class="btn" onclick="filter(this,\'{escape(k)}\')">{escape(k)} ({kw_count.get(k, 0)})</button>'
+        for k in keywords
+    )
+
     if not articles:
-        cards_html = '<p class="empty">まだ記事がありません。</p>'
-        kw_buttons = ""
-        activity_bars = ""
+        cards_html = '<p class="empty">まだ記事がありません。次回の自動収集をお待ちください。</p>'
     else:
-        # 直近14日間の日次ヒット数バー(実データ)
-        day_counts: dict[str, int] = {}
-        for a in articles:
-            d = a.get("detected_at", "")[:10]
-            day_counts[d] = day_counts.get(d, 0) + 1
-        today = datetime.now().date()
-        days14 = [today - timedelta(days=i) for i in range(13, -1, -1)]
-        maxc = max((day_counts.get(str(d), 0) for d in days14), default=0) or 1
-        bar_parts = []
-        for d in days14:
-            c = day_counts.get(str(d), 0)
-            h = max(6, round(c / maxc * 100)) if c else 4
-            bar_parts.append(f'<i style="height:{h}%" title="{d} : {c}件"></i>')
-        activity_bars = "".join(bar_parts)
-        kw_count: dict[str, int] = {}
-        for a in articles:
-            for k in a.get("keywords", []):
-                kw_count[k] = kw_count.get(k, 0) + 1
-        # 現在の監視キーワード設定順で表示(過去のヒット数に引きずられない)
-        kw_buttons = " ".join(
-            f'<button class="btn" onclick="filter(this,\'{escape(k)}\')">{escape(k)} ({kw_count.get(k, 0)})</button>'
-            for k in keywords
-        )
         grouped: dict[str, list] = {}
         for a in articles:
             day = a.get("detected_at", "")[:10] or "不明"
