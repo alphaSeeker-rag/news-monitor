@@ -1,5 +1,49 @@
 [
   {
+    "title": "AnthropicがAIモデル「Claude」のトレーニングに海賊版書籍を使った件で作家グループと和解するも一部の著者は和解を拒否",
+    "link": "https://gigazine.net/news/20260722-anthropics-settlement-book-piracy-ai/",
+    "published": "Wed, 22 Jul 2026 07:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-21 22:03:34",
+    "ai_summary": null
+  },
+  {
+    "title": "Monolithic 3D-DRAM with Oxide-Semiconductor Architecture (imec, KU Leuven, Samsung, Lam)",
+    "link": "https://semiengineering.com/monolithic-3d-dram-with-oxide-semiconductor-architecture-imec-ku-leuven-samsung-lam/",
+    "published": "Tue, 21 Jul 2026 18:31:31 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-07-21 22:03:36",
+    "ai_summary": null
+  },
+  {
+    "title": "EUV諦めぬ中国の野望、中心にファーウェイ　半導体供給網と特許出願を分析",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03693/071800006/",
+    "published": "",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-07-21 22:03:40",
+    "ai_summary": null
+  },
+  {
+    "title": "データセンターでリチウムイオン蓄電池が急増、政府が規制の矛盾解消を検討",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03694/071800002/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-07-21 22:03:40",
+    "ai_summary": null
+  },
+  {
     "title": "大規模AIプロジェクトで「高性能な計画役＋安価な実行役」を使うとコストが約8分の1になったとCursorが報告",
     "link": "https://gigazine.net/news/20260721-agent-swarm-model-economics/",
     "published": "Tue, 21 Jul 2026 22:00:00 +0900",
