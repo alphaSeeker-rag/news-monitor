@@ -1,5 +1,117 @@
 [
   {
+    "title": "大規模AIプロジェクトで「高性能な計画役＋安価な実行役」を使うとコストが約8分の1になったとCursorが報告",
+    "link": "https://gigazine.net/news/20260721-agent-swarm-model-economics/",
+    "published": "Tue, 21 Jul 2026 22:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-21 14:07:59",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが長時間動作するAIモデルの問題を公表、サンドボックスを回避した未公開モデルへの社内アクセスを一時停止",
+    "link": "https://gigazine.net/news/20260721-openai-ai-trained-for-long-running-tasks/",
+    "published": "Tue, 21 Jul 2026 15:35:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-21 14:07:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Fable 5に匹敵する性能の中華AI「Kimi K3」が人気すぎてGPUが足りなくなり新規サブスク加入を一時停止する事態に、「Anthropicよりマシな対応」という声も",
+    "link": "https://gigazine.net/news/20260721-kimi-k3-limit/",
+    "published": "Tue, 21 Jul 2026 13:39:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-21 14:07:59",
+    "ai_summary": null
+  },
+  {
+    "title": "AI「Claude Fable 5」が87年来の難問「ヤコビアン予想」を覆す反例を生成したとAnthropic研究者が報告",
+    "link": "https://gigazine.net/news/20260721-claude-fable-5-jacobian-conjecture/",
+    "published": "Tue, 21 Jul 2026 13:28:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-21 14:07:59",
+    "ai_summary": null
+  },
+  {
+    "title": "トランプ政権が外国製オープンソースAIモデルの事実上の禁止措置を再検討、中国の台頭に懸念",
+    "link": "https://gigazine.net/news/20260721-ai-us-china/",
+    "published": "Tue, 21 Jul 2026 12:56:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-21 14:07:59",
+    "ai_summary": null
+  },
+  {
+    "title": "AMDがNVIDIA対抗のラックスケールAIシステム「AMD Helios」をMicrosoft Azureに大規模導入",
+    "link": "https://gigazine.net/news/20260721-amd-helios-microsoft-azure/",
+    "published": "Tue, 21 Jul 2026 12:49:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-21 14:07:59",
+    "ai_summary": null
+  },
+  {
+    "title": "アリババが「Qwen3.8」のオープンモデル化を予告、「Claude Fable 5に次ぐ性能」で2.4兆パラメーターの大型モデル",
+    "link": "https://gigazine.net/news/20260721-qwen3-8/",
+    "published": "Tue, 21 Jul 2026 12:36:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-21 14:07:59",
+    "ai_summary": null
+  },
+  {
+    "title": "Chip Industry Technical Paper Roundup: July 21",
+    "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-21/",
+    "published": "Tue, 21 Jul 2026 07:01:42 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-07-21 14:08:01",
+    "ai_summary": null
+  },
+  {
+    "title": "半導体製造装置売上高、26年は過去最高の1659億米ドルへ",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news034.html",
+    "published": "Tue, 21 Jul 2026 13:30:00 +0900",
+    "keywords": [
+      "半導体製造装置"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-07-21 14:08:02",
+    "ai_summary": null
+  },
+  {
+    "title": "「国産AIスタック」を持たないカナダ、ソブリンAIをどう構築するのか",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2607/21/news054.html",
+    "published": "Tue, 21 Jul 2026 11:00:00 +0900",
+    "keywords": [
+      "データセンター",
+      "ソブリンAI",
+      "国産AI"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-07-21 14:08:02",
+    "ai_summary": null
+  },
+  {
     "title": "AMDとMicrosoftが戦略的提携を拡大　新AIラックスケール「Helios」をAzureに大規模導入へ",
     "link": "https://www.itmedia.co.jp/news/articles/2607/21/news051.html",
     "published": "Tue, 21 Jul 2026 07:33:00 +0900",
