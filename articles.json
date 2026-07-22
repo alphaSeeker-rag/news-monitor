@@ -1,5 +1,16 @@
 [
   {
+    "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
+    "published": "Wed, 22 Jul 2026 07:45:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-22 02:20:45",
+    "ai_summary": null
+  },
+  {
     "title": "AnthropicがAIモデル「Claude」のトレーニングに海賊版書籍を使った件で作家グループと和解するも一部の著者は和解を拒否",
     "link": "https://gigazine.net/news/20260722-anthropics-settlement-book-piracy-ai/",
     "published": "Wed, 22 Jul 2026 07:00:00 +0900",
