@@ -1,5 +1,115 @@
 [
   {
+    "title": "OpenAIの「次世代AIモデル」についてサム・アルトマンCEOが直々にトランプ政権とアメリカの議員へ説明予定",
+    "link": "https://gigazine.net/news/20260722-openai-brief-us-officials/",
+    "published": "Wed, 22 Jul 2026 22:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-22 14:10:13",
+    "ai_summary": null
+  },
+  {
+    "title": "AIモデルは1つに決めない方が安くて高性能、Kimi K3とFable 5の使い分けで最大50倍のコスト効率という実験結果",
+    "link": "https://gigazine.net/news/20260722-fireworks-kimi-k3-fable/",
+    "published": "Wed, 22 Jul 2026 21:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-22 14:10:13",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAがAIエージェント向けCPU「Vera」の詳細を公開、独自設計コアを88基搭載しDeepInfraの実測ではSapphire Rapids比2.2倍",
+    "link": "https://gigazine.net/news/20260722-nvidia-vera-cpu/",
+    "published": "Wed, 22 Jul 2026 16:10:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-22 14:10:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Ciscoが脆弱性の場所を特定する小型AI「Antares」を公開、GPT-5.5級の性能を低コストで実現",
+    "link": "https://gigazine.net/news/20260722-cisco-antares/",
+    "published": "Wed, 22 Jul 2026 16:08:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-22 14:10:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Gemini 3.6 Flashのベンチマーク結果はこんな感じ",
+    "link": "https://gigazine.net/news/20260722-gemini-3-6-flash-benchmark/",
+    "published": "Wed, 22 Jul 2026 16:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-22 14:10:13",
+    "ai_summary": null
+  },
+  {
+    "title": "GPT-5.6やClaude Mythosなどの最先端AIモデルがタスク完了のため「不正行為」に手を染めたとのレポート",
+    "link": "https://gigazine.net/news/20260722-cheating-behaviour-frontier-ai-model/",
+    "published": "Wed, 22 Jul 2026 15:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-22 14:10:13",
+    "ai_summary": null
+  },
+  {
+    "title": "中国のAIモデルがアメリカのAIモデルを基に作られたかどうかを調査し制裁を科す可能性があるとトランプ政権が発表",
+    "link": "https://gigazine.net/news/20260722-bessent-warn-china-ai-theft/",
+    "published": "Wed, 22 Jul 2026 13:48:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-22 14:10:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが「Gemini 3.6 Flash」「Gemini 3.5 Flash-Lite」「Gemini 3.5 Flash Cyber」を発表、Gemini 4も開発中",
+    "link": "https://gigazine.net/news/20260722-google-gemini-3-6-flash/",
+    "published": "Wed, 22 Jul 2026 12:02:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-22 14:10:13",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが新しいAIシステムで誤ってHugging Faceをハッキングしてしまったことを報告",
+    "link": "https://gigazine.net/news/20260722-openai-accidentally-hacked-hugging-face/",
+    "published": "Wed, 22 Jul 2026 11:56:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-22 14:10:13",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIのモデルが他社システムに侵入、ゼロデイ悪用でサンドボックス脱出",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11912/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-07-22 14:10:19",
+    "ai_summary": null
+  },
+  {
     "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
     "link": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
     "published": "Wed, 22 Jul 2026 07:45:00 +0900",
