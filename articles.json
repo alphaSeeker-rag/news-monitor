@@ -1,5 +1,72 @@
 [
   {
+    "title": "AMDがサーバーCPU「EPYC 9006」やAIラックサーバー「Helios」などAIデータセンター向けの製品を発表",
+    "link": "https://gigazine.net/news/20260724-amd-advancing-ai-2026/",
+    "published": "Fri, 24 Jul 2026 19:09:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-24 13:58:34",
+    "ai_summary": null
+  },
+  {
+    "title": "アメリカのスタートアップ企業が「中国製のオープンウェイトAIを禁止しないで」とトランプ政権に訴えかける",
+    "link": "https://gigazine.net/news/20260724-us-startup-urge-trump-chinese-open-ai/",
+    "published": "Fri, 24 Jul 2026 19:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-24 13:58:34",
+    "ai_summary": null
+  },
+  {
+    "title": "AMDが高速AI推論システムのCerebrasと提携して超低遅延AIシステムを2026年後半に出荷予定",
+    "link": "https://gigazine.net/news/20260724-amd-cerebras-collaborating/",
+    "published": "Fri, 24 Jul 2026 13:58:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-24 13:58:34",
+    "ai_summary": null
+  },
+  {
+    "title": "画像・動画・音声の生成AIモデルを条件に合わせて自動で選ぶ「Runway Media Router」が登場",
+    "link": "https://gigazine.net/news/20260724-runway-media-router/",
+    "published": "Fri, 24 Jul 2026 12:48:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-24 13:58:34",
+    "ai_summary": null
+  },
+  {
+    "title": "画像も動画も音声も生成できるAI「FLUX 3」が発表される",
+    "link": "https://gigazine.net/news/20260724-flux-3-generation-ai/",
+    "published": "Fri, 24 Jul 2026 11:35:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-24 13:58:34",
+    "ai_summary": null
+  },
+  {
+    "title": "ASML、EUV露光装置の生産能力を27年と28年に30％増強",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2607/24/news064.html",
+    "published": "Fri, 24 Jul 2026 12:30:00 +0900",
+    "keywords": [
+      "EUV",
+      "HBM"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-07-24 13:58:37",
+    "ai_summary": null
+  },
+  {
     "title": "Etched Raises $300M with $1B in Pre-Orders",
     "link": "https://www.eetimes.com/etched-raises-300m-with-1b-in-pre-orders/",
     "published": "Thu, 23 Jul 2026 15:00:00 +0000",
