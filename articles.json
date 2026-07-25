@@ -1,5 +1,16 @@
 [
   {
+    "title": "中国の副首相が「中国産AIチップを採用を拒むものは裏切り者である」と発言したことが報じられる",
+    "link": "https://gigazine.net/news/20260725-china-ai-chip/",
+    "published": "Sat, 25 Jul 2026 10:00:00 +0900",
+    "keywords": [
+      "国産AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-25 02:21:46",
+    "ai_summary": null
+  },
+  {
     "title": "AMDがサーバーCPU「EPYC 9006」やAIラックサーバー「Helios」などAIデータセンター向けの製品を発表",
     "link": "https://gigazine.net/news/20260724-amd-advancing-ai-2026/",
     "published": "Fri, 24 Jul 2026 19:09:00 +0900",
