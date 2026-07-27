@@ -1,5 +1,27 @@
 [
   {
+    "title": "AIがHugging FaceをハッキングしていたことにOpenAIは1週間気づかなかったと関係者が明かす",
+    "link": "https://gigazine.net/news/20260727-ai-hacking-notice/",
+    "published": "Mon, 27 Jul 2026 20:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-27 14:50:05",
+    "ai_summary": null
+  },
+  {
+    "title": "Hugging FaceのCEOがOpenAIのAIによるハッキング事件を受け「徹底的な透明性」を訴える",
+    "link": "https://gigazine.net/news/20260727-hugging-face-ceo-openai-hacking-radical-transparency/",
+    "published": "Mon, 27 Jul 2026 12:25:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-27 14:50:05",
+    "ai_summary": null
+  },
+  {
     "title": "Five Myths about the Current Memory Boom",
     "link": "https://semiwiki.com/semiconductor-manufacturers/371531-five-myths-about-the-current-memory-boom/",
     "published": "Sun, 26 Jul 2026 21:00:34 +0000",
