@@ -1,5 +1,60 @@
 [
   {
+    "title": "堀場製作所、熊本県西原村の工場「大きな人的、物的被害ない」　半導体製品でシェア首位",
+    "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000244/",
+    "published": "Tue, 28 Jul 2026 20:32:48 +0900",
+    "keywords": [
+      "半導体製造装置"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-28 14:24:23",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoftがセキュリティ特化AI「MAI-Cyber-1-Flash」を発表、GPT-5.4と組み合わせてClaude Mythos 5超えのセキュリティ能力を低コストで発揮",
+    "link": "https://gigazine.net/news/20260728-microsoft-mai-cyber-1-flash/",
+    "published": "Tue, 28 Jul 2026 13:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-28 14:24:23",
+    "ai_summary": null
+  },
+  {
+    "title": "AMDが自社製GPUで学習した独自開発AIモデル「Instella-MoE」を公開、Gemma-4-E4Bより高性能な小型モデル",
+    "link": "https://gigazine.net/news/20260728-amd-instella-moe/",
+    "published": "Tue, 28 Jul 2026 12:15:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-28 14:24:23",
+    "ai_summary": null
+  },
+  {
+    "title": "Chip Industry Technical Paper Roundup: July 28",
+    "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-28/",
+    "published": "Tue, 28 Jul 2026 07:01:45 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-07-28 14:24:25",
+    "ai_summary": null
+  },
+  {
+    "title": "石狩市でデータセンターの企業連合、NTT東やさくらインターネットなど11社",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11929/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-07-28 14:24:30",
+    "ai_summary": null
+  },
+  {
     "title": "中国製高性能AI「Kimi-K3」が予定通りオープンモデル化される、2.8兆パラメーターでClaude Fable 5やGPT-5.6 Solに迫る性能",
     "link": "https://gigazine.net/news/20260728-kimi-k3-open/",
     "published": "Tue, 28 Jul 2026 10:42:00 +0900",
