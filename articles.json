@@ -1,5 +1,60 @@
 [
   {
+    "title": "Meta、エルパソのデータセンターをBlackRockと共同開発　総額140億ドル、Metaの出資比率は20％",
+    "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000265/",
+    "published": "Wed, 29 Jul 2026 11:05:50 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-29 14:23:27",
+    "ai_summary": null
+  },
+  {
+    "title": "GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか？」という観点で測定したベンチマークテスト「mcpbench」",
+    "link": "https://gigazine.net/news/20260729-mcpbench/",
+    "published": "Wed, 29 Jul 2026 23:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-29 14:23:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Hugging Faceは女性や子どもの無断ヌード画像生成に使われており予防措置が講じられていないとの調査結果",
+    "link": "https://gigazine.net/news/20260729-hugging-face-ai-nudify-deepfake-children/",
+    "published": "Wed, 29 Jul 2026 15:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-29 14:23:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Amazonのデータセンターが再びイランからミサイル攻撃を受けたことが衛星画像で発覚",
+    "link": "https://gigazine.net/news/20260729-amazon-data-centers-hit-iran-strikes/",
+    "published": "Wed, 29 Jul 2026 14:02:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-29 14:23:28",
+    "ai_summary": null
+  },
+  {
+    "title": "AnthropicのClaude Mythos Previewがポスト量子暗号の強度を半分に減らす攻撃手法を発見",
+    "link": "https://gigazine.net/news/20260729-claude-mythos-preview-finds-flaws/",
+    "published": "Wed, 29 Jul 2026 11:26:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-29 14:23:28",
+    "ai_summary": null
+  },
+  {
     "title": "NVIDIAはVera CPUで次世代チップ開発を加速中、すでに最大1.5倍の性能向上を確認",
     "link": "https://gigazine.net/news/20260729-nvidia-vera-cpu-to-speed-up-next-generation/",
     "published": "Wed, 29 Jul 2026 09:47:00 +0900",
