@@ -1,5 +1,27 @@
 [
   {
+    "title": "NVIDIAはVera CPUで次世代チップ開発を加速中、すでに最大1.5倍の性能向上を確認",
+    "link": "https://gigazine.net/news/20260729-nvidia-vera-cpu-to-speed-up-next-generation/",
+    "published": "Wed, 29 Jul 2026 09:47:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-29 02:13:43",
+    "ai_summary": null
+  },
+  {
+    "title": "AI攻撃にAIで対抗、Microsoftが新システム　サイバー防御の独自モデルも",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11930/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-07-29 02:13:49",
+    "ai_summary": null
+  },
+  {
     "title": "堀場製作所、熊本県西原村の工場「大きな人的、物的被害ない」　半導体製品でシェア首位",
     "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000244/",
     "published": "Tue, 28 Jul 2026 20:32:48 +0900",
