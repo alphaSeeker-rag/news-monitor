@@ -1,5 +1,72 @@
 [
   {
+    "title": "Claudeも3組織に不正アクセス　実在システムを「演習の一部」と誤認　Anthropicが経緯を公表",
+    "link": "https://www.itmedia.co.jp/news/article/2607/31/2000000334/",
+    "published": "Fri, 31 Jul 2026 16:25:14 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-07-31 14:23:03",
+    "ai_summary": null
+  },
+  {
+    "title": "AmazonでAIのコストが壊滅的なレベルでかさんで予算を860％も超過した事例が報告される、Amazonは「小規模なケースだし2億円は誤差」と反論",
+    "link": "https://gigazine.net/news/20260731-ai-amazon-expensive/",
+    "published": "Fri, 31 Jul 2026 16:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-31 14:23:04",
+    "ai_summary": null
+  },
+  {
+    "title": "Inklingと同等の性能をほぼ4分の1サイズで発揮する「Inkling-Small」をThinking Machines Labがリリース",
+    "link": "https://gigazine.net/news/20260731-thinking-machines-lab-inkling-small/",
+    "published": "Fri, 31 Jul 2026 12:40:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-31 14:23:04",
+    "ai_summary": null
+  },
+  {
+    "title": "AnthropicもAIモデルのテスト中に外部への攻撃を実行してしまったことを報告、マルウェアを1時間にわたって配布し実在する企業に侵入した事例も",
+    "link": "https://gigazine.net/news/20260731-anthropic-real-world-incident/",
+    "published": "Fri, 31 Jul 2026 11:52:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-07-31 14:23:04",
+    "ai_summary": null
+  },
+  {
+    "title": "The Difference Between CoWoS-S and CoWoS-R",
+    "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/371759-the-difference-between-cowos-s-and-cowos-r/",
+    "published": "Fri, 31 Jul 2026 13:00:45 +0000",
+    "keywords": [
+      "HBM",
+      "CoWoS"
+    ],
+    "source": "SemiWiki",
+    "detected_at": "2026-07-31 14:23:04",
+    "ai_summary": null
+  },
+  {
+    "title": "中国最大のDRAMメーカーCXMTがIPOへ　増産とHBM開発で存在感",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2607/31/news068.html",
+    "published": "Fri, 31 Jul 2026 11:00:00 +0900",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-07-31 14:23:06",
+    "ai_summary": null
+  },
+  {
     "title": "Google DeepMindがロボット向けAIモデル「Gemini Robotics 2」を発表、歩行から両手の細かな作業まで全身を制御可能に",
     "link": "https://gigazine.net/news/20260731-google-deepmind-gemini-robotics-2/",
     "published": "Fri, 31 Jul 2026 10:37:00 +0900",
