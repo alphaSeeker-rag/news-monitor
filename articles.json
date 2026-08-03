@@ -1,5 +1,38 @@
 [
   {
+    "title": "Google Earthに追加された「架空の衛星画像を生成するAI機能」がわずか1日で撤回、偽の災害・軍事画像を作成可能だったため",
+    "link": "https://gigazine.net/news/20260803-google-earth-nano-banana-2-removed/",
+    "published": "Mon, 03 Aug 2026 10:39:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-03 02:28:56",
+    "ai_summary": null
+  },
+  {
+    "title": "村田製作所、26年度1Qは売上高が過去最高　データセンター関連は81％増",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2608/03/news034.html",
+    "published": "Mon, 03 Aug 2026 09:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-08-03 02:28:59",
+    "ai_summary": null
+  },
+  {
+    "title": "AIが「プロキシを突破する」時代へ　OpenAIの評価用AI、ゼロデイ脆弱性を自律悪用",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/03/news014.html",
+    "published": "Mon, 03 Aug 2026 07:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia エンタープライズ 最新記事一覧",
+    "detected_at": "2026-08-03 02:29:05",
+    "ai_summary": null
+  },
+  {
     "title": "国内新興の宇宙データセンター、民生半導体で安く　データ爆発に備え",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03227/071500027/",
     "published": "",
