@@ -1,5 +1,71 @@
 [
   {
+    "title": "「Kimi K3」を開発した中国のMoonshot AIはAlibaba経由で約2万個のNVIDIA製チップを使用したとの報道",
+    "link": "https://gigazine.net/news/20260803-moonshot-kimi-20000-nvidia-chip-alibaba/",
+    "published": "Mon, 03 Aug 2026 15:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-03 14:53:59",
+    "ai_summary": null
+  },
+  {
+    "title": "中国の軍事研究者がOpenAIやAnthropicのAIモデルを抽出して国内の軍事システム開発に利用していたことが判明",
+    "link": "https://gigazine.net/news/20260803-china-ai-distillation/",
+    "published": "Mon, 03 Aug 2026 14:45:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-03 14:53:59",
+    "ai_summary": null
+  },
+  {
+    "title": "「DeepSeek-V4-Flash-0731」が登場、GPT-5.6 Lunaより安価で同等性能のオープンモデル",
+    "link": "https://gigazine.net/news/20260803-deepseek-v4-flash-0731/",
+    "published": "Mon, 03 Aug 2026 12:45:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-03 14:53:59",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIの次期主力AIモデル「Astra」が10件の数学・理論計算機科学の課題で新成果、証明をLean 4で形式化し機械検証可能に",
+    "link": "https://gigazine.net/news/20260803-openai-astra-lean/",
+    "published": "Mon, 03 Aug 2026 12:40:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-03 14:53:59",
+    "ai_summary": null
+  },
+  {
+    "title": "AppleのMacBook Airが世界的なメモリ不足で品薄に、開発中のスマートグラスは健康機器としての活用を検討",
+    "link": "https://gigazine.net/news/20260803-apple-macbook-air-shortage/",
+    "published": "Mon, 03 Aug 2026 11:53:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-03 14:53:59",
+    "ai_summary": null
+  },
+  {
+    "title": "ルネサス、26年2Qは増収増益　データセンター需要強く「供給はパツパツ」",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2608/03/news038.html",
+    "published": "Mon, 03 Aug 2026 13:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-08-03 14:54:02",
+    "ai_summary": null
+  },
+  {
     "title": "Google Earthに追加された「架空の衛星画像を生成するAI機能」がわずか1日で撤回、偽の災害・軍事画像を作成可能だったため",
     "link": "https://gigazine.net/news/20260803-google-earth-nano-banana-2-removed/",
     "published": "Mon, 03 Aug 2026 10:39:00 +0900",
