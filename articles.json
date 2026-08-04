@@ -1,5 +1,49 @@
 [
   {
+    "title": "「中国軍がDeepSeek製AIを無人航空機に活用」「時速50kmの軍用車両にも搭載」　きょう公開の防衛白書",
+    "link": "https://www.itmedia.co.jp/news/article/2608/04/2000000382/",
+    "published": "Tue, 04 Aug 2026 20:59:27 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-08-04 14:29:58",
+    "ai_summary": null
+  },
+  {
+    "title": "Cloudflareが大型AIモデルの高速推論サービスを展開するための効率化手法を公開",
+    "link": "https://gigazine.net/news/20260804-cloudflare-ai-kimi-glm/",
+    "published": "Tue, 04 Aug 2026 12:52:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-04 14:29:59",
+    "ai_summary": null
+  },
+  {
+    "title": "中国・Alibabaが2.4兆パラメーターのAI「Qwen3.8-Max」を発表、Claude Fable 5に匹敵する性能で研究論文の改良や16日間の自律開発が可能",
+    "link": "https://gigazine.net/news/20260804-alibaba-qwen-3-8-max/",
+    "published": "Tue, 04 Aug 2026 11:11:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-04 14:29:59",
+    "ai_summary": null
+  },
+  {
+    "title": "三菱電機、米国にデータセンター向け冷却機器の新拠点",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2608/04/news023.html",
+    "published": "Tue, 04 Aug 2026 13:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-08-04 14:30:02",
+    "ai_summary": null
+  },
+  {
     "title": "EU、AIの透明性義務の適用を開始　生成コンテンツにラベルとマーク義務、違反に最大1500万ユーロ",
     "link": "https://www.itmedia.co.jp/news/article/2608/04/2000000366/",
     "published": "Tue, 04 Aug 2026 08:30:13 +0900",
