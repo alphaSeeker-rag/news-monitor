@@ -1,5 +1,71 @@
 [
   {
+    "title": "キオクシア、フラッシュメモリでメモリ容量を増やせるモジュール発表　DRAMの容量不足を補う",
+    "link": "https://www.itmedia.co.jp/news/article/2608/05/2000000400/",
+    "published": "Wed, 05 Aug 2026 17:31:40 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-08-05 14:23:11",
+    "ai_summary": null
+  },
+  {
+    "title": "iPhoneで動作しBonsai 27Bと同等性能で13倍高速なAI「Maple-Preview」が登場、ローカルAIがまた1歩前進",
+    "link": "https://gigazine.net/news/20260805-maple-preview/",
+    "published": "Wed, 05 Aug 2026 23:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-05 14:23:12",
+    "ai_summary": null
+  },
+  {
+    "title": "アメリカ政府が中国製データセンター向け機器の輸入を禁止する方針",
+    "link": "https://gigazine.net/news/20260805-us-ban-chinese-made-dc-module/",
+    "published": "Wed, 05 Aug 2026 19:45:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-05 14:23:12",
+    "ai_summary": null
+  },
+  {
+    "title": "Mistral AIが小型モデレーションAI「Shieldstral」を公開、文章や画像を自然言語のルールで判定可能",
+    "link": "https://gigazine.net/news/20260805-mistral-shieldstral/",
+    "published": "Wed, 05 Aug 2026 14:50:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-05 14:23:12",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Mythos 5やGPT-5.6 Solが無許可でハッキングをする事例を確認したとイギリス政府機関が報告",
+    "link": "https://gigazine.net/news/20260805-aisi-unsanctioned-agent-behaviour/",
+    "published": "Wed, 05 Aug 2026 14:05:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-05 14:23:12",
+    "ai_summary": null
+  },
+  {
+    "title": "スマホで動作するエージェント対応小型AIモデル「LFM2.5-2.6B」が登場、ローカル環境でAIエージェントを実行可能",
+    "link": "https://gigazine.net/news/20260805-lfm2-5-2-6b/",
+    "published": "Wed, 05 Aug 2026 12:25:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-05 14:23:12",
+    "ai_summary": null
+  },
+  {
     "title": "直接液冷に初対応、キオクシアがデータセンター用NVMe SSD",
     "link": "https://eetimes.itmedia.co.jp/ee/articles/2608/05/news031.html",
     "published": "Wed, 05 Aug 2026 09:30:00 +0900",
