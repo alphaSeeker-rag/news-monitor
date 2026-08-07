@@ -1,5 +1,49 @@
 [
   {
+    "title": "AMDがAIモデルの「重み」を直接半導体に組み込むTaalasを買収へ、AI推論の高速化を狙う",
+    "link": "https://gigazine.net/news/20260807-amd-acquire-taalas/",
+    "published": "Fri, 07 Aug 2026 11:05:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-07 02:28:54",
+    "ai_summary": null
+  },
+  {
+    "title": "SKがHBMで攻勢、韓国で一時株価首位　サムスンと第7世代品競う",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01231/00158/",
+    "published": "",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-07 02:29:00",
+    "ai_summary": null
+  },
+  {
+    "title": "ついに明かされたKimi K3の全貌とインパクト、7月の注目論文",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02801/080600038/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-07 02:29:00",
+    "ai_summary": null
+  },
+  {
+    "title": "人工衛星でデータを処理する「宇宙データセンター」、米SpaceXなどが構想",
+    "link": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/072800322/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-07 02:29:00",
+    "ai_summary": null
+  },
+  {
     "title": "イーロン・マスク氏の「Terafab」、建設地決定　テキサス州グライムズ郡に168億ドル投資",
     "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000436/",
     "published": "Fri, 07 Aug 2026 07:37:55 +0900",
