@@ -1,5 +1,27 @@
 [
   {
+    "title": "DeepSeekがAPI料金の大幅値上げを予告、低価格戦略による需要急増が背景か",
+    "link": "https://gigazine.net/news/20260807-deepseek-raise-prices/",
+    "published": "Fri, 07 Aug 2026 15:25:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-07 13:17:10",
+    "ai_summary": null
+  },
+  {
+    "title": "遺伝子配列を学習したAIが自然界で確認されていないウイルスを設計、細菌に感染する16種類が実際に機能",
+    "link": "https://gigazine.net/news/20260807-ai-designs-bacteriophages-genome/",
+    "published": "Fri, 07 Aug 2026 13:45:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-07 13:17:10",
+    "ai_summary": null
+  },
+  {
     "title": "AMDがAIモデルの「重み」を直接半導体に組み込むTaalasを買収へ、AI推論の高速化を狙う",
     "link": "https://gigazine.net/news/20260807-amd-acquire-taalas/",
     "published": "Fri, 07 Aug 2026 11:05:00 +0900",
