@@ -1,5 +1,72 @@
 [
   {
+    "title": "Claude Fable 5で生物学の質問が過剰に制限される問題を改善、誤検出を減らして「フォールバック」を約85％削減",
+    "link": "https://gigazine.net/news/20260810-claude-fable-5-biology-safeguard/",
+    "published": "Mon, 10 Aug 2026 20:50:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-10 13:22:18",
+    "ai_summary": null
+  },
+  {
+    "title": "AIブームでRAM価格が20年前の水準に逆戻り、DDR4の1GB単価は約2年で10倍近くに",
+    "link": "https://gigazine.net/news/20260810-ai-ram-price/",
+    "published": "Mon, 10 Aug 2026 14:20:00 +0900",
+    "keywords": [
+      "データセンター",
+      "HBM"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-10 13:22:18",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが開発中の次期主力AIモデル「Astra」について「強力すぎる」ことを理由にサイバーリスク重大に指定して安全措置を開発中",
+    "link": "https://gigazine.net/news/20260810-astra-cyber-capabilities/",
+    "published": "Mon, 10 Aug 2026 13:50:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-10 13:22:18",
+    "ai_summary": null
+  },
+  {
+    "title": "ByteDanceが「Claude Mythos 5」を上回る可能性があるAIモデルを開発中との報道",
+    "link": "https://gigazine.net/news/20260810-bytedance-mega-ai-model/",
+    "published": "Mon, 10 Aug 2026 12:38:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-10 13:22:18",
+    "ai_summary": null
+  },
+  {
+    "title": "動画生成AI「MiniMax H3」の開発チームが「画像生成・編集モデル」「動画アップスケールモデル」「低ステップ版MiniMax H3」を準備中であることを明言",
+    "link": "https://gigazine.net/news/20260810-minimax-h3-team-ama/",
+    "published": "Mon, 10 Aug 2026 12:18:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-10 13:22:18",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI、次世代AI「Astra」の開発を一部停止　高いサイバー攻撃能力を懸念",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11960/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-10 13:22:25",
+    "ai_summary": null
+  },
+  {
     "title": "フロンティアAIの登場により金融機関に求められている対応はどのようなものか",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00008/00102/",
     "published": "",
