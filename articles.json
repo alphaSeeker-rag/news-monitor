@@ -1,5 +1,27 @@
 [
   {
+    "title": "中国のAI開発は「中国語の訓練データ不足」という新たなボトルネックに直面している",
+    "link": "https://gigazine.net/news/20260811-china-ai-chinese-training-data/",
+    "published": "Tue, 11 Aug 2026 10:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-11 01:22:15",
+    "ai_summary": null
+  },
+  {
+    "title": "メタが軽量AIモデル｢Muse Glimmer｣発表－グラフィックスカード1枚だけで動作できるほど小型､個人利用を想定 | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/954499?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Tue, 11 Aug 2026 06:50:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-08-11 01:22:22",
+    "ai_summary": null
+  },
+  {
     "title": "Claude Fable 5で生物学の質問が過剰に制限される問題を改善、誤検出を減らして「フォールバック」を約85％削減",
     "link": "https://gigazine.net/news/20260810-claude-fable-5-biology-safeguard/",
     "published": "Mon, 10 Aug 2026 20:50:00 +0900",
