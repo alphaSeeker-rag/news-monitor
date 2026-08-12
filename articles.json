@@ -1,5 +1,27 @@
 [
   {
+    "title": "AIモデル「Qwen3.8-Max」の大口商用ユーザーにアリババが収益の一部共有を義務づけへ",
+    "link": "https://gigazine.net/news/20260812-alibaba-charge-qwen/",
+    "published": "Wed, 12 Aug 2026 08:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-12 01:38:34",
+    "ai_summary": null
+  },
+  {
+    "title": "中古サーバ用GPUでローカルLLM環境を作る試算（MI50 / P40 / P100 / V100 / CMP 170HX）",
+    "link": "https://zenn.dev/phpmyadmin/articles/used-server-gpu-local-llm",
+    "published": "Tue, 11 Aug 2026 05:19:22 GMT",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-08-12 01:38:35",
+    "ai_summary": null
+  },
+  {
     "title": "すべての文字起こしAIモデルをサポートするGGMLベースの文字起こしライブラリ「transcribe.cpp」、ほぼそのままでwhisper.cppと置き換え可能",
     "link": "https://gigazine.net/news/20260811-transcribe-cpp/",
     "published": "Tue, 11 Aug 2026 18:00:00 +0900",
