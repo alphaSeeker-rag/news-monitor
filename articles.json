@@ -1,5 +1,38 @@
 [
   {
+    "title": "Micron Advanced Memory Portfolio Positioned for AI Infrastructure Expansion",
+    "link": "https://semiwiki.com/semiconductor-manufacturers/369794-micron-advanced-memory-portfolio-positioned-for-ai-infrastructure-expansion/",
+    "published": "Wed, 12 Aug 2026 21:00:55 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "SemiWiki",
+    "detected_at": "2026-08-12 21:45:43",
+    "ai_summary": null
+  },
+  {
+    "title": "Defect Prediction in Optical Lithography, EUVL, and NIL (National Taiwan University)",
+    "link": "https://semiengineering.com/defect-prediction-in-optical-lithography-euvl-and-nil-national-taiwan-university/",
+    "published": "Wed, 12 Aug 2026 17:46:29 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-08-12 21:45:44",
+    "ai_summary": null
+  },
+  {
+    "title": "蓄電池の数量規制緩和でデータセンター立地促進へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00006/080400727/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-12 21:45:48",
+    "ai_summary": null
+  },
+  {
     "title": "NVIDIAがAIエージェント向け高速モデル「Nemotron 3.5 Lightning」を公開、最適なAIモデルを選ぶ「NeMo Switchyard」も登場",
     "link": "https://gigazine.net/news/20260812-nvidia-nemotron-3-5-lightning/",
     "published": "Wed, 12 Aug 2026 11:54:00 +0900",
