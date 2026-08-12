@@ -1,5 +1,16 @@
 [
   {
+    "title": "NVIDIAがAIエージェント向け高速モデル「Nemotron 3.5 Lightning」を公開、最適なAIモデルを選ぶ「NeMo Switchyard」も登場",
+    "link": "https://gigazine.net/news/20260812-nvidia-nemotron-3-5-lightning/",
+    "published": "Wed, 12 Aug 2026 11:54:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-12 13:23:12",
+    "ai_summary": null
+  },
+  {
     "title": "AIモデル「Qwen3.8-Max」の大口商用ユーザーにアリババが収益の一部共有を義務づけへ",
     "link": "https://gigazine.net/news/20260812-alibaba-charge-qwen/",
     "published": "Wed, 12 Aug 2026 08:00:00 +0900",
