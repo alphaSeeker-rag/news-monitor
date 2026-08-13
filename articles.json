@@ -1,5 +1,82 @@
 [
   {
+    "title": "AIモデルに子ども向けの動物物語を作らせると女性キャラをほぼ完全に排除してしまう",
+    "link": "https://gigazine.net/news/20260813-ai-erase-female-characters-kids-stories/",
+    "published": "Thu, 13 Aug 2026 19:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-13 13:24:58",
+    "ai_summary": null
+  },
+  {
+    "title": "Mistral AIのプラットフォームでサードパーティー製オープンモデルが選択可能に、まずはZ.aiのGLM-5.2から",
+    "link": "https://gigazine.net/news/20260813-mistral-ai-third-party-open-model/",
+    "published": "Thu, 13 Aug 2026 17:40:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-13 13:24:58",
+    "ai_summary": null
+  },
+  {
+    "title": "中華AIスタートアップのDeepSeekが「DeepSeek V4 Pro 0813」をひっそりとリリース",
+    "link": "https://gigazine.net/news/20260813-deepseek-v4-pro-0813/",
+    "published": "Thu, 13 Aug 2026 15:25:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-13 13:24:58",
+    "ai_summary": null
+  },
+  {
+    "title": "「Grok 4.6」が登場、長時間のエージェント作業に強くなりGPT-5.6 SolやClaude Fable 5と並ぶ性能に",
+    "link": "https://gigazine.net/news/20260813-grok-4-6/",
+    "published": "Thu, 13 Aug 2026 13:33:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-13 13:24:58",
+    "ai_summary": null
+  },
+  {
+    "title": "2.4兆パラメーターの中華AI「Qwen3.8」がオープンモデルとして無償公開される、OpenAIやAnthropicの最先端モデルに匹敵する性能",
+    "link": "https://gigazine.net/news/20260813-alibaba-qwen-3-8-open/",
+    "published": "Thu, 13 Aug 2026 12:09:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-13 13:24:58",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが手話をテキストに変換するAIモデルをPixel 11に搭載",
+    "link": "https://gigazine.net/news/20260813-google-sl2t/",
+    "published": "Thu, 13 Aug 2026 11:32:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-13 13:24:58",
+    "ai_summary": null
+  },
+  {
+    "title": "AIモデルをチップに焼き付ける　AMDが新興Taalas買収",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2608/13/news057.html",
+    "published": "Thu, 13 Aug 2026 16:30:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-08-13 13:25:01",
+    "ai_summary": null
+  },
+  {
     "title": "SpaceXAI、「Grok 4.6」を発表　総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
     "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
     "published": "Thu, 13 Aug 2026 06:32:01 +0900",
