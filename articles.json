@@ -1,5 +1,60 @@
 [
   {
+    "title": "実はAnthropicには最上位のMythosよりも強力な「Model 2」というAIモデルがあるがリリース予定はない",
+    "link": "https://gigazine.net/news/20260817-anthropic-model-2/",
+    "published": "Mon, 17 Aug 2026 21:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-17 12:55:11",
+    "ai_summary": null
+  },
+  {
+    "title": "データセンターブームの恩恵で人口8500人の町の貧困率が大幅低下、ただし電力需要増に伴う費用はデータセンターが負担",
+    "link": "https://gigazine.net/news/20260817-data-centers-economy-town/",
+    "published": "Mon, 17 Aug 2026 16:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-17 12:55:11",
+    "ai_summary": null
+  },
+  {
+    "title": "ローカルで動かせる「Qwen3.8-27B」が無償公開、一部ベンチマークでClaude Opus 4.6 Max超え",
+    "link": "https://gigazine.net/news/20260817-qwen3-8-27b/",
+    "published": "Mon, 17 Aug 2026 13:47:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-17 12:55:11",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicのダリオ・アモデイCEOが「AIの規制」について物申す、規制が中央集権化につながるという指摘に反論",
+    "link": "https://gigazine.net/news/20260817-dario-amodei-comment/",
+    "published": "Mon, 17 Aug 2026 13:26:00 +0900",
+    "keywords": [
+      "AI規制"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-17 12:55:11",
+    "ai_summary": null
+  },
+  {
+    "title": "Z.aiがコーディング能力に優れたオープンウェイトAIモデル「GLM-5.3」リリース、前モデル比で50％の性能向上",
+    "link": "https://gigazine.net/news/20260817-z-ai-glm-5-3/",
+    "published": "Mon, 17 Aug 2026 12:05:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-17 12:55:11",
+    "ai_summary": null
+  },
+  {
     "title": "KDDI堺データセンター、シャープ堺工場を転換",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/032500539/080700002/",
     "published": "",
