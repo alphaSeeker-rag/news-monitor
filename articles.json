@@ -1,5 +1,72 @@
 [
   {
+    "title": "Googleが倒産したスピリット航空のメール1億件・Teamsチャット5億件を約16億円で購入へ、AIモデルの学習などに利用",
+    "link": "https://gigazine.net/news/20260818-google-buy-bankrupt-airline/",
+    "published": "Tue, 18 Aug 2026 12:22:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-18 12:57:10",
+    "ai_summary": null
+  },
+  {
+    "title": "ローカルで動く中国製オープンモデル「Qwen3.8 27B」はGPT-5.6 Terra超えのエージェント性能で同等規模のモデルより圧倒的に高性能という分析結果",
+    "link": "https://gigazine.net/news/20260818-qwen3-8-27b-performance/",
+    "published": "Tue, 18 Aug 2026 11:48:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-18 12:57:10",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIの大規模データセンターを作るべくNVIDIAがソフトバンク関連企業に2400億円を投資、2030年までに約96兆円のビジネスチャンスをもたらす計画",
+    "link": "https://gigazine.net/news/20260818-nvidia-sb-energy-openai-ports-pike/",
+    "published": "Tue, 18 Aug 2026 11:40:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-18 12:57:10",
+    "ai_summary": null
+  },
+  {
+    "title": "絶好調の半導体市場に迫る転換点　株式市場が先読みする「2つの懸念」",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2608/18/news051.html",
+    "published": "Tue, 18 Aug 2026 11:00:00 +0900",
+    "keywords": [
+      "ハイパースケーラー"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-08-18 12:57:12",
+    "ai_summary": null
+  },
+  {
+    "title": "〈AI収益化の勝者はどこか？〉長期的に収益を生み出す企業の選別へ､｢ハイパースケーラーが優位｣との見方 | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/955181?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Tue, 18 Aug 2026 21:34:00 +0900",
+    "keywords": [
+      "ネオクラウド",
+      "ハイパースケーラー"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-08-18 12:57:16",
+    "ai_summary": null
+  },
+  {
+    "title": "【AI銘柄 決算解説】「フジクラ」「古河電工」「住友電工」電線御三家の足元の業績は？／今期業績予想を上方修正した背景／非鉄金属の大手「JX金属」「三井金属」の業績／“AI銘柄”の好調は今後も続くのか？ | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/955125?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Tue, 18 Aug 2026 12:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-08-18 12:57:16",
+    "ai_summary": null
+  },
+  {
     "title": "NVIDIA、OpenAIのオハイオAIデータセンターに最大1050億ドルの債務保証──SB Energyと提携",
     "link": "https://www.itmedia.co.jp/news/article/2608/18/2000000572/",
     "published": "Tue, 18 Aug 2026 06:55:32 +0900",
