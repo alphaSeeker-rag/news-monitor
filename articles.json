@@ -1,5 +1,82 @@
 [
   {
+    "title": "Hyundai unifies vehicle V2X capabilities with AllDayEnergy entity",
+    "link": "https://www.utilitydive.com/news/hyundai-unifies-vehicle-v2x-capabilities-with-alldayenergy-entity/828129/",
+    "published": "Tue, 18 Aug 2026 10:31:53 -0400",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Utility Dive - Latest News",
+    "detected_at": "2026-08-18 21:24:47",
+    "ai_summary": null
+  },
+  {
+    "title": "TSMCの供給不足を突くインテル、ラピダスはチップ接合で新機軸",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00153/00004/",
+    "published": "",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-18 21:24:49",
+    "ai_summary": null
+  },
+  {
+    "title": "キオクシア、CXL対応のフラッシュメモリー　AIデータセンター狙う",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11949/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-18 21:24:49",
+    "ai_summary": null
+  },
+  {
+    "title": "半導体後工程にフィジカルAIの波　論文数最多、次世代技術の議論白熱",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00153/00001/",
+    "published": "",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-18 21:24:49",
+    "ai_summary": null
+  },
+  {
+    "title": "AI技術で電源回路の設計を効率化、酸化ガリウムの積年の課題にメス",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00007/00342/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-18 21:24:49",
+    "ai_summary": null
+  },
+  {
+    "title": "米マイクロン、広島で最先端HBM　メロートラCEO「かつてない需要」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00679/",
+    "published": "",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-18 21:24:49",
+    "ai_summary": null
+  },
+  {
+    "title": "宇宙データセンターへ動き出した企業を一挙公開、乗り越えるべき4つの課題",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03718/081400001/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-18 21:24:49",
+    "ai_summary": null
+  },
+  {
     "title": "Googleが倒産したスピリット航空のメール1億件・Teamsチャット5億件を約16億円で購入へ、AIモデルの学習などに利用",
     "link": "https://gigazine.net/news/20260818-google-buy-bankrupt-airline/",
     "published": "Tue, 18 Aug 2026 12:22:00 +0900",
