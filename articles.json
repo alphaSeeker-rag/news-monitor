@@ -1,5 +1,27 @@
 [
   {
+    "title": "NVIDIA、OpenAIのオハイオAIデータセンターに最大1050億ドルの債務保証──SB Energyと提携",
+    "link": "https://www.itmedia.co.jp/news/article/2608/18/2000000572/",
+    "published": "Tue, 18 Aug 2026 06:55:32 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-08-18 00:59:55",
+    "ai_summary": null
+  },
+  {
+    "title": "Appleがアリババの支援を受けて中国専用のAIモデルを作成中、中国で独自のAIモデルを提供する最初の外国企業となる可能性大",
+    "link": "https://gigazine.net/news/20260818-apple-alibaba-model/",
+    "published": "Tue, 18 Aug 2026 08:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-18 00:59:56",
+    "ai_summary": null
+  },
+  {
     "title": "実はAnthropicには最上位のMythosよりも強力な「Model 2」というAIモデルがあるがリリース予定はない",
     "link": "https://gigazine.net/news/20260817-anthropic-model-2/",
     "published": "Mon, 17 Aug 2026 21:00:00 +0900",
