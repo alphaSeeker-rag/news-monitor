@@ -1,5 +1,60 @@
 [
   {
+    "title": "ローカルAIエージェントアプリ「Bionic」がSkillsに対応しCodexやClaude Codeの使い勝手に近づく",
+    "link": "https://gigazine.net/news/20260819-lm-studio-bionic-skills/",
+    "published": "Wed, 19 Aug 2026 20:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-19 12:57:45",
+    "ai_summary": null
+  },
+  {
+    "title": "AIエージェントは「記憶」が多いほど賢くなるわけではない、IBM Researchが8モデルで検証",
+    "link": "https://gigazine.net/news/20260819-ai-agent-memory/",
+    "published": "Wed, 19 Aug 2026 14:30:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-19 12:57:45",
+    "ai_summary": null
+  },
+  {
+    "title": "DeepSeek V4 Flashはベンチマークスコアは高いが実際のタスクでは苦戦しているという指摘、オーケストレーションに課題",
+    "link": "https://gigazine.net/news/20260819-deepseek-v4-flash-agent/",
+    "published": "Wed, 19 Aug 2026 13:15:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-19 12:57:45",
+    "ai_summary": null
+  },
+  {
+    "title": "ソシオネクスト、AI／HPC向けSoC開発にIntel 18A-P採用",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2608/19/news043.html",
+    "published": "Wed, 19 Aug 2026 15:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-08-19 12:57:47",
+    "ai_summary": null
+  },
+  {
+    "title": "2027年3月期第1四半期 国内半導体装置メーカー 業績まとめ",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2608/19/news038.html",
+    "published": "Wed, 19 Aug 2026 12:30:00 +0900",
+    "keywords": [
+      "半導体製造装置"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-08-19 12:57:47",
+    "ai_summary": null
+  },
+  {
     "title": "Hyundai unifies vehicle V2X capabilities with AllDayEnergy entity",
     "link": "https://www.utilitydive.com/news/hyundai-unifies-vehicle-v2x-capabilities-with-alldayenergy-entity/828129/",
     "published": "Tue, 18 Aug 2026 10:31:53 -0400",
