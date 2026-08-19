@@ -1,5 +1,49 @@
 [
   {
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」をWindowsで実際に使ってみた、インストールからウェブ検索・ブラウザ操作まで",
+    "link": "https://gigazine.net/news/20260819-hermes-agent-first-use/",
+    "published": "Wed, 19 Aug 2026 22:50:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-19 21:25:14",
+    "ai_summary": null
+  },
+  {
+    "title": "企業が支える米国「クリーンエネルギー料金」の新潮流",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02443/080400170/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-19 21:25:21",
+    "ai_summary": null
+  },
+  {
+    "title": "ドメスティックなフィジカルAI、過剰な外資警戒は競争力喪失につながる",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00849/00196/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-19 21:25:21",
+    "ai_summary": null
+  },
+  {
+    "title": "宇宙データセンターの鍵「ビット反転対策」、JAXA基金の採択企業が本格始動",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03718/081400002/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-19 21:25:21",
+    "ai_summary": null
+  },
+  {
     "title": "ローカルAIエージェントアプリ「Bionic」がSkillsに対応しCodexやClaude Codeの使い勝手に近づく",
     "link": "https://gigazine.net/news/20260819-lm-studio-bionic-skills/",
     "published": "Wed, 19 Aug 2026 20:00:00 +0900",
