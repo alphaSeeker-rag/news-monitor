@@ -1,5 +1,60 @@
 [
   {
+    "title": "Stripe、AIモデルゲートウェイのOpenRouter買収　400以上のAIモデルを束ねる中立基盤は維持",
+    "link": "https://www.itmedia.co.jp/news/article/2608/20/2000000639/",
+    "published": "Thu, 20 Aug 2026 10:43:52 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-08-20 13:00:06",
+    "ai_summary": null
+  },
+  {
+    "title": "データセンターの「捨てる熱」を工場などで有効活用　東電が技術開発",
+    "link": "http://www.asahi.com/articles/ASV8N2H6ZV8NULFA00XM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-08-20 13:00:06",
+    "ai_summary": null
+  },
+  {
+    "title": "スマホで動く小型AIモデル「LFM2.5」に省メモリ化を施しつつ性能低下を抑えたQAD版が登場",
+    "link": "https://gigazine.net/news/20260820-lfm2-5-qad/",
+    "published": "Thu, 20 Aug 2026 21:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-20 13:00:07",
+    "ai_summary": null
+  },
+  {
+    "title": "AIモデル「Ornith-1.5」が登場、Claude Opus 4.8級の大型モデルからスマホ動作可能な軽量モデルまで網羅したオープンモデル",
+    "link": "https://gigazine.net/news/20260820-ornith-1-5/",
+    "published": "Thu, 20 Aug 2026 10:57:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-20 13:00:07",
+    "ai_summary": null
+  },
+  {
+    "title": "How Will The Custom HBM Business Work?",
+    "link": "https://semiengineering.com/how-will-the-custom-hbm-business-work/",
+    "published": "Thu, 20 Aug 2026 07:02:29 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-08-20 13:00:09",
+    "ai_summary": null
+  },
+  {
     "title": "石狩市でデータセンターの企業連合　NTT東やさくらインターネットら11社",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/080701482/",
     "published": "",
