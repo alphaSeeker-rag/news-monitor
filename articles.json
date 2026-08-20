@@ -1,5 +1,38 @@
 [
   {
+    "title": "石狩市でデータセンターの企業連合　NTT東やさくらインターネットら11社",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/080701482/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-20 01:00:29",
+    "ai_summary": null
+  },
+  {
+    "title": "アンソロピックのAIも他社に侵入　設定ミスでネットアクセス可能に",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/080701483/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-20 01:00:29",
+    "ai_summary": null
+  },
+  {
+    "title": "モデルの利用料金は安くなっているのに、AIの総コスト上昇　「パラドクス」の背景を解説",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/20/news022.html",
+    "published": "Thu, 20 Aug 2026 08:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia エンタープライズ 最新記事一覧",
+    "detected_at": "2026-08-20 01:00:31",
+    "ai_summary": null
+  },
+  {
     "title": "使い込むほど成長するAIエージェント「Hermes Agent」をWindowsで実際に使ってみた、インストールからウェブ検索・ブラウザ操作まで",
     "link": "https://gigazine.net/news/20260819-hermes-agent-first-use/",
     "published": "Wed, 19 Aug 2026 22:50:00 +0900",
