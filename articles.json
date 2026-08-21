@@ -1,5 +1,38 @@
 [
   {
+    "title": "AIは「確実に6人を犠牲に1人を救える方法」と「全員生還か全員犠牲のギャンブル」のどちらを選ぶのか？",
+    "link": "https://gigazine.net/news/20260821-ai-gamble-lives/",
+    "published": "Fri, 21 Aug 2026 16:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-21 12:59:23",
+    "ai_summary": null
+  },
+  {
+    "title": "GitHubが約8時間ダウンした原因が判明、急増する利用量に重要なインフラが自動拡張できず障害が連鎖",
+    "link": "https://gigazine.net/news/20260821-why-github-down/",
+    "published": "Fri, 21 Aug 2026 11:51:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-21 12:59:23",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleの無料AIモデル「Gemma」が10億ダウンロードを達成",
+    "link": "https://gigazine.net/news/20260821-gemma-passes-1-billion-downloads/",
+    "published": "Fri, 21 Aug 2026 11:24:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-21 12:59:23",
+    "ai_summary": null
+  },
+  {
     "title": "NTT・スカパーJSATが挑む「衛星間光通信」、宇宙データセンターに向け開発",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03718/081400003/",
     "published": "",
