@@ -1,5 +1,60 @@
 [
   {
+    "title": "ピアノ演奏の続きをAIで自動生成できるアプリ「RollTab」が登場",
+    "link": "https://gigazine.net/news/20260823-transformer-piano/",
+    "published": "Sun, 23 Aug 2026 22:30:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-23 21:21:13",
+    "ai_summary": null
+  },
+  {
+    "title": "オープンモデルの「Gemma 4 31B」がタスクによっては「Claude Sonnet 5」と同じ品質を40分の1のコストで実現可能",
+    "link": "https://gigazine.net/news/20260823-gemma-4-benchmark/",
+    "published": "Sun, 23 Aug 2026 22:05:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-23 21:21:13",
+    "ai_summary": null
+  },
+  {
+    "title": "Reducing EUV Exposure Dose Through Underlayer Engineering",
+    "link": "https://semiwiki.com/lithography/372293-reducing-euv-exposure-dose-through-underlayer-engineering/",
+    "published": "Sun, 23 Aug 2026 21:00:24 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "SemiWiki",
+    "detected_at": "2026-08-23 21:21:13",
+    "ai_summary": null
+  },
+  {
+    "title": "「IT主権」捨てた日本企業と官公庁、丸投げでソブリンAIとは片腹痛い",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00148/081800449/",
+    "published": "",
+    "keywords": [
+      "ソブリンAI"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-23 21:21:20",
+    "ai_summary": null
+  },
+  {
+    "title": "AI巨額投資をドライブしてきた〈循環資金〉エコシステムの曲がり角…｢投資拡大一辺倒｣から｢AIで稼げるか｣の選別段階へ | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/955077?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Mon, 24 Aug 2026 06:00:00 +0900",
+    "keywords": [
+      "ハイパースケーラー"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-08-23 21:21:20",
+    "ai_summary": null
+  },
+  {
     "title": "無料で多種多彩なビジョンAIモデルを試用・比較・評価できる「Roboflow Playground」",
     "link": "https://gigazine.net/news/20260823-roboflow-playground/",
     "published": "Sun, 23 Aug 2026 12:00:00 +0900",
