@@ -1,5 +1,27 @@
 [
   {
+    "title": "AI開発の新たなボトルネックは「ガスタービン不足」",
+    "link": "https://gigazine.net/news/20260824-gas-turbine-shortage/",
+    "published": "Mon, 24 Aug 2026 15:02:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-24 13:01:29",
+    "ai_summary": null
+  },
+  {
+    "title": "「Claude Mythos 5」の提供範囲が拡大、直接プロンプトを入力できない仕組みで悪用リスクを抑制し「Claude Security」で利用可能に＆外部サービスにも提供へ",
+    "link": "https://gigazine.net/news/20260824-claude-mythos-5-defence/",
+    "published": "Mon, 24 Aug 2026 12:44:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-24 13:01:29",
+    "ai_summary": null
+  },
+  {
     "title": "ピアノ演奏の続きをAIで自動生成できるアプリ「RollTab」が登場",
     "link": "https://gigazine.net/news/20260823-transformer-piano/",
     "published": "Sun, 23 Aug 2026 22:30:00 +0900",
