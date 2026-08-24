@@ -1,5 +1,82 @@
 [
   {
+    "title": "AI分野では「オープンモデルがクローズドモデルに追いつく時間」が飛躍的に縮まっているとの指摘",
+    "link": "https://gigazine.net/news/20260824-open-ai-models-catching-up/",
+    "published": "Mon, 24 Aug 2026 23:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-24 21:29:18",
+    "ai_summary": null
+  },
+  {
+    "title": "光電融合の業界地図、NVIDIAとブロードコムが先陣　「基本」の22社",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03716/080700002/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-24 21:29:25",
+    "ai_summary": null
+  },
+  {
+    "title": "トヨタ、E2E自動運転も独自「ハイブリッド」　説明可能性を追求",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03721/081700007/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-24 21:29:25",
+    "ai_summary": null
+  },
+  {
+    "title": "光スイッチ、Googleがデータセンターに採用　NVIDIAも熱視線",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03627/071500027/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-24 21:29:25",
+    "ai_summary": null
+  },
+  {
+    "title": "ウェイモ、「強化版」E2E自動運転でレベル4　モジュラー型でテスラ対抗",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03367/082100036/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-24 21:29:25",
+    "ai_summary": null
+  },
+  {
+    "title": "EVシフト失速で大不振の｢パワー半導体業界｣にAI投資で見えた光明､国内大型再編へ大手自動車メーカーが関与？ | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/955518?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Tue, 25 Aug 2026 05:50:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-08-24 21:29:25",
+    "ai_summary": null
+  },
+  {
+    "title": "孫さん､半導体のことご存じですか…？日本のソブリンAIを担ってほしいのに…｢RISC‐V｣に脅かされるアームの焦燥 | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/955417?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Tue, 25 Aug 2026 05:40:00 +0900",
+    "keywords": [
+      "ソブリンAI"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-08-24 21:29:25",
+    "ai_summary": null
+  },
+  {
     "title": "AI開発の新たなボトルネックは「ガスタービン不足」",
     "link": "https://gigazine.net/news/20260824-gas-turbine-shortage/",
     "published": "Mon, 24 Aug 2026 15:02:00 +0900",
