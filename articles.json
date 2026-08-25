@@ -1,5 +1,16 @@
 [
   {
+    "title": "NVIDIAのAIエージェント「AVO」がARC-AGI-3で100％を達成、同じベースモデルの別条件での評価は約30％で「実行基盤(ハーネス)」の重要性が示される",
+    "link": "https://gigazine.net/news/20260825-nvidia-avo/",
+    "published": "Tue, 25 Aug 2026 08:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-25 01:02:33",
+    "ai_summary": null
+  },
+  {
     "title": "AI分野では「オープンモデルがクローズドモデルに追いつく時間」が飛躍的に縮まっているとの指摘",
     "link": "https://gigazine.net/news/20260824-open-ai-models-catching-up/",
     "published": "Mon, 24 Aug 2026 23:00:00 +0900",
