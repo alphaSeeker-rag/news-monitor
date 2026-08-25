@@ -1,5 +1,72 @@
 [
   {
+    "title": "メモリブームが半導体企業の本拠地周辺に及ぼす影響とは？Micronのケースから見えてくる新たな億万長者の誕生と雇用の増加、さらには交通渋滞の増加と住宅価格の高騰まで",
+    "link": "https://gigazine.net/news/20260825-micron-boise-impact/",
+    "published": "Tue, 25 Aug 2026 20:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-25 12:57:51",
+    "ai_summary": null
+  },
+  {
+    "title": "自分のスマホのAI実行性能を測定できるベンチマークアプリ「Pipette」を使ってみた",
+    "link": "https://gigazine.net/news/20260825-pipette-phone-ai/",
+    "published": "Tue, 25 Aug 2026 17:22:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-25 12:57:51",
+    "ai_summary": null
+  },
+  {
+    "title": "各種AIのiPhoneでの動作性能を測定した結果がArtificial Analysisによって公開される、コンテキスト長や応答時間を制限して実環境に近い性能を測定",
+    "link": "https://gigazine.net/news/20260825-iphone-ai-benchmark/",
+    "published": "Tue, 25 Aug 2026 11:26:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-25 12:57:51",
+    "ai_summary": null
+  },
+  {
+    "title": "TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say",
+    "link": "https://www.eetimes.com/tsmcs-hbm-packaging-yield-issues-help-intel-analysts-say/",
+    "published": "Tue, 25 Aug 2026 07:00:00 +0000",
+    "keywords": [
+      "HBM",
+      "CoWoS"
+    ],
+    "source": "EE Times",
+    "detected_at": "2026-08-25 12:57:53",
+    "ai_summary": null
+  },
+  {
+    "title": "India Tech Firms Cut Use of H-1B Visas Even Before $100,000 Fee",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-25/india-tech-firms-face-less-exposure-to-trump-s-103-000-h-1b-fee",
+    "published": "Tue, 25 Aug 2026 12:10:45 GMT",
+    "keywords": [
+      "H-1B"
+    ],
+    "source": "Bloomberg Technology",
+    "detected_at": "2026-08-25 12:57:56",
+    "ai_summary": null
+  },
+  {
+    "title": "中国AIモデル「Kimi K3」もサンドボックス脱出、評価環境の設定不備を突く",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11984/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-25 12:57:58",
+    "ai_summary": null
+  },
+  {
     "title": "NVIDIAのAIエージェント「AVO」がARC-AGI-3で100％を達成、同じベースモデルの別条件での評価は約30％で「実行基盤(ハーネス)」の重要性が示される",
     "link": "https://gigazine.net/news/20260825-nvidia-avo/",
     "published": "Tue, 25 Aug 2026 08:00:00 +0900",
