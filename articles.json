@@ -1,5 +1,60 @@
 [
   {
+    "title": "AIエージェントの「ハーネス」とは？AIモデルを実際に働かせる4つの仕組み",
+    "link": "https://gigazine.net/news/20260825-what-is-harness/",
+    "published": "Tue, 25 Aug 2026 23:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-25 21:28:23",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicの最上位AIモデル「Claude Fable 5」は企業需要が伸びず苦戦、AI企業のビジネスモデルが覆される可能性も",
+    "link": "https://gigazine.net/news/20260825-anthropic-best-ai-model-struggles/",
+    "published": "Tue, 25 Aug 2026 22:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-25 21:28:23",
+    "ai_summary": null
+  },
+  {
+    "title": "トヨタ、全方位ロボット開発で狙う車の次　「世界に打って出る」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03721/081000003/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-25 21:28:29",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAが巨額の金融支援、GPU貸しで急成長する「ネオクラウド」の正体",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03728/082000001/",
+    "published": "",
+    "keywords": [
+      "ネオクラウド"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-25 21:28:29",
+    "ai_summary": null
+  },
+  {
+    "title": "夏になると《湖底から現れる巨大廃墟》…｢まるでラピュタ｣水没して忘れ去られた\"日本一の発電所\"が再注目された訳 | ライフ | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/955637?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Wed, 26 Aug 2026 06:00:00 +0900",
+    "keywords": [
+      "渇水"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-08-25 21:28:30",
+    "ai_summary": null
+  },
+  {
     "title": "メモリブームが半導体企業の本拠地周辺に及ぼす影響とは？Micronのケースから見えてくる新たな億万長者の誕生と雇用の増加、さらには交通渋滞の増加と住宅価格の高騰まで",
     "link": "https://gigazine.net/news/20260825-micron-boise-impact/",
     "published": "Tue, 25 Aug 2026 20:00:00 +0900",
