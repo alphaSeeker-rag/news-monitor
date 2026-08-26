@@ -1,5 +1,27 @@
 [
   {
+    "title": "UnslothがAIの性能をなるべく維持しつつ省メモリ化する次世代量子化手法「Unsloth Dynamic 3.0 GGUF」を開発",
+    "link": "https://gigazine.net/news/20260826-dynamic-3.0-ggufs/",
+    "published": "Wed, 26 Aug 2026 07:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-26 01:04:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Trump is upping the price of Big Tech’s favorite visa",
+    "link": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+    "published": "2026-08-25T17:45:00-04:00",
+    "keywords": [
+      "H-1B"
+    ],
+    "source": "The Verge",
+    "detected_at": "2026-08-26 01:04:15",
+    "ai_summary": null
+  },
+  {
     "title": "AIエージェントの「ハーネス」とは？AIモデルを実際に働かせる4つの仕組み",
     "link": "https://gigazine.net/news/20260825-what-is-harness/",
     "published": "Tue, 25 Aug 2026 23:00:00 +0900",
