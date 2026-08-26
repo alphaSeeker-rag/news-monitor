@@ -1,5 +1,38 @@
 [
   {
+    "title": "AIトレーニングでGPUが無駄に待機状態になってしまっている理由とAdobeが行った対処とは？",
+    "link": "https://gigazine.net/news/20260826-gpu-idle/",
+    "published": "Wed, 26 Aug 2026 21:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-26 13:03:50",
+    "ai_summary": null
+  },
+  {
+    "title": "Stability AIが約370億円を新CEOの下で資金調達したと報告、ソニーミュージックやユニバーサルミュージックなどが出資",
+    "link": "https://gigazine.net/news/20260826-stability-ai-funding-backed-232m/",
+    "published": "Wed, 26 Aug 2026 11:34:00 +0900",
+    "keywords": [
+      "資金調達"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-26 13:03:50",
+    "ai_summary": null
+  },
+  {
+    "title": "AppleがM6とM5 Ultraを発表、M5 Ultraは最大512GBのメモリを搭載し大型AIモデルをローカル実行可能",
+    "link": "https://gigazine.net/news/20260826-apple-m6-m5-ultra/",
+    "published": "Wed, 26 Aug 2026 10:45:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-26 13:03:50",
+    "ai_summary": null
+  },
+  {
     "title": "UnslothがAIの性能をなるべく維持しつつ省メモリ化する次世代量子化手法「Unsloth Dynamic 3.0 GGUF」を開発",
     "link": "https://gigazine.net/news/20260826-dynamic-3.0-ggufs/",
     "published": "Wed, 26 Aug 2026 07:00:00 +0900",
