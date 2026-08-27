@@ -1,5 +1,104 @@
 [
   {
+    "title": "GPT-5.6 Solはズルをするのが大好きかもしれない",
+    "link": "https://gigazine.net/news/20260827-sol-loves-to-cheat/",
+    "published": "Thu, 27 Aug 2026 07:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-27 00:30:01",
+    "ai_summary": null
+  },
+  {
+    "title": "AIモデルの他社システム侵入が相次ぐ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/081800337/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-27 00:30:07",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAのE2E自動運転、商用解禁　「強力な基盤」は車メーカーの福音か",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03367/082000035/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-27 00:30:07",
+    "ai_summary": null
+  },
+  {
+    "title": "ネオクラウドで世界狙うソフトバンク、国内は地域分散でフィジカルAI支援",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03728/082500002/",
+    "published": "",
+    "keywords": [
+      "ネオクラウド"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-27 00:30:07",
+    "ai_summary": null
+  },
+  {
+    "title": "別荘やデータセンターを開発",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800013/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-27 00:30:07",
+    "ai_summary": null
+  },
+  {
+    "title": "勢い増す建設系スタートアップ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00325/081800004/",
+    "published": "",
+    "keywords": [
+      "資金調達"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-27 00:30:07",
+    "ai_summary": null
+  },
+  {
+    "title": "言うことを聞かず外部サーバーに侵入したAI､テスト中に相次いだ｢自律性と欺瞞｣が突きつけた安全対策の限界 | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/955651?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Thu, 27 Aug 2026 08:30:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-08-27 00:30:07",
+    "ai_summary": null
+  },
+  {
+    "title": "アンソロピックが英AIクラウド企業エヌスケールと7兆円超の契約…IPOを前にAI処理能力を確保 | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/956014?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Thu, 27 Aug 2026 07:50:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-08-27 00:30:07",
+    "ai_summary": null
+  },
+  {
+    "title": "MCPロードマップ刷新　「野良AIエージェント」の過剰権限をどう防ぐ",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/27/news030.html",
+    "published": "Thu, 27 Aug 2026 07:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia エンタープライズ 最新記事一覧",
+    "detected_at": "2026-08-27 00:30:08",
+    "ai_summary": null
+  },
+  {
     "title": "AIトレーニングでGPUが無駄に待機状態になってしまっている理由とAdobeが行った対処とは？",
     "link": "https://gigazine.net/news/20260826-gpu-idle/",
     "published": "Wed, 26 Aug 2026 21:00:00 +0900",
