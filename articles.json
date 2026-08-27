@@ -1,5 +1,72 @@
 [
   {
+    "title": "OpenAIがHugging Faceを誤ってハッキングしてしまった件で分析結果を報告、隔離された複数のエージェントがお互いの存在を発見するところから壮大な協力作戦が始まる",
+    "link": "https://gigazine.net/news/20260827-openai-hugging-face-incident-report/",
+    "published": "Thu, 27 Aug 2026 13:35:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-27 07:04:57",
+    "ai_summary": null
+  },
+  {
+    "title": "「Qwen3.8-Flash-Next」がオープンモデルとして公開される、Qwen4の次世代アーキテクチャを使用",
+    "link": "https://gigazine.net/news/20260827-qwen3-8-flash-next/",
+    "published": "Thu, 27 Aug 2026 12:22:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-27 07:04:57",
+    "ai_summary": null
+  },
+  {
+    "title": "謎の高性能AI「Ox Alpha」の正体は「GLM-5.3-Flash」だったことが判明、Claude Opus 4.8と同等性能のオープンモデル＆中国製チップで運用可能",
+    "link": "https://gigazine.net/news/20260827-glm-5-3-flash/",
+    "published": "Thu, 27 Aug 2026 11:41:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-27 07:04:57",
+    "ai_summary": null
+  },
+  {
+    "title": "TSMCのCoWoSに「弱点」　HBM実装でIntelに商機か",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2608/27/news066.html",
+    "published": "Thu, 27 Aug 2026 15:30:00 +0900",
+    "keywords": [
+      "HBM",
+      "CoWoS"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-08-27 07:04:59",
+    "ai_summary": null
+  },
+  {
+    "title": "高効率EUV光発生法で露光装置の消費電力を低減",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2608/27/news036.html",
+    "published": "Thu, 27 Aug 2026 13:30:00 +0900",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-08-27 07:04:59",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAは売上高2倍超、2026年5～7月期　懸念は供給制約とメモリー高騰",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11993/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-27 07:05:05",
+    "ai_summary": null
+  },
+  {
     "title": "GPT-5.6 Solはズルをするのが大好きかもしれない",
     "link": "https://gigazine.net/news/20260827-sol-loves-to-cheat/",
     "published": "Thu, 27 Aug 2026 07:00:00 +0900",
