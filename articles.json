@@ -1,5 +1,71 @@
 [
   {
+    "title": "Microsoft・Amazon・Googleが中国製高性能モデル「Kimi K3」を自社でサービス展開するべく協議中との報道、開発元のMoonshot AIは30％の収益分配を打診",
+    "link": "https://gigazine.net/news/20260827-kimi-k3-microsoft-amazon-google/",
+    "published": "Thu, 27 Aug 2026 16:10:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-27 22:07:20",
+    "ai_summary": null
+  },
+  {
+    "title": "Issues Stack Up With More HBM Layers",
+    "link": "https://semiengineering.com/issues-stack-up-with-more-hbm-layers/",
+    "published": "Thu, 27 Aug 2026 07:15:08 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-08-27 22:07:22",
+    "ai_summary": null
+  },
+  {
+    "title": "大手AIベンダーで続々発生　AIの「暴走」は止められるか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100112/082400145/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-27 22:07:25",
+    "ai_summary": null
+  },
+  {
+    "title": "AIデータセンターは100GW規模へ、「ジェンスンの数学」が示す桁違いの未来",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00692/082700197/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-27 22:07:25",
+    "ai_summary": null
+  },
+  {
+    "title": "2営業日後に迫る支払日、ランサム被害を菱機工業はどう乗り切ったのか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01156/081800084/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-27 22:07:25",
+    "ai_summary": null
+  },
+  {
+    "title": "NTT系やKDDI、新興企業も続々　国内勢もGPUクラウドを強化",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03728/082500003/",
+    "published": "",
+    "keywords": [
+      "ソブリンAI"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-27 22:07:25",
+    "ai_summary": null
+  },
+  {
     "title": "OpenAIがHugging Faceを誤ってハッキングしてしまった件で分析結果を報告、隔離された複数のエージェントがお互いの存在を発見するところから壮大な協力作戦が始まる",
     "link": "https://gigazine.net/news/20260827-openai-hugging-face-incident-report/",
     "published": "Thu, 27 Aug 2026 13:35:00 +0900",
