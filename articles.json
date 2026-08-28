@@ -1,5 +1,38 @@
 [
   {
+    "title": "中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル",
+    "link": "https://gigazine.net/news/20260829-glm-5-3-open/",
+    "published": "Sat, 29 Aug 2026 00:10:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-28 22:06:00",
+    "ai_summary": null
+  },
+  {
+    "title": "｢アメリカの長期金利急上昇｣をもたらしている｢逆クラウディング現象｣の｢真犯人｣は誰なのか？ | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/956118?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Sat, 29 Aug 2026 06:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-08-28 22:06:07",
+    "ai_summary": null
+  },
+  {
+    "title": "〈工作機械受注〉7月は前年比150.4％で歴代3位の1930億円､夏場にも関わらず続く高水準――設備需要の拡大鮮明に | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/956225?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Sat, 29 Aug 2026 05:50:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-08-28 22:06:07",
+    "ai_summary": null
+  },
+  {
     "title": "AIや企業によるカンニングを防ぎつつ最先端モデルをテストする方法をGoogleが考案",
     "link": "https://gigazine.net/news/20260828-google-ai-evaluations-secure-environments/",
     "published": "Fri, 28 Aug 2026 15:40:00 +0900",
