@@ -1,5 +1,27 @@
 [
   {
+    "title": "ドナウ川の底からローマ時代の橋跡、マンモス化石　渇水の副産物次々",
+    "link": "http://www.asahi.com/articles/ASV8W22KHV8WUHBI006M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "渇水"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-08-28 05:07:55",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI・Anthropic・GoogleなどがAIによるサイバー攻撃の防御に関する共同声明を発表",
+    "link": "https://gigazine.net/news/20260828-ai-frontier-companies-signed-cyber-defense/",
+    "published": "Fri, 28 Aug 2026 11:24:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-28 05:07:55",
+    "ai_summary": null
+  },
+  {
     "title": "Microsoft・Amazon・Googleが中国製高性能モデル「Kimi K3」を自社でサービス展開するべく協議中との報道、開発元のMoonshot AIは30％の収益分配を打診",
     "link": "https://gigazine.net/news/20260827-kimi-k3-microsoft-amazon-google/",
     "published": "Thu, 27 Aug 2026 16:10:00 +0900",
