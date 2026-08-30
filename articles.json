@@ -1,5 +1,38 @@
 [
   {
+    "title": "ドメスティックなフィジカルAI　過剰な外資警戒で競争力喪失",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600007/082400224/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-30 23:15:21",
+    "ai_summary": null
+  },
+  {
+    "title": "宇宙データセンター",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/082700230/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-30 23:15:21",
+    "ai_summary": null
+  },
+  {
+    "title": "TSMC、AI半導体チップに水流す冷却法　「CoWoS」と統合し信頼性評価　ほか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00105/00053/",
+    "published": "",
+    "keywords": [
+      "CoWoS"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-08-30 23:15:21",
+    "ai_summary": null
+  },
+  {
     "title": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
     "link": "https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford/",
     "published": "Sun, 30 Aug 2026 07:06:37 +0000",
