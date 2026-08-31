@@ -1,5 +1,60 @@
 [
   {
+    "title": "データセンターのケーブル交換やサーバーのリセットといっ​​た業務を処理するためにMetaがロボットをテスト中",
+    "link": "https://gigazine.net/news/20260831-meta-robots-data-center/",
+    "published": "Mon, 31 Aug 2026 19:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-31 19:01:56",
+    "ai_summary": null
+  },
+  {
+    "title": "無料で国産AIサービスを一般市民に提供するプロジェクト「AI for All」を韓国政府が推進中",
+    "link": "https://gigazine.net/news/20260831-south-koreas-public-ai-service/",
+    "published": "Mon, 31 Aug 2026 16:00:00 +0900",
+    "keywords": [
+      "国産AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-31 19:01:56",
+    "ai_summary": null
+  },
+  {
+    "title": "中国におけるAIアニメ・ドラマが急増、中国版TikTokのDouyinでトップ100のアニメとドラマのうち89作品がAIによるもの",
+    "link": "https://gigazine.net/news/20260831-chinese-ai-movie/",
+    "published": "Mon, 31 Aug 2026 15:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-08-31 19:01:56",
+    "ai_summary": null
+  },
+  {
+    "title": "The EU’s AI Drive Undermines Its ​Own Chip Strategy",
+    "link": "https://spectrum.ieee.org/europes-ai-drive",
+    "published": "Mon, 31 Aug 2026 14:00:04 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "IEEE Spectrum",
+    "detected_at": "2026-08-31 19:02:00",
+    "ai_summary": null
+  },
+  {
+    "title": "【キオクシアを抜いた中国半導体メーカーの実力】世界シェア3位「YMTC」とは何者か？／キオクシアとYMTCの違い／YMTCは年内にも上場／中国が進める半導体“国産化”戦略／次の注目は「半導体製造装置」 | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/956415?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Mon, 31 Aug 2026 19:00:00 +0900",
+    "keywords": [
+      "半導体製造装置"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-08-31 19:02:04",
+    "ai_summary": null
+  },
+  {
     "title": "TencentがAIモデル「Hy4 preview」を公開、一部テストでGPT-5.6 Solを上回る＆213GBまで軽量化した1bit量子化版も公開される",
     "link": "https://gigazine.net/news/20260831-hy4-preview-tencent/",
     "published": "Mon, 31 Aug 2026 10:44:00 +0900",
