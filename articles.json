@@ -1,5 +1,38 @@
 [
   {
+    "title": "柔軟性で優れるコンテナ型データセンター、フィジカルAIなどで新たな需要",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00687/083100252/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-01 23:04:32",
+    "ai_summary": null
+  },
+  {
+    "title": "SpaceXの宇宙AIデータセンター構想、高難度ばかりの技術チャレンジ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/082802091/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-01 23:04:32",
+    "ai_summary": null
+  },
+  {
+    "title": "分社化10年のHPE、望月社長に聞く「AIファクトリー」の差別化からVMware代替、対Cisco戦略まで",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2608/31/news074.html",
+    "published": "Wed, 02 Sep 2026 07:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia エンタープライズ 最新記事一覧",
+    "detected_at": "2026-09-01 23:04:33",
+    "ai_summary": null
+  },
+  {
     "title": "Anthropicが「開発中のAIで外部を攻撃しないための対策」を発表",
     "link": "https://gigazine.net/news/20260901-anthropic-alignment-security/",
     "published": "Tue, 01 Sep 2026 18:56:00 +0900",
