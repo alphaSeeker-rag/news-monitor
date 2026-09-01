@@ -1,5 +1,49 @@
 [
   {
+    "title": "Anthropicが「開発中のAIで外部を攻撃しないための対策」を発表",
+    "link": "https://gigazine.net/news/20260901-anthropic-alignment-security/",
+    "published": "Tue, 01 Sep 2026 18:56:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-01 16:25:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが売上や天気など複数のデータから未来を予測するAI「TimesFM-3」を公開、追加学習なしで予測可能",
+    "link": "https://gigazine.net/news/20260901-google-timesfm-3/",
+    "published": "Tue, 01 Sep 2026 17:15:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-01 16:25:15",
+    "ai_summary": null
+  },
+  {
+    "title": "「データセンターを拒否する地域は後進的で貧しくなる」「中国は反データセンター運動を大いに喜んでいる」とトランプ大統領が発言",
+    "link": "https://gigazine.net/news/20260901-trump-data-center-opinion/",
+    "published": "Tue, 01 Sep 2026 15:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-01 16:25:15",
+    "ai_summary": null
+  },
+  {
+    "title": "SK Hynix’s $4B HBM Project Targets U.S. Chipmaking Gap",
+    "link": "https://www.eetimes.com/sk-hynixs-4b-hbm-project-targets-u-s-chipmaking-gap/",
+    "published": "Tue, 01 Sep 2026 07:47:37 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "EE Times",
+    "detected_at": "2026-09-01 16:25:17",
+    "ai_summary": null
+  },
+  {
     "title": "NVIDIA、MediaTekの転換社債に35億ドル投資　「NVLink Fusion」採用などでAI協業を強化",
     "link": "https://www.itmedia.co.jp/news/article/2609/01/2000001005/",
     "published": "Tue, 01 Sep 2026 10:36:31 +0900",
