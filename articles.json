@@ -1,5 +1,60 @@
 [
   {
+    "title": "画像も動画も3D空間も生成可能な世界モデル「Atlas」が登場、「1枚の画像から3D空間を生成」「指示に忠実なカメラワーク」「1440pの動画生成」など多機能なモデル",
+    "link": "https://gigazine.net/news/20260902-world-model-atlas/",
+    "published": "Wed, 02 Sep 2026 16:34:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-02 16:23:32",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが次期主力AIモデル「Astra」の開発状況を報告",
+    "link": "https://gigazine.net/news/20260902-path-to-astra/",
+    "published": "Wed, 02 Sep 2026 13:39:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-02 16:23:32",
+    "ai_summary": null
+  },
+  {
+    "title": "SamsungとBroadcom、メモリ／ファウンドリーで協業拡大",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/02/news070.html",
+    "published": "Wed, 02 Sep 2026 15:30:00 +0900",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-09-02 16:23:37",
+    "ai_summary": null
+  },
+  {
+    "title": "NECがAnthropicの「Mythos」利用権、社内の脆弱性管理に活用",
+    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03370/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-02 16:23:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Fable 5.1登場　値下げしながら性能を高めた仕組みとは",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/02/news066.html",
+    "published": "Wed, 02 Sep 2026 11:45:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia エンタープライズ 最新記事一覧",
+    "detected_at": "2026-09-02 16:23:43",
+    "ai_summary": null
+  },
+  {
     "title": "柔軟性で優れるコンテナ型データセンター、フィジカルAIなどで新たな需要",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00687/083100252/",
     "published": "",
