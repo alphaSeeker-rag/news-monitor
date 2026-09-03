@@ -1,5 +1,38 @@
 [
   {
+    "title": "Metaが「Muse Spark 1.3」を発表、ついにAnthropicやOpenAIの最先端モデルに追いつく性能を達成",
+    "link": "https://gigazine.net/news/20260903-meta-muse-spark-1-3/",
+    "published": "Thu, 03 Sep 2026 11:14:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-03 02:47:06",
+    "ai_summary": null
+  },
+  {
+    "title": "データセンターの立地は都市から郊外へ、放熱は空冷から液冷へ（前編）",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/03/news029.html",
+    "published": "Thu, 03 Sep 2026 10:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-09-03 02:47:08",
+    "ai_summary": null
+  },
+  {
+    "title": "ZEISS SMT CEO: China 15 Years Behind in Top Chip Tools",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-02/zeiss-smt-ceo-china-15-years-behind-in-top-chip-tools-video",
+    "published": "Wed, 02 Sep 2026 23:04:00 GMT",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Bloomberg Technology",
+    "detected_at": "2026-09-03 02:47:10",
+    "ai_summary": null
+  },
+  {
     "title": "AWSの新ネットワーク「RNG」上陸　2026年内稼働の新拠点から",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/082701486/",
     "published": "",
