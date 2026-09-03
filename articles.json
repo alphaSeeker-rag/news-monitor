@@ -1,5 +1,82 @@
 [
   {
+    "title": "国産AI開発予算が来年は2.3倍に、それでも足りない「IT狂乱物価」の足音",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03079/090300043/",
+    "published": "",
+    "keywords": [
+      "国産AI"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-03 23:00:43",
+    "ai_summary": null
+  },
+  {
+    "title": "〈スタートアップランキング〉8月の資金調達トップ20､｢NOT A HOTEL｣が再び100億円規模の資金調達を行う | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/956794?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Fri, 04 Sep 2026 08:00:00 +0900",
+    "keywords": [
+      "資金調達"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-09-03 23:00:44",
+    "ai_summary": null
+  },
+  {
+    "title": "キオクシアHD､｢速度向上｣や｢液冷｣の量産を急ぐ…｢キラー製品｣になり得るとの見方も | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/956859?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Fri, 04 Sep 2026 07:16:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-09-03 23:00:44",
+    "ai_summary": null
+  },
+  {
+    "title": "エヌビディア､約2兆円でハギングフェイスを買収へ…オープンソースAIモデルの普及を後押しする大方針の一環 | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/956869?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Fri, 04 Sep 2026 07:15:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-09-03 23:00:44",
+    "ai_summary": null
+  },
+  {
+    "title": "〈パナソニック〉AIサーバー電池大増産で｢売り上げ3倍｣の勝算､不振のテスラEV向け米カンザス工場に開けたAI転用の道 | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/956661?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Fri, 04 Sep 2026 06:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-09-03 23:00:44",
+    "ai_summary": null
+  },
+  {
+    "title": "クックからターナスへ15年ぶりCEO交代､アップルが｢机上のAIデータセンター｣で狙う次の革命 | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/956523?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Fri, 04 Sep 2026 06:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-09-03 23:00:44",
+    "ai_summary": null
+  },
+  {
+    "title": "JX金属と住友電工で世界シェア8割！ ｢インジウムリン基板｣は40年大きな変化がなかったのにAIデータセンターで10倍増産 | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/956589?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Fri, 04 Sep 2026 05:50:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-09-03 23:00:44",
+    "ai_summary": null
+  },
+  {
     "title": "Googleが「Gemini 3.8 Flash」をリリース、2027年から価格2倍に",
     "link": "https://gigazine.net/news/20260903-gemini-3-8-flash-cyber/",
     "published": "Thu, 03 Sep 2026 12:52:00 +0900",
