@@ -1,5 +1,49 @@
 [
   {
+    "title": "Ankerがスマートホームハブ「MindBase」を発表、専用のAIチップと最大48TBのストレージを備えて独自ローカルAIモデルを実行",
+    "link": "https://gigazine.net/news/20260904-anker-mindbase/",
+    "published": "Fri, 04 Sep 2026 15:10:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-04 16:08:53",
+    "ai_summary": null
+  },
+  {
+    "title": "「GPT-6 Astra」登場、PC操作が非常に上手で「Blenderで3Dモデルを作ってUE5で歩ける空間にする」なども可能＆ARC-AGI-3で99.9％を達成",
+    "link": "https://gigazine.net/news/20260904-openai-gpt-6-astra/",
+    "published": "Fri, 04 Sep 2026 12:35:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-04 16:08:53",
+    "ai_summary": null
+  },
+  {
+    "title": "Chip Industry Week In Review",
+    "link": "https://semiengineering.com/chip-industry-week-in-review-154/",
+    "published": "Fri, 04 Sep 2026 07:01:21 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-09-04 16:08:57",
+    "ai_summary": null
+  },
+  {
+    "title": "災害やサイバー攻撃に遭っても、10分で業務再開　日立ら「自動復旧」を実証",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2609/04/news048.html",
+    "published": "Fri, 04 Sep 2026 12:50:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia エンタープライズ 最新記事一覧",
+    "detected_at": "2026-09-04 16:09:08",
+    "ai_summary": null
+  },
+  {
     "title": "「2世代先」を狙う　京セラのセラミックパッケージ戦略",
     "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/04/news051.html",
     "published": "Fri, 04 Sep 2026 10:30:00 +0900",
