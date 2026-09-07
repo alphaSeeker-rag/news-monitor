@@ -1,5 +1,49 @@
 [
   {
+    "title": "GPT-6 AstraがAIコーディング性能でトップ級の67点、圧倒的なトークン効率を示すもFable 5.1には届かず",
+    "link": "https://gigazine.net/news/20260907-artificial-analysis-gpt-6-astra/",
+    "published": "Mon, 07 Sep 2026 20:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-07 17:38:34",
+    "ai_summary": null
+  },
+  {
+    "title": "DeepSeekが内モンゴル自治区にデータセンターを建設してHuawei製AIチップを16万基導入予定との報道、中国製GPUでAIを開発・運用する動きが加速",
+    "link": "https://gigazine.net/news/20260907-deepseek-data-center-inner-mongolia/",
+    "published": "Mon, 07 Sep 2026 19:15:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-07 17:38:34",
+    "ai_summary": null
+  },
+  {
+    "title": "GitHub Copilotが複数AIモデルを自動で使い分ける「HydraFusion」を公開、TerminalBench 2.1でClaude Opus 5比コスト67％減・スコア4.9ポイント向上",
+    "link": "https://gigazine.net/news/20260907-github-copilot-hydrafusion/",
+    "published": "Mon, 07 Sep 2026 15:10:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-07 17:38:34",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoftが開発者向けのWindows 11環境「Project Zenith」を発表、環境構築の手間を減らし300億パラメータ超のAIモデルもローカル実行",
+    "link": "https://gigazine.net/news/20260907-microsoft-project-zenith/",
+    "published": "Mon, 07 Sep 2026 12:45:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-07 17:38:34",
+    "ai_summary": null
+  },
+  {
     "title": "SKが米国にHBM工場　40億ドル投資",
     "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/07/news056.html",
     "published": "Mon, 07 Sep 2026 11:00:00 +0900",
