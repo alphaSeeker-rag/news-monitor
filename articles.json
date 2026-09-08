@@ -1,5 +1,16 @@
 [
   {
+    "title": "小型かつ高性能で日本語応答も可能な中国製AIモデル「MiniCPM5-2B」が登場、2BモデルなのにGemma 4 12Bと同等のベンチマークスコア",
+    "link": "https://gigazine.net/news/20260908-openbmb-minicpm5-2b/",
+    "published": "Tue, 08 Sep 2026 10:47:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-08 02:54:00",
+    "ai_summary": null
+  },
+  {
     "title": "リコー、人の動作から汎用AIモデルを生成するフィジカルAI",
     "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03371/",
     "published": "",
