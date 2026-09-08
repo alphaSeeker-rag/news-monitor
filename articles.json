@@ -1,5 +1,60 @@
 [
   {
+    "title": "「データセンターの排熱で温泉を作ろう」が難しい3つの理由　本職のDC技術者にガチで考えてもらった",
+    "link": "https://www.itmedia.co.jp/news/article/2609/08/2000000887/",
+    "published": "Tue, 08 Sep 2026 14:04:53 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-09-08 16:26:08",
+    "ai_summary": null
+  },
+  {
+    "title": "High-NA EUV Moves From Experiment to Manufacturing",
+    "link": "https://semiwiki.com/semiconductor-manufacturers/intel/373350-high-na-euv-moves-from-experiment-to-manufacturing/",
+    "published": "Tue, 08 Sep 2026 06:00:59 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "SemiWiki",
+    "detected_at": "2026-09-08 16:26:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Chip Industry Technical Paper Roundup: Sept. 8",
+    "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-8-2/",
+    "published": "Tue, 08 Sep 2026 07:01:25 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-09-08 16:26:11",
+    "ai_summary": null
+  },
+  {
+    "title": "Samsung、高NA EUVをDRAM量産に「業界初」導入へ　28年までに",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/08/news085.html",
+    "published": "Tue, 08 Sep 2026 19:58:00 +0900",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-09-08 16:26:11",
+    "ai_summary": null
+  },
+  {
+    "title": "TSMC, Samsung commit to ASML’s newest chipmaking tools as AI drives demand",
+    "link": "https://www.cnbc.com/2026/09/08/tsmc-samsung-asml-high-na-euv-machine-ai-chips.html",
+    "published": "Tue, 08 Sep 2026 08:32:02 GMT",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Tech",
+    "detected_at": "2026-09-08 16:26:13",
+    "ai_summary": null
+  },
+  {
     "title": "小型かつ高性能で日本語応答も可能な中国製AIモデル「MiniCPM5-2B」が登場、2BモデルなのにGemma 4 12Bと同等のベンチマークスコア",
     "link": "https://gigazine.net/news/20260908-openbmb-minicpm5-2b/",
     "published": "Tue, 08 Sep 2026 10:47:00 +0900",
