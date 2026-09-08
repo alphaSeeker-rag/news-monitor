@@ -1,5 +1,71 @@
 [
   {
+    "title": "HBM’s Second Act: When Memory Starts Thinking",
+    "link": "https://semiwiki.com/events/372843-372843/",
+    "published": "Tue, 08 Sep 2026 21:00:55 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "SemiWiki",
+    "detected_at": "2026-09-08 23:13:59",
+    "ai_summary": null
+  },
+  {
+    "title": "STマイクロ、GaNでデータセンター向け直流800V給電　8インチ製造も",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11982/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-08 23:14:06",
+    "ai_summary": null
+  },
+  {
+    "title": "石狩にデータセンター竣工、垂直と追尾太陽光、風力で再エネ100％",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02443/090200173/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-08 23:14:06",
+    "ai_summary": null
+  },
+  {
+    "title": "地方に大規模データセンター続々、投資額は数十兆円規模か　計画地を分析",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03750/090700001/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-08 23:14:06",
+    "ai_summary": null
+  },
+  {
+    "title": "クアルコム､アマゾンとAI半導体で提携…長期的な提携の下で最大600億ドル相当を供給へ | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/957397?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Wed, 09 Sep 2026 07:42:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-09-08 23:14:07",
+    "ai_summary": null
+  },
+  {
+    "title": "｢過小評価していた…｣足元の受注は倍増！日立の稼ぎ頭･送配電事業のトップが語るAIデータセンター向け需要爆増の実態 | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/957028?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Wed, 09 Sep 2026 06:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-09-08 23:14:07",
+    "ai_summary": null
+  },
+  {
     "title": "「データセンターの排熱で温泉を作ろう」が難しい3つの理由　本職のDC技術者にガチで考えてもらった",
     "link": "https://www.itmedia.co.jp/news/article/2609/08/2000000887/",
     "published": "Tue, 08 Sep 2026 14:04:53 +0900",
