@@ -1,5 +1,49 @@
 [
   {
+    "title": "動画編集もAIにやってもらう時代？　言葉で指示するAI編集ツール「Palmier Pro」を使ってみた",
+    "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001311/",
+    "published": "Wed, 09 Sep 2026 16:29:28 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-09-09 16:22:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Qualcomm、AmazonとAIデータセンターで複数世代にわたる協業　最大600億ドル購入でワラント付与",
+    "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001314/",
+    "published": "Wed, 09 Sep 2026 14:05:21 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-09-09 16:22:38",
+    "ai_summary": null
+  },
+  {
+    "title": "文章を「拡散」で高速生成するAIモデル「Mercury 2.5」登場、毎秒1107トークンの高速生成＆GPT-5.6 Luna級の性能を100万出力トークン当たり約120円で提供",
+    "link": "https://gigazine.net/news/20260909-mercury-2-5/",
+    "published": "Wed, 09 Sep 2026 12:30:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-09 16:22:38",
+    "ai_summary": null
+  },
+  {
+    "title": "TSMC and Samsung commit to adopting ASML’s High NA EUV lithography tools by 2030",
+    "link": "https://www.datacenterdynamics.com/en/news/tsmc-and-samsung-commit-to-adopting-asmls-high-na-euv-lithography-tools-by-2030/",
+    "published": "Wed, 09 Sep 2026 08:55:00 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "DCD",
+    "detected_at": "2026-09-09 16:22:42",
+    "ai_summary": null
+  },
+  {
     "title": "中国へAI規制緩めるトランプ政権　「狂気じみて見える」政策のわけ",
     "link": "http://www.asahi.com/articles/ASV974S61V97BQBQ0SXM.html?ref=rss",
     "published": "",
