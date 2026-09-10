@@ -1,5 +1,38 @@
 [
   {
+    "title": "「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正",
+    "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001346/",
+    "published": "Thu, 10 Sep 2026 09:07:49 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-09-10 02:55:22",
+    "ai_summary": null
+  },
+  {
+    "title": "Google、フィンランドに過去最大の約2.3兆円投資　AIデータセンター増設や原発電力調達へ",
+    "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001345/",
+    "published": "Thu, 10 Sep 2026 08:01:19 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-09-10 02:55:22",
+    "ai_summary": null
+  },
+  {
+    "title": "次は「ハイパーNA」 ASMLが示す露光装置の基礎と未来",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/10/news025.html",
+    "published": "Thu, 10 Sep 2026 11:00:00 +0900",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-09-10 02:55:26",
+    "ai_summary": null
+  },
+  {
     "title": "E2E自動運転も「ハイブリッド」",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00146/00002/",
     "published": "",
