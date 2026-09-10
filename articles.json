@@ -1,5 +1,27 @@
 [
   {
+    "title": "チャットAIのClaudeに「カートに追加するボタンを青色にして」とウェブデザインの変更を依頼すると堂々巡りで全く完成しない様子を再現した「Opusfived」",
+    "link": "https://gigazine.net/news/20260910-opusfived/",
+    "published": "Thu, 10 Sep 2026 21:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-10 16:12:38",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleがフィンランドに2年間で2兆円超を投資しデータセンターを3つ新設",
+    "link": "https://gigazine.net/news/20260910-google-finland-13-billion-euro-investment/",
+    "published": "Thu, 10 Sep 2026 12:38:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-10 16:12:38",
+    "ai_summary": null
+  },
+  {
     "title": "「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正",
     "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001346/",
     "published": "Thu, 10 Sep 2026 09:07:49 +0900",
