@@ -1,5 +1,50 @@
 [
   {
+    "title": "Physicist does the math on Star Trek’s “Picard maneuver”",
+    "link": "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
+    "published": "Thu, 10 Sep 2026 17:54:33 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Ars Technica - All content",
+    "detected_at": "2026-09-10 22:57:09",
+    "ai_summary": null
+  },
+  {
+    "title": "柔軟性で優れるコンテナ型DC　フィジカルAIなどで新たな需要",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/052100110/090800186/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-10 22:57:11",
+    "ai_summary": null
+  },
+  {
+    "title": "クラウド大手が避ける地方のデータセンター、遅延の影響が少ない用途に活路",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03750/090900003/",
+    "published": "",
+    "keywords": [
+      "データセンター",
+      "ハイパースケーラー"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-10 22:57:11",
+    "ai_summary": null
+  },
+  {
+    "title": "広がる直流800V給電、EVの次はAIデータセンター",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091000010/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-10 22:57:11",
+    "ai_summary": null
+  },
+  {
     "title": "チャットAIのClaudeに「カートに追加するボタンを青色にして」とウェブデザインの変更を依頼すると堂々巡りで全く完成しない様子を再現した「Opusfived」",
     "link": "https://gigazine.net/news/20260910-opusfived/",
     "published": "Thu, 10 Sep 2026 21:00:00 +0900",
