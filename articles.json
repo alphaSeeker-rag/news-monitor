@@ -1,5 +1,49 @@
 [
   {
+    "title": "Reducing HBM ECC Controller Overhead For AI Inference (RPI, IBM)",
+    "link": "https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm/",
+    "published": "Fri, 11 Sep 2026 21:43:18 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-09-11 23:01:43",
+    "ai_summary": null
+  },
+  {
+    "title": "Molybdenum Quasi Phase-Only Masks Improve EUV Imaging (NYCU, TSMC)",
+    "link": "https://semiengineering.com/molybdenum-quasi-phase-only-masks-improve-euv-imaging-nycu-tsmc/",
+    "published": "Fri, 11 Sep 2026 21:28:44 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-09-11 23:01:43",
+    "ai_summary": null
+  },
+  {
+    "title": "Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven, ASM)",
+    "link": "https://semiengineering.com/characterizing-charge-components-in-tmd-based-mos-structures-imec-ku-leuven-asm/",
+    "published": "Fri, 11 Sep 2026 21:06:41 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-09-11 23:01:43",
+    "ai_summary": null
+  },
+  {
+    "title": "〈政府出資は4000億円へ〉国の強力支援を正当化する｢究極の顧客｣､ラピダスが挑む2ナノ半導体量産化という高い山 | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/957556?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Sat, 12 Sep 2026 05:40:00 +0900",
+    "keywords": [
+      "資金調達"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-09-11 23:01:49",
+    "ai_summary": null
+  },
+  {
     "title": "Chip Industry Week in Review",
     "link": "https://semiengineering.com/chip-industry-week-in-review-155/",
     "published": "Fri, 11 Sep 2026 07:01:29 +0000",
