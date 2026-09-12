@@ -1,5 +1,16 @@
 [
   {
+    "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?",
+    "link": "https://gigazine.net/news/20260912-spotify-cut-claude-code-token-usage/",
+    "published": "Sat, 12 Sep 2026 17:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-12 15:22:40",
+    "ai_summary": null
+  },
+  {
     "title": "Reducing HBM ECC Controller Overhead For AI Inference (RPI, IBM)",
     "link": "https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm/",
     "published": "Fri, 11 Sep 2026 21:43:18 +0000",
