@@ -1,5 +1,50 @@
 [
   {
+    "title": "Sakana AIが複数モデルの使い分けでGPT-6 Astra超えを達成する「Fugu Ultra v2」をリリース＆コスパに優れた「Fugu Max」も登場",
+    "link": "https://gigazine.net/news/20260914-fugu-ultra-v2/",
+    "published": "Mon, 14 Sep 2026 12:52:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-14 17:59:02",
+    "ai_summary": null
+  },
+  {
+    "title": "Chip Industry Technical Paper Roundup: Sept. 14",
+    "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-14/",
+    "published": "Mon, 14 Sep 2026 07:01:44 +0000",
+    "keywords": [
+      "EUV",
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-09-14 17:59:04",
+    "ai_summary": null
+  },
+  {
+    "title": "サブテラヘルツ帯で「世界最速」2Tビット/秒、100m伝送を実証",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/14/news045.html",
+    "published": "Mon, 14 Sep 2026 15:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-09-14 17:59:05",
+    "ai_summary": null
+  },
+  {
+    "title": "インフィニオン、800VDC AIデータセンター用SSCB開発強化",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/14/news032.html",
+    "published": "Mon, 14 Sep 2026 13:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-09-14 17:59:05",
+    "ai_summary": null
+  },
+  {
     "title": "データセンター向け増産に「ちょっと待てよ」　住友電工社長の不安",
     "link": "http://www.asahi.com/articles/ASV9C2TXXV9CPLFA004M.html?ref=rss",
     "published": "",
