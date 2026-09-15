@@ -1,5 +1,49 @@
 [
   {
+    "title": "ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？",
+    "link": "https://gigazine.net/news/20260915-sunk-cost/",
+    "published": "Tue, 15 Sep 2026 21:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-15 16:43:39",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAが「RTX Pro 5500 Blackwell Workstation Edition」発表、RTX 5090と同等のスペックながらRTX 5090の32GBに対してなんと84GBものGDDR7メモリ搭載",
+    "link": "https://gigazine.net/news/20260915-nvidia-rtx-pro-5500-blackwell-workstation-edition/",
+    "published": "Tue, 15 Sep 2026 12:43:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-15 16:43:39",
+    "ai_summary": null
+  },
+  {
+    "title": "iOS 27にSiri AIをClaudeやChatGPTへ切り替える仕組みが見つかる、一般提供は未定",
+    "link": "https://gigazine.net/news/20260915-siri-ai-claude-chtgpt/",
+    "published": "Tue, 15 Sep 2026 12:15:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-15 16:43:39",
+    "ai_summary": null
+  },
+  {
+    "title": "AMBA Over UCIe: Building Coherent Multi-Die Systems",
+    "link": "https://semiengineering.com/amba-over-ucie-building-coherent-multi-die-systems/",
+    "published": "Tue, 15 Sep 2026 07:04:57 +0000",
+    "keywords": [
+      "UCIe"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-09-15 16:43:41",
+    "ai_summary": null
+  },
+  {
     "title": "Microsoftが「人間はAIより重要」とするAI行動規範を発表、AIの意識や権利を否定",
     "link": "https://gigazine.net/news/20260915-microsoft-humanist-ai-code-of-conduct/",
     "published": "Tue, 15 Sep 2026 11:23:00 +0900",
