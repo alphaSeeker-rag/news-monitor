@@ -1,5 +1,27 @@
 [
   {
+    "title": "AIエージェント「Hermes Agent」新機能「Local Models」でローカルAIモデル「Qwen3.8 27B」を直接動かしてみた、16GBのVRAMでも量子化で高速動作",
+    "link": "https://gigazine.net/news/20260916-hermes-agent-local-ai-model/",
+    "published": "Wed, 16 Sep 2026 23:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-16 16:36:39",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが音声会話AI「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」をリリース、リアルタイムで会話しながらコーディング可能",
+    "link": "https://gigazine.net/news/20260916-gemini-3-8-live/",
+    "published": "Wed, 16 Sep 2026 13:22:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-16 16:36:39",
+    "ai_summary": null
+  },
+  {
     "title": "ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能",
     "link": "https://gigazine.net/news/20260916-system-one-jev/",
     "published": "Wed, 16 Sep 2026 11:42:00 +0900",
