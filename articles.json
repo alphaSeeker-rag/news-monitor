@@ -1,5 +1,38 @@
 [
   {
+    "title": "早明浦ダム迫る貯水率0%　過酷な「平六渇水」経て造られた水源の力",
+    "link": "http://www.asahi.com/articles/ASV9J2GXZV9JPLXB001M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "渇水"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-09-16 23:33:33",
+    "ai_summary": null
+  },
+  {
+    "title": "Claude Fable 5.1が370年前の未解読暗号「Cyphral Distich」を1日足らずで解読",
+    "link": "https://gigazine.net/news/20260917-fable-solves-cyphral-distich/",
+    "published": "Thu, 17 Sep 2026 06:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-16 23:33:33",
+    "ai_summary": null
+  },
+  {
+    "title": "AIデータセンターの熱対策の切り札、液冷の導入加速",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091500013/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-16 23:33:39",
+    "ai_summary": null
+  },
+  {
     "title": "AIエージェント「Hermes Agent」新機能「Local Models」でローカルAIモデル「Qwen3.8 27B」を直接動かしてみた、16GBのVRAMでも量子化で高速動作",
     "link": "https://gigazine.net/news/20260916-hermes-agent-local-ai-model/",
     "published": "Wed, 16 Sep 2026 23:00:00 +0900",
