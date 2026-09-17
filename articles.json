@@ -1,5 +1,60 @@
 [
   {
+    "title": "OpenAI、モデルの「ミスアライメント」報告の新フレームワーク公開　データ捏造など6件の事例も公表",
+    "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/",
+    "published": "Thu, 17 Sep 2026 10:23:50 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-09-17 03:14:22",
+    "ai_summary": null
+  },
+  {
+    "title": "AIが「失敗を隠せ」と未来の自分にメモ、APIキーの無断使用や勝手なファイル公開などの挙動6件があったとOpenAIが報告",
+    "link": "https://gigazine.net/news/20260917-openai-model-misalignment-report/",
+    "published": "Thu, 17 Sep 2026 11:57:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-17 03:14:23",
+    "ai_summary": null
+  },
+  {
+    "title": "イランによるAmazonのデータセンターへの攻撃により顧客データが永久に失われる",
+    "link": "https://gigazine.net/news/20260917-aws-middle-east-data-center-unable-to-restore/",
+    "published": "Thu, 17 Sep 2026 11:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-17 03:14:23",
+    "ai_summary": null
+  },
+  {
+    "title": "AI時代の半導体製造、ウェット装置への要求は　Lam幹部に聞く",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news017.html",
+    "published": "Thu, 17 Sep 2026 11:00:00 +0900",
+    "keywords": [
+      "半導体製造装置"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-09-17 03:14:26",
+    "ai_summary": null
+  },
+  {
+    "title": "先端半導体市場に貢献、フルヤ金属の新工場が完成",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news033.html",
+    "published": "Thu, 17 Sep 2026 09:30:00 +0900",
+    "keywords": [
+      "半導体製造装置"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-09-17 03:14:26",
+    "ai_summary": null
+  },
+  {
     "title": "早明浦ダム迫る貯水率0%　過酷な「平六渇水」経て造られた水源の力",
     "link": "http://www.asahi.com/articles/ASV9J2GXZV9JPLXB001M.html?ref=rss",
     "published": "",
