@@ -1,5 +1,71 @@
 [
   {
+    "title": "NVIDIA、Google、Emerald AIがAIデータセンターの電力消費調整を目指すアライアンス設立　Anthropicも参加",
+    "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001599/",
+    "published": "Fri, 18 Sep 2026 06:46:04 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-09-17 23:25:13",
+    "ai_summary": null
+  },
+  {
+    "title": "米TI、EV向け電池監視IC　能動的チェックで熱暴走の予兆検知早く　ほか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00106/00034/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-17 23:25:21",
+    "ai_summary": null
+  },
+  {
+    "title": "AI半導体、「推論シフト」で3つの課題　勢力図に変化",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091600014/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-17 23:25:21",
+    "ai_summary": null
+  },
+  {
+    "title": "国内新興が宇宙データセンター構築へ、規模拡大のカギ握る民生半導体活用",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00690/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-17 23:25:21",
+    "ai_summary": null
+  },
+  {
+    "title": "AIブームの陰で｢ふるさとの雑木林｣がデータセンター集積地に…埼玉･川越の開発計画に専門家が抱いた疑念 | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/958461?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Fri, 18 Sep 2026 05:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-09-17 23:25:21",
+    "ai_summary": null
+  },
+  {
+    "title": "〈続報･うぶごえ未払い問題〉｢言い逃れでした｣､裁判資料が語るカラ手形を連発した代表者の弁明 | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/958345?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Fri, 18 Sep 2026 05:20:00 +0900",
+    "keywords": [
+      "資金調達"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-09-17 23:25:21",
+    "ai_summary": null
+  },
+  {
     "title": "ドローン攻撃を受けたAWS中東データセンター、半年の復旧作業の末に「一部データは回復不能」",
     "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001590/",
     "published": "Thu, 17 Sep 2026 17:53:31 +0900",
