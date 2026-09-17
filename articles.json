@@ -1,5 +1,104 @@
 [
   {
+    "title": "ドローン攻撃を受けたAWS中東データセンター、半年の復旧作業の末に「一部データは回復不能」",
+    "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001590/",
+    "published": "Thu, 17 Sep 2026 17:53:31 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-09-17 16:43:14",
+    "ai_summary": null
+  },
+  {
+    "title": "AIコーディングエージェントにとってハーネスはどれほど重要なのか？",
+    "link": "https://gigazine.net/news/20260917-harnesstax-ai-coding-agents/",
+    "published": "Thu, 17 Sep 2026 23:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-17 16:43:14",
+    "ai_summary": null
+  },
+  {
+    "title": "AppleはNVIDIAのNVLink Fusionを介して接続されたM8 Ultraチップを使用したAIサーバーを開発しており外部に販売することも計画中",
+    "link": "https://gigazine.net/news/20260917-apple-nvidia-nvlink-fusion-m8-based-baltra-servers/",
+    "published": "Thu, 17 Sep 2026 15:49:00 +0900",
+    "keywords": [
+      "NVLink"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-17 16:43:14",
+    "ai_summary": null
+  },
+  {
+    "title": "GPT-6 Astraが141時間にわたって「マインクラフト」をプレイ、クリーパーに全財産を吹き飛ばされて「緑色の物体」がトラウマになりジャガイモ農家に",
+    "link": "https://gigazine.net/news/20260917-gpt-6-astra-plays-minecraft/",
+    "published": "Thu, 17 Sep 2026 14:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-17 16:43:14",
+    "ai_summary": null
+  },
+  {
+    "title": "ASML Has High-NA and Chipmakers Can’t Say No",
+    "link": "https://semiwiki.com/semiconductor-manufacturers/intel/373593-asml-has-high-na-and-chipmakers-cant-say-no/",
+    "published": "Thu, 17 Sep 2026 13:00:48 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "SemiWiki",
+    "detected_at": "2026-09-17 16:43:15",
+    "ai_summary": null
+  },
+  {
+    "title": "Predicting Silicon Behavior Years Before Test Wafers",
+    "link": "https://semiengineering.com/predicting-silicon-behavior-years-before-test-wafers/",
+    "published": "Thu, 17 Sep 2026 07:01:51 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-09-17 16:43:16",
+    "ai_summary": null
+  },
+  {
+    "title": "シャープが国内向けにAIサーバ展開 NVIDIA製GPU搭載",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/16/news091.html",
+    "published": "Thu, 17 Sep 2026 15:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-09-17 16:43:16",
+    "ai_summary": null
+  },
+  {
+    "title": "「水と活性炭」で半導体／データセンターに攻勢、クラレ",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/17/news086.html",
+    "published": "Thu, 17 Sep 2026 14:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-09-17 16:43:16",
+    "ai_summary": null
+  },
+  {
+    "title": "【1兆ドル規模の市場へ】勢力図は？／NTTが世界シェア3位／秋田を含む地方分散も？／もうけの仕組みは？／住民と勃発する立地問題のナゼ／バブルなの？巨額の投資は回収できる？／データセンターの建設ラッシュ | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/958535?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Thu, 17 Sep 2026 19:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-09-17 16:43:21",
+    "ai_summary": null
+  },
+  {
     "title": "OpenAI、モデルの「ミスアライメント」報告の新フレームワーク公開　データ捏造など6件の事例も公表",
     "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/",
     "published": "Thu, 17 Sep 2026 10:23:50 +0900",
