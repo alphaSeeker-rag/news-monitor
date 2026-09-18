@@ -1,5 +1,49 @@
 [
   {
+    "title": "謎の高性能AIモデル「Union Alpha」が公開される、GPT-6 AstraやClaude Fable 5.1と同等ベンチマークスコア",
+    "link": "https://gigazine.net/news/20260918-union-alpha/",
+    "published": "Fri, 18 Sep 2026 11:50:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-18 03:00:52",
+    "ai_summary": null
+  },
+  {
+    "title": "法務向けAI「Astra for Law」が登場、GPT-6 Astraより法務タスクがとても上手",
+    "link": "https://gigazine.net/news/20260918-openai-astra-for-law/",
+    "published": "Fri, 18 Sep 2026 11:34:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-18 03:00:52",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoft幹部がAIによるデータスクレイピングを「人類史上最大の労働窃盗」と表現",
+    "link": "https://gigazine.net/news/20260918-microsoft-exec-called-ai-scraping-largest-theft-labor/",
+    "published": "Fri, 18 Sep 2026 11:21:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-18 03:00:52",
+    "ai_summary": null
+  },
+  {
+    "title": "Qwen3.8 27Bを5.9GBまで小型化しつつ性能は98.2％維持したAIモデル「Ternary Bonsai 2 27B」が登場",
+    "link": "https://gigazine.net/news/20260918-bonsai-2-27b/",
+    "published": "Fri, 18 Sep 2026 10:45:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-18 03:00:52",
+    "ai_summary": null
+  },
+  {
     "title": "NVIDIA、Google、Emerald AIがAIデータセンターの電力消費調整を目指すアライアンス設立　Anthropicも参加",
     "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001599/",
     "published": "Fri, 18 Sep 2026 06:46:04 +0900",
