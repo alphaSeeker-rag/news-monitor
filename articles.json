@@ -1,5 +1,27 @@
 [
   {
+    "title": "Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)",
+    "link": "https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford/",
+    "published": "Mon, 21 Sep 2026 23:13:37 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-09-21 23:52:19",
+    "ai_summary": null
+  },
+  {
+    "title": "データセンターは敵か？味方か？ 財政苦しい地方都市で深まる｢経済再生への期待｣と｢住民の生活環境維持｣の葛藤 | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/958829?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Tue, 22 Sep 2026 05:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-09-21 23:52:24",
+    "ai_summary": null
+  },
+  {
     "title": "iPhoneに搭載されたApple製AIとチャットする方法、無料アプリで「Apple Foundation Models」のローカル処理能力を試せる",
     "link": "https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/",
     "published": "Mon, 21 Sep 2026 19:12:00 +0900",
