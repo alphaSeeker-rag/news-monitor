@@ -1,5 +1,27 @@
 [
   {
+    "title": "iPhoneに搭載されたApple製AIとチャットする方法、無料アプリで「Apple Foundation Models」のローカル処理能力を試せる",
+    "link": "https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/",
+    "published": "Mon, 21 Sep 2026 19:12:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-21 18:07:22",
+    "ai_summary": null
+  },
+  {
+    "title": "無料でクラウド・ローカルの各AIモデルをOpenAI互換の単一APIでまとめて品質・速度・コストで最適化して管理しAIエージェントがどれだけの金額を使用できるかも制御できるオープンソースのゲートウェイ・ルーター「Experiential」",
+    "link": "https://gigazine.net/news/20260921-experiential/",
+    "published": "Mon, 21 Sep 2026 18:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-21 18:07:22",
+    "ai_summary": null
+  },
+  {
     "title": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
     "link": "https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations",
     "published": "Sun, 20 Sep 2026 07:59:17 GMT",
