@@ -1,5 +1,27 @@
 [
   {
+    "title": "SpaceXAI、「Grok 4.7」発表　コーディングと知識労働向けで同社最高性能、価格は据え置き",
+    "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
+    "published": "Tue, 22 Sep 2026 08:46:47 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-09-22 03:07:58",
+    "ai_summary": null
+  },
+  {
+    "title": "単価の安いAIモデルを使うとかえってコストが高くつくことがあるという研究結果",
+    "link": "https://gigazine.net/news/20260922-cheaper-ai-coding-cost/",
+    "published": "Tue, 22 Sep 2026 10:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-22 03:07:59",
+    "ai_summary": null
+  },
+  {
     "title": "Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)",
     "link": "https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford/",
     "published": "Mon, 21 Sep 2026 23:13:37 +0000",
