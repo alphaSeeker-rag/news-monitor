@@ -1,5 +1,28 @@
 [
   {
+    "title": "光電融合、スケールアップ領域へ　GPU間を光チップレットでつなぐ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03627/090200044/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-23 23:26:38",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIA、HBMの省電力化技術　クラウド大手のAI半導体囲い込み",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12021/",
+    "published": "",
+    "keywords": [
+      "ハイパースケーラー",
+      "HBM"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-23 23:26:38",
+    "ai_summary": null
+  },
+  {
     "title": "AnthropicがAIモデル「Claude Opus 5.5」を発表、Opus 5よりコスト40％減・30％以上高速化しコーディング性能も向上",
     "link": "https://gigazine.net/news/20260923-claude-opus-5-5/",
     "published": "Wed, 23 Sep 2026 14:30:00 +0900",
