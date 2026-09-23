@@ -1,5 +1,27 @@
 [
   {
+    "title": "AnthropicがAIモデル「Claude Opus 5.5」を発表、Opus 5よりコスト40％減・30％以上高速化しコーディング性能も向上",
+    "link": "https://gigazine.net/news/20260923-claude-opus-5-5/",
+    "published": "Wed, 23 Sep 2026 14:30:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-23 16:37:37",
+    "ai_summary": null
+  },
+  {
+    "title": "Why ASML Is Racing to Build 110 EUV Machines",
+    "link": "https://semiwiki.com/lithography/373646-why-asml-is-racing-to-build-110-euv-machines/",
+    "published": "Wed, 23 Sep 2026 13:00:20 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "SemiWiki",
+    "detected_at": "2026-09-23 16:37:38",
+    "ai_summary": null
+  },
+  {
     "title": "Comparison of TSMC CoWoS-S, CoWoS-R, and CoWoS-L",
     "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/371790-comparison-of-tsmc-cowos-s-cowos-r-and-cowos-l/",
     "published": "Tue, 22 Sep 2026 13:00:21 +0000",
