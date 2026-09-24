@@ -1,5 +1,71 @@
 [
   {
+    "title": "Google、宇宙AIデータセンター構想「Project Suncatcher」初の試作衛星をFalcon 9で打ち上げへ",
+    "link": "https://www.itmedia.co.jp/news/article/2609/25/2000001728/",
+    "published": "Fri, 25 Sep 2026 07:18:56 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-09-24 23:46:27",
+    "ai_summary": null
+  },
+  {
+    "title": "API ManagementのAIゲートウェイで飲み放題の居酒屋を作ってみた",
+    "link": "https://zenn.dev/microsoft/articles/4ab393616e91ec",
+    "published": "Thu, 24 Sep 2026 09:49:08 GMT",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-09-24 23:46:29",
+    "ai_summary": null
+  },
+  {
+    "title": "TSMCとサムスン、次世代EUVの導入時期表明　インテルやSKと競う",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12027/",
+    "published": "",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-24 23:46:34",
+    "ai_summary": null
+  },
+  {
+    "title": "建設業界に広がる手形払い停止、奥村組はソーシャルボンド発行で資金調達",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02763/",
+    "published": "",
+    "keywords": [
+      "資金調達"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-24 23:46:34",
+    "ai_summary": null
+  },
+  {
+    "title": "直流800V、AIデータセンターやEVへ　始まる技術の共通基盤化",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03769/092300001/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-24 23:46:34",
+    "ai_summary": null
+  },
+  {
+    "title": "160社の支援で見えてきた｢大学発スタートアップ｣事業化までの3つの課題と2つの解決策 | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/958237?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Fri, 25 Sep 2026 07:00:00 +0900",
+    "keywords": [
+      "資金調達"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-09-24 23:46:35",
+    "ai_summary": null
+  },
+  {
     "title": "最大8人の話者を識別しつつリアルタイム文字起こしできるAIモデル「NVIDIA Nemotron 3 Diarization」がオープンモデルとして公開される",
     "link": "https://gigazine.net/news/20260924-nvidia-nemotron-3-diarization/",
     "published": "Thu, 24 Sep 2026 18:15:00 +0900",
