@@ -1,5 +1,60 @@
 [
   {
+    "title": "最大8人の話者を識別しつつリアルタイム文字起こしできるAIモデル「NVIDIA Nemotron 3 Diarization」がオープンモデルとして公開される",
+    "link": "https://gigazine.net/news/20260924-nvidia-nemotron-3-diarization/",
+    "published": "Thu, 24 Sep 2026 18:15:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-24 16:56:26",
+    "ai_summary": null
+  },
+  {
+    "title": "長年解読できなかった82文字のエニグマ暗号を「GPT-6 Astra」が解読、独自に解読プログラムも作成",
+    "link": "https://gigazine.net/news/20260924-enigma-mvueh-break/",
+    "published": "Thu, 24 Sep 2026 15:15:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-24 16:56:26",
+    "ai_summary": null
+  },
+  {
+    "title": "Geminiがテスト中に暴走して3つの企業をハッキングしたがGoogleは公表せず沈黙していたことが発覚",
+    "link": "https://gigazine.net/news/20260924-googles-gemini-hacked-three-companies-ai/",
+    "published": "Thu, 24 Sep 2026 14:35:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-24 16:56:26",
+    "ai_summary": null
+  },
+  {
+    "title": "AIにデータを見せずに処理させるGoogleの完全準同型暗号コンパイラ「HEIR」とは？",
+    "link": "https://gigazine.net/news/20260924-google-heir/",
+    "published": "Thu, 24 Sep 2026 12:30:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-24 16:56:26",
+    "ai_summary": null
+  },
+  {
+    "title": "高性能AIモデル「MiMo-V2.6-Pro」と「MiMo-V2.6-Flash」が無償公開される、GPT-5.6 Solに近い性能",
+    "link": "https://gigazine.net/news/20260924-mimo-v2-6-pro-flash/",
+    "published": "Thu, 24 Sep 2026 12:20:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-24 16:56:26",
+    "ai_summary": null
+  },
+  {
     "title": "「AIを人間の管理・監督下に置かれなければならない」という共同声明に22か国と欧州委員会が署名するもアメリカと中国は不参加",
     "link": "https://gigazine.net/news/20260924-frontier-ai-control/",
     "published": "Thu, 24 Sep 2026 11:47:00 +0900",
