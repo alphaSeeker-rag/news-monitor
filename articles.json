@@ -1,5 +1,71 @@
 [
   {
+    "title": "ロボット制御向けAIモデル「FLUX 3 Action」をBlack Forest Labsが公開",
+    "link": "https://gigazine.net/news/20260925-flux-3-action/",
+    "published": "Fri, 25 Sep 2026 17:20:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-25 16:58:45",
+    "ai_summary": null
+  },
+  {
+    "title": "小型AIモデル「1-Bit Bonsai」シリーズがスマートグラスで動作するように、Qualcommとの協力により",
+    "link": "https://gigazine.net/news/20260925-1-bit-bonsai-smart-glass/",
+    "published": "Fri, 25 Sep 2026 15:15:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-25 16:58:45",
+    "ai_summary": null
+  },
+  {
+    "title": "Huawei’s Tau Law Takes Commercial Form",
+    "link": "https://www.eetimes.com/huaweis-tau-law-takes-commercial-form/",
+    "published": "Fri, 25 Sep 2026 14:18:57 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "EE Times",
+    "detected_at": "2026-09-25 16:58:47",
+    "ai_summary": null
+  },
+  {
+    "title": "三菱電機、NVIDIA対応AIデータセンターの電力／冷却を丸ごと設計",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/25/news115.html",
+    "published": "Fri, 25 Sep 2026 20:20:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-09-25 16:58:48",
+    "ai_summary": null
+  },
+  {
+    "title": "ハフニウムの国内製造技術を確立、第一稀元素化学工業",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/25/news044.html",
+    "published": "Fri, 25 Sep 2026 15:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-09-25 16:58:48",
+    "ai_summary": null
+  },
+  {
+    "title": "ASML’s revenue share drops to zero percent in Europe, says it has sold “absolutely nothing” in the region this year",
+    "link": "https://www.datacenterdynamics.com/en/news/asmls-revenue-share-drops-to-zero-percent-in-europe-says-its-sold-absolutely-nothing-in-the-region-this-year/",
+    "published": "Fri, 25 Sep 2026 11:03:00 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "DCD",
+    "detected_at": "2026-09-25 16:58:48",
+    "ai_summary": null
+  },
+  {
     "title": "Tencentが画像生成AI「Hy Image3.5」のプレビュー版をリリース",
     "link": "https://gigazine.net/news/20260925-tencent-hy-image-3-5/",
     "published": "Fri, 25 Sep 2026 12:06:00 +0900",
