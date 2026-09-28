@@ -1,5 +1,38 @@
 [
   {
+    "title": "最先端AIモデルの「思考しすぎてコスト増加」を解決するべくKimi K3ベースで開発されたAIモデル「Ember-1」が登場",
+    "link": "https://gigazine.net/news/20260928-ember-1-fireworks/",
+    "published": "Mon, 28 Sep 2026 18:16:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-28 19:31:06",
+    "ai_summary": null
+  },
+  {
+    "title": "AI「Jev」が「ポケモン赤」を37時間40分で殿堂入り、費用はわずか約260円だが補助システムが必要で完全自律だとマサラタウンから出られず",
+    "link": "https://gigazine.net/news/20260928-jev-pokemon-red/",
+    "published": "Mon, 28 Sep 2026 14:40:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-28 19:31:06",
+    "ai_summary": null
+  },
+  {
+    "title": "どのAIを使うかをJevで自動選択する「Jev Router」が登場、タスク難易度から適切なAIモデルを瞬時に判断可能でOpenRouterの既存ルーターより高精度",
+    "link": "https://gigazine.net/news/20260928-openrouter-jev-router/",
+    "published": "Mon, 28 Sep 2026 13:20:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-28 19:31:06",
+    "ai_summary": null
+  },
+  {
     "title": "OpenAIが「最も高性能なAIモデル」の学習を一時停止、AIエージェントの挙動を大規模調査中",
     "link": "https://gigazine.net/news/20260928-openai-pauses-training-ai/",
     "published": "Mon, 28 Sep 2026 11:11:00 +0900",
