@@ -1,5 +1,49 @@
 [
   {
+    "title": "AI時代にはこれまで以上に「顔の良さ」が重要になる可能性がある、AIは人間以上に顔の偏見が強いため",
+    "link": "https://gigazine.net/news/20260929-ai-use-facial-features-criminality-performance/",
+    "published": "Tue, 29 Sep 2026 16:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-29 17:57:55",
+    "ai_summary": null
+  },
+  {
+    "title": "Chip Industry Technical Paper Roundup: Sept. 29",
+    "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-29/",
+    "published": "Tue, 29 Sep 2026 07:01:34 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-09-29 17:57:57",
+    "ai_summary": null
+  },
+  {
+    "title": "AIデータセンターで進む高圧直流化、電源機器や冷却装置に需要",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092900033/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-29 17:58:01",
+    "ai_summary": null
+  },
+  {
+    "title": "データセンター投資、2030年までに累計4兆ドルに　ボトルネックは電力",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/092800024/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-29 17:58:01",
+    "ai_summary": null
+  },
+  {
     "title": "Meta、企業向けAI事業「Meta Enterprise Platform」を開始　責任者としてMongoDBのCEO引き抜き",
     "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001829/",
     "published": "Tue, 29 Sep 2026 11:05:46 +0900",
