@@ -1,5 +1,38 @@
 [
   {
+    "title": "Meta、企業向けAI事業「Meta Enterprise Platform」を開始　責任者としてMongoDBのCEO引き抜き",
+    "link": "https://www.itmedia.co.jp/news/article/2609/29/2000001829/",
+    "published": "Tue, 29 Sep 2026 11:05:46 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-09-29 04:02:04",
+    "ai_summary": null
+  },
+  {
+    "title": "「Claude Sonnet 5.5」が登場、前モデルより30％高速・30％安価でGPT-6 Solより高性能",
+    "link": "https://gigazine.net/news/20260929-claude-sonnet-5-5/",
+    "published": "Tue, 29 Sep 2026 11:11:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-29 04:02:04",
+    "ai_summary": null
+  },
+  {
+    "title": "AMDが3D世界を構築するAI企業「World Labs」を買収、「AIのゴッドマザー」が率いる画像・動画・3D空間の生成が可能な世界モデルの開発企業",
+    "link": "https://gigazine.net/news/20260929-amd-acquire-world-labs/",
+    "published": "Tue, 29 Sep 2026 11:02:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-29 04:02:04",
+    "ai_summary": null
+  },
+  {
     "title": "AWSが「RNG」を国内初導入へ",
     "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/091400339/",
     "published": "",
