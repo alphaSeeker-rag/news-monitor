@@ -1,5 +1,27 @@
 [
   {
+    "title": "AWSが「RNG」を国内初導入へ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800012/091400339/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-29 00:50:38",
+    "ai_summary": null
+  },
+  {
+    "title": "直流の高電圧化、800Vの次は1500V　韓国では離島全体に導入",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03769/092700004/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-09-29 00:50:38",
+    "ai_summary": null
+  },
+  {
     "title": "最先端AIモデルの「思考しすぎてコスト増加」を解決するべくKimi K3ベースで開発されたAIモデル「Ember-1」が登場",
     "link": "https://gigazine.net/news/20260928-ember-1-fireworks/",
     "published": "Mon, 28 Sep 2026 18:16:00 +0900",
