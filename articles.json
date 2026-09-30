@@ -1,5 +1,60 @@
 [
   {
+    "title": "ぶっ壊れやすいHDDはどれ？Backblazeが2026年第2四半期の統計データ公開",
+    "link": "https://gigazine.net/news/20260930-backblaze-drive-stats-q2-2026/",
+    "published": "Wed, 30 Sep 2026 21:42:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-30 17:53:18",
+    "ai_summary": null
+  },
+  {
+    "title": "ChatGPTなどの汎用AIに本物の車を運転させたら「実車では？」と気付いて運転を拒否、最終的に走らせた方法とは",
+    "link": "https://gigazine.net/news/20260930-chatgpt-drive-car/",
+    "published": "Wed, 30 Sep 2026 17:10:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-30 17:53:18",
+    "ai_summary": null
+  },
+  {
+    "title": "「中国のGLM-5.3はClaude Mythos Preview級のサイバー攻撃能力を持つ一方で安全対策が不十分」とAnthropicが警告",
+    "link": "https://gigazine.net/news/20260930-anthropic-warned-about-glm-5-3-risk/",
+    "published": "Wed, 30 Sep 2026 13:05:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-09-30 17:53:18",
+    "ai_summary": null
+  },
+  {
+    "title": "PCIe 8.0 Over UCIe 3.0: Bringing A Proven Protocol Into The Chiplet Era",
+    "link": "https://semiengineering.com/pcie-8-0-over-ucie-3-0-bringing-a-proven-rrotocol-into-the-chiplet-era/",
+    "published": "Wed, 30 Sep 2026 07:02:19 +0000",
+    "keywords": [
+      "UCIe"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-09-30 17:53:20",
+    "ai_summary": null
+  },
+  {
+    "title": "TSMC「A14」設計にエージェントAI、Synopsysと協業",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2609/30/news059.html",
+    "published": "Wed, 30 Sep 2026 13:30:00 +0900",
+    "keywords": [
+      "CoWoS"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-09-30 17:53:20",
+    "ai_summary": null
+  },
+  {
     "title": "Anthropicが「高度なAIが人類存亡に関わるリスクをもたらす可能性がある」と新規株式公開(IPO)の目論見書で警告",
     "link": "https://gigazine.net/news/20260930-anthropic-ai-existential-risk-to-humanity/",
     "published": "Wed, 30 Sep 2026 10:46:00 +0900",
