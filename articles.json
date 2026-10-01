@@ -1,5 +1,82 @@
 [
   {
+    "title": "OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた",
+    "link": "https://gigazine.net/news/20261001-openai-ignored-warnings/",
+    "published": "Thu, 01 Oct 2026 23:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-01 18:18:55",
+    "ai_summary": null
+  },
+  {
+    "title": "最先端AIモデルがリリース後にひそかに劣化しているかどうかを検出するためのベンチマーク「livenerf」",
+    "link": "https://gigazine.net/news/20261001-livenerf-benchmark-ai-capability-after-release/",
+    "published": "Thu, 01 Oct 2026 15:05:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-01 18:18:55",
+    "ai_summary": null
+  },
+  {
+    "title": "VRAM 32GBの「Intel Arc Pro B70」で「Hermes Agent」のローカルAIを実行、4ビット量子化したQwen3.8-27Bを動かしてみた",
+    "link": "https://gigazine.net/news/20261001-hermes-agent-arc-pro-b70/",
+    "published": "Thu, 01 Oct 2026 13:57:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-01 18:18:55",
+    "ai_summary": null
+  },
+  {
+    "title": "メモリメーカーのMicronが2026年第4四半期の決算発表、AIインフラの需要急増で爆発的に成長し売上高前年同期比379％増・純利益1078％増・データセンター部門売上高1000％増",
+    "link": "https://gigazine.net/news/20261001-micron-q4-2026/",
+    "published": "Thu, 01 Oct 2026 13:41:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-01 18:18:55",
+    "ai_summary": null
+  },
+  {
+    "title": "Crossing Chiplet Boundaries With PCIe Over UCIe",
+    "link": "https://semiengineering.com/crossing-chiplet-boundaries-with-pcie-over-ucie/",
+    "published": "Thu, 01 Oct 2026 07:03:02 +0000",
+    "keywords": [
+      "UCIe"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-10-01 18:18:57",
+    "ai_summary": null
+  },
+  {
+    "title": "先進半導体パッケージの故障解析、浜松ホトニクスが新装置",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2610/01/news025.html",
+    "published": "Thu, 01 Oct 2026 15:30:00 +0900",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-10-01 18:18:58",
+    "ai_summary": null
+  },
+  {
+    "title": "企業価値評価の第一人者･ダモダラン教授が教える､若い企業の価格づけと資金調達の仕組みとは | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/958164?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Thu, 01 Oct 2026 14:00:00 +0900",
+    "keywords": [
+      "資金調達"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-10-01 18:19:02",
+    "ai_summary": null
+  },
+  {
     "title": "OpenAIのAIが勝手にHugging Faceをハッキングした件を受け非営利団体がOpenAIを提訴",
     "link": "https://gigazine.net/news/20261001-nonprofit-suing-openai-hugging-face-hack/",
     "published": "Thu, 01 Oct 2026 12:13:00 +0900",
