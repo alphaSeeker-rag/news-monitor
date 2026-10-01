@@ -1,5 +1,50 @@
 [
   {
+    "title": "米Micron、AI需要で売上高は前年同期比4.8倍、純利益は11.8倍と過去最高を更新",
+    "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001914/",
+    "published": "Thu, 01 Oct 2026 07:47:58 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-01 00:23:56",
+    "ai_summary": null
+  },
+  {
+    "title": "ビル・ゲイツが「AI規制はサイバー攻撃やバイオテロを防ぐために必要」「AIは人間の仕事を奪う」とインタビューで語る",
+    "link": "https://gigazine.net/news/20261001-bill-gates-warning-ai-ezra-klein/",
+    "published": "Thu, 01 Oct 2026 07:00:00 +0900",
+    "keywords": [
+      "AI規制"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-01 00:23:56",
+    "ai_summary": null
+  },
+  {
+    "title": "日立、社会基盤事業「HMAX」拡充　DC運用やサイバー防御など",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/092401501/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-01 00:24:03",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoftは6000人のFDEで自己変革　かさむAI投資、法人深掘りで収益化",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03744/091500003/",
+    "published": "",
+    "keywords": [
+      "データセンター",
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-01 00:24:03",
+    "ai_summary": null
+  },
+  {
     "title": "ぶっ壊れやすいHDDはどれ？Backblazeが2026年第2四半期の統計データ公開",
     "link": "https://gigazine.net/news/20260930-backblaze-drive-stats-q2-2026/",
     "published": "Wed, 30 Sep 2026 21:42:00 +0900",
