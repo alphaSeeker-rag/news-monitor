@@ -1,5 +1,27 @@
 [
   {
+    "title": "OpenAIのAIが勝手にHugging Faceをハッキングした件を受け非営利団体がOpenAIを提訴",
+    "link": "https://gigazine.net/news/20261001-nonprofit-suing-openai-hugging-face-hack/",
+    "published": "Thu, 01 Oct 2026 12:13:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-01 03:56:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが「Gemini 4 Argon」を発表、GPT-6 AstraやClaude Fable 5.1を超える性能でGemini 4シリーズの先駆けモデル",
+    "link": "https://gigazine.net/news/20261001-google-gemini-4-argon/",
+    "published": "Thu, 01 Oct 2026 10:58:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-01 03:56:48",
+    "ai_summary": null
+  },
+  {
     "title": "米Micron、AI需要で売上高は前年同期比4.8倍、純利益は11.8倍と過去最高を更新",
     "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001914/",
     "published": "Thu, 01 Oct 2026 07:47:58 +0900",
