@@ -1,5 +1,83 @@
 [
   {
+    "title": "TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる",
+    "link": "https://gigazine.net/news/20261006-homa-protocol-replace-tcp/",
+    "published": "Tue, 06 Oct 2026 08:05:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-06 01:40:27",
+    "ai_summary": null
+  },
+  {
+    "title": "無料で国のミッションクリティカル作業のために構築された主権AIモデル「Kolibri」、公共行政・産業・航空宇宙などの規制分野での使用が前提でオープンソースなだけでなく構築過程も透明化",
+    "link": "https://gigazine.net/news/20261006-kolibri/",
+    "published": "Tue, 06 Oct 2026 07:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-06 01:40:27",
+    "ai_summary": null
+  },
+  {
+    "title": "125Bの「Qwen3.8-Flash-Next」の量子化版をゲーミングPCで高速ローカル実行可能にするAI実行アプリ「Strata」",
+    "link": "https://gigazine.net/news/20261005-strata-local-ai/",
+    "published": "Mon, 05 Oct 2026 21:08:00 +0900",
+    "keywords": [
+      "データセンター",
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-06 01:40:27",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが黒塗りで報告したデータセンターの水使用量と最大電力容量がコピペによって明らかに",
+    "link": "https://gigazine.net/news/20261005-google-data-center-usage/",
+    "published": "Mon, 05 Oct 2026 20:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-06 01:40:27",
+    "ai_summary": null
+  },
+  {
+    "title": "名作絵本『がまくんとかえるくん』風にAIの暴走によるハッキングを風刺した『がまくんとかえるくんとますます進化する機械たち』",
+    "link": "https://gigazine.net/news/20261005-frogandtoad-ai-openai-hugging-face-hack/",
+    "published": "Mon, 05 Oct 2026 15:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-06 01:40:27",
+    "ai_summary": null
+  },
+  {
+    "title": "Kepler Aims to Launch Energy-Saving Replacement for HBM in 2027",
+    "link": "https://www.eetimes.com/kepler-aims-to-launch-energy-saving-replacement-for-hbm-in-2027/",
+    "published": "Mon, 05 Oct 2026 20:00:00 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "EE Times",
+    "detected_at": "2026-10-06 01:40:29",
+    "ai_summary": null
+  },
+  {
+    "title": "半導体装置大手、インドへの大型投資を相次ぎ表明　SEMICONで",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03755/092400002/",
+    "published": "",
+    "keywords": [
+      "半導体製造装置"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-06 01:40:32",
+    "ai_summary": null
+  },
+  {
     "title": "テスラ比「70％軽量」インバーター　名古屋大、三菱電機など8社と29年に",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03259/091600042/",
     "published": "",
