@@ -1,5 +1,60 @@
 [
   {
+    "title": "ビデオ通話で参加者の48％が人間だと誤認したAIモデル「Griffin」が登場、1枚の画像から顔や体の動きを映像で再現",
+    "link": "https://gigazine.net/news/20261006-tavus-griffin/",
+    "published": "Tue, 06 Oct 2026 22:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-06 18:12:10",
+    "ai_summary": null
+  },
+  {
+    "title": "東芝がAIデータセンター向けHDDの生産能力を2027年度までに倍増させる計画発表でライバル企業のWestern DigitalとSeagateの株価が急落、東芝はさらに65TBと100TBも準備",
+    "link": "https://gigazine.net/news/20261006-toshiba-hdd-double/",
+    "published": "Tue, 06 Oct 2026 14:03:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-06 18:12:10",
+    "ai_summary": null
+  },
+  {
+    "title": "中国への高度な半導体製造装置の輸出を認めるとAI分野での優位性が失われると研究機関が警告",
+    "link": "https://gigazine.net/news/20261006-duv-immersion-lithography-china/",
+    "published": "Tue, 06 Oct 2026 13:45:00 +0900",
+    "keywords": [
+      "半導体製造装置"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-06 18:12:10",
+    "ai_summary": null
+  },
+  {
+    "title": "嘘を嘘と見抜けない？ Clef / Clef-Flashの判定性能を7タスクでJevと比較",
+    "link": "https://zenn.dev/canly/articles/e4f0527fcfd6b3",
+    "published": "Tue, 06 Oct 2026 03:37:22 GMT",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "Zennのトレンド",
+    "detected_at": "2026-10-06 18:12:11",
+    "ai_summary": null
+  },
+  {
+    "title": "Maryland nets 440 MW/1,760 MWh in first bulk energy storage procurement",
+    "link": "https://www.utilitydive.com/news/maryland-nets-440-mw1760-mwh-in-first-bulk-energy-storage-procurement/832261/",
+    "published": "Tue, 06 Oct 2026 12:01:15 -0400",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Utility Dive - Latest News",
+    "detected_at": "2026-10-06 18:12:15",
+    "ai_summary": null
+  },
+  {
     "title": "TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる",
     "link": "https://gigazine.net/news/20261006-homa-protocol-replace-tcp/",
     "published": "Tue, 06 Oct 2026 08:05:00 +0900",
