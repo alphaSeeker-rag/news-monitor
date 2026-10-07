@@ -1,5 +1,49 @@
 [
   {
+    "title": "みずほ証券、国内金融業界初の直接液冷サーバ導入へ",
+    "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002104/",
+    "published": "Wed, 07 Oct 2026 19:13:48 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-07 18:45:29",
+    "ai_summary": null
+  },
+  {
+    "title": "IDCFクラウドに不正アクセス　東日本の第1リージョンで障害",
+    "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002087/",
+    "published": "Wed, 07 Oct 2026 14:37:39 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-07 18:45:29",
+    "ai_summary": null
+  },
+  {
+    "title": "AIによって開発されたオープンソースのAIアクセラレータ「openTPU」が登場",
+    "link": "https://gigazine.net/news/20261007-opentpu/",
+    "published": "Wed, 07 Oct 2026 19:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-07 18:45:30",
+    "ai_summary": null
+  },
+  {
+    "title": "データセンター向けパーティション「AP-3 DC」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00014/092901009/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-07 18:45:36",
+    "ai_summary": null
+  },
+  {
     "title": "OpenAIが社内AIモデルで722本の未解決問題に関する数学的成果を発表、新たな数学的ブレークスルーへ",
     "link": "https://gigazine.net/news/20261007-openai-mathematics/",
     "published": "Wed, 07 Oct 2026 12:42:00 +0900",
