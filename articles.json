@@ -1,5 +1,27 @@
 [
   {
+    "title": "OpenAIが社内AIモデルで722本の未解決問題に関する数学的成果を発表、新たな数学的ブレークスルーへ",
+    "link": "https://gigazine.net/news/20261007-openai-mathematics/",
+    "published": "Wed, 07 Oct 2026 12:42:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-07 04:07:00",
+    "ai_summary": null
+  },
+  {
+    "title": "1兆パラメータ超の「Mistral Large 4 Le Chonk」をMistralが発表、中国勢に対抗するオープンウェイトAIモデル",
+    "link": "https://gigazine.net/news/20261007-mistral-large-4-le-chonk/",
+    "published": "Wed, 07 Oct 2026 11:15:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-07 04:07:00",
+    "ai_summary": null
+  },
+  {
     "title": "AWSの経路制御ソフトが3割速く送れる秘訣、データをスプレー状にばらまく",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03779/093000003/",
     "published": "",
