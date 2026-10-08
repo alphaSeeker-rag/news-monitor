@@ -1,5 +1,71 @@
 [
   {
+    "title": "ニッスイ子会社で入出荷停止　IDCFクラウド影響か　委託先データセンターに不正アクセス",
+    "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002113/",
+    "published": "Thu, 08 Oct 2026 07:49:02 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-08 00:44:19",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropic、「Claude Haiku 5.5」公開　「Haiku 4.5」から大幅性能向上で利用コスト約75％減",
+    "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002112/",
+    "published": "Thu, 08 Oct 2026 07:25:53 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-08 00:44:19",
+    "ai_summary": null
+  },
+  {
+    "title": "Hyper-NA EUV: The Next Extension Beyond High NA Lithography (Carl Zeiss, ASML)",
+    "link": "https://semiengineering.com/hyper-na-euv-the-next-extension-beyond-high-na-lithography-carl-zeiss-asml/",
+    "published": "Wed, 07 Oct 2026 19:47:59 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-10-08 00:44:22",
+    "ai_summary": null
+  },
+  {
+    "title": "AWSが開発した「謎の箱」、ぐちゃぐちゃ接続を支える内部構造に迫る",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03779/093000004/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-08 00:44:26",
+    "ai_summary": null
+  },
+  {
+    "title": "推論シフトの27年、独自AI半導体が続々　製造でサムスン台頭",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03740/092900005/",
+    "published": "",
+    "keywords": [
+      "ハイパースケーラー"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-08 00:44:26",
+    "ai_summary": null
+  },
+  {
+    "title": "【現地取材】世界最大のデータセンター集積地で起きている住民被害…アメリカ中間選挙の大きな争点が明らかに | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/960310?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Thu, 08 Oct 2026 05:45:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-10-08 00:44:27",
+    "ai_summary": null
+  },
+  {
     "title": "みずほ証券、国内金融業界初の直接液冷サーバ導入へ",
     "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002104/",
     "published": "Wed, 07 Oct 2026 19:13:48 +0900",
