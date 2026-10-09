@@ -1,5 +1,104 @@
 [
   {
+    "title": "米国防総省にも不正アクセス　個人情報300万人分が平文で漏えいか……発覚までに9カ月",
+    "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002158/",
+    "published": "Fri, 09 Oct 2026 14:32:32 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-09 18:14:11",
+    "ai_summary": null
+  },
+  {
+    "title": "jevやGPT-6 Luna Decisionsなどの素早い判断に特化した確率モデルがパックマンをプレイするベンチマーク「jevman」",
+    "link": "https://gigazine.net/news/20261009-jevman/",
+    "published": "Fri, 09 Oct 2026 20:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-09 18:14:12",
+    "ai_summary": null
+  },
+  {
+    "title": "ロシアのIT大手・Yandexのデータセンターがウクライナのドローン攻撃で大規模炎上、AI開発用スパコン2基も被災の可能性",
+    "link": "https://gigazine.net/news/20261009-yandex-drone-attack/",
+    "published": "Fri, 09 Oct 2026 15:15:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-09 18:14:12",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIがAIで大量の数学的成果を発表したのは「学術的成果ではなく権力の誇示に過ぎない」との指摘",
+    "link": "https://gigazine.net/news/20261009-openais-math-solutions-human-ahm/",
+    "published": "Fri, 09 Oct 2026 15:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-09 18:14:12",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleがEmbeddingGemma 2・Gemma 4などのAIアシスタントで会議を記録するmacOSノートアプリ「Google AI Edge Foresight」リリース",
+    "link": "https://gigazine.net/news/20261009-google-ai-edge-foresight/",
+    "published": "Fri, 09 Oct 2026 13:57:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-09 18:14:12",
+    "ai_summary": null
+  },
+  {
+    "title": "Chip Industry Week In Review",
+    "link": "https://semiengineering.com/chip-industry-week-in-review-159/",
+    "published": "Fri, 09 Oct 2026 07:01:17 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-10-09 18:14:14",
+    "ai_summary": null
+  },
+  {
+    "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
+    "link": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
+    "published": "Fri, 09 Oct 2026 14:11:55 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "EE Times",
+    "detected_at": "2026-10-09 18:14:14",
+    "ai_summary": null
+  },
+  {
+    "title": "GFがTSMCの「CoWoS」用Siインターポーザー米国生産",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2610/09/news081.html",
+    "published": "Fri, 09 Oct 2026 18:58:00 +0900",
+    "keywords": [
+      "CoWoS"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-10-09 18:14:14",
+    "ai_summary": null
+  },
+  {
+    "title": "AIデータセンターの800VDC化へ InfineonとEatonが協業",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2610/09/news028.html",
+    "published": "Fri, 09 Oct 2026 13:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-10-09 18:14:14",
+    "ai_summary": null
+  },
+  {
     "title": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止　影響工作の規定も集約",
     "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002149/",
     "published": "Fri, 09 Oct 2026 09:07:24 +0900",
