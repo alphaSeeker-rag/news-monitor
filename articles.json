@@ -1,5 +1,27 @@
 [
   {
+    "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
+    "link": "https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide/",
+    "published": "Sun, 11 Oct 2026 09:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-11 00:07:49",
+    "ai_summary": null
+  },
+  {
+    "title": "AI投資に選別の波､オーストラリアのデータセンター運営会社の新星が大型IPO断念…48時間の舞台裏 | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/960842?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Sun, 11 Oct 2026 06:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-10-11 00:07:56",
+    "ai_summary": null
+  },
+  {
     "title": "Hyper-NA EUV: The Next Frontier in Chipmaking Could Arrive in 2036",
     "link": "https://semiwiki.com/lithography/374764-hyper-na-euv-the-next-frontier-in-chipmaking-could-arrive-in-2036/",
     "published": "Sat, 10 Oct 2026 12:00:54 +0000",
