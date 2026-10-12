@@ -1,5 +1,38 @@
 [
   {
+    "title": "各社のAIがリリース後にどれだけ性能変化したかがグラフでわかるベンチマーク「Nerf Bench」",
+    "link": "https://gigazine.net/news/20261013-nerf-bench/",
+    "published": "Tue, 13 Oct 2026 06:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-12 21:09:31",
+    "ai_summary": null
+  },
+  {
+    "title": "データセンターの空調効率を高めるアルミパーティション",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00120/01073/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-12 21:09:36",
+    "ai_summary": null
+  },
+  {
+    "title": "データセンターのネットワークはAI時代の将棋と同じ道を歩むのか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/100802121/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-12 21:09:36",
+    "ai_summary": null
+  },
+  {
     "title": "ロシアのデータセンターに攻撃相次ぐ　宅配などのサービスに障害も",
     "link": "http://www.asahi.com/articles/ASVBC4G0YVBCSFVU1FYM.html?ref=rss",
     "published": "",
