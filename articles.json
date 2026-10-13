@@ -1,5 +1,83 @@
 [
   {
+    "title": "国産AI「Sarashina」が無料で試せるWebサイト、ソフトバンク子会社が公開　6つのAIモデルが呼び出せるAPIも",
+    "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002224/",
+    "published": "Tue, 13 Oct 2026 18:24:12 +0900",
+    "keywords": [
+      "AIモデル",
+      "国産AI"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-13 19:08:16",
+    "ai_summary": null
+  },
+  {
+    "title": "アンソロピック、大阪にAIデータセンター建設へ　NTTと協議",
+    "link": "http://www.asahi.com/articles/ASVBF2SX2VBFULFA00NM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-10-13 19:08:16",
+    "ai_summary": null
+  },
+  {
+    "title": "無料で7種類の超小型AIモデルをブラウザで動かせる「MicroLLM lab」、WebGPUで端末のGPUを活用",
+    "link": "https://gigazine.net/news/20261013-microllm-lab-browser-webgpu/",
+    "published": "Tue, 13 Oct 2026 20:45:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-13 19:08:17",
+    "ai_summary": null
+  },
+  {
+    "title": "法務タスク特化型AI「GLM-Legal」が登場、GLM-5.3-Flashベースの中国製モデルでGPT-6 Astraに匹敵する性能",
+    "link": "https://gigazine.net/news/20261013-glm-legal/",
+    "published": "Tue, 13 Oct 2026 18:16:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-13 19:08:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Yandexのデータセンターがウクライナによる攻撃でフェイルオーバーできず多数のサービスがダウン",
+    "link": "https://gigazine.net/news/20261013-yandex-no-failover/",
+    "published": "Tue, 13 Oct 2026 16:13:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-13 19:08:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicが蒸留攻撃に対する効果的な対策を発見、敵対組織によるデータ抽出を90～99％削減",
+    "link": "https://gigazine.net/news/20261013-anthropic-defense-distillation-attacks/",
+    "published": "Tue, 13 Oct 2026 15:08:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-13 19:08:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Chip Industry Technical Paper Roundup: Oct. 13",
+    "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-13-2/",
+    "published": "Tue, 13 Oct 2026 07:01:36 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-10-13 19:08:19",
+    "ai_summary": null
+  },
+  {
     "title": "Anthropic、自己複製AIの「兆し」を指摘　55ドルのTVボックス15台で26Bモデルが稼働",
     "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
     "published": "Tue, 13 Oct 2026 11:31:26 +0900",
