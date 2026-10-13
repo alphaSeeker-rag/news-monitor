@@ -1,5 +1,38 @@
 [
   {
+    "title": "Microsoft、第3世代AIチップ「Maia 300」を2027年に投入　GPU比で電力効率4割向上、自社サービスの主力推論基盤に",
+    "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002200/",
+    "published": "Tue, 13 Oct 2026 09:24:59 +0900",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-13 02:26:54",
+    "ai_summary": null
+  },
+  {
+    "title": "Meta、同社最大のAIモデル「Muse Wonder」発表　記憶力と粘り強さを強化、AIエージェント「Muse」にも搭載へ",
+    "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002197/",
+    "published": "Tue, 13 Oct 2026 07:06:29 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-13 02:26:54",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIやAnthropicの最先端モデルを上回る高性能AI「Muse Wonder」をMetaが発表、Museシリーズ登場から半年で最先端に追いつく",
+    "link": "https://gigazine.net/news/20261013-meta-ai-muse-wonder/",
+    "published": "Tue, 13 Oct 2026 11:25:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-13 02:26:55",
+    "ai_summary": null
+  },
+  {
     "title": "各社のAIがリリース後にどれだけ性能変化したかがグラフでわかるベンチマーク「Nerf Bench」",
     "link": "https://gigazine.net/news/20261013-nerf-bench/",
     "published": "Tue, 13 Oct 2026 06:00:00 +0900",
