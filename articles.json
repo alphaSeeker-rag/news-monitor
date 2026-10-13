@@ -1,5 +1,28 @@
 [
   {
+    "title": "Anthropic、自己複製AIの「兆し」を指摘　55ドルのTVボックス15台で26Bモデルが稼働",
+    "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
+    "published": "Tue, 13 Oct 2026 11:31:26 +0900",
+    "keywords": [
+      "データセンター",
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-13 05:18:08",
+    "ai_summary": null
+  },
+  {
+    "title": "HBMの「電力の壁」破るか 電力効率最大10倍の新メモリ",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2610/13/news046.html",
+    "published": "Tue, 13 Oct 2026 11:00:00 +0900",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-10-13 05:18:12",
+    "ai_summary": null
+  },
+  {
     "title": "Microsoft、第3世代AIチップ「Maia 300」を2027年に投入　GPU比で電力効率4割向上、自社サービスの主力推論基盤に",
     "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002200/",
     "published": "Tue, 13 Oct 2026 09:24:59 +0900",
