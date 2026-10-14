@@ -1,5 +1,72 @@
 [
   {
+    "title": "Google、待望の新AIモデル「Gemini 4 Argon」一般提供を開始　推論の継続力を強化　一部ベンチでトップに",
+    "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002265/",
+    "published": "Wed, 14 Oct 2026 20:43:11 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-14 16:57:17",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleのEmbeddingGemma 2を音声認識モデルに変換した「Embedding Gemma Transcribe」、オフライン環境のMacなら15分の音声をわずか約3秒で爆速文字起こし可能",
+    "link": "https://gigazine.net/news/20261014-embetting-gemma-transcribe/",
+    "published": "Wed, 14 Oct 2026 22:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-14 16:57:17",
+    "ai_summary": null
+  },
+  {
+    "title": "中国のメモリ企業「CXMT」が4F²設計のデータセンター向けDDR5 RDIMMを2026年末までに発売すると発表、ブレイクスルー達成でライバルのMicron・SKハイニックス・Samsung株が急落",
+    "link": "https://gigazine.net/news/20261014-cxmt-4f2-memory/",
+    "published": "Wed, 14 Oct 2026 13:20:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-14 16:57:17",
+    "ai_summary": null
+  },
+  {
+    "title": "Characterization of HBM Power Consumption (ETH Zurich, NYU)",
+    "link": "https://semiengineering.com/characterization-of-hbm-power-consumption-eth-zurich-nyu/",
+    "published": "Wed, 14 Oct 2026 15:27:00 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-10-14 16:57:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Blog Review: Oct. 14",
+    "link": "https://semiengineering.com/blog-review-oct-14-3/",
+    "published": "Wed, 14 Oct 2026 07:01:04 +0000",
+    "keywords": [
+      "UALink",
+      "UCIe"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-10-14 16:57:21",
+    "ai_summary": null
+  },
+  {
+    "title": "ASML’s EUV Expansion Runs Through Zeiss",
+    "link": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/",
+    "published": "Wed, 14 Oct 2026 12:49:10 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "EE Times",
+    "detected_at": "2026-10-14 16:57:21",
+    "ai_summary": null
+  },
+  {
     "title": "「Gemini 4 Argon」を正式リリース、Claude Fable 5.1やGPT-6 Astraと同等性能で久しぶりにGoogleがAIトップ競争に追いつく",
     "link": "https://gigazine.net/news/20261014-gemini-4-argon-available-for-everyone/",
     "published": "Wed, 14 Oct 2026 11:06:00 +0900",
