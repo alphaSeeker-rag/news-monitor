@@ -1,5 +1,49 @@
 [
   {
+    "title": "宇宙データセンター",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/100200573/100200001/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-14 00:10:21",
+    "ai_summary": null
+  },
+  {
+    "title": "AI訓練の新興が11億ドル調達",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/100500039/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-14 00:10:21",
+    "ai_summary": null
+  },
+  {
+    "title": "Arm、AIエージェントとフィジカルAIを強化　4つの新発表",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12053/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-14 00:10:21",
+    "ai_summary": null
+  },
+  {
+    "title": "27年のパワー半導体、AIデータセンターで成長　直流800Vがけん引",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03740/100100009/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-14 00:10:21",
+    "ai_summary": null
+  },
+  {
     "title": "国産AI「Sarashina」が無料で試せるWebサイト、ソフトバンク子会社が公開　6つのAIモデルが呼び出せるAPIも",
     "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002224/",
     "published": "Tue, 13 Oct 2026 18:24:12 +0900",
