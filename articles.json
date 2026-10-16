@@ -1,5 +1,60 @@
 [
   {
+    "title": "AIエージェントの危険な操作を別のAIが検出してブロックする「Armor」をOpenRouterがリリース",
+    "link": "https://gigazine.net/news/20261016-openrouter-armor/",
+    "published": "Fri, 16 Oct 2026 18:51:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-16 16:26:39",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAがAIエージェントによるタスクをローカルで実行するための「Nemotron 3.5 Bolt 74B-A9B 24GB」を発表",
+    "link": "https://gigazine.net/news/20261016-nvidia-nemotron-3-5-bolt-74b-a9b-24gb/",
+    "published": "Fri, 16 Oct 2026 14:40:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-16 16:26:39",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoftが2.8兆パラメータの基盤モデル「MAI-Base-2」の事前学習完了を発表",
+    "link": "https://gigazine.net/news/20261016-microsoft-mai-base-2/",
+    "published": "Fri, 16 Oct 2026 13:59:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-16 16:26:39",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAが画像・動画・文章をまとめて理解するオープンウェイトAI「Nemotron 3.5 Super VL」を公開、処理コストを40分の1に削減する事例も",
+    "link": "https://gigazine.net/news/20261016-nemotron-3-5-super-vl/",
+    "published": "Fri, 16 Oct 2026 13:10:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-16 16:26:39",
+    "ai_summary": null
+  },
+  {
+    "title": "Chip Industry Week In Review",
+    "link": "https://semiengineering.com/chip-industry-week-in-review-160/",
+    "published": "Fri, 16 Oct 2026 07:01:05 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-10-16 16:26:40",
+    "ai_summary": null
+  },
+  {
     "title": "Metaが8160億パラメーターのオープンウェイトAI「Muse Spark Open」を公開、Mac Studioわずか2台で動作",
     "link": "https://gigazine.net/news/20261016-meta-muse-spark-open/",
     "published": "Fri, 16 Oct 2026 11:35:00 +0900",
