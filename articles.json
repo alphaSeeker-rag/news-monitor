@@ -1,5 +1,94 @@
 [
   {
+    "title": "E2E自動運転も「トヨタ流」、ルールベース併用のハイブリッド",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00159/00002/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-18 22:49:18",
+    "ai_summary": null
+  },
+  {
+    "title": "光電融合の27年、NTT正念場　NVIDIAはGPU間を光で",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03740/100600012/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-18 22:49:18",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAがHBM接続を独自仕様に、クラウド大手のAI半導体囲い込み",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00695/",
+    "published": "",
+    "keywords": [
+      "ハイパースケーラー",
+      "HBM"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-18 22:49:18",
+    "ai_summary": null
+  },
+  {
+    "title": "キオクシア、CXL対応のフラッシュメモリー　AIデータセンター狙う　ほか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00106/00035/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-18 22:49:18",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAのE2E自動運転、商用解禁　「強力な基盤」は救世主となるか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00697/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-18 22:49:18",
+    "ai_summary": null
+  },
+  {
+    "title": "光電融合、スケールアップ領域へ　 GPU間を光チップレットでつなぐ",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00694/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-18 22:49:18",
+    "ai_summary": null
+  },
+  {
+    "title": "インド半導体に装置大手が大型投資、「SEMICON India」で表明",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00693/",
+    "published": "",
+    "keywords": [
+      "半導体製造装置"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-18 22:49:18",
+    "ai_summary": null
+  },
+  {
+    "title": "TSMCとサムスン、次世代EUV導入　インテルやSKハイニックスと競う",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00692/",
+    "published": "",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-18 22:49:18",
+    "ai_summary": null
+  },
+  {
     "title": "Maskless EUV Lithography: An Alternative to E-Beam",
     "link": "https://semiwiki.com/lithography/373583-maskless-euv-lithography-an-alternative-to-e-beam/",
     "published": "Sun, 18 Oct 2026 15:00:21 +0000",
