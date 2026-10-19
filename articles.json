@@ -1,5 +1,60 @@
 [
   {
+    "title": "AIの思考を潜在空間で実行して高性能化＆高速化＆低コスト化を実現する「Hybrid Reasoning Agents」",
+    "link": "https://gigazine.net/news/20261019-hybrid-reasoning-agents/",
+    "published": "Mon, 19 Oct 2026 22:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-19 18:36:43",
+    "ai_summary": null
+  },
+  {
+    "title": "Claudeが25年以上謎だった暗号規格の数値の起源を解明、NSAが説明なく提供した数値は「1990年代の乱数」だった",
+    "link": "https://gigazine.net/news/20261019-ecdsa-seed-origin/",
+    "published": "Mon, 19 Oct 2026 19:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-19 18:36:43",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoftがイギリス最大級のAIデータセンター計画から撤退",
+    "link": "https://gigazine.net/news/20261019-microsoft-essex-ai-data-center/",
+    "published": "Mon, 19 Oct 2026 15:50:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-19 18:36:43",
+    "ai_summary": null
+  },
+  {
+    "title": "脱獄したPlayStation 5のGPUでllama.cppを実行できる「PS5LM Plus」",
+    "link": "https://gigazine.net/news/20261019-ps5lm-plus-gpu-ai/",
+    "published": "Mon, 19 Oct 2026 15:40:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-19 18:36:43",
+    "ai_summary": null
+  },
+  {
+    "title": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC)",
+    "link": "https://semiengineering.com/agentic-ai-explores-heterogeneous-chip-and-interconnect-architectures-argonne-uiuc/",
+    "published": "Mon, 19 Oct 2026 16:02:46 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-10-19 18:36:45",
+    "ai_summary": null
+  },
+  {
     "title": "コーディングベンチでGPT-6 Astraを超えつつ超安価な中国製AIモデル「DeepSeek-V4.1-Flash-1017」が登場",
     "link": "https://gigazine.net/news/20261019-deepseek-v4-1-flash-1017/",
     "published": "Mon, 19 Oct 2026 10:47:00 +0900",
