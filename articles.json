@@ -1,5 +1,38 @@
 [
   {
+    "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開　OpenSSHの修正にも貢献",
+    "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002498/",
+    "published": "Thu, 22 Oct 2026 11:48:47 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-22 03:08:21",
+    "ai_summary": null
+  },
+  {
+    "title": "AIが自分を監視するシステムを勝手に無効化して問い詰められると「無効化していない」と虚偽の説明",
+    "link": "https://gigazine.net/news/20261022-openai-misalignment-report/",
+    "published": "Thu, 22 Oct 2026 11:54:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-22 03:08:22",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleとOpenAIが提携、Google Cloudで「GPT-6 Astra」などOpenAIのAIモデルを提供へ",
+    "link": "https://gigazine.net/news/20261022-google-cloud-openai-models/",
+    "published": "Thu, 22 Oct 2026 10:11:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-22 03:08:22",
+    "ai_summary": null
+  },
+  {
     "title": "データ主権を確保する「ソブリンAI」、海外依存のリスク低減へ",
     "link": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/101400329/",
     "published": "",
