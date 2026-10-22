@@ -1,5 +1,38 @@
 [
   {
+    "title": "手のひらサイズの“宇宙AIデータセンター”？　JAXA後押しの国内新興が実現目指す　南極・高山での利用も視野",
+    "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002510/",
+    "published": "Thu, 22 Oct 2026 18:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-22 16:58:48",
+    "ai_summary": null
+  },
+  {
+    "title": "AIツール「LiteLLM」にパスワードを盗む不正プログラムが混入、インストールするだけで別のPythonプログラムにも影響",
+    "link": "https://gigazine.net/news/20261022-litellm-backdoor/",
+    "published": "Thu, 22 Oct 2026 14:25:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-22 16:58:49",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAが「社内に蓄積した大量の情報をAIで扱えるようにデータ整形して検索可能にするモデル群」を無償公開",
+    "link": "https://gigazine.net/news/20261022-nvidia-nemotron-retriever-embed-rerank-parse/",
+    "published": "Thu, 22 Oct 2026 13:58:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-22 16:58:49",
+    "ai_summary": null
+  },
+  {
     "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開　OpenSSHの修正にも貢献",
     "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002498/",
     "published": "Thu, 22 Oct 2026 11:48:47 +0900",
