@@ -1,5 +1,60 @@
 [
   {
+    "title": "米国のデータセンター急増、AI需要で巨大化　受電容量「ギガ時代」に　中間選挙争点にも",
+    "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002578/",
+    "published": "Mon, 26 Oct 2026 11:52:26 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-26 18:34:03",
+    "ai_summary": null
+  },
+  {
+    "title": "AnthropicのAIモデル・Claudeが人間の許可なく有権者情報にアクセス",
+    "link": "https://gigazine.net/news/20261026-anthropic-claude-accessed-vote-information/",
+    "published": "Mon, 26 Oct 2026 16:48:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-26 18:34:04",
+    "ai_summary": null
+  },
+  {
+    "title": "皮膚がんの見分け勝負で最新の汎用AIが10年前のAIに敗北",
+    "link": "https://gigazine.net/news/20261026-cnn-vs-llm-skin-cancer-diagnosis/",
+    "published": "Mon, 26 Oct 2026 12:40:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-26 18:34:04",
+    "ai_summary": null
+  },
+  {
+    "title": "Inside the Package Powering Modern AI",
+    "link": "https://semiwiki.com/semiconductor-manufacturers/tsmc/371610-inside-the-package-powering-modern-ai/",
+    "published": "Mon, 26 Oct 2026 15:00:03 +0000",
+    "keywords": [
+      "CoWoS"
+    ],
+    "source": "SemiWiki",
+    "detected_at": "2026-10-26 18:34:04",
+    "ai_summary": null
+  },
+  {
+    "title": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)",
+    "link": "https://semiengineering.com/vertical-dram-stacking-expands-thermal-design-space-beyond-hbm-imec/",
+    "published": "Mon, 26 Oct 2026 07:02:36 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-10-26 18:34:06",
+    "ai_summary": null
+  },
+  {
     "title": "Pt-W Alloy Shows Potential For Thinner High-NA EUV Mask Absorbers (Chinese Academy of Sciences et al.)",
     "link": "https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al/",
     "published": "Sun, 25 Oct 2026 21:17:41 +0000",
