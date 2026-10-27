@@ -1,5 +1,49 @@
 [
   {
+    "title": "AIブームでデータセンター向け機材の窃盗が相次ぐ、被害総額は6月以降だけで150億円以上",
+    "link": "https://gigazine.net/news/20261027-ai-gear-stealing/",
+    "published": "Tue, 27 Oct 2026 13:07:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-27 17:49:53",
+    "ai_summary": null
+  },
+  {
+    "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明",
+    "link": "https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/",
+    "published": "Tue, 27 Oct 2026 13:03:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-27 17:49:53",
+    "ai_summary": null
+  },
+  {
+    "title": "Chip Industry Technical Paper Roundup: Oct. 27",
+    "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-27/",
+    "published": "Tue, 27 Oct 2026 07:01:16 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-10-27 17:49:55",
+    "ai_summary": null
+  },
+  {
+    "title": "生成AIは前工程装置市場をどう変えた？ ――各装置の明暗と「After AI」の行方",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2610/27/news054.html",
+    "published": "Tue, 27 Oct 2026 13:00:00 +0900",
+    "keywords": [
+      "半導体製造装置"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-10-27 17:49:56",
+    "ai_summary": null
+  },
+  {
     "title": "英語以外の言語を使うとAIモデルのコストは高くなる",
     "link": "https://gigazine.net/news/20261027-tokenizer-tax/",
     "published": "Tue, 27 Oct 2026 11:45:00 +0900",
