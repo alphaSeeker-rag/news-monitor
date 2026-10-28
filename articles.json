@@ -1,5 +1,38 @@
 [
   {
+    "title": "GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説",
+    "link": "https://gigazine.net/news/20261028-kv-cache-exposure-remediation/",
+    "published": "Wed, 28 Oct 2026 06:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-10-28 00:16:11",
+    "ai_summary": null
+  },
+  {
+    "title": "台頭する「ネオクラウド」",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/041800013/101900108/",
+    "published": "",
+    "keywords": [
+      "ネオクラウド"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-28 00:16:17",
+    "ai_summary": null
+  },
+  {
+    "title": "テスラ最大の競合、NVIDIAに車メーカーが殺到　E2E自動運転の基盤争い",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03800/101900004/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-28 00:16:17",
+    "ai_summary": null
+  },
+  {
     "title": "AIブームでデータセンター向け機材の窃盗が相次ぐ、被害総額は6月以降だけで150億円以上",
     "link": "https://gigazine.net/news/20261027-ai-gear-stealing/",
     "published": "Tue, 27 Oct 2026 13:07:00 +0900",
