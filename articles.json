@@ -1,5 +1,38 @@
 [
   {
+    "title": "Google、「Gemini 4 Carbon」発表　「Argon」公開から2週間、サイバー防御能力などを強化",
+    "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
+    "published": "Thu, 29 Oct 2026 07:13:47 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-10-29 00:38:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Colt、東京・大阪間の通信に新ルート　70km短い回線で遅延を約3割低減",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/102201516/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-29 00:38:15",
+    "ai_summary": null
+  },
+  {
+    "title": "進化するAIが落とす影",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nnw/18/101900258/101900001/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-10-29 00:38:15",
+    "ai_summary": null
+  },
+  {
     "title": "Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析",
     "link": "https://gigazine.net/news/20261028-claude-mythos-5-failure/",
     "published": "Wed, 28 Oct 2026 20:00:00 +0900",
