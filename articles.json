@@ -1,5 +1,60 @@
 [
   {
+    "title": "nanochatの日本語版フォーク「nanochat-jp」、トークナイザ学習・事前学習・SFT・RL・評価・推論を単一リポジトリで完結させ、SentencePiece Unigram トークナイザ・日本語コーパスと日本語 SFT/RL データ・日本語ベンチマーク（CORE / ChatCORE）・HuggingFace形式への変換器あり",
+    "link": "https://gigazine.net/news/20261102-nanochat-jp/",
+    "published": "Mon, 02 Nov 2026 23:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-02 21:37:10",
+    "ai_summary": null
+  },
+  {
+    "title": "音声ファイルから雑音を除去してクリアな音声にできるAI「NemotronLabs-RE-USE」をNVIDIAが公開",
+    "link": "https://gigazine.net/news/20261102-nvidia-nemotronlabs-re-use/",
+    "published": "Mon, 02 Nov 2026 16:09:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-02 21:37:10",
+    "ai_summary": null
+  },
+  {
+    "title": "Hardware Defense Blocks Memory-Dependent Prefetcher Leakage (KU Leuven)",
+    "link": "https://semiengineering.com/hardware-defense-blocks-memory-dependent-prefetcher-leakage-ku-leuven/",
+    "published": "Mon, 02 Nov 2026 19:24:48 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-11-02 21:37:12",
+    "ai_summary": null
+  },
+  {
+    "title": "半導体／FA好調の三菱電機、26年度2Qは純利益92％増",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/02/news047.html",
+    "published": "Mon, 02 Nov 2026 16:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-11-02 21:37:13",
+    "ai_summary": null
+  },
+  {
+    "title": "村田製が通期上方修正　データセンター向け売上高倍増",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/02/news060.html",
+    "published": "Mon, 02 Nov 2026 16:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-11-02 21:37:13",
+    "ai_summary": null
+  },
+  {
     "title": "Google、宇宙のTPUから初のAI応答を受信　「Project Suncatcher」試作衛星で「Gemma 4」が俳句を詠む",
     "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002779/",
     "published": "Mon, 02 Nov 2026 08:59:31 +0900",
