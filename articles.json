@@ -1,5 +1,50 @@
 [
   {
+    "title": "Google、宇宙のTPUから初のAI応答を受信　「Project Suncatcher」試作衛星で「Gemma 4」が俳句を詠む",
+    "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002779/",
+    "published": "Mon, 02 Nov 2026 08:59:31 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-11-02 04:12:02",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleのAI「Gemma 4」搭載衛星から「宇宙にいるAIからの世界初の応答」として俳句が送信される",
+    "link": "https://gigazine.net/news/20261102-google-project-suncatcher-haiku/",
+    "published": "Mon, 02 Nov 2026 11:30:00 +0900",
+    "keywords": [
+      "データセンター",
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-02 04:12:02",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicが11月3日から旧バージョンのClaudeにもテキスト透かしを追加する",
+    "link": "https://gigazine.net/news/20261102-anthropic-expands-text-watermarking-older-claude-november-3/",
+    "published": "Mon, 02 Nov 2026 11:24:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-02 04:12:02",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIのサム・アルトマンCEOはどういう意図で「RAM(メモリ)は個人が抱えるよりもデータセンターで持つ方がいい」と発言したのか？",
+    "link": "https://gigazine.net/news/20261102-sam-altman-ram-cloud-then-desk/",
+    "published": "Mon, 02 Nov 2026 10:46:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-02 04:12:02",
+    "ai_summary": null
+  },
+  {
     "title": "High-NA’s Obituary Was Premature",
     "link": "https://semiwiki.com/semiconductor-manufacturers/375803-high-nas-obituary-was-premature/",
     "published": "Sun, 01 Nov 2026 18:00:10 +0000",
