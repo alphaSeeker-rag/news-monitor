@@ -1,5 +1,16 @@
 [
   {
+    "title": "Marvell、光通信技術のLumentumを約18兆円で買収　AIデータセンターの高速化に対応",
+    "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
+    "published": "Tue, 03 Nov 2026 07:07:56 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-11-03 02:46:18",
+    "ai_summary": null
+  },
+  {
     "title": "nanochatの日本語版フォーク「nanochat-jp」、トークナイザ学習・事前学習・SFT・RL・評価・推論を単一リポジトリで完結させ、SentencePiece Unigram トークナイザ・日本語コーパスと日本語 SFT/RL データ・日本語ベンチマーク（CORE / ChatCORE）・HuggingFace形式への変換器あり",
     "link": "https://gigazine.net/news/20261102-nanochat-jp/",
     "published": "Mon, 02 Nov 2026 23:00:00 +0900",
