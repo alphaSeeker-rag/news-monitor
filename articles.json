@@ -1,5 +1,16 @@
 [
   {
+    "title": "バックグラウンドで動作するAIエージェント用のメールっぽい受信箱「Pizza Bot」、Windows/macOS/Linuxに対応したセルフホスト型のデスクトップアプリでローカルAIモデルなどあらゆるAIモデルに対応して通知によるアクション管理が可能",
+    "link": "https://gigazine.net/news/20261103-pizza-bot/",
+    "published": "Tue, 03 Nov 2026 18:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-03 19:21:06",
+    "ai_summary": null
+  },
+  {
     "title": "Marvell、光通信技術のLumentumを約18兆円で買収　AIデータセンターの高速化に対応",
     "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
     "published": "Tue, 03 Nov 2026 07:07:56 +0900",
