@@ -1,5 +1,16 @@
 [
   {
+    "title": "AIモデルのコモディティ化で富は開発企業から流通・決済システムへ移るという予測「The Commanding Heights」",
+    "link": "https://gigazine.net/news/20261104-the-commanding-heights/",
+    "published": "Wed, 04 Nov 2026 07:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-04 01:03:44",
+    "ai_summary": null
+  },
+  {
     "title": "バックグラウンドで動作するAIエージェント用のメールっぽい受信箱「Pizza Bot」、Windows/macOS/Linuxに対応したセルフホスト型のデスクトップアプリでローカルAIモデルなどあらゆるAIモデルに対応して通知によるアクション管理が可能",
     "link": "https://gigazine.net/news/20261103-pizza-bot/",
     "published": "Tue, 03 Nov 2026 18:00:00 +0900",
