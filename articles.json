@@ -1,5 +1,49 @@
 [
   {
+    "title": "GitHub、「Copilot Fusion」正式リリース　タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+    "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/",
+    "published": "Wed, 04 Nov 2026 13:13:20 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-11-04 04:41:39",
+    "ai_summary": null
+  },
+  {
+    "title": "ロシア企業がドローン攻撃を受けて地下データセンターの建設を計画",
+    "link": "https://gigazine.net/news/20261104-russia-underground-data-center/",
+    "published": "Wed, 04 Nov 2026 13:25:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-04 04:41:40",
+    "ai_summary": null
+  },
+  {
+    "title": "「GPT-6 AstraがQwen3.5-0.8Bの重みを書き換えて数学性能を約6倍に改善した」との研究結果、ただし「誤解を招く」との批判も",
+    "link": "https://gigazine.net/news/20261104-gpt-6-astra-qwen-weight-space-programming/",
+    "published": "Wed, 04 Nov 2026 12:30:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-04 04:41:40",
+    "ai_summary": null
+  },
+  {
+    "title": "「特定のAIモデルで出力が生成されたこと」を証明できる仕組み「FlashProve」をAnthropicが開発",
+    "link": "https://gigazine.net/news/20261104-anthropic-flashprove/",
+    "published": "Wed, 04 Nov 2026 11:07:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-04 04:41:40",
+    "ai_summary": null
+  },
+  {
     "title": "AIモデルのコモディティ化で富は開発企業から流通・決済システムへ移るという予測「The Commanding Heights」",
     "link": "https://gigazine.net/news/20261104-the-commanding-heights/",
     "published": "Wed, 04 Nov 2026 07:00:00 +0900",
