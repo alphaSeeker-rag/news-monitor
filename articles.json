@@ -1,5 +1,82 @@
 [
   {
+    "title": "無料でローカルAIを簡単にオフライン利用できるオープンソースアプリ「Hob」、Windows・Mac・Linux対応でPCに適したAIモデルの自動選択・ファイル操作・外部アプリ連携が可能",
+    "link": "https://gigazine.net/news/20261106-hob/",
+    "published": "Fri, 06 Nov 2026 23:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-06 19:10:32",
+    "ai_summary": null
+  },
+  {
+    "title": "AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？",
+    "link": "https://gigazine.net/news/20261106-open-closed-weight/",
+    "published": "Fri, 06 Nov 2026 20:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-06 19:10:32",
+    "ai_summary": null
+  },
+  {
+    "title": "中国のBaiduが高性能AIモデル「ERNIE 5.5 Flash Base」を公開、今後の強化版を見据えた基盤モデル",
+    "link": "https://gigazine.net/news/20261106-ernie-5-5-flash-base/",
+    "published": "Fri, 06 Nov 2026 17:12:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-06 19:10:32",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定",
+    "link": "https://gigazine.net/news/20261106-inkling-2-small/",
+    "published": "Fri, 06 Nov 2026 16:16:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-06 19:10:32",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが「AIデータセンターの電力やインフラは全額自己負担」「電気・水道の使用量を公表」などの約束を発表",
+    "link": "https://gigazine.net/news/20261106-openai-responsible-ai-infrastructure/",
+    "published": "Fri, 06 Nov 2026 15:10:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-06 19:10:32",
+    "ai_summary": null
+  },
+  {
+    "title": "Chip Industry Week In Review",
+    "link": "https://semiengineering.com/chip-industry-week-in-review-163/",
+    "published": "Fri, 06 Nov 2026 08:01:01 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-11-06 19:10:34",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIが新モデル「GPT-6 Cyber」発表　Firefoxの未知の脆弱性検知",
+    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03459/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-11-06 19:10:38",
+    "ai_summary": null
+  },
+  {
     "title": "米住民投票でデータセンター建設に反対相次ぐ　規制派民主知事も続々当選、推進に逆風も",
     "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002949/",
     "published": "Fri, 06 Nov 2026 12:38:10 +0900",
