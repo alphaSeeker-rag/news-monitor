@@ -1,5 +1,49 @@
 [
   {
+    "title": "COP31が開幕　1.5度超えの対策、AIデータセンターも議論",
+    "link": "http://www.asahi.com/articles/ASVC936Q3VC9UTFL005M.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-11-09 22:11:09",
+    "ai_summary": null
+  },
+  {
+    "title": "Anthropicの非公開AIモデルを使って18年間未解決だった量子コンピューターの難問が証明される",
+    "link": "https://gigazine.net/news/20261109-anthropic-psi-aaronson-ambainis/",
+    "published": "Mon, 09 Nov 2026 14:10:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-09 22:11:09",
+    "ai_summary": null
+  },
+  {
+    "title": "米国の「鶴の一声」　製造装置メーカーも勝機見いだす",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/09/news068.html",
+    "published": "Mon, 09 Nov 2026 15:15:00 +0900",
+    "keywords": [
+      "半導体製造装置"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-11-09 22:11:12",
+    "ai_summary": null
+  },
+  {
+    "title": "テスラ追いかけ米中で参入増",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00150/00005/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-11-09 22:11:16",
+    "ai_summary": null
+  },
+  {
     "title": "中国製AI「Qwen3.8-27B」の中国政府寄りの回答を減らしたAI「Arete-27B」が登場、プロパガンダを含む回答が22％から0.9％に減少",
     "link": "https://gigazine.net/news/20261109-nous-research-arete-27b/",
     "published": "Mon, 09 Nov 2026 12:50:00 +0900",
