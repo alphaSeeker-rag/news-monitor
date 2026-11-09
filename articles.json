@@ -1,5 +1,16 @@
 [
   {
+    "title": "中国製AI「Qwen3.8-27B」の中国政府寄りの回答を減らしたAI「Arete-27B」が登場、プロパガンダを含む回答が22％から0.9％に減少",
+    "link": "https://gigazine.net/news/20261109-nous-research-arete-27b/",
+    "published": "Mon, 09 Nov 2026 12:50:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-09 04:28:27",
+    "ai_summary": null
+  },
+  {
     "title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中",
     "link": "https://gigazine.net/news/20261109-pjit-21k/",
     "published": "Mon, 09 Nov 2026 07:00:00 +0900",
