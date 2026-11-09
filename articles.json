@@ -1,5 +1,38 @@
 [
   {
+    "title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中",
+    "link": "https://gigazine.net/news/20261109-pjit-21k/",
+    "published": "Mon, 09 Nov 2026 07:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-09 00:35:21",
+    "ai_summary": null
+  },
+  {
+    "title": "ソブリンAI（Sovereign AI）",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600009/103000235/",
+    "published": "",
+    "keywords": [
+      "ソブリンAI"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-11-09 00:35:27",
+    "ai_summary": null
+  },
+  {
+    "title": "増える人工衛星、100万機構想も　宇宙環境は大丈夫か",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/101902128/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-11-09 00:35:27",
+    "ai_summary": null
+  },
+  {
     "title": "アメリカ産のAIでオープンモデル「Ripple-65B Preview」登場、パラメーター数10倍の大型モデルを上回る性能で開発費は10分の1",
     "link": "https://gigazine.net/news/20261108-ripple-65b-preview/",
     "published": "Sun, 08 Nov 2026 19:00:00 +0900",
