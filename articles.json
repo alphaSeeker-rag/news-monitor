@@ -1,5 +1,49 @@
 [
   {
+    "title": "AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功",
+    "link": "https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/",
+    "published": "Wed, 11 Nov 2026 21:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-11 19:27:14",
+    "ai_summary": null
+  },
+  {
+    "title": "Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露",
+    "link": "https://gigazine.net/news/20261111-gemini-4-carbon/",
+    "published": "Wed, 11 Nov 2026 18:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-11 19:27:14",
+    "ai_summary": null
+  },
+  {
+    "title": "NVHBM: Can Custom HBM Change Who Builds the Memory Stack?",
+    "link": "https://semiwiki.com/semiconductor-manufacturers/376093-nvhbm-can-custom-hbm-change-who-builds-the-memory-stack/",
+    "published": "Wed, 11 Nov 2026 16:00:14 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "SemiWiki",
+    "detected_at": "2026-11-11 19:27:15",
+    "ai_summary": null
+  },
+  {
+    "title": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs",
+    "link": "https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs/",
+    "published": "Wed, 11 Nov 2026 08:01:52 +0000",
+    "keywords": [
+      "UCIe"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-11-11 19:27:16",
+    "ai_summary": null
+  },
+  {
     "title": "Googleがロボット用AI「Gemini Robotics 2.5」を発表",
     "link": "https://gigazine.net/news/20261111-gemini-robotics-2-5/",
     "published": "Wed, 11 Nov 2026 13:10:00 +0900",
