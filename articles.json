@@ -1,5 +1,27 @@
 [
   {
+    "title": "ゼロから独自開発した国産AIでトップクラスの日本語翻訳精度を実現する「PLaMo翻訳」を開発したPreferred Networksエンジニアに編集長が根掘り葉掘り聞いてみたよインタビュー",
+    "link": "https://gigazine.net/news/20261112-preferred-networks-plamo-translate-interview/",
+    "published": "Thu, 12 Nov 2026 09:00:00 +0900",
+    "keywords": [
+      "国産AI"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-12 02:07:31",
+    "ai_summary": null
+  },
+  {
+    "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+    "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+    "published": "Wed, 11 Nov 2026 20:22:03 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "Ars Technica",
+    "detected_at": "2026-11-12 02:07:35",
+    "ai_summary": null
+  },
+  {
     "title": "AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功",
     "link": "https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/",
     "published": "Wed, 11 Nov 2026 21:00:00 +0900",
