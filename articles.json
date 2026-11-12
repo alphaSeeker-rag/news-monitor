@@ -1,5 +1,38 @@
 [
   {
+    "title": "データセンターがスプリンクラーの「誤作動」で水浸しになりかけた事例",
+    "link": "https://gigazine.net/news/20261112-false-smoke-alarm-datacenter/",
+    "published": "Thu, 12 Nov 2026 19:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-12 19:45:41",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIA製半導体を中国に出荷した疑惑のあるMegaspeedのエンティティリスト追加を商務省が先送りし続けていることが判明",
+    "link": "https://gigazine.net/news/20261112-lutnick-delays-megaspeed-blacklist/",
+    "published": "Thu, 12 Nov 2026 14:50:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-12 19:45:41",
+    "ai_summary": null
+  },
+  {
+    "title": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
+    "link": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
+    "published": "Thu, 12 Nov 2026 14:22:37 GMT",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Tech",
+    "detected_at": "2026-11-12 19:45:48",
+    "ai_summary": null
+  },
+  {
     "title": "Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI",
     "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
     "published": "Thu, 12 Nov 2026 11:29:43 +0900",
