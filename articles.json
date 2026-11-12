@@ -1,5 +1,38 @@
 [
   {
+    "title": "Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI",
+    "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
+    "published": "Thu, 12 Nov 2026 11:29:43 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-11-12 05:37:08",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが意思決定AIモデルの「Gemini Decisions 1」をリリース",
+    "link": "https://gigazine.net/news/20261112-gemini-decisions-1/",
+    "published": "Thu, 12 Nov 2026 12:55:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-12 05:37:08",
+    "ai_summary": null
+  },
+  {
+    "title": "DNA変異が細胞に与える影響を予測するAIモデル「AlphaGenome 2」をGoogle DeepMindが発表、病気の原因解明に期待",
+    "link": "https://gigazine.net/news/20261112-google-deepmind-alphagenome-2/",
+    "published": "Thu, 12 Nov 2026 11:53:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-12 05:37:08",
+    "ai_summary": null
+  },
+  {
     "title": "ゼロから独自開発した国産AIでトップクラスの日本語翻訳精度を実現する「PLaMo翻訳」を開発したPreferred Networksエンジニアに編集長が根掘り葉掘り聞いてみたよインタビュー",
     "link": "https://gigazine.net/news/20261112-preferred-networks-plamo-translate-interview/",
     "published": "Thu, 12 Nov 2026 09:00:00 +0900",
