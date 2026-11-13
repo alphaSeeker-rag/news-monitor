@@ -1,5 +1,38 @@
 [
   {
+    "title": "データセンターの排熱でエビ養殖、NTT系が実験　育ったら食べられる？　担当者に聞いてみた",
+    "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
+    "published": "Fri, 13 Nov 2026 19:45:49 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-11-13 19:28:04",
+    "ai_summary": null
+  },
+  {
+    "title": "古いiPadやメモリ1GBの小型端末でも160億パラメータのAIをローカルで動かせる無料ツール「smolmaxxing」が登場",
+    "link": "https://gigazine.net/news/20261113-smolmaxxing/",
+    "published": "Fri, 13 Nov 2026 21:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-13 19:28:05",
+    "ai_summary": null
+  },
+  {
+    "title": "中国AI企業は禁輸措置中でもNVIDIAのBlackwell世代AIチップを使って高性能AIを作っていた",
+    "link": "https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/",
+    "published": "Fri, 13 Nov 2026 20:23:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-13 19:28:05",
+    "ai_summary": null
+  },
+  {
     "title": "Googleが無料で使える高性能AI「Gemini 4 Hydrogen」を発表、従来モデルの2.5倍の速度で動作し競合AIを上回る性能も発揮",
     "link": "https://gigazine.net/news/20261113-gemini-4-hydrogen/",
     "published": "Fri, 13 Nov 2026 12:20:00 +0900",
