@@ -1,5 +1,38 @@
 [
   {
+    "title": "Googleが無料で使える高性能AI「Gemini 4 Hydrogen」を発表、従来モデルの2.5倍の速度で動作し競合AIを上回る性能も発揮",
+    "link": "https://gigazine.net/news/20261113-gemini-4-hydrogen/",
+    "published": "Fri, 13 Nov 2026 12:20:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-13 04:54:04",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenRouterの日本語版が登場、GPT-6.1 Solを用いた自己修正型翻訳システムで高品質な多言語対応を実現",
+    "link": "https://gigazine.net/news/20261113-openrouter-self-correcting-localization/",
+    "published": "Fri, 13 Nov 2026 11:27:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-13 04:54:04",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAのファンCEOが辞任、カリスマ退場で「AIの中央銀行」はどう変わるか",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12174/",
+    "published": "",
+    "keywords": [
+      "ネオクラウド"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-11-13 04:54:10",
+    "ai_summary": null
+  },
+  {
     "title": "中国DeepSeek、6月に続き150億ドルの巨額調達　テンセント・CATLが参加",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03065/111100023/",
     "published": "",
