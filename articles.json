@@ -1,5 +1,49 @@
 [
   {
+    "title": "Nanya and Winbond to purchase EUV tools from ASML to boost DRAM production in Taiwan",
+    "link": "https://www.datacenterdynamics.com/en/news/nanya-and-winbond-to-purchase-euv-tools-from-asml-to-boost-dram-production-in-taiwan/",
+    "published": "Mon, 16 Nov 2026 14:29:20 +0000",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "DCD",
+    "detected_at": "2026-11-16 21:52:15",
+    "ai_summary": null
+  },
+  {
+    "title": "「データセンターに車載電池のノウハウ」AVL副社長、技術者のAI活用支援",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00134/110200468/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-11-16 21:52:18",
+    "ai_summary": null
+  },
+  {
+    "title": "ジェンスン･フアンのスキャンダルで揺らぐ\"AIの中央銀行\"　エヌビディア新経営陣に潜む大きなリスク | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/964785?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Mon, 16 Nov 2026 17:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-11-16 21:52:18",
+    "ai_summary": null
+  },
+  {
+    "title": "AIによる誤った判断、責任を負うのは誰？　「9割」をAIに委ねる時代に向け、IDCが提言",
+    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news042.html",
+    "published": "Mon, 16 Nov 2026 13:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia エンタープライズ 最新記事一覧",
+    "detected_at": "2026-11-16 21:52:19",
+    "ai_summary": null
+  },
+  {
     "title": "「Qwen4-Max」が登場、一部テストでClaude Opus 5.5に勝利し小型オープンモデルも後日公開予定",
     "link": "https://gigazine.net/news/20261116-qwen4-max/",
     "published": "Mon, 16 Nov 2026 13:27:00 +0900",
