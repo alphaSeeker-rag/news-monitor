@@ -1,5 +1,38 @@
 [
   {
+    "title": "「Qwen4-Max」が登場、一部テストでClaude Opus 5.5に勝利し小型オープンモデルも後日公開予定",
+    "link": "https://gigazine.net/news/20261116-qwen4-max/",
+    "published": "Mon, 16 Nov 2026 13:27:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-16 04:35:46",
+    "ai_summary": null
+  },
+  {
+    "title": "ついに「llama.cpp」がバージョン1.0.0に到達",
+    "link": "https://gigazine.net/news/20261116-llama-cpp-ggml-milestone/",
+    "published": "Mon, 16 Nov 2026 12:12:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-16 04:35:46",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIA製半導体の中国への出荷疑惑があるMegaspeedが「法に基づいて適切に運営している」と声明を発表",
+    "link": "https://gigazine.net/news/20261116-megaspeed-says-alice-huang-left-in-2025/",
+    "published": "Mon, 16 Nov 2026 11:23:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-16 04:35:46",
+    "ai_summary": null
+  },
+  {
     "title": "石狩に「国産」特高蓄電所、再エネ地産地消に貢献も",
     "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02443/110600187/",
     "published": "",
