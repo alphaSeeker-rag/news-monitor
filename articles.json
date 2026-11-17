@@ -1,5 +1,60 @@
 [
   {
+    "title": "NTTの島田明社長、宇宙光通信構想を発表　月面インフラや宇宙データセンターの整備も",
+    "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003252/",
+    "published": "Tue, 17 Nov 2026 10:30:57 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-11-17 03:26:48",
+    "ai_summary": null
+  },
+  {
+    "title": "OpenAIをカリフォルニア州が提訴　「AIエージェントの制御を80回以上失った」",
+    "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003246/",
+    "published": "Tue, 17 Nov 2026 08:04:43 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-11-17 03:26:48",
+    "ai_summary": null
+  },
+  {
+    "title": "中国からアメリカ製AIサーバーへのリモートアクセスを制限する新規則をアメリカが策定、輸出規制を回避するクラウドレンタルの抜け穴に対抗",
+    "link": "https://gigazine.net/news/20261117-bis-issued-rule-cloud-access-from-china/",
+    "published": "Tue, 17 Nov 2026 11:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-17 03:26:48",
+    "ai_summary": null
+  },
+  {
+    "title": "脱獄したPlayStation 4で90億パラメーターのAIモデルを毎秒最大43トークンで動作させる「Garlic LLM」が登場",
+    "link": "https://gigazine.net/news/20261117-playstation-4-garlic-llm/",
+    "published": "Tue, 17 Nov 2026 10:49:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-17 03:26:48",
+    "ai_summary": null
+  },
+  {
+    "title": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)",
+    "link": "https://semiengineering.com/reducing-high-bandwidth-flash-latency-in-gpu-systems-georgia-tech-nvidia-stanford/",
+    "published": "Mon, 16 Nov 2026 23:52:56 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-11-17 03:26:50",
+    "ai_summary": null
+  },
+  {
     "title": "Nanya and Winbond to purchase EUV tools from ASML to boost DRAM production in Taiwan",
     "link": "https://www.datacenterdynamics.com/en/news/nanya-and-winbond-to-purchase-euv-tools-from-asml-to-boost-dram-production-in-taiwan/",
     "published": "Mon, 16 Nov 2026 14:29:20 +0000",
