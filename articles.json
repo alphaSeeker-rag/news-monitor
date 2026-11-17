@@ -1,5 +1,60 @@
 [
   {
+    "title": "VRAMが数百GBなくてもGPU1基でGLM-5.3-Flashを動かすことができる「Project Maya」",
+    "link": "https://gigazine.net/news/20261117-project-maya/",
+    "published": "Tue, 17 Nov 2026 23:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-17 20:42:35",
+    "ai_summary": null
+  },
+  {
+    "title": "Can Faster HBM Solve AI’s Memory Bottleneck?",
+    "link": "https://semiwiki.com/3dic/376277-can-faster-hbm-solve-ais-memory-bottleneck/",
+    "published": "Tue, 17 Nov 2026 18:00:22 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "SemiWiki",
+    "detected_at": "2026-11-17 20:42:36",
+    "ai_summary": null
+  },
+  {
+    "title": "Chip Industry Technical Paper Roundup: Nov. 17",
+    "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-17/",
+    "published": "Tue, 17 Nov 2026 08:01:08 +0000",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-11-17 20:42:37",
+    "ai_summary": null
+  },
+  {
+    "title": "道路に牛、インドで半導体装置や部材をどう運ぶ　物流大手の挑戦",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110402140/",
+    "published": "",
+    "keywords": [
+      "半導体製造装置"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-11-17 20:42:41",
+    "ai_summary": null
+  },
+  {
+    "title": "富士通系がAI基盤向け光NIC、100キロ離れたデータセンターを低遅延で通信",
+    "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03476/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-11-17 20:42:41",
+    "ai_summary": null
+  },
+  {
     "title": "米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ",
     "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003258/",
     "published": "Tue, 17 Nov 2026 12:50:05 +0900",
