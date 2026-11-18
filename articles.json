@@ -1,5 +1,38 @@
 [
   {
+    "title": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に",
+    "link": "https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/",
+    "published": "Wed, 18 Nov 2026 13:15:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-18 05:46:41",
+    "ai_summary": null
+  },
+  {
+    "title": "メモリ不足でAppleがSamsungと異例の4年間にわたるDRAM長期供給契約を締結へ、メモリメーカー優位の市場に",
+    "link": "https://gigazine.net/news/20261118-apple-samsung-dram/",
+    "published": "Wed, 18 Nov 2026 11:49:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-18 05:46:41",
+    "ai_summary": null
+  },
+  {
+    "title": "HBMの先へ　AI時代のメモリ技術最前線",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/18/news067.html",
+    "published": "Wed, 18 Nov 2026 12:30:00 +0900",
+    "keywords": [
+      "HBM"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-11-18 05:46:43",
+    "ai_summary": null
+  },
+  {
     "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
     "link": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/",
     "published": "Tue, 17 Nov 2026 22:37:22 +0000",
