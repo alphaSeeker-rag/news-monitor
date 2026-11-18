@@ -1,5 +1,104 @@
 [
   {
+    "title": "無料でIntel・AMD・NVIDIAのGPUを使ってQwen3.8-Flash-Nextをローカルで動かせる「XeStrata」",
+    "link": "https://gigazine.net/news/20261118-xestrata/",
+    "published": "Wed, 18 Nov 2026 23:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-18 20:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "Microsoftが新型AIプログラミングモデル「MAI Code 2」と高速版「MAI Code 2 Flash」を発表、GPT-6.1 Solに匹敵する性能を40％のコストで発揮",
+    "link": "https://gigazine.net/news/20261118-mai-code-2-flash/",
+    "published": "Wed, 18 Nov 2026 17:58:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-18 20:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "ジェンスン・フアンの不倫相手でスパイ疑惑のアリス・フアンは夫がデータセンター事業を政府支援のもと展開、会社はHuaweiと関係も",
+    "link": "https://gigazine.net/news/20261118-who-is-alice-huangs-husband-kang-wei/",
+    "published": "Wed, 18 Nov 2026 17:50:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-18 20:17:28",
+    "ai_summary": null
+  },
+  {
+    "title": "インフィニオン、AIデータセンター電源にSiCやGaN　10億ドル市場攻略",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12165/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-11-18 20:17:34",
+    "ai_summary": null
+  },
+  {
+    "title": "テスラ比「70％軽量」インバーターを29年に、名古屋大が三菱電機など8社と",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00702/",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-11-18 20:17:34",
+    "ai_summary": null
+  },
+  {
+    "title": "NTTが光チップレットを31年量産、東芝系や新光電気と連合",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00704/",
+    "published": "",
+    "keywords": [
+      "光配線"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-11-18 20:17:34",
+    "ai_summary": null
+  },
+  {
+    "title": "ADEKA、半導体特化の材料研究拠点　次世代DRAMやEUVに照準",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00699/",
+    "published": "",
+    "keywords": [
+      "EUV"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-11-18 20:17:34",
+    "ai_summary": null
+  },
+  {
+    "title": "日本で先端半導体工場への支援強化　ASML、ラピダスやTSMC手厚く",
+    "link": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00698/",
+    "published": "",
+    "keywords": [
+      "半導体製造装置"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-11-18 20:17:34",
+    "ai_summary": null
+  },
+  {
+    "title": "【孫正義「AI全賭け」に逆風？】ソフトバンクグループ最新決算で見えたAIリスク／データセンター関連で約6000億円の損失／なぜ株価は最高値の半分に？／オープンAIへの巨額投資に勝機ある？ | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/965266?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Wed, 18 Nov 2026 19:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-11-18 20:17:35",
+    "ai_summary": null
+  },
+  {
     "title": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に",
     "link": "https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/",
     "published": "Wed, 18 Nov 2026 13:15:00 +0900",
