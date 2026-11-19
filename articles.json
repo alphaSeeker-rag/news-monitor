@@ -1,5 +1,50 @@
 [
   {
+    "title": "Google、「Gemini 4 Neon」発表　「Carbon」と「Hydrogen」の中間を担うモデル、「Pro」プランでも利用可能",
+    "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003315/",
+    "published": "Thu, 19 Nov 2026 07:58:41 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "ITmedia NEWS 最新記事一覧",
+    "detected_at": "2026-11-19 02:18:46",
+    "ai_summary": null
+  },
+  {
+    "title": "Googleが「Gemini 4 Neon」を発表、最先端の推論能力と高速・低コストな処理を両立しコーディング性能で世界トップに",
+    "link": "https://gigazine.net/news/20261119-google-gemini-4-neon/",
+    "published": "Thu, 19 Nov 2026 11:15:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-19 02:18:47",
+    "ai_summary": null
+  },
+  {
+    "title": "AnthropicのAI「Claude Mythos Preview」が見つけた約3万8000件の脆弱性候補の修正はどこまで進んだのか？",
+    "link": "https://gigazine.net/news/20261119-anthropic-glasswing-vulnerability-fixes/",
+    "published": "Thu, 19 Nov 2026 07:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-19 02:18:47",
+    "ai_summary": null
+  },
+  {
+    "title": "データセンターが問う｢水の透明性｣､中間選挙で争点化＆規制強化アメリカの現状から日本人に知ってほしい\"AI熱の盲点\" | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/965193?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Thu, 19 Nov 2026 06:15:00 +0900",
+    "keywords": [
+      "データセンター",
+      "水資源"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-11-19 02:18:53",
+    "ai_summary": null
+  },
+  {
     "title": "無料でIntel・AMD・NVIDIAのGPUを使ってQwen3.8-Flash-Nextをローカルで動かせる「XeStrata」",
     "link": "https://gigazine.net/news/20261118-xestrata/",
     "published": "Wed, 18 Nov 2026 23:00:00 +0900",
