@@ -1,5 +1,49 @@
 [
   {
+    "title": "Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要",
+    "link": "https://gigazine.net/news/20261120-rdma-over-usb4-windows/",
+    "published": "Fri, 20 Nov 2026 11:36:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-20 05:35:11",
+    "ai_summary": null
+  },
+  {
+    "title": "Blue Originが2029年にGoogleのAIサーバー衛星を大型ロケット「New Glenn」で打ち上げへ",
+    "link": "https://gigazine.net/news/20261120-blue-origin-launch-google-ai-server/",
+    "published": "Fri, 20 Nov 2026 11:22:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-20 05:35:11",
+    "ai_summary": null
+  },
+  {
+    "title": "MRAM普及の鍵は「LPDDR対応」　Everspinが標準化を主導",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/20/news036.html",
+    "published": "Fri, 20 Nov 2026 11:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-11-20 05:35:13",
+    "ai_summary": null
+  },
+  {
+    "title": "課題ある日本の800V電源、ロームとデルタ電子が普及促進",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/20/news037.html",
+    "published": "Fri, 20 Nov 2026 10:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-11-20 05:35:13",
+    "ai_summary": null
+  },
+  {
     "title": "Google、宇宙AIデータセンター構想「Project Suncatcher」でベゾス氏のBlue Originと提携　2029年に衛星打ち上げへ",
     "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003358/",
     "published": "Fri, 20 Nov 2026 09:25:43 +0900",
