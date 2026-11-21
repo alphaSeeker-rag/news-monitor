@@ -1,5 +1,27 @@
 [
   {
+    "title": "退役したジェットエンジンがAIデータセンターの動力源として使われている",
+    "link": "https://gigazine.net/news/20261121-jet-engine-ai-power/",
+    "published": "Sat, 21 Nov 2026 08:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-21 01:59:23",
+    "ai_summary": null
+  },
+  {
+    "title": "アメリカの中間選挙で大きく崩れた｢AI楽観シナリオ｣､今後｢修正すべき重要なポイント｣はどこにあるのか | 政治・経済・投資 | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/965474?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Sat, 21 Nov 2026 06:30:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-11-21 01:59:29",
+    "ai_summary": null
+  },
+  {
     "title": "Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要",
     "link": "https://gigazine.net/news/20261120-rdma-over-usb4-windows/",
     "published": "Fri, 20 Nov 2026 11:36:00 +0900",
