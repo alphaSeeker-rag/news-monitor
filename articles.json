@@ -1,5 +1,82 @@
 [
   {
+    "title": "AIデータセンターは化石燃料に依存しており2028年にはAnthropicがアメリカで使う電力の87％がガスで11％が石炭から供給される見込み",
+    "link": "https://gigazine.net/news/20261125-anthropic-ai-data-centers-fossil-fuels/",
+    "published": "Wed, 25 Nov 2026 07:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-24 22:13:04",
+    "ai_summary": null
+  },
+  {
+    "title": "Cursorが中国製AIモデルの段階的廃止を検討中との報道",
+    "link": "https://gigazine.net/news/20261125-cursor-ai-china/",
+    "published": "Wed, 25 Nov 2026 06:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-24 22:13:04",
+    "ai_summary": null
+  },
+  {
+    "title": "「AIがリーマン予想を証明したらどう感じるか？」と約1年半にわたって数学者たちに聞いてきたインタビューを振り返る",
+    "link": "https://gigazine.net/news/20261124-riemann-hypothesis-mathematician/",
+    "published": "Tue, 24 Nov 2026 20:00:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-24 22:13:04",
+    "ai_summary": null
+  },
+  {
+    "title": "Securing The Chiplet Future With A UCIe 4.0-Aware Verification Architecture",
+    "link": "https://semiengineering.com/securing-the-chiplet-future-with-a-ucie-4-0-aware-verification-architecture/",
+    "published": "Tue, 24 Nov 2026 08:03:00 +0000",
+    "keywords": [
+      "UCIe"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-11-24 22:13:06",
+    "ai_summary": null
+  },
+  {
+    "title": "Verifying UCIe.mem: Flexible Verification For Compute And Memory Chiplets",
+    "link": "https://semiengineering.com/verifying-ucie-mem-flexible-verification-for-compute-and-memory-chiplets/",
+    "published": "Tue, 24 Nov 2026 08:02:43 +0000",
+    "keywords": [
+      "UCIe"
+    ],
+    "source": "Semiconductor Engineering",
+    "detected_at": "2026-11-24 22:13:06",
+    "ai_summary": null
+  },
+  {
+    "title": "無料で使えるローカル環境を利用、「Ollama」と「Qwen3.5」を準備する",
+    "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03796/101400002/",
+    "published": "",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "全記事新着 - 日経クロステック",
+    "detected_at": "2026-11-24 22:13:10",
+    "ai_summary": null
+  },
+  {
+    "title": "【個人向け社債は買い？】ソフトバンクG利回り4.75%／AIバブル懸念?ネオクラウドに市場が警戒！社債市場にも異変／格付けとスプレッドの逆転現象とは？／途中で売ると損?／楽天やみずほFGも発行 | ビジネス | 東洋経済オンライン",
+    "link": "https://toyokeizai.net/articles/-/965756?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "Tue, 24 Nov 2026 19:00:00 +0900",
+    "keywords": [
+      "ネオクラウド"
+    ],
+    "source": "東洋経済オンライン",
+    "detected_at": "2026-11-24 22:13:11",
+    "ai_summary": null
+  },
+  {
     "title": "OpenAIがAIの進化を測る内部指標「パープレキシティ」を公開、2027年の技術革新ラッシュを見据え開発制限を提唱",
     "link": "https://gigazine.net/news/20261124-openai-perplexity/",
     "published": "Tue, 24 Nov 2026 12:40:00 +0900",
