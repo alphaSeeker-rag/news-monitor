@@ -1,5 +1,60 @@
 [
   {
+    "title": "OpenAIがAIの進化を測る内部指標「パープレキシティ」を公開、2027年の技術革新ラッシュを見据え開発制限を提唱",
+    "link": "https://gigazine.net/news/20261124-openai-perplexity/",
+    "published": "Tue, 24 Nov 2026 12:40:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-24 05:09:24",
+    "ai_summary": null
+  },
+  {
+    "title": "GoogleがAIの性能測定ツール「gBench」をオープンソース化",
+    "link": "https://gigazine.net/news/20261124-google-gbench-benchmarking-framework/",
+    "published": "Tue, 24 Nov 2026 12:40:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-24 05:09:24",
+    "ai_summary": null
+  },
+  {
+    "title": "Qwen3.8 27Bより高性能なアメリカ製オープンモデル「Inkling 2 Mini」が公開される＆メモリ16GBで実行できる量子化版も登場",
+    "link": "https://gigazine.net/news/20261124-inkling-2-mini/",
+    "published": "Tue, 24 Nov 2026 12:20:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-24 05:09:24",
+    "ai_summary": null
+  },
+  {
+    "title": "AIモデル「GLM-5.4」が登場、各層を2回ずつ実行する「Loop Transformer」で性能を底上げし近日中にオープンウェイトモデルとして公開予定",
+    "link": "https://gigazine.net/news/20261124-glm-5-4/",
+    "published": "Tue, 24 Nov 2026 10:47:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-24 05:09:24",
+    "ai_summary": null
+  },
+  {
+    "title": "市場を超えて生きる技術基盤 オンセミ社長が語るGaN／Treo戦略",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/24/news030.html",
+    "published": "Tue, 24 Nov 2026 11:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-11-24 05:09:26",
+    "ai_summary": null
+  },
+  {
     "title": "NVIDIA RTX Sparkの暗号化ファームウェアにより、AC電源接続時にLinux上での推論速度が35％低下",
     "link": "https://gigazine.net/news/20261123-linux-nvidia-rtx-spark-laptop/",
     "published": "Mon, 23 Nov 2026 22:43:00 +0900",
