@@ -1,5 +1,27 @@
 [
   {
+    "title": "茨城県常総市、2カ所でデータセンター計画　市長「環境へ配慮大事」",
+    "link": "http://www.asahi.com/articles/ASVCT0GGTVCTUJHB00FM.html?ref=rss",
+    "published": "",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "朝日新聞",
+    "detected_at": "2026-11-25 06:50:23",
+    "ai_summary": null
+  },
+  {
+    "title": "最先端のAIでも日常的な作業の完了率はわずか約60％だと新ベンチマーク「ShellBench」で判明",
+    "link": "https://gigazine.net/news/20261125-openclaw-shellbench-real-world-task/",
+    "published": "Wed, 25 Nov 2026 15:30:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-25 06:50:23",
+    "ai_summary": null
+  },
+  {
     "title": "翻訳特化AI「Hy MT3」をテンセントが公開、日本語を含む102言語に対応しローカルで実行可能",
     "link": "https://gigazine.net/news/20261125-hy-mt3-tencent-translation-ai/",
     "published": "Wed, 25 Nov 2026 11:20:00 +0900",
