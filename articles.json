@@ -1,5 +1,49 @@
 [
   {
+    "title": "翻訳特化AI「Hy MT3」をテンセントが公開、日本語を含む102言語に対応しローカルで実行可能",
+    "link": "https://gigazine.net/news/20261125-hy-mt3-tencent-translation-ai/",
+    "published": "Wed, 25 Nov 2026 11:20:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-25 03:57:50",
+    "ai_summary": null
+  },
+  {
+    "title": "Qwen3.8 27Bを5.9GBまで省メモリ化しつつエージェント性能を維持したAIモデル「Ternary Bonsai 2.5 27B」が公開される",
+    "link": "https://gigazine.net/news/20261125-ternary-bonsai-2-5-27b/",
+    "published": "Wed, 25 Nov 2026 10:37:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-25 03:57:50",
+    "ai_summary": null
+  },
+  {
+    "title": "Apple製モニターを経由して有線LAN接続したらインターネット速度が4分の1に低下したという体験談",
+    "link": "https://gigazine.net/news/20261125-monitor-was-cutting-download-speed/",
+    "published": "Wed, 25 Nov 2026 08:00:00 +0900",
+    "keywords": [
+      "イーサネット"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-25 03:57:50",
+    "ai_summary": null
+  },
+  {
+    "title": "「半導体氷河期」を招く3つの衝撃――トランプ敗北、NVIDIAの経営混乱、メモリ各社の巨額投資",
+    "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/25/news044.html",
+    "published": "Wed, 25 Nov 2026 11:00:00 +0900",
+    "keywords": [
+      "データセンター"
+    ],
+    "source": "EE Times Japan 最新記事一覧",
+    "detected_at": "2026-11-25 03:57:53",
+    "ai_summary": null
+  },
+  {
     "title": "AIデータセンターは化石燃料に依存しており2028年にはAnthropicがアメリカで使う電力の87％がガスで11％が石炭から供給される見込み",
     "link": "https://gigazine.net/news/20261125-anthropic-ai-data-centers-fossil-fuels/",
     "published": "Wed, 25 Nov 2026 07:00:00 +0900",
