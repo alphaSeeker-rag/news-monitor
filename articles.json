@@ -1,5 +1,27 @@
 [
   {
+    "title": "NVIDIAが海賊版書籍を配布しAdobeと共有したと著者らが主張",
+    "link": "https://gigazine.net/news/20261127-nvidia-adobe-pirate/",
+    "published": "Fri, 27 Nov 2026 14:22:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-27 06:32:34",
+    "ai_summary": null
+  },
+  {
+    "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
+    "link": "https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/",
+    "published": "Fri, 27 Nov 2026 12:40:00 +0900",
+    "keywords": [
+      "AIモデル"
+    ],
+    "source": "GIGAZINE",
+    "detected_at": "2026-11-27 06:32:34",
+    "ai_summary": null
+  },
+  {
     "title": "GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定",
     "link": "https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery/",
     "published": "Thu, 26 Nov 2026 20:00:00 +0900",
